@@ -1,0 +1,9 @@
+// Player start
+僕はどこにいるんだ？
+見覚えのある場所だ
+ゲームの中にいるのか？
+// Player try open the door
+閉まってる？
+// Player in dark
+暗いな、ここは。
+何も見えない。
