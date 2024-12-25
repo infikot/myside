@@ -1,6 +1,6 @@
 // Player start
 Где я?
-Знакомое место
+Знакомое место.
 Я в этой игре?
 // Player try open the door
 Закрыто?
