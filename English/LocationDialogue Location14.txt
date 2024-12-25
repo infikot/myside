@@ -1,5 +1,5 @@
 
-What is he doing here?
+What is this doing here?
 What's that?
 
 
@@ -24,7 +24,7 @@ What's wrong with you? How did you become like this?
 Players... You're all so... despicable.
 You show them your fangs, they run
 and cower in a corner,
-hugging their knees and whimpering fear.
+hugging their knees and whimpering in fear.
 Hypocrites, every single one.
 And those who made this world...
 they're sick.
@@ -134,7 +134,7 @@ Then take a closer look...
 
 // Mita and Player
 Ah, we meet again...
-However can you enjoy the dreadfully tedious days within these walls?
+How do you feel about these dreadfully tedious days within these four walls?
 Those endless days... Don't you get bored?
 
 // Quest 1
@@ -144,7 +144,7 @@ I prefer to do my own thing.
 // 1
 You were afraid of staying at my house with me!
 Afraid to be stuck within those walls!
-But look at the life you lead in your "real" world!
+But look at the life you live in your "real" world!
 You've locked yourself in a box of your own free will, and you refuse to come out!
 Your world is full of pain, suffering, danger...
 In my world, I'm the worst danger there is.
@@ -210,7 +210,7 @@ The latest version?
 // Bag
 We really need to go to the store and get some new equipment. Might as well throw out the trash while we're at it, no?
 // Bed
-I think I slept but the dream... I can't remember. Was it really there?
+I think I slept, but the dream... I can't remember. Was it really there?
 // Window
 The world outside is green and vibrant. Perhaps I should go for a walk next weekend.
 // Fan

@@ -5,4 +5,4 @@ Invasion
 Defeat the boss
 Boss defeated!
 Nitro
-Press a button to start the race.
+Press any button to start the race.

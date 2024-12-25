@@ -4,7 +4,7 @@ Hi!
 You want to get out?
 Then help me find the key!
 // Key Search
-Shit! The key's gone!
+Shoot! No key here!
 Nothing here—
 zero, zip, nada!
 Found it!

@@ -48,7 +48,7 @@ Shadow style
 Clothes
 Interface
 3D models (2%)
-Game video
+Voice volume
 Pause
 Menu
 Congrats! You completed the game!
@@ -75,7 +75,7 @@ Show hints
 Player voice
 Discord
 Added character profile
-Camera angle
+Camera angle (FOV)
 Voice
 Off
 Hand reaches out to the door
@@ -111,12 +111,12 @@ Novels
 Reading books, destroying glitches
 Run and hide!
 Old version
-The real world?
+Be Candid
 Reboot
-
-
-
-
+Cappie
+Ghost Mita
+The real world
+Leave the Core!
 Player 1
 Player 2
 Player 3
@@ -133,7 +133,7 @@ This mode is still in development! It's so expansive that the developers haven't
 So, what is Peaceful Mode? It's your chance to reconnect with Mita in a completely different way! She'll be overjoyed to spend more time with you, from morning to night, in a world brimming with fun and surprises. Expect heartfelt one-on-one conversations, sharing cookies, playing games, and plenty of hilarious moments together.
 
 
-Gore
+Censor gore
 Special Thanks:
 Achievement Icon: Iceсloud
 Photograph: Nineko Hori
@@ -143,3 +143,23 @@ Publishing Partner
 Game marketing
 Tester
 Played and found all manner of bugs.
+This language translation was made by enthusiasts from the fan community and added to the game at their request.
+Warning! This game includes jump scares, sudden sharp sounds, and occasional screen flickering. Players with photosensitive epilepsy, heart conditions, or similar health concerns are advised not to play.
+Peaceful Mode Now Available!
+
+Photo Mode
+Photo Mode: Camera flight restrictions removed. You can explore areas normally inaccessible.
+Exit Photo Mode
+Hide Interface
+Hold to pan the camera
+Quick movement
+Smooth movement
+Speed
+Effects
+Control In-game Time
+Brightness
+Contrast
+Vignette
+Screenshot Taken!
+Access the screenshot folder
+Camera Angle

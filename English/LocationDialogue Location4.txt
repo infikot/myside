@@ -22,7 +22,7 @@ Right,
 shall we play?
 The game works like this:
 This chip indicates a type,
-such as health:
+such as health.
 We each play a card,
 and if your card has a higher
 Health stat
@@ -382,7 +382,7 @@ The one who collects more, wins!
 Let's play two rounds, okay?!
 // The first map
 Wow, how did you get that many?
-Tee-hee! II've got the most snowballs!
+Tee-hee! I've got the most snowballs!
 Better catch up!
 Ha, 1:1!
 // The second map
