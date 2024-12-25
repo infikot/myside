@@ -1,0 +1,14 @@
+// Quest none
+Rien
+// Quest "First"
+Tu étais où pendant tout ce temps ?
+Comment tu es arrivée ici ?
+C'était quoi cette Mita à l'instant ?
+Comment fonctionne l'anneau ?
+Pourquoi la Mita Folle a besoin de moi ?
+C'est le noyau central ?
+// Quest "Second"
+Quelque chose ne va pas ?
+Un moyen de savoir ce que c'est ?
+Et si on attaquait la Mita Folle ?
+Les petites personnes

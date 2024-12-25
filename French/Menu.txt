@@ -1,0 +1,145 @@
+Nouvelle partie
+Continuer
+Menu principal
+Quitter
+Options
+Succès
+Crédits
+Retour
+Charger
+Langue
+Chargement...
+Graphismes
+Volume
+Clavier & souris
+Manette
+Résolution
+Mode fenêtré
+Effets visuels
+Effets de couleur
+Ombres lissées
+Flou
+Surbrillance
+Anticrénelage
+Ombres
+Qualité de l'environement
+Programmation
+Animation
+Effets sonores
+Musique
+Particules
+Textures
+Modèles 3D (98%)
+Script
+Réinitialiser
+Avancer
+Retour
+Gauche
+Droite
+Interaction
+Sensibilité de la souris
+Quitter le jeu ?
+Oui
+Non
+Retour au menu principal
+Mouvements adoucis
+Options de jeu
+Style des ombres
+Vêtements
+Interface
+Modèles 3D (2%)
+Vidéo du jeu
+Pause
+Menu
+Félicitation ! Vous avez terminé le jeu !
+Votre temps :
+Sous-titres
+Luminosité
+Synchronisation verticale
+Sauvegardé
+Personnages
+Personnages - Mita
+Personnages - Cartouches
+Cartouches
+Mita
+Recommencer depuis le début
+Êtes-vous sûr de vouloir supprimer complétement toute votre progression et recommencer depuis le début ?
+Compilation des shaders, cela va prendre 2 heures, veuillez patienter.
+Mais quelle compilation ? On a déjà fait ça pour vous !
+Création d'ombres réalistes, cela va durer 10 minutes.
+Je plaisante, pas de graphismes comme ça ici.
+Hmm...
+Oh, tout est prêt !
+Mouvements de la tête
+Afficher les indices
+Voix du joueur
+Discord
+Profil de personnage ajouté
+Champ de vision
+Voix
+Off
+Tendre la main vers les portes
+Animation
+Activer la voix du joueur
+Mita
+Mita aux Cheveux Courts
+Gentille Mita
+Mita au Chapeau
+Petite Mita
+Mita Endormie
+Mita 2D
+Mila
+Mita Effrayante
+Mita du Noyau Central
+Mita Fantôme
+Chibi Mita
+Mannequin Mita
+
+
+
+// Name load location
+Je suis dans le jeu ?
+Nous sommes ensemble
+Les choses étranges commencent
+Le Sous-sol
+Au-delà du Monde
+La Boucle
+Mini-Mita
+Mannequins et puzzles oubliés
+Elle veut juste dormir
+Roman
+Lire des livres, détruire des glitches
+Cours et cache-toi !
+Ancienne version
+Le monde réel ?
+Redémarrage
+
+
+
+
+Joueur 1
+Joueur 2
+Joueur 3
+Joueur 4
+Joueur 5
+Joueur 6
+Joueur 7
+Joueur 8
+Joueur 9
+Joueur 10
+
+Mode Pacifique
+Ce mode est en développement. Celui-ci a pris tellement d'ampleur que les développeurs ne l'ont pas encore terminé ! Ils le sortiront bientôt via une mise à jour majeure du jeu. Quant à vous, bien joué ! Vous avez débloqué l'accès au mode, et n'avez maintenant plus qu'à patienter...
+Qu'est-ce que le Mode Pacifique ? Et bien, vous aurez l'opportunité de retourner auprès de Mita ! Elle sera définitivement très heureuse de passer davantage de temps avec vous du matin au soir, ponctué par différentes activités. Attendez-vous à des conversations, des cookies, des jeux, ainsi que d'autres situations amusantes !
+
+
+Censure
+Ont également participé :
+Icônes des succès : Icecloud
+Photos encadrées : Nineko Hori
+Traducteurs
+Traduction du jeu dans une autre langue.
+Éditeur
+Marketing
+Testeurs
+Ont joué et fait remonter les problèmes.

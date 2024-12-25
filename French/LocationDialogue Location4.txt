@@ -1,0 +1,400 @@
+Mita ?
+Oh, tu es déjà réveillé ?
+Comment tu es arrivée ici ?
+Tu étais juste à côté de moi.
+
+Non
+Tu étais figé devant le miroir.
+Je suis partie.
+Qu'est-ce qui est arrivé aux pièces ?
+
+Je les ai réarrangées
+comme ça elles te seront plus familières.
+C'est-à-dire,
+les pièces ne sont plus en ligne,
+mais tel qu'elles sont censées être.
+
+Ce n'était pas nécessaire
+Je commençais à m'y habituer.
+Je pense que tu t'y sentiras plus à l'aise comme ça.
+// Mita card game
+Bien
+On commence le jeu ?
+Je vais t'expliquer rapidement.
+Le jeton indique le type d'action,
+par exemple, le cœur :
+Lorsqu'on dépose les cartes,
+Si tu as davantage de cœur
+sur ta carte
+que je n'en ai sur la mienne,
+tu gagnes.
+Prends les cartes.
+Maintenant c'est mon tour.
+Waouh !
+J'ai pioché de bonnes cartes !
+Je commence !
+
+
+
+
+
+
+
+
+
+À toi !
+Fais ton action !
+Yep.
+C'est ton tour !
+
+Action de cœur.
+La meilleure défense c'est l'attaque !
+Fais attention à la défense !
+
+
+La victoire est à toi !
+Tu as gagné !
+Tu es gagnant.
+Oh toi alors...
+
+J'ai gagné !
+Je suis victorieuse !
+La victoire est à moi !
+Miam, j'en ai fait qu'une bouchée.
+
+Égalité.
+Ni toi, ni moi.
+Ni mieux, ni moins bien !
+C'est toujours pareil...
+
+
+
+
+
+
+
+
+
+
+
+// The card game is interrupted
+C'est quoi ce son là-bas ?
+Ça vient du placard.
+
+Un son ?
+Quel son ?
+Je n'ai entendu aucun son.
+Dis-moi quel genre de son c'était.
+
+C'est comme si quelqu'un frappait à la porte
+
+Mais il n'y a...
+Il n'y a personne là-dedans.
+
+Je veux vérifier.
+C'est vraiment étrange.
+
+Pourquoi...
+Encore...
+
+
+
+
+
+
+
+Qu'est-ce que tu fais !?
+Il y a...
+Mes sous-vêtements là-dedans.
+
+Tu caches quelque chose ?
+
+Pourquoi ne me crois-tu pas ?
+Qu'est-ce que j'ai fait de mal ?
+Je veux juste
+Je veux juste que tu sois avec moi.
+
+J'aimerais pouvoir te le promettre, mais que va-t-il se passer ensuite ?
+
+Pourquoi es-tu autant intrigué par le placard ?
+
+Je veux juste savoir ce qui produit ces sons !
+
+Juste....
+Ce monde
+C'est juste ces quatre pièces.
+Ce n'est pas suffisant pour toi ?
+Ne peux-tu pas juste essayer de rester avec moi ?
+
+
+// Don't stay with Mita
+Je comprends.
+Encore...
+Si tu veux savoir ce qu'il y a dedans,
+alors vas-y
+et vois par toi-même !
+
+
+
+
+Qu'est-ce que... ?
+
+Ça arrive.
+La pièce n'a pas eu le temps de charger.
+Attends un peu.
+
+C'est étrange.
+On est dans le téléphone de quelqu'un ?
+Et ce téléphone serait aussi long à charger ?
+
+Non
+C'est juste que tout n'est pas parfait
+dans ce monde...
+Et le chargement est fait
+par le noyau central de ce monde.
+
+Le noyau central ?
+
+Typique, hein ?
+
+
+
+On peut soit
+jouer avec la console,
+ou jouer aux cartes.
+C'est toi qui vois.
+
+
+
+// Mita play fight
+Est-ce qu'on devrait combattre ?
+Tu dois gagner
+quatre fois.
+Allons-y.
+Je pense que je vais commencer
+par te laisser gagner.
+
+
+Bien joué.
+Maintenant accroche-toi !
+
+Waouh !
+Ok, bon.
+Maintenant je vais être sérieuse.
+
+Oh !
+Peux-tu me battre
+maintenant ?
+
+Tu...
+es...
+Incroyable ! :) Tes doigts sont vraiment quelque chose !
+
+
+Qu'est-ce qui t'arrives ?
+C'est pas intéressant.
+
+Bon
+Ça c'est fait. Fatality, btw.
+
+Alors
+Concentre-toi sur le jeu ou tu resteras un loser pour toujours !
+
+Qu'est-ce qui ne va pas ?
+Je t'ai fait sortir tout ton liquide blanc.
+Tu n'avais qu'à t'y mettre plus sérieusement.
+C'est pour ça que ça marche toujours pour moi !
+
+
+Très bien.
+Allons jouer aux cartes, d'accord ?
+Dans ma chambre.
+
+
+
+// Door > [ERROR]
+Qu'est-ce que c'est ?
+Où est le...
+
+Oh.
+Désolé.
+J'ai téléchargé un fichier
+depuis Internet.
+Je voulais que ce soit joli
+dehors.
+Mais au final
+le format du fichier n'était pas bon...
+Je corrigerai ça plus tard.
+
+C'est pour ça qu'on ne peut pas quitter la maison ?
+C'est la raison, oui.
+// Mita shy
+Hé...
+Qu'est-ce qu'il y a ?
+Tu veux quelque chose ?
+
+
+
+// Wall Clock
+Cette horloge,
+elle indique quelle heure ?
+L'heure dans le jeu ?
+Ou est-ce qu'elle se synchronise avec mon téléphone ?
+
+Alors, euh...
+Je ne sais pas.
+Quelque soit l'heure qu'il est
+ou qu'il se fasse tard
+Dans ma maison...
+Les filles courageuses comme moi
+ne connaissent pas la fatigue !
+Si je le souhaite, ce sera toujours le printemps !
+Et toujours midi !
+
+Curieux...
+Et effrayant à la fois.
+Coincé au même instant pour toujours...
+
+
+
+// Photos of Mita
+Sympa ces photos.
+J'imagine que c'est toi ?
+
+Yep
+Je les aime bien aussi.
+
+Qui a pris ces photos ?
+Il y a quelqu'un d'autre dans ce monde ?
+
+J'imagine qu'on peut dire ça.
+Et je te les présenterai.
+Mais ce n'est pas encore le moment
+de partager une aussi agréable compagnie.
+
+
+
+
+// Portal
+Qu'est-il arrivé au portail ?
+Ou je ne sais comment tu appelles ça ?
+
+Par mon
+claquement de doigts magique
+je l'ai déplacé
+à un autre endroit.
+On n'a plus besoin de ce portail maintenant.
+il interférerait avec nous.
+
+
+// Mirror in the bedroom
+C'est tellement étrange de regarder dans un miroir
+qui ne reflète rien...
+
+Les réflexions peuvent être activées
+si tu le souhaites,
+mais tu en as vraiment besoin ?
+
+Bien sûr
+Ou alors... est-ce que ça aurait des conséquences ?
+
+Oui
+On va se déplacer lentement et de manière saccadée,
+tu as déjà vu un dessin animé avec une fréquence d'images réduite ?
+Ça sera comme ça tout le temps...
+
+Je vois.
+On va se passer de réflexion pour le moment alors...
+
+[player], j'imagine que
+tu aimes te regarder dans le miroir ?
+Tu as peur de voir une once de positivité sur ton visage ?
+
+Hein ? Je ne regarde rien de spécial...
+Je suis juste fatigué
+à cause du travail.
+
+
+
+// Blue sneakers
+Elles sont à toi ?
+
+Non, ce sont les tiennes
+Tu ne t'en souviens pas ?
+
+Je n'ai pas de baskets comme ça.
+
+Maintenant tu en as.
+Quand on sortira faire un tour
+tu pourras les porter.
+
+Et pour les vêtements ?
+Je me suis retrouvé dans ce monde
+avec juste ce que je porte sur moi.
+Comment je vais en trouver d'autres ?
+
+C'est n'est pas un problème.
+J'ai vu ce que tu portes habituellement.
+J'ai vu tes tristes goûts en matière de vêtements.
+Mais ne t'en fais pas, je t'en trouverais d'autres,
+mais pas maintenant.
+C'est promis.
+
+D'accord
+
+
+// Games on TV
+À quel jeu devrions-nous jouer ?
+// Game milk
+Dans ce jeu on va devoir se mettre des pains !
+Pour voir quelle brique de lait est la plus fermentée
+Quel drôle de jeu !
+Assez de lait pour aujourd'hui, faisons autre chose.
+// Game penguins
+Dans ce jeu, tout ce que tu dois faire c'est d'être un manchot.
+Et glisser sur la banquise.
+Bon, assez joué à ce jeu
+
+// Stay with Mita
+Oh. Hein ?
+Tu es sérieux ? Je pensais que tu...
+Je suis tellement contente !
+Et un peu confuse.
+Alors...
+Reste à mes côtés
+Pour toujours...
+
+
+
+
+
+
+
+
+
+
+
+
+// A game about penguins
+C'est très simple.
+Tu dois ramasser des boules de neige.
+Évidemment, celui qui en possède le plus gagne !
+Allez, faisons deux manches.
+// The first map
+Wow, où tu vas avec toutes ces boules de neige ?
+Oups ! J'ai eu plus de boules de neige.
+Dépêche-toi de me rattraper.
+Et hop, 1 - 1 !
+// The second map
+Tu es fait pour être un manchot !
+Pourquoi ne pas aller glisser sur la banquise tant que tu y es ?
+Pfft, t'es trop lent.
+Tu as toujours les boules de la manche précédente avec toi ?
+Oh, c'est rare que quelque chose comme ça se produise.
+// The game is over
+Bon, jouons à un autre jeu, d'accord ?
+Ou alors on arrête là ?
+
+// Tetris - Mita
+Pourquoi tu as besoin de ça ?
+Tu es accro ?

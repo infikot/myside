@@ -1,0 +1,35 @@
+Scan requis !
+Critères
+Version
+Nombre d'os
+Rien n'a été trouvé. Scan requis !
+Scanné
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Whou-hou ! Tu as réussi !
+Mission accomplie !
+
+// Tutorial
+Attends, qu'est-ce que je fais là ?
+Un instant, je dois passer sur ton écran...
+Bien...
+Maintenant !
+Tu dois t'assurer que ce prototype est le bon.
+Pour commencer, scan-le.
+Maintenant, vérifions la version et le nombre d'os.
+Prends le schéma de ce prototype et compare-le au standard.
+Parfait, ça correspond ! Vérifions les émotions maintenant.
+Le spécimen montre bien des émotions ! Maintenant, testons son comportement.
+Ok, on a bien vérifié et tout correspond ! Maintenant, pousse le levier vers le haut.
+Super ! La peau est installée maintenant ! Donne-lui la boite de vêtements.
+C'est tout ! Tu vois ces lumières au-dessus ? L'une d'elles est devenue verte, ce qui signifie qu'on a tout bien fait !
+À toi maintenant. Je serais de retour quand toutes les lumières seront vertes. Bonne chance !

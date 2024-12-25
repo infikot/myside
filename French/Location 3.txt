@@ -1,0 +1,16 @@
+// Quest none
+Rien
+// Quest "First Mita"
+Tu es Mita ?
+Je dois faire quoi si je veux repartir ?
+Comment je me suis retrouvé dans le jeu ?
+// Quest "Kitchen eat"
+Jolie maison, c'est confortable
+Quand est-ce que je pourrais rentrer ?
+Tout est comme dans un rêve
+Pourquoi il y a une lumière blanche au-delà des fenêtres ?
+Pourquoi utiliser des ciseaux si tu as déjà un couteau ?
+Bon appetit
+// TV
+Jus Cool
+Jus BALÈZE !!!

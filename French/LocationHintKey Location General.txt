@@ -1,0 +1,132 @@
+Appuyer
+Parler
+Porter l'anneau
+Trouver le bouton
+Maintenir
+Se lever
+Prendre l'anneau
+Supprimer le jeu
+Quitter
+Appuyer
+Arrêter
+Courir
+Ouvrir le message
+Télécharger l'application
+Lancer l'application
+Parler
+
+Prendre la batterie
+
+Regarder
+Reposer
+Donner les ciseaux
+Refuser
+Manger
+Se lever
+Essayer de se lever
+Prendre les pilules
+Prendre de la sauce
+Prendre les cartes
+Voir les cartes
+Masquer les cartes
+Droite
+Gauche
+Utiliser la carte
+Rester
+Refuser
+
+Cartouches
+Ouvrir
+
+Boire le jus
+Ne pas goûter
+
+Aller à droite
+Aller à gauche
+Sauter
+S'accroupir
+Frapper
+
+Faire tourner à droite
+Faire tourner à gauche
+Reposer
+
+Repousser
+
+Se réveiller
+S'asseoir
+Se lever
+Allumer l'ordinateur
+Prendre les ramen
+Finir
+S'endormir
+
+Chercher d'autres morceaux
+
+Vas-y
+Pas la peine
+
+Je connais
+Aucune idée
+Frapper doucement
+Frapper fort
+Appuyer !
+
+Gauche
+Centre
+Droite
+
+Droite
+Sélectionner
+Gauche
+
+Une autre
+Ça suffit
+
+Interférer
+
+Tirer le levier
+
+Choisir celui de droite
+Choisir celui de gauche
+
+Tourner à droite
+Tourner à gauche
+Sauter
+Ouvrir la porte
+
+Choisir un jeu
+Arrêter de jouer
+Continuer
+Jouer
+
+
+Fermer la porte
+
+Droite
+Gauche
+Bas
+Haut
+
+Reculer
+Appuyer sur n'importe quelle touche
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ça te va bien
+Mieux vaut les enlever
+
+Dis-moi tout
+Non merci
