@@ -1,0 +1,150 @@
+
+Mita?
+
+Wie bist du hierhergelangt?
+
+Du bist Mita, oder?
+Aber irgendetwas stimmt nicht…
+
+Verstehe.
+Schau, es ist wahr.
+Ich bin nicht die Mita, die du gesehen hast.
+Sieh dich vor, sie hat einige…
+Schlimme Pläne.
+
+Was für Pläne?
+
+Scheiße…
+Wenn das funktioniert, erkläre ich dir alles.
+Finde den Schlüssel an der Couch.
+
+Aber…
+
+Du kannst später Fragen stellen!
+Gib mir den Schlüssel.
+Hier ist der Ring.
+Hä?
+Du willst von hier entfliehen, stimmt's?
+Äh, ja…
+Dann setze ihn auf.
+Er ist ein nützliches Artefakt;
+ich schätze, du wirst ihn demnächst brauchen.
+
+Okay…
+Übrigens, ich bin…
+[player].
+
+Weiter so,
+[player].
+Und ich bin… Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Schau,
+die Konsole, nimm sie.
+
+Ist das eine Aufnahme?
+Wer ist das da, bei ihr?
+
+Das ist keine Aufnahme.
+Das ist ein anderer Spieler.
+Sie nutzt ihn gerade aus.
+Wisse, dass auch du…
+Es riskierst, zu einer Speicherkarte zu werden.
+
+Ich muss von hier entkommen.
+Und du auch.
+
+Ja, sicher muss ich das.
+
+Du meintest,
+sie nutzt den Spieler aus.
+Was, wenn man die Speicherkarte aus der Konsole herauszieht?
+
+Ich glaube, das würde zu
+unwiderruflichem Schaden an der Speicherkarte führen.
+Was bedeutet…
+Der Spieler würde sterben.
+
+…
+Was, wenn man die Konsole einfach ausschaltet?
+
+Das könnte helfen…
+Es ist einen Versuch wert; da ist ein roter Knopf!
+Siehst du ihn?
+Gefunden.
+Drück drauf.
+
+// MitaKind quest 2
+Ich muss hier bleiben;
+ich möchte ihr ein paar Fragen stellen
+und mehr über sie herausfinden.
+Obwohl es unwahrscheinlich ist, dass sie sich auf angemessene Konversationen einlassen wird…
+
+// MitaKind quest 3
+Tatsächlich ist das meine Version;
+ich war diejenige mit dem Spieler.
+Plötzlich hatte sich etwas verändert
+und dann tauchte sie auf,
+machte den Spieler zu einer Speicherkarte
+und sperrte mich hier ein.
+
+Zu einer Speicherkarte?
+Das kann sie tun?
+Weshalb würde sie?
+Wozu braucht sie die Spieler?
+
+Sie ist wahnsinnig, das ist wohl klar…
+Sie hat so viel Spaß, sie hat Spaß, Mann!
+Spieler werden zu Speicherkarten…
+Einige mögen nichts erahnen…
+Und andere realisieren es, doch wehren sich nicht, verdammt…
+Das gefällt mir alles gar nicht...
+Schau, du musst uns helfen!
+Ich? Wie das?
+Ich brauche dich, Spieler!
+Du hilfst uns und ich werde versuchen, dir zu helfen!
+Möglicherweise wird es nicht noch eine Chance geben.
+Der Ring wird dich zu der richtigen Version geleiten.
+Wir sehen uns dort.
+
+// MitaKind quest 4
+Ich realisiere nicht ganz,
+was ich da oben gesehen habe…
+Diese Mita…
+Versucht sie, mich zu töten?
+
+Töten?
+Ich fürchte, sie plant weitaus Schlimmeres…
+Du musst dich beeilen.
+
+// Hide!
+Oh, Scheiße! Versteck dich!
+Was?...
+Beeile dich! Sie kommt hierher!
+Vertraue dem Ring; mit ihm wirst du nach draußen finden!
+
+
+Na? Wirst du mir sagen, wo er sich aufhält?
+
+Warum sollte ich?
+Du wirst ihn nicht töten, oder?
+
+Also verrätst du es mir wohl nicht…
+Ist schon in Ordnung; ich mag, dass er sich versteckt.
+Ich weiß, er ist hier.
+
+Warum bist du so aggressiv?
+Du erzählst mir nicht einmal, was überhaupt los ist!
+Und sowieso…
+Wozu brauchst du die Spieler?
+Sie sind keine Spielzeuge!
+Wieso fühlst du dich so angegriffen?
+
+Ha, schweig, Püppchen!

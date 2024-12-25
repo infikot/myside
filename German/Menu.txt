@@ -1,0 +1,145 @@
+Neues Spiel
+Fortsetzen
+Hauptmenü
+Beenden
+Einstellungen
+Errungenschaften
+Entwickler
+Zurück
+Laden
+Sprache
+Wird geladen…
+Grafik
+Sound
+Tastatur & Maus
+Gamepad
+Auflösung
+Fenstermodus
+Grafische Effekte
+Farbeffekte
+Weiche Schatten
+Blur
+Glanz
+Anti-Aliasing
+Schatten
+Welt-Anzeigequalität
+Programmierung
+Animationen
+Soundeffekte
+Musik
+Partikel
+Texturen
+3D-Modelle [98%]
+Skript
+Zurücksetzen
+Vor
+Zurück
+Links
+Rechts
+Interaktion
+Maus-Sensibilität
+Spiel beenden?
+Ja
+Nein
+Zurück zum Hauptmenü
+Geglättete Kanten
+Spieleinstellungen
+Schattenstil
+Kleidung
+Interface
+3D-Modelle [2%]
+Video zum Spiel
+Pause
+Menü
+Glückwunsch! Du hast das Spiel beendet!
+Deine Spielzeit:
+Untertitel
+Helligkeit
+V-Sync
+Gespeichert
+Charaktere
+Charaktere - Mitas
+Charaktere - Speicherkarten
+Speicherkarten
+Mitas
+Spielstand löschen
+Bist du sicher, dass du deinen gesamten Fortschritt löschen und von vorne beginnen möchtest?
+Shader werden kompiliert, dies dauert 2 Stunden, bitte warten.
+Was für eine Kompilation? Das haben wir für dich getan!
+Realistische Schattenverfolgung wird erstellt, dies dauert 10 Minuten.
+Nur Spaß, solch eine Grafik gibt es hier nicht.
+Ähm…
+Oh, wir sind bereit!
+Schwanken beim Laufen
+Hinweise anzeigen
+Spielerstimme
+Discord
+Charakterprofil hinzugefügt
+Kamerawinkel
+Voiceover
+Aus
+Hand greift nach Tür
+Animation
+Spielerstimme aktivieren
+Mita
+Kurzhaar-Mita
+Lieblings-Mita
+Mützen-Mita
+Mager-Mita
+Müde-Mita
+2D-Mita
+Mila
+Grusel-Mita
+Mita-Kern
+Geist-Mita
+Chibi-Mita
+Mita-Mannequin
+
+
+
+// Name load location
+Bin ich im Spiel?
+Wir sind vereint
+Anfänge des Absurden
+Der Keller
+In der Zwischenwelt
+Die Endlosschleife
+Mini-Mita
+Mannequins und verdrängte Puzzleteile
+Schlafenszeit
+Novelle
+Bücher lesen, Glitch beheben
+Fangen- und Versteckspiel!
+Alte Version
+Reale Welt?
+Neustart
+
+
+
+
+Spieler 1
+Spieler 2
+Spieler 3
+Spieler 4
+Spieler 5
+Spieler 6
+Spieler 7
+Spieler 8
+Spieler 9
+Spieler 10
+
+Friedlicher Modus
+Dieser Modus befindet sich in Entwicklung. Der Modus ist so umfangreich geworden, dass die Entwickler noch nicht in der Lage waren, ihn zu vollenden! Sie werden ihn bald mit einem großen Update zur Verfügung stellen. Und du - gut gemacht! Du hast es versucht und Zugang erhalten; jetzt müssen wir nur noch warten...
+Was ist der friedliche Modus? Nun, du wirst die Möglichkeit haben, erneut Kontakt mit Mita aufzunehmen! Sie wird mehr als glücklich sein, von morgens bis abends Zeit mit dir verbringen zu können, was mit einer Vielfalt an Unterhaltung einhergeht. Es erwarten dich persönliche Gespräche, Kekse, Spiele und lustige Situationen!
+
+
+Zensur
+Weitere Unterstützung:
+Symbole für Errungenschaften: Icecloud
+Eingerahmte Bilder: Nineko Hori
+Übersetzer
+Übersetzung des Spiels in andere Sprachen
+Publishing-Partner
+Vermarktung des Spiels
+Beta-Tester
+Wir haben gespielt und nach Fehlern gesucht.
