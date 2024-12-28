@@ -1,9 +1,0 @@
-// Player start
-我在哪里？
-好熟悉的地方
-我这是在游戏里吗？
-// Player try open the door
-是关着的？
-// Player in dark
-这里好黑。
-什么也看不见。
