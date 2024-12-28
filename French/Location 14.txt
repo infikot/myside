@@ -1,5 +1,0 @@
-// Snaker
-Défaite
-Victoire !
-// DontWork
-Stop !

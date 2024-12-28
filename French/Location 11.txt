@@ -1,2 +1,0 @@
-Accès autorisé
-Lancer Discord ? Cela ouvrira le navigateur.

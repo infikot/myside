@@ -1,2 +1,0 @@
-Définir la bonne heure sur l'horloge.
-Quitter cette version.

@@ -1,7 +1,0 @@
-Quitter le sous-sol.
-Chercher dans les environs.
-Aller au noyau central.
-Entrer les données et tirer le levier pour redémarrer.
-Ouvrir la porte d'entrée.
-Descendre au sous-sol et entrer votre ID.
-Quitter ce monde.

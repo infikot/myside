@@ -1,9 +1,0 @@
-// Player start
-Où suis-je ?
-Cet endroit me dit quelque chose...
-Est-ce que je suis dans le jeu ?
-// Player try open the door
-C'est fermé ?
-// Player in dark
-Il fait sombre là-dedans.
-Je ne peux rien y voir.

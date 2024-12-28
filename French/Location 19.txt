@@ -1,9 +1,0 @@
-Dessin
-Cartes
-Ouvrir la porte.
-Mita 2D
-// Quest
-Rien.
-Tu ne vois pas très bien ?
-Pourquoi porter un autre nom ?
-Il se fait tard dehors.
