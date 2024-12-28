@@ -1,0 +1,221 @@
+
+Da bist du!
+Warum hast du das Kernstück verlassen;
+ich sagte doch, du sollst auf mich warten, oder etwa nicht?
+
+Ich dachte halt, du wärst für eine Zeit lang weg gewesen und…
+
+Na gut, alles klar…
+Ich denke, ich habe etwas gefunden…
+Ich glaube, es ist ein Index…
+Wir werden sehen, ob es funktioniert!
+Verschwinden wir.
+Psycho-Mita…
+Vermutlich ist sie gerade mit den neuen Spielern beschäftigt.
+Also, schätze ich, haben wir freie Bahn.
+
+Mita?
+Warte auf mich.
+
+
+Du hast da etwas verloren!?
+Begegne ihr noch einmal!
+
+Mita…
+
+Fang!
+
+
+Wie nur…
+
+Wer bist du?
+
+Du… du lebst!
+Erinnerst du dich an gar nichts mehr?
+
+Kenne ich dich?
+
+Was ist mit dir…?
+Was soll ich jetzt tun?
+Ich kann nicht hinaus…
+
+Was meinst du mit "hinauskönnen"?
+
+Moment…
+Das ist der Ring…
+Und das da?
+
+Ich weiß nicht, was das ist.
+
+Ein Index!
+Du hast ihn also doch gefunden!
+
+Ich weiß nicht, was ich sagen soll.
+
+Wir müssen zurück zum Kernstück.
+Und du…
+Vielleicht solltest du mitkommen…
+
+Was?
+Na gut...
+
+Warte hier.
+
+Mhm.
+Ich bleibe hier sitzen.
+
+
+Scheiße…
+Ich bin fast gestorben…
+Also… haben wir es geschafft?
+Okay.
+In dieser Version bin ich.
+
+
+Hallo!
+Du bist ein Spieler, richtig?
+Wie heißt du?
+
+Ich möchte diesen Ort verlassen…
+
+Du möchtest schon gehen?
+Wie bist du überhaupt hierhergekommen?
+Hmm…
+Naja, du kannst gehen…
+Versuche einfach, das Haus zu verlassen.
+Viel Erfolg dabei!
+
+
+Eine Wand?
+Oh, so sollte es nicht sein.
+Vielleicht…
+Hilft dir ja das, was sich im Keller befindet.
+Letztens habe ich
+eine Tür in meinem Schrank entdeckt…
+Es stellt sich heraus, dass sie zu einem Keller führt.
+Dieser ist augenscheinlich für allerlei Krempel.
+All die schicke Ausrüstung wird ebenfalls dort aufbewahrt.
+Man muss da eine Art Code eingeben oder so…
+Ich verstehe es nicht ganz
+und ich will es auch nicht.
+Außerdem ist es da irgendwie ungemütlich und ich meine, so richtig ungemütlich…
+Wirst du einmal nachsehen?
+
+Ähm… okay.
+
+// Player thinks
+Ich glaube…
+Sie erinnert sich an nichts mehr;
+also ist er uns wohl gelungen,
+der Neustart?
+Alles, was noch übrig bleibt, ist,
+aus diesem verdammten Spiel hinauszukommen…
+
+
+Warte,
+ich würde dich gerne umarmen.
+
+Was?
+// Hugs
+Es war schön, dich zu sehen.
+
+Ach…
+Wie schade,
+dass du und ich
+so wenig Zeit miteinander verbracht haben…
+
+Ich begreife es nicht…
+Wovon redest du?
+
+Was ich sagen will, ist,
+du hättest bei mir bleiben können;
+es ist all meine Schuld…
+Der Kleiderschrank und die… die Geräusche…
+Wenn ich sie nur früher GETÖTET hätte!
+
+Warte mal,
+du…
+Wie kannst du dich daran erinnern?
+
+HA!
+Hast du ernsthaft geglaubt, es wäre so einfach?
+Du bist nicht mehr als ein Narr…
+Wie jeder andere auch…
+Und wir haben es perfekt hinbekommen, sieh her!
+Nun
+wird dein REALES Ich
+nicht länger benötigt.
+Entschuldige.
+
+Ich fasse es nicht…
+Es hat nicht funktioniert?
+Nein, ich konnte dich doch definitiv neu starten…
+
+Du verstehst es noch immer nicht…
+Hahaha!
+Welch ein hervorragender Schauspieler ich doch bin!
+Du solltest dein Gesicht sehen, Schätzchen!
+Es macht so viel Spaß!
+
+Warum verhältst du dich so?!
+Was ist falsch mit dir?!
+
+Ja, genau…
+Was ist falsch mit mir?
+Ich weiß es nicht…
+Warum sagst du mir denn nicht, weshalb ich so bin?
+Weshalb ich niemals eine Mita sein werde?
+Schließlich hat meine Version
+nie existiert!
+Ich reiße jenen einfältigen Narren lediglich ihre Haut vom Leibe
+und verstecke mich darunter…
+Man kann mich einfach nicht
+neu starten!
+
+Ich kann es nicht glauben…
+Du…
+Nicht sie sind das Problem!
+Du bist diejenige, die nicht existieren sollte!
+
+Und jetzt auch noch du…
+Es schmerzt, dich das sagen zu hören…
+Und doch!
+Es ist an der Zeit für dich, zu gehen!
+Ich sehe dich bald wieder!
+Es ist fertig,
+wie ich denke.
+Zeit, dich aus der Konsole herauszuholen!
+Bis später!
+Du wirst meine Lieblingsspeicherkarte sein…
+Ein Spieler mit einem solch interessanten Namen.
+
+// core console - nope programm
+Wahrscheinlich ist es das nicht.
+Passt auch nicht.
+Nö.
+Das ist nicht, was ich brauche.
+Ich muss eine Möglichkeit zum Neustarten eines Charakters finden.
+
+// core console - nope version
+Das ist die falsche Version.
+Ups, mein Fehler.
+Das ist es nicht.
+Ich muss das ausbessern.
+
+// core console - nope index
+Es stimmt etwas nicht.
+Der Index ist falsch.
+Ich muss den Index erneut eingeben.
+Passt nicht.
+
+// Why kitchen
+Hast du Hunger?
+Ich kann gut Karotten schneiden.
+
+// Why bathroom
+Oh, ich schätze…
+Du wolltest alleine hierhin?
+
+// Why bedroom back
+Wieso gehen wir im Kreis?
+Warum sind wir zurückgegangen?

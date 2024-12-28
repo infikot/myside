@@ -1,0 +1,4 @@
+Trouver une sortie.
+Pourchasser les mini "gens" jusqu'à la sortie.
+Parler à Mita.
+Continuer d'avancer.

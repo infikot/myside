@@ -1,0 +1,14 @@
+// Quest none
+Ach, nichts.
+// Quest "First"
+Wo warst du die ganze Zeit?
+Wie bist du hierhergekommen?
+Was war diese Mita gerade?
+Wie funktioniert der Ring?
+Warum braucht mich Psycho-Mita?
+Ist dies das Kernstück?
+// Quest "Second"
+Was ist mit dir?
+Gibt es denn einen Weg, ihn herauszufinden?
+Was ist, wenn wir Psycho-Mita angreifen?
+Winzige Leute…

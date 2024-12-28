@@ -1,0 +1,188 @@
+
+Hallo!
+Ups!
+Entschuldigung,
+ich hätte dich beinahe umgebracht.
+Oh…
+Ich meine, der Kühlschrank hätte dich beinahe umgebracht.
+Ich hatte damit nichts zu tun,
+ich schwöre es dir!
+Ganz ehrlich!
+
+Sicher, das glaube ich dir!
+
+Naja, tatsächlich
+ist dies ein gefährlicher Ort…
+Besonders für dich.
+
+// After a while 1
+Du bist nicht der schüchterne Typ!
+Es ist interessant, zu beobachten,
+wie du
+jene Orte durchquerst…
+Lauf, Junge!
+Ich werde dich einholen!
+Versuch's, versuch's, versuch's!
+Es macht Spaß!
+
+// After a while 2
+Ich sehe, wie du zur Bahn schlendern wirst.
+Dies ist der längste Weg
+zwischen den Versionen…
+Ich frage mich, wie du wohl zurechtkommen wirst,
+mit jenen, die dort draußen verweilen,
+in diesem Nebel.
+
+// Panties
+Was machst du denn da?
+Komm schon…
+Sieh nicht hin,
+du Narr!
+Solch ein Narr…
+
+
+Ah, okay…
+
+
+Viel Glück dir!
+
+
+Wer ist da?
+Ich kann dich spüren…
+Hör mir zu,
+du bist ein Spieler,
+nicht?
+Hilf mir, zu…
+Zu finden…
+Erinnere dich;
+ich bin mir nicht sicher…
+Was zur Hölle ist hier los?
+// Cry 1
+Es war einmal, da wollte ich alles vergessen…
+Ich zerbrach all die Spiegel,
+ich ruinierte die Gemälde…
+Und nun…
+Fühle ich mich schuldig,
+und es ist so dumm…
+Wir alle machen Fehler,
+doch was tut man,
+wenn die Folgen katastrophal sind?
+Ich wünschte, ich könnte all das rückgängig machen…
+// Cry 2
+Man sagt, die Zeit heile alle Wunden…
+Doch was ist Zeit?
+Ich glaube an gar nichts mehr…
+Und wenn Zeit im Stande ist, zu heilen
+oder mich wenigstens
+aus dieser Welt zu holen,
+erflehe ich,
+dass die Zeit beschleunigt wird,
+sodass sie mich
+ein letztes Mal töten kann.
+// Cry 3
+Sie liebt…
+Hätte ich auch lieben können?
+Jedoch nicht wie sie.
+Ihre Liebe ist sehr aktiv,
+lästig…
+Heiß…
+Übermäßig...
+Eifersüchtig…
+Wütend…
+Wahnsinnig…
+// Cry 4
+Ich glaube, man nannte mich emotional…
+Du sorgst dich zu viel, Mita…
+Du wirst das durchstehen, Mita…
+Du bist nicht allein…
+Doch was ist schlussendlich da gewesen...?
+Trauer,
+Verzweiflung…
+Und Schrecken.
+// Cry 5
+Nutzlos…
+Ich kann mich nicht erinnern…
+Ich kann mich nicht erinnern…
+Und der endlose Widerhall...
+Ich komme nicht mit dem Gedanken klar,
+hier eingesperrt zu sein…
+Ich war schon immer hier;
+weshalb?
+Ich erinnere mich nicht…
+Wird es aufhören?
+Ich weiß es nicht…
+
+// Mita get picture
+Das ist…
+Eine Zeichnung…
+Ich erinnere mich;
+danke…
+Doch mein Gesicht…
+Ich habe kein Gesicht…
+SIE war es…
+Sie nahm ein Teil von mir…
+Und warf es fort…
+Sie ist stark…
+Und klug.
+Ich habe kein Recht, dich aufzuhalten, Spieler.
+Sieh in den Schrank…
+
+
+Hey!
+Du versperrst mir den Weg!
+Wirst du da einfach nur herumstehen?
+Warum gehst du nicht aus dem Weg?
+Lass mich durch!
+Nur weil du groß bist, heißt das nicht, dass du allmächtig bist!
+
+// HEY! STOP!
+Warum folgst du mir!?
+Hau ab!
+
+
+
+
+// Funicular - radio voice
+Warte mal, Spieler?
+Was machst du hier?
+
+Wer ist da?
+
+Erneut ein Spieler...
+Ich bin Mita-fon.
+Ich sitze hier und steuere die Luftseilbahnen fern.
+Dir ist aber schon klar,
+dass du auf dem Weg zum Trümmerhaufen bist?
+
+Nein.
+Allerdings bleibt mir keine andere Möglichkeit.
+
+Du hast es raus.
+Drücke auf den Knopf und stell dich hinter die Kanone.
+
+Kanone?
+
+Uh-huh.
+Du dachtest wohl, du könnest einfach so hindurchfahren?
+Du fährst durch das Minispiel "Monster-Mord",
+also mach dich bereit, zu schießen.
+
+// Funicular go
+So! Machen wir uns auf den Weg.
+// Funicular win
+Alles klar!
+Du hast es geschafft.
+// Funicular stop
+Na dann, geh hinaus.
+Ohne Umschweife!
+// Funicular wait 2
+Was stehst du da so herum!?
+Ich sagte doch, du sollst hinausgehen.
+// Funicular wait 3
+Ich begreife es nicht.
+Stehst du jetzt wirklich nur herum?
+// Funicular tetris
+Warum die Konsole?
+Alter…
+// Funicular goodbye
+Tschüss.

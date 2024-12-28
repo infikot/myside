@@ -1,0 +1,9 @@
+// Player start
+여기가 어디지?
+왠지 익숙한 곳인데...
+내가 게임 속으로 들어온 건가?
+// Player try open the door
+문이 잠겨있네.
+// Player in dark
+너무 어두워.
+아무것도 안 보여.

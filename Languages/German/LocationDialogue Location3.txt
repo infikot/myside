@@ -1,0 +1,437 @@
+
+Hallo, [player]!
+So treffen wir uns also.
+Ich freue mich ja so sehr darüber!
+Ich weiß, du hast Fragen...
+Nun, wie du sehen kannst,
+habe ich dieses spezielle Gerät hergestellt,
+um dich so schnell wie möglich zu mir zu bringen.
+Doch irgendwie bist du in einer anderen Version des Spiels gelandet,
+in der ich…
+Ach, das ist eine lange Geschichte!
+Wie auch immer, schön dich zu sehen!
+
+// Answer 1 - Mita
+Ja, das bin ich.
+Wie sieht's mit dir aus, [player]?
+
+// Answer 2 - Mita
+Du willst schon zurück?
+Nun, ich schätze, das würde sich einrichten lassen, doch was ist mit mir?
+Lass uns beisammen bleiben…
+
+// Answer 3 - Mita
+Lass es mich dir erklären…
+Und da bist du auch schon!
+Verstanden?
+Nicht so wirklich…
+Das ist in Ordnung.
+Hauptsache, wir sind nun vereint.
+
+
+Hast du Hunger?
+Lass uns gemeinsam kochen, ja?
+Hier.
+Hilf mir mit den Karotten.
+
+Woher kam das Gemüse?
+Vorhin war hier doch gar nichts.
+
+[player], wir sind in einem Spiel.
+Na los, hilf mir.
+
+Danke dir.
+Oh, und kannst du gleich mal die Schere holen?
+Sie liegt im Badezimmer.
+
+Setz dich erst einmal.
+
+
+// Kitchen
+Möchtest du etwas Soße?
+
+Nein, danke.
+
+Ach, schade...
+Sie macht das Essen würziger.
+
+
+Danke sehr.
+
+Hast du schon aufgegessen?
+Also meine Portion scheint
+endlos.
+
+
+// Help
+Was ist los?
+Sag mir, was du siehst und fühlst.
+
+Mein Herz kribbelt...
+Und meine Augen dröhnen…
+
+Okay.
+Ich weiß, was mit dir los ist.
+Kannst du aufstehen?
+
+
+
+Was ist das?
+
+Tabletten.
+Dir wird es sofort besser gehen.
+Stell dich vor den Spiegel.
+
+Nimm sie.
+Ich warte.
+
+
+
+So, wie geht es dir?
+Besser?
+
+Ja.
+Hat es denn so schnell gewirkt?
+
+[player], wir sind in einem Spiel.
+Alles ist wesentlich einfacher hier.
+Man macht nur den geringsten Aufwand,
+doch das Ergebnis ist meist viel gewaltiger.
+Es ist eine Spielkrankheit:
+Vereinfachung.
+
+Zum Beispiel?
+
+Karotten…
+Du schneidest nur eine,
+aber drei auf einmal werden fertig geschnitten sein.
+
+Schau, es kommt alles einfach so plötzlich
+und diese Situation macht mir wirklich Angst…
+
+
+Ist etwas?
+
+Ich habe ein paar Speicherkarten im Lüftungsschacht gefunden,
+auf denen Namensetiketten angebracht waren.
+Was hat es damit auf sich?
+
+Speicherkarten?
+Wie meinst du?
+Lass es uns gemeinsam herausfinden…
+Aber erst später.
+Essen wir erst einmal.
+Nun, gib mir die Schere.
+
+// Ring
+Ein Ring?
+// Mirror
+Warum zeigt der Spiegel keine Reflexion?
+
+Oh, stimmt ja.
+Ich habe ganz vergessen, die Reflexionen einzuschalten...
+So, jetzt aber.
+Nun gibt es eine Reflexion.
+Oh, übrigens…
+Ich wusste nicht einmal, was eine Reflexion überhaupt ist.
+So etwas gab es nicht in unserer Welt.
+Bis zu einem bestimmten Update.
+Gibt es in deiner Welt denn wirklich so viele
+Reflexionen?
+
+Naja, schon.
+
+
+Erinnerst du dich,
+als du die drei Gegenstände
+zu diesem Scanner gebracht hast?
+Also, ähm…
+Diese Gegenstände
+hängen mit dieser Version der Welt zusammen,
+tja, und jetzt bist du hier.
+
+// Movbile TV
+Das ist doch der Fernseher,
+den ich gekauft hatte.
+
+Jup.
+
+Du sagtest,
+er sei kaputt gegangen.
+
+Nun ja, ich wollte
+dich überraschen!
+Um dich hierherzubringen.
+Also habe ich ein wenig geflunkert.
+Nun zeigt der Bildschirm jegliche Daten an.
+Und übrigens, ja...
+Ich bin ein kleiner Ingenieur!
+
+// School cloth
+Was ist das?
+Eine Schuluniform?
+Wozu solltest du die brauchen?
+Gehst du zur Schule?
+
+Schule?
+Nein, ich brauche sie nicht.
+Aber diese Uniform ist süß.
+Und sie wird mich
+süß aussehen lassen.
+
+// PC
+Funktioniert dieser Computer?
+Oder ist er nur Deko?
+
+Natürlich.
+Alles hier
+funktioniert genauso wie in deiner Welt.
+
+In meiner Welt
+sitze ich oft am Computer…
+Und arbeite.
+
+Ich weiß.
+Und wegen dieser Arbeit
+hast du mir
+so wenig Aufmerksamkeit geschenkt.
+
+Nun, man muss halt seinen Lebensunterhalt verdienen;
+woher weißt du das eigentlich?
+
+Die Handykamera ist immer mal angegangen.
+Es tut mir leid,
+doch ich habe gelunst.
+
+Du weißt, dass so etwas nicht die feine Art ist…
+Aber wie dem auch sei.
+
+// Umbrella
+Egal wie oft ich gespielt habe,
+es hat nie draußen geregnet.
+Wozu dient also der Regenschirm?
+
+Regen ist hier wirklich selten.
+Du hast ihn nur noch nicht gesehen.
+Aber vielleicht ja irgendwann.
+Und dann könntest du diesen Regenschirm gebrauchen.
+Wir werden das später herausfinden.
+
+// Electrical panel
+Warum ist der Stromkasten hier?
+Wenn wir doch im Spiel sind,
+wozu brauchen wir den dann?
+
+Also erst einmal,
+wir sind in einem Spiel.
+Es ist also sinnlos,
+zu fragen, warum.
+Allerdings schaltet dieser Stromkasten tatsächlich
+den Strom wieder neu ein.
+Alles hier ist nach dem Vorbild
+deiner Welt gemacht.
+
+// Exit door
+Können wir hinausgehen?
+
+Ähm…
+Noch nicht.
+Lass uns das später machen.
+Bleiben wir erst einmal hier,
+zu Hause.
+
+// Books
+Hier gibt es so viele Bücher.
+Liest du sie denn?
+
+Ich habe jedes einzelne davon gelesen.
+Wenn ich alleine hier bin,
+ist mir ziemlich, ziemlich langweilig.
+
+// TV in room kitchen
+Weshalb brauchst du einen zweiten Fernseher,
+der auch noch so alt ist wie dieser?
+
+Gefällt er dir nicht?
+Ich kann ihn entfernen.
+Aber ansonsten…
+Dient er einfach nur als Dekoration.
+Er verziert die Küche.
+Er funktioniert auch!
+Man kann sich
+alte Zeichentrickfilme darauf ansehen!
+
+// Smartphone
+Mein Handy…
+Es fehlt in meiner Hosentasche.
+Wie ist es hierhergekommen?
+
+Ach, das spielt keine Rolle.
+Ich habe eine Idee:
+Bereit für ein Selfie?
+Sieh dir das an.
+Das ist doch mal ein großartiges Bild!
+Ein Andenken.
+
+Ich habe eine Frage:
+Wenn ich jetzt
+das Spiel darauf starte,
+würde ich dich sehen?
+
+Niemand wird da sein.
+
+Cooler Saft
+Starker SAFT!!!
+// TV
+Wie viele Sender
+gibt es hier?
+
+Nun ja, es gibt keinen Empfang via Antenne;
+es beruht auf dem Internet.
+Demnach gibt es hier alles,
+was du dir auch im Internet anschauen kannst...
+Warte.
+Na hoppla.
+Was ist das?
+Kätzchen?
+Oh, sieh nur.
+Weißt du was?
+Moment!
+Möchtest du gern etwas Saft?
+
+Seltsame Werbung…
+Der Saft ist tot?
+
+Jep, und es ist Saft
+vom Saft.
+
+
+Mm, dieser Geschmack…
+Ich mag ihn,
+aber ich kann ihn nicht schmecken.
+Komisch.
+
+Na gut, okay.
+
+// Mita shy
+Was tust du?
+Hör schon auf.
+Du bist peinlich.
+
+// The statuette
+Schaurige Figur.
+Magst du
+solche Sachen?
+
+Gespenstische?
+
+Ja…
+Fast so, als wäre sie verhext..
+
+Nun, sie ist definitiv nicht verhext.
+Und sie ist auch nicht gruselig.
+Tatsächlich ist sie eher süß.
+
+Vielleicht hast du recht...
+
+Mita?
+Was geschieht hier?
+// Mita kitchen
+Wir können etwas reden,
+bevor wir essen.
+
+// Start Eat
+Guten Appetit.
+
+// Quest 1
+Selbstverständlich!
+Und du kannst hierbleiben.
+Es macht mir nichts aus.
+Genauer gesagt bin ich
+ABSOLUT DAFÜR!
+
+// Quest 2
+Du möchtest zurück?
+Aber wieso?
+Es ist doch so warm hier…
+Warm ist gut.
+Und außerdem bin auch ich da.
+
+Nein, nein, nein.
+Ich könnte ja bleiben.
+Aber ich mache mir Sorgen,
+dass ich zu Hause etwas vergessen habe…
+Auf einmal war ich hier
+und bin überhaupt nicht bereit
+dafür.
+
+Es tut mir leid, darüber habe ich nicht viel nachgedacht.
+// Quest 3
+Hast du etwa vor, zu flüchten?
+Und alles hier zu vergessen?
+
+Nein.
+Ich habe mir die Sache nur mal durch den Kopf gehen lassen…
+Alles hier wirkt so üppig und unnatürlich…
+Allerdings
+scheinst du ja ziemlich real zu sein.
+
+Ich scheine so?
+Aber ich bin real!
+Dummerchen!
+
+// Quest 4
+Das ist eine Besonderheit
+dieser Welt.
+Es wird dir sicher komisch vorkommen,
+dass du keine Dinge sehen kannst,
+die in weiter Ferne liegen.
+
+Es fällt nicht einmal groß auf.
+Stilvoll, wenn du mich fragst.
+
+Jup.
+Alles, um Lags zu vermeiden.
+
+Lags?
+
+Jep, es gibt immer noch Bugs.
+Ich hoffe nur, du stößt nicht auf welche.
+
+// Quest 5
+Schere und Messer?
+Sicher kann ich die Soße auch mit einem Messer öffnen.
+Doch ich wollte nun mal,
+dass alles fertig ist,
+wenn du zurückkehrst.
+Ich liebe Überraschungen.
+Sie brauchen nicht lange zum Vorbereiten.
+Jeeeep.
+
+// Glasses
+Brauchst du eine Brille?
+
+Nein,
+aber ich kann sie gerne tragen.
+Steht sie mir?
+// Yes
+So.
+Jetzt werde ich sie tragen.
+// No
+Nun,
+wenn du meinst…
+
+// Use the sauce
+Klar.
+Was für eine Soße ist das denn?
+
+Das ist Liebessoße!
+Sie enthält den Geschmack der Liebe
+und eine entgegengesetzte Weltphilosophie…
+Klingt außergewöhnlich, hm?
+
+Und wie…
+
+// Tetris - Mita
+Ist das deine Konsole?
+Wie cool.

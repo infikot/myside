@@ -1,0 +1,5 @@
+// Snaker
+패배
+승리!
+// DontWork
+멈춰!

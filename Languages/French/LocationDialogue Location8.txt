@@ -1,0 +1,84 @@
+// The first meeting
+Qui es-tu ?
+Qu'est-ce qu'il t'est arrivé ?
+Tu peux parler ?
+
+
+Attends...
+Tu veux partir ?
+
+Oui...
+Je dois me rendre
+dans l'ancienne version.
+
+L'ancienne version ?
+Pourquoi est-ce que tu voudrais
+aller autre part ?
+Tu peux rester ici...
+Deviens mon
+second ami...
+
+// Skipping all dialogs
+D'accord...
+
+// Standing by the window (Random)
+Les portes ne mènent pas vers la sortie.
+Tu sembles vouloir te dépêcher...
+Tourner en rond ne te sauvera pas.
+Tu veux t'échapper tant que ça ?
+Pense aux fenêtres...
+
+
+// Quest 1 (Aren't you Mita?)
+Un joueur... tu es un joueur, n'est-ce pas ?
+On peut jouer.
+Si j'en ai la force,
+nous jouerons sûrement.
+
+// Quest 2 (What happened to you?)
+Je n'en suis pas sûre... Je ne sais pas.
+Je ne pense pas que quelque chose de mal soit arrivé...
+Mais il y a de moins en moins de bonnes choses qui se produisent...
+Mais il me reste au moins un ami.
+Les joueurs sont partis...
+Est-ce qu'ils m'ont tourné le dos ?
+J'ai peur...
+
+// Quest 3 (Become a second friend?)
+Les amis...
+Il y en avait de moins en moins
+Et il n'en reste qu'un désormais.
+C'est triste, joueur.
+Tu peux être mon nouvel ami ?
+
+J'aimerais bien,
+mais je dois continuer d'avancer...
+
+J'ai mal...
+
+// Quest 4 (Is this your house?) - MitaLittle
+Ma maison ?
+Joueur... tu sembles différent...
+Tes bras sont plus courts, et ton visage n'est plus autant en colère...
+Joueur, tu es devenu plus gentil.
+
+Je ne sais pas...
+de quoi tu veux parler.
+
+Ce n'est pas grave.
+Tu ne vas plus me faire de mal maintenant, hein ?
+
+// Quest 5 (How do I leave this place?)
+Tu vas me laisser seule, joueur ?
+Est-ce que c'est là...
+mon destin ?
+
+Je...
+
+Les portes ne t'aideront jamais.
+
+// Hold player (Random)
+Pourquoi est-ce que tu veux partir ?
+Reste ici...
+Allons jouer...
+Joueur...

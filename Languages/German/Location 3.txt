@@ -1,0 +1,16 @@
+// Quest none
+Ach, nichts.
+// Quest "First Mita"
+Bist du Mita?
+Was, wenn ich zurück will?
+Wie bin ich ins Spiel gelangt?
+// Quest "Kitchen eat"
+Süßes Zuhause, ist sehr gemütlich hier.
+Wann kann ich nach Hause gehen?
+Alles erscheint wie im Traum.
+Warum ist da weißes Licht außerhalb der Fenster?
+Wozu denn die Schere? Du hast doch ein Messer.
+Guten Appetit.
+// TV
+Cooler Saft
+Starker SAFT!!!

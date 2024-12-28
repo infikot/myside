@@ -1,0 +1,35 @@
+Scan erforderlich!
+Anforderungen
+Version
+Anzahl der Bones
+Nicht gefunden. Scan erforderlich!
+Scan erfolgreich
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Yuhu! Du hast es geschafft!
+Mission erfüllt!
+
+// Tutorial
+Also, was mache ich hier?
+Ich muss auf deinen Bildschirm…
+Moment…
+So!
+Du musst sicherstellen, dass dieser Prototyp geeignet ist.
+Scanne ihn zunächst.
+Kontrollieren wir jetzt seine Version und die Anzahl der Bones.
+Nimm den Film dieses Prototypen und gleiche ihn mit dem des geforderten Standards ab.
+Es passt, einwandfrei! Lass uns nun die Emotionen prüfen.
+Das Exemplar zeigt erfolgreich Emotionen! Testen wir nun das Verhalten.
+Okay, wir haben alles überprüft und es passt! Ziehe nun den Hebel nach oben.
+Yay! Jetzt ist der Skin da! Reiche ihr die Box mit der Kleidung.
+Das war's! Siehst du die Lichter da oben? Eines davon ist eben grün geworden, also haben wir es richtig gemacht!
+Probiere es nun selber. Ich werde zurückkehren sobald alle Lichter grün sind. Viel Erfolg!

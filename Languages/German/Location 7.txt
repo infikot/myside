@@ -1,0 +1,19 @@
+// Track names
+Cracker
+Blubberblase
+Ballon
+// Quest none
+Ach, nichts.
+// Quest "Meeting Kind Mita"
+Sollte ich dir vertrauen?
+Wie bin ich hierhergekommen?
+Was ist das für ein Ort?
+Wie bist du hierhergekommen?
+Was hast du mit dem Ring angestellt?
+Sind die Korridore gefährlich?
+Wirst du mir helfen, zu entkommen?
+Du sagtest, es gebe da einen Plan…
+// Quest MitaCap
+Erinnerst du dich an irgendetwas?
+Was hältst du von der Mita mit dem Ring?
+Trägst du immer diese Mütze?

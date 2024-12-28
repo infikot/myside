@@ -1,0 +1,58 @@
+Démarrage de l'application
+
+Confirmer l'authentification
+Authentification incorrecte
+Programmes
+Retour
+
+Gestionnaires de Périphériques Virtuels
+Gestion de l'Unité Serveur [Choisir la version]
+Contrôle du Processeur Pricipal [Choisir la version]
+Contrôle du Processeur Graphique [Choisir la version]
+Quad-liner
+Terminer le jeu
+
+
+Administration système avancée
+Réinitialiser un personnage [Choisir la version]
+Réinitialiser une unité [Choisir la version]
+Mettre à jour la version [Choisir la version]
+Recalcule de la Géométrie [Général]
+
+
+
+
+Restaurer le système
+Dépannage [Général]
+Antivirus [Général]
+Console de Commandes [Général]
+
+
+
+
+Fonctions de haut niveau
+Supprimer un objet [Choisir la version]
+Afficher les caméras [Choisir la version]
+Déclencheurs d'affichage [Choisir la version]
+Options du Moteur Physique [Choisir la version]
+Accéder à une clé USB
+
+
+
+Fonctions de bas niveau
+Éditeur de code binaire [accès spécial]
+Éditeur d'Unité Matricielle [accès spécial]
+
+
+
+
+
+Indiquez la version du personnage
+Indiquez l'index du personnage
+Confirmer le redémarrage
+Utiliser le levier
+Exécuter un sous-programme
+Le processus de réinitialisation est en cours !
+Préparation du redémarrage
+Redémarrage...
+Confirmer
