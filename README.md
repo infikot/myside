@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This repository does not host the official files or represent the developers of the game **MiSide**. The game and all related content are the property of their respective creators. I am not affiliated with the development team or the intellectual property holders of MisAID in any way.
+This repository does not host the official files or represent the developers of the game **MiSide**. The game and all related content are the property of their respective creators. I am not affiliated with the development team or the intellectual property holders of MiSide in any way.
 
 ### Developer and Publisher Information
 - **Developer**: AIHASTO
