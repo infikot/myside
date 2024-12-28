@@ -9,6 +9,7 @@ This repository does not host the official files or represent the developers of 
 - **Publishers**: IndieArk, Shochiku (Japan)
 - **Series**: IndieArk
 - **Release Date**: December 11, 2024
+- **Steam**: https://store.steampowered.com/app/2527500/MiSide/
 
 ## Purpose
 
