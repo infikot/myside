@@ -25,7 +25,7 @@ Please do not use the contents of this repository for unauthorized distribution 
 If there are any concerns or requests regarding the contents of this repository, feel free to contact me, and I will address them promptly.
 
 ## Community
-Join our community group to discuss MiSide and share insights: [MySide: Miside group (ru)](https://t.me/my_miside)
+Join our community group to discuss MiSide and share insights: [MySide: MiSide Telegram Group (ru)](https://t.me/my_miside)
 
 ---
 
