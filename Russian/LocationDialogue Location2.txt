@@ -1,9 +1,0 @@
-// Player start
-Где я?
-Знакомое место.
-Я в этой игре?
-// Player try open the door
-Закрыто?
-// Player in dark
-Здесь темно.
-Я ничего не вижу.
