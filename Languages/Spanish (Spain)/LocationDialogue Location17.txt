@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+Necesitaré la ayuda de alguien aquí.
+Espero que la Mita aquí no muerda...
+
+¿En qué estoy perdiendo mi tiempo...?
+
+
+
+
+// Player tries to wake up MitaDreamer
+¿Mita?
+¡Mita, despierta!
+¡Mita!
+
+¡Mita, despierta ya!
+Necesito tu ayuda.
+
+¿Quién eres túuuu?
+
+Ayúdame con las palancas.
+
+¿Qué palancas?
+Déjame dormir...
+O tráeme un café.
+
+Hay dos palancas...
+¿Mita?
+¡Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita,
+aquí está tu café.
+
+
+
+// MitaDreamer exercise
+¿Palancas,  
+dices?
+
+Sí.
+
+¿Cómo es que sabes de ellos?
+Aunque, ¿por qué pregunto...?
+Considerando que estás aquí,
+ya deberías saber suficiente...
+
+Espera un minuto,
+necesito sentarme.
+
+¿Y?
+
+No sé qué decir...
+Pero necesito seguir adelante,
+seguir la guía del anillo.
+
+¿Tienes su anillo?
+Con razón
+encontraste este lugar.
+
+Así es.
+Entonces, ¿puedes ayudarme?
+¿Con las palancas?
+
+Claro.
+Lo haré.
+Con las palancas...
+
+
+Mita, vamos...  
+Ya vámonos.
+
+¿Uh?
+Está bien.
+Vamos.
+
+
+// MitaDreamer fall
+Levántate.
+¿Tienes tanto sueño?
+
+// MitaDreamer again sleep
+Despierta.
+Ya llegamos.
+
+
+// Switches
+Está bien,
+estoy lista.
+
+Yo también.
+
+Bueno.
+Comenzaré
+la cuenta regresiva.
+Y tiraremos de las palancas juntos.
+¿De acuerdo?
+
+Solo mantente despierta, ¡de acuerdo!
+Vamos.
+
+
+3
+2
+1
+
+// Player lose 1
+¿Te estás distrayendo?
+Vamos,
+hagámoslo de nuevo...
+
+// Player lose 2
+¿Un intento más?
+Vamos,
+yo...
+Estoy quedándome dormida aquí...
+
+// Player lose 3
+Ya estoy casi dormida...
+
+
+
+Maravilloso,
+gracias, Mita.
+
+Mmm-hmm.
+
+
+Las puertas...
+tan...
+lentas...
+
+
+Me voy a la cama...
+
+// Why kitchen?
+¿Por qué dirigirse a la cocina?
+Si me quedo dormida en el suelo frío,
+es tu culpa.
+
+// Why bathroom?
+No entiendo...
+¿de qué palanca estás hablando?
+
+// Put button
+¿Nada pasó?
+Entonces, ¿para qué está este botón aquí?
+
+// Cofee
+¿Más café?
+O te volverás a dormir.
+
+¿Qué?
+Nooo...
+Este café sabe terrible...
+Estoy totalmente bien...
+
+// Button
+¿Mita? El botón no funciona... ¿Me escuchas?
+¿Hola?

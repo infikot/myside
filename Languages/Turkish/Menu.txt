@@ -1,0 +1,165 @@
+Yeni oyun
+Devam et
+Ana menü
+Çık
+Ayarlar
+Başarımlar
+Emeği geçenler
+Geri
+Yükle
+Dil
+Yükleniyor...
+Grafik ayarları
+Ses
+Klavye & Fare
+Oyun kolu
+Çözünürlük
+Pencereli modu
+Grafik efektleri
+Renk efekti
+Yumuşak gölgeler
+Blanıklık
+Parlama
+Kenar yumuşatma
+Gölgeler
+Dünya ekran kalitesi
+Programlama
+Animasyon
+Ses efektleri
+Müzik
+Partiküller
+Kaplamalar
+3B modeller (98%)
+Kurgu
+Sıfırla
+İleri
+Geri
+Sol
+Sağ
+Etkileşim
+Fare hassasiyeti
+Emin misin?
+Evet
+Hayır
+Ana menüye dön
+Yumuşak dönüşler
+Oyun ayarları
+Gölge stili
+Kıyafetler
+Arayüz
+3B modeller (2%)
+Konuşma ses yüksekliği
+Durdu
+Menü
+Tebrikler! Oyunu bitirdin!
+Toplam süre:
+Altyazılar
+Parlaklık
+Dikey senkronizasyon
+Kaydedildi
+Karakterler
+Karakterler - Mitalar
+Karakterler - Kartuşlar
+Kartuşlar
+Mitalar
+Temiz bir sayfaya başla
+Bütün ilerlemeni baştan sona silmek istediğine emin misin?
+Gölgeler derleniyor, tahmini bekleme süresi: 2 saat.
+Derleme için 2 saat mi? Neyse sen torpillisin.
+Gerçekçi gölgelendirme oluşturuluyor-tahimini 10 dakika.
+Şaka yaptım, burada o tarz şeyler yok.
+Umm...
+O, hazırız!
+Yürürken sallan
+İpuçlarını göster
+Oyuncu sesi
+Discord
+Karakter profili eklendi
+Görüş açısı
+Seslendirme
+Kapalı
+El kapıya uzansın
+Animasyon
+Oyuncu sesini aç
+Mita
+Kısa saçlı Mita
+Kibar Mita
+Cappie
+Küçük Mita
+Uykucu Mita
+2B Mita
+Mila
+Korkunç Mita
+Çekirdek Mita
+Hayalet Mita
+Mini Mita
+Manken Mita
+
+
+
+// Name load location
+Oyunda mıyım?
+Sonunda yan yana
+İşler garipleşti
+Bodrum
+Dünyanın ötesinde
+Döngü
+Mini Mita
+Mankenler ve unutulmuş oyunlar
+Uyumak istiyor
+Roman
+Kitap okuyup hata düzeltiyoruz
+Kaç ve saklan!
+Eski sürüm
+Dürüst sohbet
+Sıfırlama
+Cappie
+Hayalet Mita
+Gerçek dünya mı?
+Çekirdeği terk et!
+Oyuncu 1
+Oyuncu 2
+Oyuncu 3
+Oyuncu 4
+Oyuncu 5
+Oyuncu 6
+Oyuncu 7
+Oyuncu 8
+Oyuncu 9
+Oyuncu 10
+
+Barışçıl mod
+Bu mod halen yapım aşamasında! Çok büyük olduğundan geliştiriciler bitiremedi ama endişelenme, ilerideki büyük güncellemede oyuna ekleneceğine söz verdiler. Kendine baksana çoktan erişimi açarak diğerlerinden ileridesin. Şimdi geriye beklemek kaldı.
+Barışçıl mod nedir? Mitayla bağlarını tamamen farklı bir yolla bağlama şansı sağlar. Seninle vakit geçirdiğine çok daha sevinecek, sabahtan akşama kadar, sürpriz ve eğlence dolu bir dünyada. birebir yürekten konuşmalar, kurabiye paylaşmalar, oyun oynamalar ve birçok eğlenceli vakit dolu.
+
+
+Sansür
+Özel teşekkürler:
+Başarım resimleri: Iceсloud
+Fotoğraflar: Nineko Hori
+Çevirmenler
+Oyunu öbür dillere çevirir.
+Yayımcı partneri
+Oyunu pazarlar.
+Testçiler
+Oyunu oynayıp hataları bulur.
+Bu çeviri oyunun hayran topluluğu tarafından yapılmış ve istekleri üzere oyuna eklenmiştir.
+Uyarı! Bu oyun yüksek sesler ve aniden çıkan görseller içerir. Oyunun bazı kısımları, kalp sorunları veya epilepsisi olan kişiler için tehlikeli olabilir.
+Barışçıl mod artık mevcut!
+
+Fotoğraf Modu
+Fotoğraf Modu: Görmemen gereken şeyleri görebilmeni sağlar.
+Fotoğraf modundan çık
+Arayüzü gizle
+Basılı tutarak kamerayı çevir
+Hızlan
+Kamera hareketini yumuşat
+Kamera hızı
+Efektler
+Oyun hızı
+Parlaklık
+Kontrast
+Vinyet
+Fotoğrafı kaydet
+Fotoğraf klasörünü aç
+Kamera açısı

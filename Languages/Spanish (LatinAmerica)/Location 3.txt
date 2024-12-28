@@ -1,0 +1,16 @@
+// Quest none
+No es nada.
+// Quest "First Mita"
+¿Eres Mita?
+¿Y si quiero regresar?
+¿Cómo entré al juego?
+// Quest "Kitchen eat"
+Tu hogar es acogedor.
+¿Cuándo podré regresar a casa?
+Se siente como un sueño...
+¿Por qué solo hay luz blanca en las ventanas?
+¿Por qué usar tijeras cuando pudiste usar el cuchillo?
+Bon appétit!
+// TV
+El Jugo es Genial!
+El Jugo es FUERTE!!!

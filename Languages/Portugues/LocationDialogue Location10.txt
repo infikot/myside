@@ -1,0 +1,246 @@
+
+Espera, espera!
+Não grites tão alto...
+Ir mais longe é perigoso.
+A propósito...
+como é que vieste aqui?
+
+Hum...
+O anel abre as portas certas.
+Honestamente, não sei como funciona.
+
+O anel?
+
+O que se passa com este lugar?
+Está super escuro.
+
+Vou contar-te mais tarde.
+Por agora, segue em direção à saída.
+Encontra-me na máquina de arcade.
+
+
+
+Apressa-te, não te atrases!
+
+
+// Após mini-jogo
+Então, percebeste o objetivo do jogo?
+
+Que eu sou feito de carne e ossos, e tu és feito de um modelo de esqueleto?
+
+Uau!
+Soa assustador quando o dizes assim.
+Mas é isso, basicamente.
+
+Certo, mas porque é que eu preciso perceber isso?
+
+Achaste que eu te estava a dizer que ir mais longe
+era perigoso, só para me divertir?
+Vais encontrar... modelos abandonados...
+Aquelas que foram deixados para trás, os "falhados".
+Elas são agressivas e podem até tentar matar-te.
+
+Então, o que devo fazer?
+Vou simplesmente ir
+onde uma porta se abrir.
+
+Uau!
+Então não vires as costas a elas.
+E não as percas de vista!
+Elas ficam tímidas quando os olhas nos olhos,
+tão tímidos que ficam paralisadas.
+Lembra-te disso!
+
+
+
+
+
+
+
+// Missão 1 (Porque há outras Mitas lá embaixo?)
+Elas são recém-criadas.
+Elas precisam de tempo
+para ganhar autoconhecimento.
+Depois, eu guio cada uma
+para a sua casa.
+
+// Missão 2 (Porque está tão escuro lá embaixo?)
+Nós, Mitas, somos 'criadas' no escuro,
+por isso precisamos ficar lá um tempo.
+Imagina
+a dor de sair da escuridão e ir direto para a luz...
+
+// Missão 3 (O que estás a fazer aqui?)
+Ainda não percebeste?
+Estou a ajudar as novas Mitas a instalar-se!
+Quem as vai ajudar se não for eu?
+Tu?
+
+// Missão 4 (Porque precisamos desta esteira?)
+Para que serve esta esteira rolante?
+Há espaço suficiente para todas?
+
+Espera, não me digas que não
+percebes como o mundo funciona...
+E que é infinito?
+
+Infinito?
+Hum...
+O que queres dizer com isso?
+Se a versão 1.9 é a mais recente,
+então só há 19 mundos.
+
+Meu Deus, realmente não
+percebes como este mundo funciona.
+Olha, vou usar este quadro
+para te explicar tudo.
+Queres ouvir?
+
+// Missão 5 (Qual é a tua versão?)
+Espera,
+não te encontrei na versão mais recente?
+Ou talvez seja só a minha imaginação.
+
+Bem, é bem possível.
+Sou da versão 1.5.
+Já lá foste?
+
+Eu fui.
+Foi onde cheguei
+quando fui atirado para este mundo!
+
+Uau!
+Mas como...?
+Mas em que índice de casa estavas?
+Há um 'eu' que não para de se queixar,
+um 'eu' que adora fazer palhaçadas,
+um 'eu' com memória fraca e que gosta de maltratar os outros...
+A lista é longa...
+Diz-me o que te recordas.
+
+Estava escuro.
+Havia escrita
+como...
+"Joga comigo."
+
+Ah,
+que chatice...
+Esse é o 'eu'
+que maltrata e esquece as coisas.
+
+// Mita quer contar-te [Não]
+Obrigado, mas não.
+Vou-me desenrascar sem saber mais.
+
+Está bem, como quiseres.
+
+// Mita quer contar-te [Sim].
+Claro, vai em frente.
+Só espero que isto não seja como o secundário,
+onde eu adormecia sempre de tanto tédio.
+
+Podes ir embora a qualquer momento,
+ou ficar e ouvir
+se estiveres interessado.
+Um jogador descarrega o MiSide
+e joga o quanto quiser.
+Lá, ele cria uma nova casa
+e uma nova Mita.
+Esta é uma representação 2D.
+Estas são as versões,
+mostradas como linhas.
+As casas são colocadas nessas linhas.
+Digamos que descarregues a versão 1.14,
+o que significa uma nova vida,
+uma nova Mita e uma nova casa.
+
+Meu Deus...
+
+Podes perguntar sobre os detalhes
+nesta imagem,
+e farei o meu melhor para explicar.
+
+// Ele pergunta sobre o único círculo
+Porque há um único círculo?
+
+Essa versão foi lançada apenas uma vez,
+nunca mais será repetida.
+É a única versão verdadeiramente única.
+Além disso, estas versões são especiais
+e não têm caminhos para outras versões.
+A Mita Sonolenta reside nesta versão, 1.1.
+
+Mita Sonolenta?
+Porque ela nunca consegue dormir
+com todos a passar pela sua versão?
+
+Não, não é isso.
+Podes passar por ela e fazer barulho,
+mas é impossível acordá-la.
+
+// Ele pergunta sobre o círculo sombreado
+Porque é que este círculo esférico está todo escuro?
+
+Hum, esse está aqui
+por causa da Mita Bonita.
+Ela desenhou-o.
+Estávamos a discutir sobre
+quem chegava mais rápido à versão 1.11.
+
+Então, quem ganhou?
+
+EU, claro!
+Olha, estamos aqui
+na versão 1.15,
+índice de casa 809.
+Precisamos de chegar à versão 1.11,
+índice de casa 805.
+Então, o caminho dela começou assim.
+Tentámos arranjar um caminho mais curto,
+por isso a Mita Bonita sugeriu este caminho.
+E depois eu desenhei o mais simples, aqui.
+Fácil, não é?
+Olha aqui.
+Daqui, podes ir diretamente para a versão correta.
+Embora pareça que esta casa está no caminho,
+que bloqueia o teu caminho...
+De qualquer forma, o teu anel funciona com os mesmos princípios.
+Onde estás a ir?
+
+O Núcleo.
+
+O Núcleo?
+Hmm...
+Se queres o caminho mais curto,
+também precisas passar pela versão 1.11.
+Com certeza vais encontrar a Mita Sonolenta lá.
+Acho que a Mita que te enviou,
+seguiu o mesmo caminho.
+Ou talvez ela ainda não tenha percebido que estás num caminho diferente.
+Ou talvez seja uma génia
+e tenha encontrado um caminho ainda mais curto!
+
+Acho que estou a perceber.
+
+// Ele pergunta sobre a inscrição
+O que significa isto?
+
+Isso é para a Mita Fixe.
+Ela vai estar aqui dentro de algumas horas.
+Ela vai mover essas caixas
+e pôr um sofá aqui.
+O meu traseiro dói!
+
+Hum...
+Talvez eu possa ajudar?
+
+Não, isso é o trabalho da Mita Fixe.
+Ela é forte.
+
+// Ele pergunta sobre os desenhos
+Isso é só um desenho,
+ou
+significa algo?
+
+Sim,
+é só um rabisco.

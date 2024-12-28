@@ -1,0 +1,19 @@
+// Track names
+Cracker
+Bevanda a bolle d'aria
+Palloncino
+// Quest none
+Non importa.
+// Quest "Meeting Kind Mita"
+Dovrei fidarmi di te?
+Come sono arrivato qui?
+Che cos'è questo posto?
+Come sei arrivata qui?
+Cosa hai fatto con l'anello?
+I passaggi sono pericolosi?
+Mi aiuterai a fuggire?
+Hai parlato di un piano.
+// Quest MitaCap
+Ti ricordi qualcosa?
+Cosa ne pensi dell'anello che porta Mita?
+Indossi sempre quel berretto?

@@ -1,0 +1,150 @@
+
+Mita?
+
+¿Cómo diablos llegaste aquí?
+
+Eres Mita, ¿verdad?
+Pero hay algo diferente en ti...
+
+Observador, veo.
+Y tienes razón.
+No soy la Mita que conociste antes.
+Ten cuidado, ella está tramando algo
+siniestro.
+
+¿Eh, algo siniestro?
+
+No hay tiempo para explicar
+si esto sale bien, te contaré todo.
+Coge la llave. Está junto al sofá.
+
+Pero...
+
+¡Guarda tus preguntas para después!
+Dame la llave.
+Toma este anillo.
+¿Eh?
+¿Quieres salir de aquí, verdad?
+Uhm, sí...
+Entonces póntelo.
+Es un artefacto útil,
+probablemente lo necesitarás pronto.
+
+Vale...
+Por cierto, yo soy
+[player].
+
+Mmm,
+[player].
+Yo... soy Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+¿Ves esa consola?
+Recógela.
+
+¿Estamos viendo una grabación?
+¿Quién es esa persona con ella?
+
+Eso está pasando en este mismo momento.
+Es otro jugador.
+Ella lo está usando.
+Puede intentar
+convertirte en un cartucho también.
+
+Necesito salir de aquí YA.
+Y tú también.
+
+Sí, necesitamos.
+
+Entonces, ¿estás diciendo
+que ella lo está usando?
+Si saco el cartucho, ¿qué pasa?
+
+Eso podría dañar
+irreversiblemente el cartucho.
+Lo que significa que...
+el jugador moriría.
+
+...
+¿Y si simplemente lo apago?
+
+Eso podría funcionar...
+Vale la pena intentarlo. ¡Hay un botón de encendido rojo!
+¿Lo ves?
+Lo encontré.
+¡Púlsalo!
+
+// MitaKind quest 2
+Necesito quedarme.
+Hay preguntas que necesito hacerle
+para saber más sobre ella.
+Aunque es poco probable que coopere...
+
+// MitaKind quest 3
+Para decirte la verdad, esta es mi versión.
+Estaba haciendo compañía a un jugador,
+cuando algo cambió de repente.
+Entonces ella apareció...
+y convirtió al jugador en un cartucho
+y me encerró.
+
+Espera, ¿ella lo convirtió en un cartucho?
+¿Eso es posible?
+¿Pero por qué?
+¿Qué necesita a los jugadores?
+
+Está obviamente loca...
+¡Solo juega con nosotros y nos usa para sus propios fines!
+Convertir a los jugadores en cartuchos...
+Algunos ni siquiera se dieron cuenta de lo que les estaba pasando...
+Y algunos que sí lo hicieron, ni siquiera se defienden... ¡Bah!
+Eso sí que es un giro oscuro...
+¡Tienes que ayudarnos!
+¿Yo? ¿Pero cómo?
+¡Te necesito!
+¡Si nos ayudas, yo te ayudaré!
+Esta podría ser nuestra única oportunidad.
+El anillo te llevará a la versión correcta.
+Nos encontraremos allí.
+
+// MitaKind quest 4
+Todavía no entiendo del todo
+lo que vi allá arriba...
+Esa Mita...
+¿Estaba intentando matarme?
+
+¿Matar?
+Ella tiene algo peor que eso en mente para ti...
+Necesitas darte prisa.
+
+// Hide!
+¡Oh, mierda! ¡Escóndete!
+Espera, ¿qué...?
+¡Date prisa, viene ella!
+¡Sigue el anillo, te llevará a salvo!
+
+
+Bueno, bueno, ¿me vas a decir dónde está?
+
+¿Por qué debería?
+No lo matarás, ¿verdad?
+
+Ah, entonces te niegas a decírmelo.
+Jah, me gustan los desafíos.
+Sé que está por aquí, en algún lugar.
+
+¿Por qué eres tan cruel con nosotras?
+¡Ni siquiera me dices qué está pasando!
+Además...
+¿para qué necesitas a los jugadores?
+¡No son juguetes!
+¡¿Qué te pasa?!
+
+¡Basta! ¡Cállate, muñeca!

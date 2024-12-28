@@ -1,0 +1,221 @@
+
+¡Aquí estas!
+¿Por que dejaste el Núcleo?
+¡Te dije que me esperaras!
+
+Creí que te pasó algo...
+
+Bueno, esta bien...
+Creo que encontré algo...
+Creo que es un índice...
+¡Debemos revisar si funciona!
+Salgamos de aquí.
+La Mita Loca...
+Creo que esta ocupada con un nuevo jugador.
+Así que espero que esté muy ocupada como para tenernos en cuenta...
+
+¿Mita?
+Espérame.
+
+
+¿Se te perdió algo?
+¡Por que no se presentan una vez mas!
+
+Mita...
+
+¡Atrapa!
+
+
+Como es posible...
+
+¿Quién eres tu?
+
+Tú... ¡estas viva!
+¿Me recuerdas?
+
+¿Te conozco?
+
+No...
+¿Qué debo hacer ahora?
+No podré salir...
+
+¿Qué quieres decir con 'salir'
+
+Espera...
+Ese es el anillo...
+¿Y eso?
+
+No se que podría ser.
+
+¡Es el índice!
+¡Lo encontraste!
+
+No se que decir.
+
+Debemos regresar a el Núcleo.
+Y tu...
+tal vez deberías de venir conmigo...
+
+Uhm, ¿Que?
+Esta bien...
+
+Espera aquí.
+
+Esta bien.
+Me sentaré justo aquí.
+
+
+Mierda...
+Eso estuvo cerca.
+Entonces... ¿Lo logramos?
+Bien.
+Estoy en la versión correcta.
+
+
+¡Hola!
+Tu eres un jugador, ¿no es así?
+¿Cuál es tu nombre?
+
+Quiero dejar este lugar...
+
+¿Ya quieres irte?
+¿Cómo llegaste aquí en primer lugar?
+Oh bueno...
+Esta bien, puedes irte...
+Solo prueba con la puerta.
+¡Buena suerte!
+
+
+¿Una pared?
+Hmm, algo esta mal.
+Tal vez...
+haya algo en el sótano que pueda ayudarte.
+Recientemente descubrí 
+una puerta en mi armario...
+Resulta que lleva a un sótano.
+Pero esta lleno de basura,
+y un montón de dispositivos elegantes.
+Debes de insertar una especie de código o algo.
+No lo entiendo realmente.
+y no quiero entenderlo.
+Ahí se siente un aire inquietante.
+¿Quieres echar un vistazo?
+
+Uhm, esta bien.
+
+// Player thinks
+Creo
+que ella no recuerda nada...
+¿Lo logramos?
+¿La reestablecimos?
+Entonces ahora lo que tengo que hacer
+es salir de este maldito juego...
+
+
+Espera.
+Me gustaría darte un abrazo.
+
+¿Eh?
+// Hugs
+Me alegró verte.
+
+Ahh...
+Es una pena
+que tu y yo
+pasamos tan poco tiempo juntos.
+
+Ehh...
+¿De que estas hablando?
+
+Quiero decir,
+pudiste quedarte conmigo...
+Todo fue mi culpa...
+Ese armario y los... los sonidos.
+¡Debí de MATARLA antes!
+
+Espera un momento,
+¿Acaso...?
+¿Cómo puedes recordar eso?
+
+¡JA!
+¡Creíste que seria así de fácil?
+Solo eres un iluso...
+Justo como los demás jugadores...
+y lo hicimos bien, ¡mira!
+El TÚ real
+ya no es
+necesario.
+Lo siento.
+
+De verdad...
+¿No funcionó...?
+No... Te reinicié, estoy seguro que lo hice...
+
+Aun no lo entiendes...
+¡JA-JA-JA!
+¡Soy tan buena actriz!
+¡Debiste ver tu cara, cariño!
+¡Esto fue muy divertido!
+
+¡¿Por que eres así?!
+¡¿Cual es tu problema?!
+
+Si...
+¿Cuál es mi problema?
+No lo se...
+¿Por que no me dices por que soy así?
+¿Por qué nunca seré una Mita de verdad?
+Mi versión,
+¡nunca existió en primer lugar!
+Solo les arranqué la piel a estas ingenuas,
+y me escondí debajo de ella...
+No hay manera de que
+podrías reiniciarme!
+
+No puedo creerlo...
+Tu...
+¡No hay nada de malo con ellas!
+¡Tu eres quien no debería existir!
+
+Y ahora tu también...
+Me duele escuchar eso de ti.
+¡y aun así!
+¡Es hora de que te vayas!
+¡Hasta pronto!
+¡Todo esta listo!
+Es hora
+¡de sacarte de la consola!
+¡Nos vemos!
+Tu serás mi cartucho favorito...
+Un jugador con un nombre tan interesante.
+
+// core console - nope programm
+Ese probablemente no es.
+Ese tampoco es el correcto.
+Nop, mal.
+Ese no es.
+Debo de encontrar la opción de reiniciar personaje.
+
+// core console - nope version
+Esa es la versión incorrecta.
+Oops, mi error.
+Esa no es.
+Debo intentar con otra.
+
+// core console - nope index
+Algo esta mal
+Índice equivocado.
+Debo de cambiar el índice,
+Ese no es.
+
+// Why kitchen
+¿Tienes hambre?
+Soy muy buena cortando zanahorias. :)
+
+// Why bathroom
+Ah, probablemente...
+¿Querrías venir aquí solo?
+
+// Why bedroom back
+¿Estamos caminando en círculos?
+¿Por qué regresamos aquí?

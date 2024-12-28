@@ -1,0 +1,221 @@
+
+Eccoti qui!
+Perché hai lasciato il Nucleo?
+Ti avevo detto di aspettarmi!
+
+Pensavo che saresti stata via più a lungo...
+
+Beh, va bene...
+Credo di aver trovato qualcosa...
+Credo sia un indice...
+Dobbiamo vedere se funziona!
+Andiamocene da qui.
+Crazy Mita...
+Credo sia impegnata con un nuovo giocatore.
+Quindi speriamo che sia troppo occupata per badare a noi...
+
+Mita?
+Aspettami.
+
+
+Ti è caduto qualcosa?
+Aspetta, l'hai incontrata di nuovo!
+
+Mita...
+
+Prendi!
+
+
+Ma come...
+
+Chi sei?
+
+Sei... sei viva!
+Non ti ricordi?
+
+Ti conosco?
+
+Cosa sta succedendo...
+Cosa dovrei fare adesso?
+Non posso uscire...
+
+Cosa vuol dire “uscire”?
+
+Aspetta...
+Quello è l'anello...
+E quello?
+
+Non ho idea di cosa sia.
+
+È un indice!
+L'hai trovato!
+
+Non so cosa dire.
+
+Dobbiamo tornare al Nucleo.
+E tu...
+Forse dovresti venire con me...
+
+Uhm, cosa?
+Certo...
+
+Aspetta qui.
+
+Siediti qui.
+Mi siedo qui.
+
+
+Merda...
+C'è mancato poco.
+Allora... ce l'abbiamo fatta?
+Bene. Sono nella versione corretta.
+Sono nella versione corretta.
+
+
+Ciao!
+Sei un giocatore, vero?
+Come ti chiami?
+
+Voglio lasciare questo posto...
+
+Vuoi andartene così presto?
+Come hai fatto ad arrivare qui?
+Oh, beh...
+Bene, puoi andartene...
+Prova con la porta.
+Buona fortuna!
+
+
+Un muro?
+Hmm, è tutto sbagliato.
+Forse...
+c'è qualcosa nel seminterrato che può aiutarti.
+Di recente ho scoperto
+una porta nel mio armadio...
+Si è scoperto che porta a un seminterrato.
+Ma è pieno di cianfrusaglie,
+di cianfrusaglie e di un sacco di attrezzature di lusso.
+Bisogna inserire una specie di codice o qualcosa del genere.
+Non lo capisco proprio.
+E non mi interessa.
+È anche un po' scomodo, voglio dire, davvero scomodo.
+Vuoi dare un'occhiata?
+
+Uhm, ok.
+
+// Player thinks
+Non credo che
+si ricordi qualcosa...
+L'abbiamo fatto?
+L'abbiamo riavviata?
+Allora tutto quello che devo fare è
+uscire da questo dannato gioco...
+
+
+Non così in fretta.
+Vorrei abbracciarti.
+
+Eh?
+// Hugs
+È stato bello vederti.
+
+Ahh...
+è un vero peccato
+che io e te
+abbiamo passato così poco tempo insieme.
+
+Ehm...
+Di cosa stai parlando?
+
+Voglio dire che..,
+avresti potuto restare con me...
+È tutta colpa mia...
+Quel guardaroba e... i suoni.
+Avrei dovuto UCCIDERLA prima!
+
+Aspetta un attimo,
+Non hai...?
+Come fai a ricordare tutto questo?
+
+HA!
+Pensavi davvero che sarebbe stato così facile?
+Sei solo uno stupido...
+Proprio come tutti gli altri giocatori...
+Ce la siamo cavata bene, guarda!
+Il VERO
+te non è
+più necessario.
+Mi dispiace, tee-hee.
+
+Non posso crederci...
+Abbiamo fallito...?
+No... Ti ho riavviato, ne sono sicuro...
+
+Ancora non capisci...
+Ha-ha-ha!
+Sono una grande attrice!
+Avresti dovuto vedere la tua faccia, tesoro!
+È così divertente!
+
+Perché sei così?!
+Cosa c'è di sbagliato in te?!
+
+Già...
+Cosa c'è che non va in me?
+Non lo so...
+Perché non mi dici perché sono così?
+Perché non sarò mai una vera Mita?
+La mia versione, non è mai
+esistita!
+Sto solo scuoiando questi sciocchi ingenui,
+nascondendomi sotto la loro pelle...
+Non c'è modo che tu possa
+riavviarmi!
+
+Incredibile...
+Tu...
+Non sono loro il problema!
+Sei tu che non dovresti esistere!
+
+Ora anche tu...
+Fa male sentirtelo dire.
+Eppure!
+È ora che tu vada!
+Ci rivedremo presto!
+Sono tutti pronti!
+E
+è ora di toglierti dalla console!
+Ci vediamo dopo!
+Sarai la mia cartuccia preferita...
+Un giocatore con un nome interessante.
+
+// core console - nope programm
+Probabilmente non è così.
+Non è nemmeno giusto.
+No, sbagliato.
+Non è questo.
+Devo trovare l'opzione di ripristino del personaggio.
+
+// core console - nope version
+È la versione sbagliata.
+Ops, errore mio.
+Non è questa.
+Ne serve un'altra.
+
+// core console - nope index
+C'è qualcosa di sbagliato
+con l'indice.
+Devo cambiare l'indice,
+non si adatta.
+
+// Why kitchen
+Hai fame?
+Sono bravissima a tagliare le carote. :)
+
+// Why bathroom
+Ah, immagino che
+volevi entrare da solo?
+
+// Why bedroom back
+Perché stiamo girando in tondo?
+Perché tornare qui?

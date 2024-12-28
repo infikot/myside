@@ -1,0 +1,400 @@
+Mita?
+Ah, uyandın mı?
+Buraya nasıl geldin?
+Yanımda duruyordun.
+
+Durmuyordum.
+Aynanın önünde dondun.
+Ben de gittim.
+Odalar neden değişti?
+
+Evin gibi hissetmen için
+etrafı yeniden düzenledim.
+Burada,
+odaları dilediğimiz gibi
+değiştirebiliriz.
+
+Yapmasaydın.
+Etrafa alışmaya başlamıştım.
+Böyle daha rahat edeceğini düşünüyorum.
+// Mita card game
+Tamam,
+oynayalım mı?
+Oyun şöyle oynanıyor:
+Yuvarlak sıranın tipini gösterir,
+Kalp gibi:
+İkimiz de kart oynarız,
+senin kartında
+benim kartımdan
+daha çok kalp varsa
+kazanırsın.
+Kartlarını al.
+Benim sıram.
+Hop!
+Elim güzel!
+İlk ben başlıyorum!
+
+
+
+
+
+
+
+
+
+İyi!
+Senin sıran!
+Hı hm.
+Sende!
+
+Gönlü bol olan kazanır!
+Saldırı odaklı oyna!
+Savunmaya aban!
+
+
+Sen aldın.
+Sen kazandın!
+Güzel hamle
+A sen var ya...
+
+Aldım.
+Kazandım gibi!
+Ağlama oyna!
+Koymuşum.
+
+Berabere.
+Aynı kart.
+Bu da berabere.
+Birebir aynısı.
+
+
+
+
+
+
+
+
+
+
+
+// The card game is interrupted
+O ses ne?
+Dolaptan geliyor.
+
+Ses mi?
+Ne sesi?
+Ben hiçbir şey duymadım.
+Ne duyduğunu düşünüyorsun?
+
+Tıklatma. Biri varmış gibi.
+
+Ama...
+Kimse yok....
+
+Kontrol etmek istiyorum.
+Beni korkutuyor.
+
+Ama neden?
+Yine...
+
+
+
+
+
+
+
+Sana ne oldu birden ya?
+Dolapta...
+İç çamaşırlarım var...!
+
+Benden bir şey mi saklıyorsun?
+
+Neden sadece bana güvenmiyorsun?
+Neyi yanlış yaptım?
+İstediğim sadece...
+Sadece benimle olmanı istemiştim.
+
+Öyle oldu diyelim, burada bitecek mi?
+
+Dolaba niye bu kadar taktın ki?!
+
+Sadece tıklatmanın sebebini merak ediyorum!
+
+Sadece...
+Bu dünya.
+Sadece bu dört oda.
+Sana yetmeyecek, değil mi?
+Neden benimle kalmayı denemiyorsun?
+
+
+// Don't stay with Mita
+Anlıyorum.
+Yine bu.
+Dolabı kontrol mu etmek istiyorsun?
+O zaman et,
+bak bakalım ne varmış!
+
+
+
+
+He...
+
+Bazen öyle oluyor.
+Oda yükleniyor.
+Biraz zaman ver.
+
+Çok garip.
+Birinin telefonunda mıyız?
+Yavaş çalışan bir telefon.
+
+Değil.
+Burada hiçbir şey
+mükemmel değildir...
+Dünyanın çekirdeği ile
+yükleniyoruz.
+
+Dünyanın çekirdeği mi?
+
+Tipik, değil mi?
+
+
+
+Neyse, oynayabileceklerimiz:
+konsol oyunu
+ya da kart oyunu.
+Sen seç.
+
+
+
+// Mita play fight
+Dövüşmek ister misin?
+Dört kere
+kazanman gerek.
+Başlayalım.
+Korkma,
+çok ezmeyeceğim seni.
+
+
+Hay am...
+Odaklansam iyi olur!
+
+Vay!
+Peki, tamam.
+Ciddileşeceğim.
+
+Peki!
+Bakalım şimdi
+beni yenebiliyor musun!
+
+Sen var ya.
+İnanılmazsın.
+Parmaklar neymiş öyle!
+
+
+N'oldu?
+Sıkıcılaşıyor.
+
+Pekala,
+bu kadar. kadere inanır mısın?
+
+O zaman, aklını başına topla.
+Yoksa sonsuza kadar kaybedeceksin!
+
+Sana ne oldu ya?
+Zemini süpürdün resmen.
+Çok da odaklanmadın gibi-
+Bu yüzden kazandım!
+
+
+Tamamdır o zaman.
+Kart oynayalım mı?
+Odamda.
+
+
+
+// Door > [ERROR]
+Ha, ne oluyor?
+Dışarısı ne...
+
+O...
+Pardon...
+İnternetten bir şey
+indirdim de.
+Dışarıyı biraz
+süslemek istemiştim.
+Ama anlaşılan
+dosyada bir şeyler sıkıntılı.
+Sonra düzeletirim.
+
+Bu yüzden mi çıkamıyoruz?
+Evet bu yüzden.
+// Mita shy
+Hey...
+Ne oldu?
+Bir şey mi lazım?
+
+
+
+// Wall Clock
+Bu saat,
+hangi zamanı gösteriyor?
+Oyunun içindeki zamanı mı
+yoksa telefonumla senkronize falan mı?
+
+Şey, hm...
+Bilmiyorum aslında.
+Ama burada zaman pek önemli değil...
+Geç de olsa erken de olsa,
+benim gibi güçlü kızlar
+enerji doludur.
+Asla yorulmam!
+Sonsuz bahar,
+ya da bitmeyen bir akşam!
+
+İlginçmiş.
+aynı zamanda korkutucu.
+Sonsuza kadar aynı anda tıkılıp kalmak...
+
+
+
+// Photos of Mita
+Güzel fotoğraflar.
+Sen olduklarını varsayıyorum.
+
+Evet.
+Ben de seviyorum.
+
+Kim çekti?
+Başkaları da mı var?
+
+Denebilir.
+Sizi tanıştıracağım zaten.
+Ama henüz değil.
+Şimdilik sadece benim ol istiyorum.
+
+
+
+
+// Portal
+Portal nerede?
+Ya da her ne diyorsan artık.
+
+Biraz
+büyü kullandım
+ve başka bir yere
+taşıdım.
+Artık ihtiyacımız yok.
+Bize engel olurdu.
+
+
+// Mirror in the bedroom
+Yansıma görmeden bir aynaya bakmak
+biraz gerici ne yalan söyleyeyim.
+
+Çok istiyorsan
+yansımaları açabiliriz.
+Ama gerekli mi sahiden?
+
+Gerekli tabii.
+Yoksa... bir olayı falan mı var?
+
+Evet.
+Takılır, yavaş hareket ederiz.
+Saniye başına 10 kare gösteren
+çizgi filmler gibi olur.
+
+Anladım.
+Belki de yansımalar kapalı kalmalı...
+
+Hey, [player].
+Aynaları seviyorsun değil mi?
+Yüzünde neşeye dair bir şey gözükür diye mi korkuyorsun?
+
+Ha? Hayır...
+Sadece iş yüzünden
+yorgunum biraz.
+
+
+
+// Blue sneakers
+Bunlar senin mi?
+
+Hayır, onlar senin.
+Hatırlamıyor musun?
+
+Bu ayakkabıları hatırlamıyorum, hayır.
+
+Artık var işte.
+Dışarı çıktığımızda 
+giyebilirsin.
+
+Kıyafetler ne olacak?
+Üstüme giydiklerim
+dışında hiçbir şeyim yok.
+Bana kıyafet alma ihtimalimiz var mı?
+
+Tabii ki de var.
+Ki, ne giydiğini gördüm
+ve dürüst olayım tarzın çok da iyi değil.
+Yine de sana kıyafet buluruz.
+Şimdi değil
+ama söz.
+
+Tamam.
+
+
+// Games on TV
+Ne oynamak istiyorsun?
+// Game milk
+Bu bir savaş oyunu!
+İlk kimin ekşidiğine bakacağız!
+Güzel oyun!
+Şimdilik çok süt gördük, başka bir şey bakalım.
+// Game penguins
+Bu oyunda etrafta kayan
+bir penguensin.
+Evet, bu kadar.
+
+// Stay with Mita
+Ha, ne?
+Ciddi misin? Ben sandım ki...
+Çok mutlu oldum!
+Biraz da kafam karıştı...
+Ama lütfen...
+Benimle kal.
+Hep ve sonsuza dek.
+
+
+
+
+
+
+
+
+
+
+
+
+// A game about penguins
+Aşırı basit:
+Sadece kar topu topla.
+En çok toplayan kazanır!
+İki tur oynayalım, olur mu?
+// The first map
+Vay, o kadarı nereye sığdırdın?
+Tee hee! En çok ben toplamışım!
+Yetişsen iyi olur!
+Ha, 1-1!
+// The second map
+Doğal bir penguensin!
+Seni piste çıkarmamalıydık!
+Pfft, çok yavaşsın.
+Halen geçen turu mu düşünüyorsun?
+Berabere oldu! İlginç!
+// The game is over
+Başka bir şey oynamak ister misin?
+Yoksa yeter mi?
+
+// Tetris - Mita
+Onu ne yapıyorsun?
+O kadar mı bağımlısın?

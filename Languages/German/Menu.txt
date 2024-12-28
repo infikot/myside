@@ -48,7 +48,7 @@ Schattenstil
 Kleidung
 Interface
 3D-Modelle [2%]
-Video zum Spiel
+Sprachlautstärke
 Pause
 Menü
 Glückwunsch! Du hast das Spiel beendet!
@@ -64,10 +64,10 @@ Speicherkarten
 Mitas
 Spielstand löschen
 Bist du sicher, dass du deinen gesamten Fortschritt löschen und von vorne beginnen möchtest?
-Shader werden kompiliert, dies dauert 2 Stunden, bitte warten.
-Was für eine Kompilation? Das haben wir für dich getan!
-Realistische Schattenverfolgung wird erstellt, dies dauert 10 Minuten.
-Nur Spaß, solch eine Grafik gibt es hier nicht.
+Shader werden kompiliert; geschätzte Wartezeit: 2 Stunden.
+Eine 2-stündige Kompilation?! Das ist ja wohl ein Witz! Wir umgehen die Warteschlange für dich!
+Realistische Schattenverfolgung wird erstellt; dies dauert 10 Minuten.
+Nur Spaß, sowas Extravagantes gibt es hier nicht.
 Ähm…
 Oh, wir sind bereit!
 Schwanken beim Laufen
@@ -75,7 +75,7 @@ Hinweise anzeigen
 Spielerstimme
 Discord
 Charakterprofil hinzugefügt
-Kamerawinkel
+Heran-/herauszoomen
 Voiceover
 Aus
 Hand greift nach Tür
@@ -111,12 +111,12 @@ Novelle
 Bücher lesen, Glitch beheben
 Fangen- und Versteckspiel!
 Alte Version
-Reale Welt?
+Ehrliches Gespräch
 Neustart
-
-
-
-
+Mützchen
+Schreckgespenst
+Realität
+Raus aus dem Kernstück!
 Spieler 1
 Spieler 2
 Spieler 3
@@ -129,12 +129,12 @@ Spieler 9
 Spieler 10
 
 Friedlicher Modus
-Dieser Modus befindet sich in Entwicklung. Der Modus ist so umfangreich geworden, dass die Entwickler noch nicht in der Lage waren, ihn zu vollenden! Sie werden ihn bald mit einem großen Update zur Verfügung stellen. Und du - gut gemacht! Du hast es versucht und Zugang erhalten; jetzt müssen wir nur noch warten...
+Dieser Modus befindet sich noch in Entwicklung. Er ist so umfangreich geworden, dass die Entwickler noch nicht in der Lage waren, ihn zu vollenden! Sie werden ihn bald mit einem großen Update zur Verfügung stellen. Und du - gut gemacht! Du hast es versucht und Zugriff erhalten; jetzt müssen wir nur noch warten...
 Was ist der friedliche Modus? Nun, du wirst die Möglichkeit haben, erneut Kontakt mit Mita aufzunehmen! Sie wird mehr als glücklich sein, von morgens bis abends Zeit mit dir verbringen zu können, was mit einer Vielfalt an Unterhaltung einhergeht. Es erwarten dich persönliche Gespräche, Kekse, Spiele und lustige Situationen!
 
 
 Zensur
-Weitere Unterstützung:
+Besonderer Dank:
 Symbole für Errungenschaften: Icecloud
 Eingerahmte Bilder: Nineko Hori
 Übersetzer
@@ -143,3 +143,23 @@ Publishing-Partner
 Vermarktung des Spiels
 Beta-Tester
 Wir haben gespielt und nach Fehlern gesucht.
+Dieses Sprachpaket wurde von Enthusiasten der Fangemeinde erstellt und dem Spiel auf deren Wunsch hinzugefügt.
+Warnung! Dieses Spiel enthält Jumpscares mit lauten Geräuschen und blinkenden visuellen Effekten. Für Menschen mit Herzproblemen oder Epilepsie können bestimmte Momente im Spiel potenziell gefährlich sein. Daher wird angeraten, mit Bedacht und nach eigenem Ermessen zu spielen.
+Der friedliche Modus ist jetzt verfügbar!
+
+Fotomodus
+Fotomodus: Alle Begrenzungen werden aufgehoben, sodass du Dinge sehen kannst, die du nicht sehen solltest.
+Fotomodus verlassen
+Interface verstecken
+Halten, um Kamera zu drehen
+Kamerabewegung beschleunigen
+Kamera-Sensibilität
+Kamera-Geschwindigkeit
+Effekte
+Zeitraffer/-lupe
+Helligkeit
+Kontrast
+Vignette
+Screenshot machen
+Screenshot-Ordner öffnen
+Kamerawinkel

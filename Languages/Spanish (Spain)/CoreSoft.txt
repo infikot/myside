@@ -1,0 +1,58 @@
+Iniciando aplicación
+
+Confirme inicio de sesión
+Inicio de sesión incorrecto
+Programas
+Atrás
+
+Administrador de Dispositivos Virtuales
+Contabilidad de la Unidad del Servidor [Select Version]
+Monitoreo del Procesador Principal [Select Version]
+Monitoreo del Procesador Grafico [Select Version]
+Cuadrángulo
+Finalizar juego
+
+
+Administración Avanzada del Sistema
+Reiniciador de Personaje [Select Version]
+Reiniciador de Dispositivo [Select Version]
+Actualizador de Versión [Select Version]
+Recalcular Geometría [General]
+
+
+
+
+Reestablecer Sistema
+Solución de Problemas [General]
+Antivirus [General]
+Consola de Comandos [General]
+
+
+
+
+Funciones Avanzadas
+Eliminar Objeto [Select Version]
+Mostrar Cámara [Select Version]
+Mostrar Disparadores [Select Version]
+Configuraciones del Motor de Física [Select Version]
+Obtener Unidad Flash
+
+
+
+Funciones Menores
+Editor de Código Binario [Special Access]
+Editor de Matriz de Unidades [Special Access]
+
+
+
+
+
+Especificar Versión del Personaje
+Especificar Índice del Personaje
+Confirmar Reinicio
+Usar Palanca
+Ejecutar Subprograma
+¡Ejecutando Proceso de Reinicio!
+Preparándose para Reiniciar
+Reiniciando...
+Confirmar

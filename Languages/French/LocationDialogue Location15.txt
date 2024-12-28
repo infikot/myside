@@ -1,83 +1,83 @@
-
+// MitaKind
 Te voilà !
-Pourquoi tu as quitté le noyau central,
+Pourquoi tu as quitté le Cœur,
 je t'avais bien dit de m'attendre, non ?
-
+// Player
 Je pensais juste que tu ne reviendrais pas avant longtemps, et...
-
+// MitaKind
 Bon, très bien...
 Je pense avoir trouvé quelque chose...
-Je pense que c'est un index...
+Ce doit être un index...
 Il nous faudra voir si ça fonctionne !
 Sortons d'ici.
 La Mita Folle...
 Je pense qu'elle est occupée avec les nouveaux joueurs pour le moment.
 Alors j'imagine qu'elle ne s'occupera pas de nous.
-
+// Player
 Mita ?
 Attends-moi.
 
-
+// Mita killler
 Tu as perdu quelque chose !?
 Ce doit être ça !
-
+// Player
 Mita...
-
+// Mita
 Attrape !
 
-
+// Player
 Mais comment...
-
+// MitaKind
 Qui es-tu ?
-
+// Player
 Tu... Tu es en vie !
 Tu ne te souviens de rien ?
-
+// MitaKind
 Est-ce qu'on se connaît ?
-
+// Player
 Et maintenant ?
 Qu'est-ce que je suis supposé faire ?
 Je ne peux pas sortir...
-
+// MitaKind
 Sortir ? Qu'est-ce que tu veux dire ?
-
+// Player
 Attends...
 C'est l'anneau...
 Et ça ?
-
+// MitaKind
 Je ne sais pas ce que c'est.
-
+// Player
 C'est un index !
 Tu l'as bel et bien trouvé finalement !
-
+// MitaKind
 Je ne sais pas quoi te dire.
-
-On doit retourner au noyau central.
+// Player
+On doit retourner à l'intérieur du Cœur.
 Et quant à toi...
 Tu devrais peut-être venir avec moi.
-
+// MitaKind
 Ah ?
 Très bien...
-
+// Player
 Attends ici.
-
+// MitaKind
 Mm-hmm.
 Je vais m'asseoir là.
 
-
+// Player
 Merde...
-J'ai bien failli mourir.
+J'ai bien failli mourir...
 Alors... est-ce que c'est bon ?
 Bien.
 Je suis dans cette version.
 
-
+// Mita
 Salut !
 Tu es un joueur, n'est-ce pas ?
 Quel est ton nom ?
-
+// Player
 Je veux quitter cet endroit...
-
+// Mita
 Tu veux déjà partir ?
 Comment es-tu arrivé ici pour commencer ?
 Hmm...
@@ -85,7 +85,7 @@ Et bien, tu peux partir...
 Essaye juste de quitter la maison.
 Je te souhaite bonne chance !
 
-
+// Mita
 Un mur ?
 Oh, ça ne devrait pas être comme ça.
 Peut être que...
@@ -100,7 +100,7 @@ Je n'y comprends pas grand-chose,
 et je ne compte pas m'y intéresser.
 C'est aussi plutôt inconfortable, je veux dire, vraiment inconfortable.
 Tu vas y jeter un œil ?
-
+// Player
 Hum. D'accord.
 
 // Player thinks
@@ -111,32 +111,32 @@ le monde a redémarré ?
 Il ne reste plus qu'à quitter
 ce fichu jeu...
 
-
+// Mita
 Attends,
-je voudrais te faire un calin.
-
+je voudrais te faire un câlin.
+// Player
 Hein ?
-// Hugs
+// Mita - hugs
 Ça m'a fait plaisir de te voir.
-
+// Mita
 Ahh.
 Quel dommage
 que toi et moi
 n'ayons passé que si peu de temps ensemble.
-
+// Player
 Je ne comprends pas...
 De quoi est-ce que tu parles ?
-
+// Mita
 Ce que je veux dire, c'est que
 tu aurais pu rester avec moi,
 c'est de ma faute...
 Ce placard et... les sons.
 J'aurais dû la TUER plus tôt !
-
+// Player
 Attends une minute,
 ne me dis pas...
 Comment tu te souviens de ça ?
-
+// Mita
 AH !
 Tu pensais vraiment que ce serait aussi simple ?
 Tu es vraiment un idiot...
@@ -146,20 +146,20 @@ Désormais,
 le VRAI toi
 n'est plus nécessaire.
 Je suis désolé.
-
+// Player
 Je n'y crois pas...
 Ça n'a pas fonctionné ?
 Non, je suis définitivement parvenu à te réinitialiser...
-
+// Mita
 Tu n'as donc toujours pas compris...
 Ah-ah-ah !
 Quelle bonne actrice je fais !
 Tu aurais dû voir ta tête, chéri !
 C'est tellement amusant !
-
+// Player
 Pourquoi tu es comme ça ?!
 Qu'est-ce qui ne va pas avec toi ?!
-
+// Mita
 C'est ça...
 Qu'est-ce qui ne va pas avec moi ?
 Je n'en sais rien...
@@ -171,12 +171,12 @@ Je ne fais que dépecer ces idiotes naïves,
 pour me cacher sous leur peau...
 Je ne peux pas simplement être
 réinitialisée !
-
+// Player
 Je n'arrive pas à y croire.
 Toi...
 Tu n'es pas juste le problème !
 Tu ne devrais même pas exister !
-
+// Mita
 De même pour toi...
 Ça me fait mal de t'entendre dire ça.
 Et pourtant !
@@ -189,7 +189,7 @@ Le moment est venu de te retirer de la console !
 Tu seras ma cartouche préférée...
 Un joueur avec un nom intéressant.
 
-// core console - nope programm
+// core console - nope programm - Player
 Ça ne doit pas être ça.
 Ça ne correspond pas non plus.
 Nope.
@@ -208,14 +208,14 @@ L'index n'est pas bon.
 Je dois entrer l'index à nouveau.
 Ça ne marche pas.
 
-// Why kitchen
+// Why kitchen - MitaKind
 Tu as faim ?
 Je suis douée pour couper des carottes.
 
-// Why bathroom
+// Why bathroom - MitaKind
 Oh, j'imagine
 que tu souhaitais venir ici seul ?
 
-// Why bedroom back
+// Why bedroom back - MitaKind
 Tu as décidé de tourner en rond ?
 Pourquoi revenir ici ?

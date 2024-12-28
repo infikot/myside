@@ -1,0 +1,58 @@
+Başlatılıyor...
+
+Şifre girin
+Yanlış şifre
+Programlar
+Geri
+
+Sanal Cihaz Yöneticisi
+Sunucu Birimi Muhasebesi [Sürüm Seçin]
+Ana İşlemci İzleme [Sürüm Seçin]
+Grafiksel Süreç İzleme [Sürüm Seçin]
+Dörtgen
+Oyundan çık
+
+
+Gelişmiş Sistem Yönetimi
+Karakter Sıfırlama [Sürüm Seçin]
+Cihaz Sıfırlama [Sürüm Seçin]
+Sürüm Güncelleme [Sürüm Seçin]
+Geometriyi Yeniden Hesaplama [Genel]
+
+
+
+
+Sistem Kurtarma
+Sorun Giderme [Genel]
+Antivirüs [Genel]
+Komut Konsolu [Genel]
+
+
+
+
+Gelişmiş İşler
+Nesneyi Sil [Sürüm Seçin]
+Kamera İzle [Sürüm Seçin]
+Tetikleyicileri Göster [Sürüm Seçin]
+Fizik Motoru Ayarları [Sürüm Seçin]
+USB al
+
+
+
+Küçük İşler
+İkili Kod Düzenleyici [Özel Erişim]
+Birim Matrix Düzenleyici [Özel Erişim]
+
+
+
+
+
+Karakterin Sürümünü Belirtin
+Karakterin Sıra Numarasını Belirtin
+Sıfırlamayı Onaylayın
+Kolu Çekin
+Alt Programı Çalıştırın
+Sıfırlama İşlemi Devam Ediyor!
+Sıfırlamaya Hazırlanılıyor
+Sıfırlanıyor...
+Onaylayın

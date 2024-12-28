@@ -120,7 +120,7 @@ Die Küche glimmte noch heller als das vorherige Zimmer.
 Mit meiner Nase erschnupperte ich den frischen Duft von Karotten, welcher mir schon bekannt war.
 Jedoch keine Spur von 2D-Mita.
 Ich sprintete regelrecht hinaus in den Flur und kletterte geschickt über das Sofa, das auf meinem Weg ins Schlafzimmer ein kleines Hindernis darstellte.
-Ich riss die Tür auf, sodass die Schanieren knarrten.
+Ich riss die Tür auf, sodass die Scharniere knarrten.
 
 // Description bedroom:
 Mit überkreuzten Beinen saß Mita im Lotussitz auf dem Bett und schien darauf zu warten, dass ich sie endlich finden würde.
@@ -213,7 +213,7 @@ Und was ist das, zur Hölle?
 Diese flache Welt ist mir zuwider.
 Langweilig…
 Scheiße!
-Wohin geht ihr? Bleibt stehen!
+Wo geht ihr hin? Bleibt stehen!
 
 Ich nahm die Hand meiner verängstigten Freundin und schnellte zum Ausgang.
 Befremdend wandelte sich der Gang und schon waren wir dabei, einen gewaltigen Flur entlangzurennen, während uns ein bößartiges Streben auf den Fersen war.

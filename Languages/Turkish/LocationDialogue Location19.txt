@@ -1,0 +1,605 @@
+
+B... Ben kurtuldum!?
+
+Ananı!
+Beni korkuttun!
+Ya, ama
+Oyunum-hayır ya!
+Anlamıyorum...
+Oyun nerede?
+İlerlememin içine ettin!
+Ne istiyorsun?
+
+Sürüm lazım...
+
+He?
+
+Bi şekilde eski sürüme gitmem lazım.
+
+Tamam!
+Seninle ilgilenemem,
+meşgulüm!
+
+Neyle? Oyuncaklarınla mı?
+
+Gıcığa bak!
+Aramızda bir arkadaşlık olmayacak!
+
+Dinle, Çekirdeğe gitmem lazım.
+
+Senin yüzünden canım acıdı!
+Hay.
+He?
+
+...Mita'yı durdurmak için çekirdeğe gitmem gerek!
+
+Mita?
+Bana ne!
+Onu umursamıyorum!
+İlk değil yüzüncü değil!
+
+Sen de Mita'sın ama...
+
+Ben Mila.
+
+Mi-Ta? La?
+
+Evet! Hepsi Mita üstüne Mita,
+Orada Mita, burada Mita, her yerde Mita!
+
+Sen de şimdi... Mila'sın.
+
+Söyledim ya zaten. Jeton köşeli galiba.
+
+Peki.. Kolay gelsin o zaman Mila.
+
+Nereye gittiğini sanıyorsun?
+Öylece gidebileceğini mi sandın?
+
+// Player check exit
+Neye baktın? 
+
+Tabii kolay olurdu
+Bu nedir?
+
+Ne bekliyordun ki—
+Cenneti mi?
+
+Nasıl çıkarım?
+Burada çıkış olmalıydı.
+
+Buradan çıkış yok.
+
+Peki hangi sürümdeyiz o zaman?
+Sanırsam doğru yoldayım.
+
+// Glitch kitchen
+Bu senin mi?
+
+Geri çekil!
+Ne tür bir
+hata olduğunu bilmiyorum!
+
+Yüzüğüm titriyor.
+
+Ne tür bir yüzük?
+Evlilik yüzüğü mü?
+
+Hayır, bi tane Mita verdi. Yüzlerce arasından biri.
+Beni çıkarma ihtimali olan biri.
+
+Sen de ona dokunacak mısın?
+Ev patlarsa sen de ölürsün bilesin.
+
+// Bathroom - Mila is washing
+Hey!
+ÇIKSANA!
+Dolu olduğunu göremiyor musun?!
+// The player continues to stand 1
+Niye halen dikiliyorsun!?
+Çık!
+// The player continues to stand 2
+Beni sinirlendirme!
+Çık şurdan!
+// The player continues to stand 3
+Sağır falan mısın!?
+Duş alıyorum.
+
+// Mila came out and swears
+İçerdeki neydi öyle.
+Hiç görgü yok.
+
+Niye duşa girdin ki zaten.
+İşimin bitmesini
+beklesen olmaz mıydı?
+
+Ne kadar sürer bilemedim.
+Daha ne kadar o hatalarla uğraşacaksın ki hem?
+
+Hatalar mı?
+Birden fazla mı var?
+
+Evet...
+E, ev halen ayaktaysa
+Mutfaktakini hallettin varsayıyorum.
+
+Sanırsam halloldu.
+
+Tamam, artık iznin var.
+Banyoya girebilirsin.
+
+Teşekkürler.
+
+// Mila hides under the table
+Mila?
+Aşağıda napıyorsun?
+
+Ah!
+Yine beni korkuttun!
+Ne istiyosun!
+
+Başka hata gördün mü?
+
+A, yani senin problemlerin
+benim kitap okuma seansımı bölebilir öyle mi?
+Hayır, görmedim!
+
+İşe yarasan şaşarım zaten.
+
+Bekle..
+Bir şey soracağım.
+Buradan çıkmak istiyorsun
+değil mi?
+
+Doğru.
+Oyundan çıkmak istiyorum.
+
+Garip gelebilir ama
+Benimle kalıp kitap okumaz mısın?
+
+Önce bağırıyorsun, sonra da
+kal kitap okuyalım mı diyorsun?
+Kalabilirdim,
+ama ilerlemem lazım.
+
+İyi!
+Git hatalarını ara!
+Yine senin yüzünden canımı acıttım.
+İki oldu.
+// Player saw a glitch
+Ah, buldum.
+
+// Mila stands with a sword
+Bakıyor musun?
+Tehlikeliyim!
+Bak napıyorum!
+Bu kadar tehlikeliyim işte
+Ama sen göz bile kırpmadın.
+
+Ciddi misin!?
+
+Ne oldu?
+Yeterince ikna edici değil miydi?
+
+Pek değildi...
+
+O bulmacaları çözerken her şeyi gördün 
+değil mi?
+Taşın önceden kesilmiş olduğunu biliyordun
+değil mi?
+
+Hayır.
+Yani oyundayız sonuçta.
+Parmak şıklatmasıyla her şey mümkün zaten burada.
+
+Ah,
+Seni aptal!
+Parmak şıklatmasıyla, öyle mi?
+Bu kitapları niye okuyorum sanıyorsun?
+Parmak şıklatmasıyla halledeyim diye mi?
+Kendim yapmayı tercih ederim.
+Aynı kitaplarda yazdığı gibi.
+
+// Mila is doing push-ups
+Napıyon?
+
+Anlaşılmıyo mu?
+
+Tamam da niye yapıyorsun?
+
+Seni yumruklamak için.
+
+Sorunun ne tam olarak?
+Garip davranıyorsun.
+
+Tabii!
+Yumruklamak konusunda—
+Ciddi değildim.
+Ve garip değilim!
+Farklıyım!
+Herkesten olabildiğince farklı olmaya çalışıyorum.
+
+Çok uğraşmana gerek yok.
+İnan bana zaten çok farklısın.
+
+Biliyorum!
+Bak napıyorum.
+Gördün mü?
+Ve elsiz.
+
+Oyun olduğunu biliyorum.
+Ama bu çok saçma bir şekilde gerçeklik dışı.
+
+Ah!
+Aaahhh!
+Aptal fizikler...
+Gerçeklik hakkında konuşuyorsun
+ve BUM
+Böyle oluyor
+Ve BANA mı garip diyorsun?
+Aptal seni!
+
+// Last glitch ready - player exit
+İşte geçit.
+Yaptık, Mila.
+
+
+Helal olsun!
+Kahraman.
+
+Aman.
+
+Pardon.
+Acıtmak istemedim.
+
+Sorun yok Mila. Artık gidebilirim.
+
+Bak, gitmen gerek biliyorum
+ama biraz daha kalamaz mısın?
+Biraz daha?
+
+Duramam.
+Deli Mita pek sabırlı değil.
+
+Ugh, Ondan nefret ediyorum!
+
+Nefret ediyorum! Nefret!
+
+Mila, dinle...
+
+Neden buradayım ki?
+Anlamıyorum!
+Neden anlamıyorum?!
+Ve asla da buradan çıkamayacağım!
+
+Hislerini anlıyorum, Mila.
+Her şey bittikten sonra geri gelmemi ister misin?
+Yapabilirsem?
+
+Burada kal, Oyuncu...
+Eğlencelisin, yalnız olmaktan farklı...
+Ya başaramazsan?
+
+Başaracağım, sadece biraz sürecek.
+// If the player clicks on the computer
+İki boyutlu yerden yeni kurtuldum
+Ve işte... Yine buradayız.
+Gerçek dünyaya dönmek için sabırsızlanıyorum.
+
+Ha ha ha! :)
+O,
+'Gerçek' dünya, öyle mi?
+Şehir efsanesi gibi.
+Hiç görmedim.
+
+Sanırım
+bir yolu olmalı.
+
+Bayağı hırslısın.
+Komikmiş.
+
+// Ask about books
+Neden kitap okuyorsun ki?
+İnternet var.
+
+İnternet mi? Hikaye dolu.
+Elimde gerçek bir
+kitap tutmayı tercih ederim.
+Onlar aracılığı ile
+bu dünya hakkında
+çok fazla şey 
+öğreniyorum.
+
+// Ask about the paintings
+Bu fotoğraflar gerçek mi?
+Öbür sürümlerde de varlar,
+ama onları anlamak daha kolay.
+
+Ben MiLa, anladın mı? Öbürleri gibi değil.
+Ve bunlar da..
+Bunlar çizim.. biliyorsun değil mi.
+Yalanın manası yok.
+Başka Mitalar da gördüm.
+Böyle duruyorlardı.
+
+Mila?
+Alo?
+// Mila.
+Olanlardan sonra...
+Öyle olmak istemiyorum.
+Çok... İğrenç!
+
+// Ask about the butterfly painting
+Doğayı görmüş müydün?
+Buna benzer kelebekler?
+
+Hayır
+ama burada bir yerde bir kitabım var.
+İçinde bastırılmış kanatlar bile var.
+Hmm...
+Bu tablo...
+Biraz yamulmuş
+Bir de şurda bir iz var...
+İşte, Daha iyi.
+
+Gerçek bir tane görmek ister miydin? Doğada yürümek?
+
+Çok saçma bir soru.
+Tabii ki
+isterdim.
+
+// Make long eye contact 1
+Ne baktın?
+Çevir kafanı.
+
+// Make long eye contact 2
+Yeter!
+Dur artık!
+Aptal.
+
+// Make long eye contact 3
+Hadi ama.
+Niye dikizliyorsun?
+Bayanım ben UwU
+
+Terbiye almadın mı?
+Kış!
+
+// Whispers 1
+Bana da ne yapacağını bilmeyen
+elemen denk gelir zaten.
+Bir de iyiyi oynamamı beklerler.
+Oyun oynayacakmışım.
+Aptal bir oyuncak gibi.
+
+// Whispers 2
+Etrafta dolaşıyor..
+Meraklı aptal.
+
+// Whispers 3
+Bir şey mi dedin?
+Şu müzik kafayı yedirtecek.
+
+// Whispers 4
+Meşgul olduğumu
+nasıl söylerim?
+Misafir istemiyorum...
+Ya giderse? Bana ne niye umursayayım?
+
+// Whispers 5
+Anne... Baba...
+Bu kelimeler neden tanıdık geliyor?
+
+// Whispers 6
+Bir keresinde buraya kar yağmıştı... Ama neden?
+
+// Whispers 7
+Bir anda ortaya çıkıyor! Korkunç.
+Ya orada hiçbir şey yoksa?
+
+// Nearby 1
+İşte buradayız.
+Dikiliyoruz...
+Sessizce...
+Niye dikiliyoruz?
+Dilini kedi mi yuttu?
+Ya da.
+Ne diyeceğini bilmiyorsun değil mi?
+
+// Nearby 2
+Havuçları boykot ediyorum!
+Ya da savaş açıyorum!
+Havuçların bir kızın kar beyazı cildine
+Neler yapabileceğini biliyor musun?
+
+// Nearby 3
+Kitaplar, hakkında pek bir şey demiyor
+ama şanslıysam bi yolunu bulacağım...
+Şu arkamdaki, 
+çoğalan havuçları yok edeceğim.
+Korkutucular!
+
+// Nearby 4
+Garip insanları sevmem!
+Havuç severler, Kedi severler...
+Ve karşınızda, Hata toplayıcısı.
+Cidden, tanıştığım en garip insansın!
+
+// Nearby 5
+Yapmayı en sevdiğim şeyi mi merak ediyorsun?
+...Şey, söylemesi biraz utanç verici.
+
+// Nearby 6
+Doğana karşı savaşmak
+Zordur derler.
+Disiplinim üzerine çalışıyorum. Ama şu anda
+seninle bir çay partisi yapmamak için
+nasıl zor duruyorum bilemezsin.
+
+// Nearby 7
+Gözlüklerle bile
+o garip, katı azminin
+katmanlarını göremiyorum.
+
+// Nearby 8
+Kaderin önceden yazılmış,
+gününü  nasıl geçireceğini bile
+yazan bir şey olduğunu okumuştum.
+Heh! Kim yazmış ki onu?
+Sen mi?
+
+// Nearby 9
+Aptallara katlanırım da, delilere?
+Nefret ederim.
+
+// Nearby 10
+Bazı Mita'lar 
+sevimliler aslında...
+Klonun klonunun klonu olsalar da
+tanışmak isterdim.
+
+// Nearby 11
+Ama farklı biri var.
+Kafada birkaç tahta eksik.
+
+// Nearby 12
+At kuyruğu yok!
+Kullananlarınkini kesebilsem keserdim kopartırdım!
+Utanç vericiler!
+Sen de benimle aynı düşünüyorsun galiba, sıfıra vurmuşsun!
+
+// Nearby 13
+Ya arkasında hiçbir şey yoksa?
+Sen, ben ve bu ev bir hiç için
+var oluyorsa?
+Neden bu kadar eminsin ki?
+Beş dakika hipotezini duymuş muydun?
+
+
+
+// Last glitch ready - player exit
+Korkunç bir koridor...
+Oraya gidicek misin gerçekten
+
+Evet.
+
+// FaceStone
+A 'düşünceli' bir centilmen.
+Bu neden burada?
+
+Yakında
+öğreneceksin.
+Bu arada neden onu taklit ediyorsun ki?
+Suratını basit tut.
+
+Ehm...
+Peki...
+
+// Katana
+Oyuncak katana mı bu?
+
+Oyuncak bir katana DEĞİL o.
+Bıçağa elini değdirdiğin anda
+kanarsın.
+Senin aksine tecrübeli bir kılıç ustasıyım.
+Dikattli olsan iyi olur
+Parmaklarını dilimlediğini görmek istemem.
+
+// Mirror
+Ayna...
+ve yansıma yok?
+
+Sen
+Rahatsız oldun galiba.
+Bak, kitaplarda yansımaları
+okumuştum!
+Ama benim sürümümde olmuyor.
+Olmuyor tamam mı?
+
+// Switch light
+Bu şey çalışmıyor.
+Burada ışıklar kendiliğinden açılıp kapanır...
+Akılları varmış gibi!
+Ancak
+bir nedenden ötürü
+banyonunki çalışıyor.
+Garip!
+// Switch light off
+Halen ışık var mı?
+
+// Little carrot
+Havuç mu?
+Dur, nereye gitti?
+
+Ahh, o havuçtan bıktım!
+Sanki yaşıyormuş gibi!
+Ne zaman görsem,
+Başka bir yere ışınlanıyor.
+
+// Little carrot
+A, o havuç...
+yine gitti!
+Hakkında bir şey yapabilir miyiz dersin?
+
+Hayır.
+İnan bana,
+çok denedim!
+Görmezden gel.
+Kozmik bir şaka gibi bir şey.
+
+// Tetris
+Hey!
+Beni unuttun galiba?
+// Tetris
+Geri vermiyorum?
+Hayır, asla.
+
+// Soap.
+Bu sabun gerçek mi?
+Yoksa dekor mu?
+
+Dalga mı geçiyorsun?
+Burdaki çoğu şey 
+Gerçek!
+
+// BagWall
+Nereye kayboldun!?
+
+Buradan geçiliyor muymuş?
+
+Yine bir hata falan mı buldun?
+Ne görüyorsun?
+
+Şeye benziyor..
+hiçbir şey.
+
+Ah, hoş geldin.
+
+// Quest 1 Glasses
+Gözünde sorun mu var?
+Neden gözlük kullanıyorsun?
+
+Ne— Beğenmedin mi?
+Stil diyoruz buna!
+Ve gözüm gayet iyi, teşekkürler.
+
+// Quest 2 Name miLa
+Mi-La?
+Neden...
+Mi-Ka ya da
+Mi-Sa değil?
+
+Ben Mila. Bu kadar. Niye?
+
+Boşver.
+
+// Quest 3 Evening
+Akşamüstünü seviyorum.
+Ne zaman gece olur?
+
+Gece mi?
+Uh, Başlama bile.
+Burada günler sonsuz...
+Biri ardına öbürü.
+Sanki döngüdeymiş gibi.
+Uhh.

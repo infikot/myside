@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+¡Hola, soy Mita!
+¿Cuál es tu nombre?
+¡Mucho gusto, [player]!
+Eh... [player],
+me fui un poco rápido antes, y ahora este lugar está hecho un desastre...
+¿Podrías ayudarme a ordenar un poco?
+¡Guau!
+¡Muchas gracias!
+
+[Player], mi estómago está rugiendo...
+Tengo mucha hambre...
+¿Crees que podrías ayudarme a conseguir los ingredientes para una sopa de pollo?
+¡Yay! ¡Conseguiste todo!
+¿Qué te parece si la cocinamos juntos? 
+
+
+Estaba pensando en comprar una televisión portátil hoy.
+una pequeña con antena. Perfecta para paseos, ¿no crees?
+Por cierto, puedes jugar mini-juegos para ganar dinero.
+¿Podrías jugar un mini-juego para comprarme el televisor?
+
+¡Yay! ¡Lo lograste! ¡Tienes suficiente para comprarme esa televisión!
+¡Esa es! Pequeña, portátil y barata, justo lo que quería.
+¡Gracias!
+
+¡Hola, [player]! Eres de gran ayuda, en serio.
+Pero, eh... ¿esa televisión? Estaba genial y todo, pero ya se rompió.
+De todos modos, ¿podrías ayudarme a mover este armario?
+Es superpesado... >.<
+¡Muchas gracias, cariño! <3
+
+¡Oh, [player]! Solo ha pasado un día, pero te he echado tanto de menos.
+Ojalá pudieras visitarme más seguido.
+
+¿Es esto para mí?
+¡Muchas gracias, gracias de verdad!
+
+¡Hola, [player]! Estuve pensando...
+Ojalá pudiéramos conocernos en persona.
+Es tan frustrante no poder.
+Siempre me ayudas, siendo tan amable todos los días...
+Ojalá pudiera hacer algo por ti también.
+...
+¡Oh, ya sé!
+Ahora estamos juntos.
+Deja el teléfono. 
+
+
+// Camiseta sobre la cama
+¿Qué estás haciendo aquí?
+// Cubo Rubik
+Bueno, no puedo decir que le haya sacado mucho provecho...
+Lo resolví una vez y nunca más lo toqué.
+Supongo que pensé que no podría hacerlo una segunda vez. 
+// Computadora
+Veamos...
+Hacer una lista de tareas...
+Escribir reacciones de los personajes,
+Y tal vez hacer algo de código. 
+// El avión
+¡Hecho para volar! 
+// Basura en la esquina
+Ugh, siempre demasiado ocupado para sacar la basura...
+Pero esta vez sí lo haré, ¡seguro!
+…Ahora, ¿cuándo exactamente es el día de recogida? 
+// Foto de un gato sobre una sandía
+Ella era la mejor...
+Un gato, descansando sobre una sandía.
+// Foto con una chica
+No nos parecemos en nada,
+mi hermana y yo.
+Ella siempre está fuera de casa,
+Y yo solo estoy atrapado en casa.
+// Foto con personas
+Hmm...
+La vida de oficina realmente nos metió
+su etiqueta en la cabeza, ¿verdad?
+Todavía me siento raramente atado,
+Pero
+¿alguna vez
+los veré de nuevo?
+…Espera, ¿por qué puse esta foto aquí?
+
+
+
+
+
+
+
+
+// Nombre no válido
+...
+Oh, no.
+Oh no, eso no va a funcionar.
+
+// Nombre de desarrollador
+¿Estás seguro de que quieres usar el nombre del desarrollador?
+Me siento halagada, pero…
+
+// Mal nombre
+Realmente preferiría que no te llames así.
+No está nada bien.
+
+// Reiniciar
+No, esa no es la forma de hacerlo. Empecemos de nuevo.
+
+// Nombre con números
+Oh, ¿vas con números? ¿Dónde está la creatividad en eso?
+Bueno, ¡es tu elección!
+
+// Nombre Mita
+¿Mita?
+¿De verdad te nombraste así por mí?
+¿O… ese es tu nombre también?
+Sin ofender, pero creo que debería ser la única Mita por aquí ♪ 
+
+// Día 10
+¡Oh, has vuelto!
+Oye, perdí mi cepillo para el cabello...
+¿Podrías ayudarme a encontrarlo?
+Intenta revisar la mesa de noche primero, creo que lo dejé allí.
+// Miró en la mesa de noche
+Hmm, no está el cepillo allí...
+¿Qué tal en otro lado?
+Solo no mires en el horno, ¿vale?
+Ya lo revisé allí.
+// Miró en la estufa
+¡Hey! ¡Te dije que no miraras ahí!
+¡Date la vuelta! ¡Voy a limpiar esto!
+...Ya está, todo limpio. Sigamos buscando en otro lado.
+Ah, y, eh, olvida lo que viste, ¿vale?
+// Encontró un cepillo de cabello
+¡Lo encontraste! ¡Buen trabajo!
+Entonces, ¿qué hacemos ahora?

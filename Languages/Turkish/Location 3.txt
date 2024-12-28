@@ -1,0 +1,16 @@
+// Quest none
+Boş ver.
+// Quest "First Mita"
+Sen Mita mısın?
+Geri gitmek istiyorsam?
+Oyuna nasıl girdim?
+// Quest "Kitchen eat"
+Evin hoşmuş.
+Eve ne zaman giderim?
+Rüya gibi hissettiriyor…
+Neden manzara sadece beyaz ışık?
+Bıçak varken neden makas kullandın?
+Afiyet olsun!
+// TV
+Havalı içecek!
+Güçlü İÇECEK!!!

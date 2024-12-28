@@ -1,0 +1,84 @@
+// The first meeting
+Sen kimsin?
+Sorun ne?
+Konuşamıyor musun?
+
+
+Bekle...
+Çıkmak istiyorsun değil mi?
+
+Evet..
+Önceki sürüme,
+geri dönmem gerek.
+
+Önceki sürüm mü?
+Neden başka bir yere
+gidesin ki?
+Burada kalıp
+benim ikinci
+arkadaşım olsan ya?
+
+// Skipping all dialogs
+Peki...
+
+// Standing by the window (Random)
+Kapılar seni kurtarmayacak...
+Acelen var gibi...
+Yuvarlak çizmenin bir faydası yok.
+Çıkışı bu kadar mı istiyorsun?
+Pencereden dışarıya bak...
+
+
+// Quest 1 (Aren't you Mita?)
+Oyuncu... Sen oyuncusun, değil mi?
+Birlikte oynayabiliriz.
+Gücümü toparlayabilirsem bi.
+Sadece oyun oynasak yeterli.
+
+// Quest 2 (What happened to you?)
+Emin değilim ve aslında bilmiyorum...
+Kötü bir şey olmamıştır bence...
+İyi olan her şey yok olup gidiyor gibi...
+En azından bir arkadaşım var.
+Neden terk edildim ki?
+Yeterli değil miydim?
+Korkuyorum...
+
+// Quest 3 (Become a second friend?)
+Arkadaşlar...
+Çok az arkadaşım kaldı.
+Bir tanesi duruyor...
+Mutsuzum, oyuncu.
+Arkadaşım olur musun?
+
+İsterdim,
+ama devam etmeliyim...
+
+Kalbim ağrıyor.
+
+// Quest 4 (Is this your house?) - MitaLittle
+Ev mi?
+Oyuncu... Değişmişsin...
+Kolların daha kısa ve artık kızgın durmuyorsun...
+Oyuncu, Daha yumuşak olmuşsun, daha nazik.
+
+Ne anlamam geldiğinden
+emin değilim...
+
+Sorun değil...
+Çünkü artık incinmeyeceğim değil mi?
+
+// Quest 5 (How do I leave this place?)
+Beni gerçekten terk mi ediyorsun?
+Acaba bu benim
+kaderim olabilir mi?
+
+Ben...
+
+Kapılar seni kurtarmaz.
+
+// Hold player (Random)
+Gitmesene.
+Burada kal...
+Benimle oyna...
+Oyuncu...

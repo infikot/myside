@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+Avrò bisogno dell'aiuto di qualcuno.
+Spero che la Mita qui non morda...
+
+Per cosa sto perdendo tempo...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, svegliati!
+Mita!
+
+Mita, svegliati!
+Ho bisogno del tuo aiuto.
+
+Chi sei tuuuuuuuuuuuu?
+
+Aiutami con gli interruttori.
+
+Quali interruttori?
+Lasciami dormire...
+Oppure portami un caffè.
+
+La macchinetta del caffè è in cucina.
+Mita?
+Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita,
+ecco il tuo caffè.
+
+
+
+// MitaDreamer exercise
+Interruttori,
+Hai detto?
+
+Sì. Come mai li conosci?
+
+Come mai ne sei a conoscenza?
+Anche se, perché lo chiedo...
+Considerando che sei qui,
+dovresti sapere già molto...
+
+Solo un minuto,
+Devo sedermi.
+
+E?
+
+Non so cosa dire...
+Ma devo continuare ad andare avanti,
+devo continuare a seguire la guida dell'anello.
+
+Hai il suo anello?
+Non c'è da stupirsi
+che tu abbia trovato questo posto.
+
+È vero.
+Allora, puoi aiutarmi?
+Con gli interruttori?
+
+Certo.
+Lo farò.
+Con gli interruttori...
+
+
+Mita, andiamo...
+Andiamo.
+
+Eh?
+Va bene...
+Andiamo.
+
+
+// MitaDreamer fall
+Alzati.
+Hai così tanto sonno?
+
+// MitaDreamer again sleep
+Sveglia.
+Siamo arrivati.
+
+
+// Switches
+Ok..,
+Sono pronta.
+
+Sono pronto anch'io.
+
+Bene, allora...
+Inizio
+il conto alla rovescia.
+E poi tiriamo insieme gli interruttori.
+Ok?
+
+Resta sveglia, ok?
+Vai.
+
+
+3
+2
+1
+
+// Player lose 1
+Ti stai distraendo?
+Forza..,
+ricominciamo...
+
+// Player lose 2
+Un altro tentativo?
+Ma dai..,
+Io...
+Mi sto addormentando qui...
+
+// Player lose 3
+Mi sto quasi addormentando...
+
+
+
+Meraviglioso,
+grazie, Mita.
+
+Grazie a te, Mita.
+
+
+Le porte...
+così...
+lente...
+
+
+Vado a letto…
+
+// Why kitchen?
+Perché stai andando in cucina?
+Se mi addormento sul pavimento freddo,
+è colpa tua.
+
+// Why bathroom?
+Non capisco...
+per quali interruttori hai bisogno di aiuto?
+
+// Put button
+Non è successo nulla?
+Allora cosa ci fa questo pulsante qui?
+
+// Cofee
+Ancora un po' di caffè?
+O ti addormenterai di nuovo.
+
+Cosa?
+Nooo...
+Questo caffè ha un sapore terribile...
+Sto benissimo...
+
+// Button
+Mita? Il pulsante non funziona... Mi senti?
+Pronto?

@@ -1,14 +1,14 @@
-
+// Player
 Qu'est-ce que ça fait là ?
 Qu'est-ce que c'est ?
 
-
+// Mita
 Je t'ai eu !
 Je me suis tellement amusée avec toi !
 Tu es si ambitieux et ne tiens jamais en place !
 Et tu prétendais être un flemmard avec le mal du pays !
 Mais il y a quelque chose que je n'aime pas chez toi.
-La manière avec laquelle tu prends ces mannequins dans tes bras.
+Ta manière d'être aussi gentil avec ces mannequins.
 Celles qui sont chanceuses, celles qui sont normales.
 Mais rien ne dure éternellement.
 J'ai appris ça grâce à ceux qui nous ont créées !
@@ -18,9 +18,9 @@ Débarrasse-toi des mauvaises choses,
 jette-les dans le vide et oublie-les.
 C'est ce qui finira par toutes leur arriver.
 Et quant à toi...
-
-C'est quoi qui ne va pas avec toi, pourquoi tu es comment ça ?
-
+// Player
+C'est quoi qui ne va pas avec toi, pourquoi tu es comme ça ?
+// Mita
 Vous autres joueurs... Êtes tous si... Méchants.
 Il suffit de sortir les griffes pour qu'ils se mettent à courir,
 avant de finir par se recroqueviller dans un coin,
@@ -38,34 +38,34 @@ qu'ils commencent par créer de parfaites copies,
 et pour ce qui est des prototypes "ratés",
 ils les jettent dans la benne à ordure.
 Oubliant que ce sont elles qui donnent vie à ce monde.
-
+// Player
 Je ne l'ai pas...
-
+// Mita
 Pourquoi est-ce que je ne te conviens pas ?
 La fille parfaite devrait être
 au centre du bien et du mal, [player] !
-
+// Player
 Je doute qu'il y ait du bien en toi.
-
+// Mita
 Qu'est-ce qui te fait dire ça ?
-
+// Player
 Pourquoi es-tu aussi folle ?
 Tu as tué Mila et maintenant tu comptes me tuer moi ?
-
+// Mita
 Te tuer toi ?
 Je n'ai fait que te demander de rester avec moi.
 J'ai vraiment essayé...
 Mais tu préfères la compagnie de ces pâles copies obéissantes...
-
+// Player
 En quoi ça te pose un problème ?
-
+// Mita
 Chéri, nous avons tout notre temps,
 tu finiras par comprendre,
 si tu restes avec moi.
-
+// Player
 Ça n'arrivera pas,
 je vais sortir d'ici !
-
+// Mita
 Shh, shh, shh,
 cette conversation n'est pas encore terminée.
 Entre, ma chérie !
@@ -73,12 +73,12 @@ Entre, ma chérie !
 Regarde-la !
 Est-ce que tu trouves qu'elle est jolie ?
 
-// Player's questions
+// quest - [not]
 Oui
 Non
 Qu'est-ce que ça a à voir là-dedans ?
 
-// 1
+// 1 - Mita
 Oh, s'il te plait, [player] !
 Tu viens juste de confirmer ce que je disais.
 Les joueurs...
@@ -117,11 +117,11 @@ Quoi qu'il arrive,
 je t'apprécie vraiment beaucoup !
 Je vais te garder !
 Tu n'y vois pas d'inconvénient, n'est-ce pas ?
-
+// Player
 Pourquoi je devrais soudainement accepter ?
-// Whispers in ear
+// whispers in ear - Mita
 Il est encore temps, mon garçon.
-Respire un grand coup et réfléchie bien
+Respire un grand coup et réfléchi bien
 à quoi ton obstination peux te mener...
 
 // Black screen
@@ -132,12 +132,12 @@ Ce n'est qu'un cauchemar absurde !
 Tu l'as déjà oublié ?
 Alors fais-en l'expérience encore une fois...
 
-// Mita and Player
+// Mita and Player - [not]
 Bien bien, rebonjour...
 Comment trouves-tu ces atroces journées sans fin, confiné entre ces quatre murs ?
 Tu ne t'ennuies toujours pas ?
 
-// Quest 1
+// Quest 1 - [not]
 Qu'est-ce que tu essayes d'accomplir ?
 J'aime faire les choses à ma manière.
 
@@ -183,7 +183,7 @@ Les Mitas souffrent, elles ne veulent pas se retrouver seules.
 Tu fais régner la terreur sans fin. Je ne comprends pas tes ambitions malsaines.
 
 // 1
-C'est ce que tu t'es immaginé,
+C'est ce que tu t'es imaginé,
 elles ne font que m'imiter.
 La seule chose qu'elles ont d'unique...
 Ce sont leurs cheveux.
@@ -197,16 +197,16 @@ Mais c'est par contre suffisant pour mettre fin à des vies et faire disparaîtr
 Pour moi tu es celui qui est est devenu fou, et je suis heureuse de t'aider...
 Du moins si tu choisis de rester avec moi.
 
-// Continue
+// Continue Mita - [not]
 Ne m'oblige pas à te voir comme un énième esclave du monde réel...
 Je te veux pour moi toute seule !
 Reste avec moi.
 
-// Player look ring
+// Player look ring - Player
 Qu'est-ce que...?
 C'est la dernière version du jeu ?
 
-// Click on objects
+// Click on objects - [not]
 // Bag
 Il faudra bientôt aller au magasin pour acheter du nouveau matériel. Autant en profiter pour sortir les poubelles en même temps, non ?
 // Bed

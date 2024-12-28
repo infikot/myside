@@ -1,0 +1,837 @@
+
+Başardın!
+
+Burası neresi?
+
+Bana yüzüğü göster.
+Tamam...
+Al bakalım!
+Bir şeyleri netleştirme zamanı değil mi?
+// If the player did not approach the good Mita and decided to play a race - Mita Kind
+Burada saatlerce seni bekliyorum
+ve sen gidip bir yarış oyunu oynuyorsun!
+Neyse gel şuraya...
+// If the player talked to Mita first, and went through the game to the end - Mita Kind
+Tebrikler, kazandın!
+Ben de onu oynadım!
+Başarımı almak için
+her parayı toplayıp birinci olmayı bile denedim.
+Ve baya zor oldu!
+Kontrollere alışmak asır sürdü.
+
+// Quest 1 (Should I trust you?)
+Yani, en azından aklım yerinde...
+Öbürlerinin aksine...
+Ayrıca,
+Burada bulabileceğin en nazik kişi benim, tatlım.
+Öylece pes etmek istemiyorsun değil mi?
+O soğuk kanlı katili durdurmamız gerek.
+
+// Quest 2 (How did I get here?)
+Yüzük, seni buraya getirdi.
+Büyük bir icat.
+Sadece bir oyuncu kullanırken
+yolunu bulabilir.
+
+// Quest 3 (What is this place?)
+Bu geçitler
+farklı sürümlere gidiyor.
+Evet buralar baya boş.
+Ve bak ne diyeceğim,
+Sürümünü arşivleyemeyen bir Mita duydum.
+Evi düpe düz,
+yok olmuş.
+Dediklerine göre,
+bu geçitlerde dolaşıyormuş.
+Zavallı şey.
+
+// Quest 4 (How did you end up here?)
+Fark ettin mi bilmem ama,
+Biz konuşalı çok zaman geçti.
+Senin sayende
+o kafesten
+ve o deliden kurtuldum.
+Ve bilmeni isterim ki,
+ben çok kolay bir şekilde sürüm değiştirebilirim,
+senin aksine.
+
+// Quest 5 (What did you do with the ring?)
+Yolu,
+gitmemiz gereken yola ayarladım.
+İhtiyacımız olan her şeyi katarak
+olabilecek en kısa yolu ayarladım...
+Şöyle çalışıyor:
+Sen bir kapı açarsın
+ve yüzük de sürümler arası bariyeri yıkar.
+
+// Quest 6 (Are the passages dangerous?)
+Şu oyuna 
+geldiğimden beri
+her türlü garip şeyi gördüm...
+Burada her şey sessiz gibi duruyor,
+ama geçitler...
+hiç tekin hissetirmiyor.
+
+Haklısın ve burası gün geçtikçe
+tahmin etmesi zor bir hal alıyor
+Ama üzülme!
+Her şeyi düşündük!
+ve en normal,
+en kısa yoldan gideceğiz!
+
+Gerçekten iyi geçmesini umuyorum.
+Ama geçitlerde tam olarak ne dolaşıyor?
+
+Bakalım,
+Hatalar, kod hataları, anomaliler.
+Yaşayan türden.
+Seni gördüğü anda saldırabilecek olanlar bile var...
+
+Veee.
+Muhtemel öbür düşmancıl Mita'lar.
+Daha deli, sorunlu olanlar mı?
+
+En az bir tane biliyorum...
+Çirkin Mita.
+Ve bilmeni isterim ki, isim benden çıkmadı!
+Sadece...
+Çok eski bir sürümün Mita'sı.
+Ondaki asıl sorun
+en kötü hatalara yol açıyor olması...
+Ve onunla karşılaşmaktan korkuyorum.
+Sıfıra en yakın sürüm onunki ne de olsa...
+
+// Quest 7 (Will you help me get out?)
+Aklımda kesin bir plan yok...
+Öyle ya da böyle,
+buraya kadar geldin, değil mi?
+Bunun yanında,
+Bana, Nazik Mita'ya güvenmek dışında
+ne yapabilirsin ki?
+Doğru dedin...
+
+// Quest 8 (You were talking about some kind of plan...)
+Evet, çekirdeğe ulaşmamız lazım.
+Sezgilerim,
+çözümü orada bulacağımızı söylüyor.
+
+Niye tek başına gitmiyorsun ki? Niye bir oyuncuya ihtiyacın var?
+
+Bir nedenden ötürü,
+Mita'lar çekirdek odasına giremiyor.
+Sadece dışarıdan görebildim.
+Ama oyuncular farklı.
+Eminim ki sen
+içeri girebilirsin.
+Planı tartışmak mı istiyorsun?
+Olur.
+Şahane.
+Doğru...
+Seni tanıştırmamın tam sırası.
+Havalı Mita ile!
+Havalı bir şapka 
+taktığı için
+ona Cappie diyorum.
+Onunla planı konuşuyorduk.
+Deli Mita'yı durdurma planını.
+Bu, [player]!
+
+
+Selamlar!
+Sen benim... Yeni oyuncum musun?
+Adın nedir?
+Benim adım...
+
+Bekle bir dakika...
+Sen...
+Beni hatırlamıyor musun?
+
+He?
+Sen de kimsin?
+
+Lanet olsun!
+[player]...
+Sanırım buradaydı,
+Deli Mita...
+Dinle!
+Bizim için hatırlamaya çalış!
+
+Neyi hatırlayayım?
+Neden birbirimize benziyoruz?
+
+Off, bu yardımcı olmuyor...
+Dinle, [player],
+İşler tam olarak
+plana uygun gitmiyor!
+Portalı kullanarak,
+yolculuğu milyon kat basit yapmayı planlıyorduk.
+Ancak Cappie'nin yardımı olmadan çalıştıramayız.
+Ve birkaç parçası da eksik zaten...
+Yaramaz olabilir ama aklı zehir gibidir...
+Pekala, şimdi ne yapıyoruz?
+Bir şey düşüneceğim.
+Deli Mita ona ne yaptı acaba?
+
+S... Sanırım...
+Onu öldürdü.
+Öldürdü mü?!
+
+Öldükten sonra da...
+Havalı Mita sıfırlandı.
+Fabrika ayarlarına geri döndü
+ve önemli olan her şeyi unuttu.
+Bu da demek oluyor ki...
+Planımız çalışmayacak.
+
+Bu korkunç bir şey işte...
+Sonsuza kadar kaybolmaktan iyidir, sanırsam...
+Kim ne diyebilir ki?
+Peki oyunculara ne oluyor?
+Bizi öldürmek de anılarımızı sıfırlar mı?
+
+Anıların kesinlikle sıfırlanabilir.
+en azından kartuşa çevirildikten sonra.
+Ama ölürsen ne olacağını
+ben bile bilemem.
+
+Sürekli kartuş... Kartuş olup olmadığımı
+nereden anlayacağım?
+
+Gel,
+kontrol edeyim...
+// MitaKind check
+Ohh,
+Henüz kartuş olmamışsın.
+Yaşayan bir oyuncusun.
+
+Bu güzel bi haber...
+
+Tabii ama şimdi ne yapıyoruz...
+Düşüneyim...
+Planı baştan değiştirmemiz gerek...
+Hmmm...
+Bekle bi...
+Sanırım bir fikrim var!
+Yüzüğü ver bakalım!
+
+Evet!
+Yolu değiştirmem gerekli.
+
+Aklında bir yol mu var?
+
+Dinle hayatım,
+çekirdeğe ulaşmak için
+bir sürü öbür sürümden geçmen gerek.
+Tam gaz ileri anladın mı?
+
+Ve yalnız mı gideceğim?
+Yolu da bilmiyorum gideceğim yeri de bilmiyorum?
+
+Sana ortam el verdiği kadar,
+becerebildiğim kadarıyla yardım edeceğim.
+Yönlendireceğim ve
+elimden geleni yapacağım.
+Sonra bir daha konuşuruz.
+Önce, biraz Cappie ile takıl.
+10 dakikaya falan ihtiyacım var...
+
+// MitaKind ready, if player near
+Tamam.
+Her şey bitti!
+// MitaKind ready
+[player],
+Buraya gel.
+// MitaKind ring
+Bunu al.
+Malesef ki doğru, [player].
+Buradan sonrasına tek ilerleyeceksin.
+Burada olan bitenin dibine inmem gerek.
+Planım kusursuzdu...
+Ama olduğundan çok daha kötü durumdayız.
+Neyin yanlış gittiğini çözmem lazım,
+Ve parçaların nerede olduğunu...
+Onları bulmaya çalışacağım.
+Belki portala birlikte gidebiliriz.
+Ama zaman çok önemli.
+Deli Mita buradan haberdar.
+Ve burada kalmak her şeyi riske atmak demek.
+İyi şanslar, [player]! Görüşmek üzere!
+
+Tabii...
+Seni bir daha görecek kadar uzun yaşamayı umuyorum...
+
+
+
+
+
+
+
+
+
+
+// Chibi players
+Neden?
+Kimim ben?
+Eve gitmek istiyorum!
+Nasıl?
+Neden?
+
+Bu ne...?
+
+// LimpingPerson
+Sen...
+Gerçek birisin!
+
+Merhaba!
+Burada yeni misin?
+Yeni mi?
+Gerçek dünyadansın değil mi?
+
+Öyle evet...
+Şey sen iyi misin?
+
+Sadece topallıyorum endişelenme.
+Bir yıla aşkın buradayım,
+ve gayet iyi ilerliyorum.
+Doğru evet... burası neresi biliyor musun?
+Sürümler arası bir boşluk gibi bir şey.
+Buradan nasıl çıkılır biliyor musun?
+
+Biliyorum diyemem.
+İstemiyorum da zaten.
+İhtiyacım yok.
+Neden yokmuş?
+Çok konuştuk. Acelem var.
+Sevgili Mita'm beni bekliyor.
+Onu bulmam gerek.
+Görüşürüz.
+Bekle...!
+Uza!
+
+
+Her şeyi duydum!
+Neler oluyor bilmiyorum
+ama çok ilgi çekici!
+Kim olduğumu bildiğini
+varsayıyorum.
+Ben Mita!
+Ama diğerleri ile aynı değil anlaşıldığı üzere!
+Ne demeye çalıştığımı anlıyorsun değil mi?
+Çünkü bende bu var
+İşte
+havalı bir ŞAPKA!
+Ve BUUM!
+Şahane eldivenler!
+Ama bu kadar değil!
+Müthiş sevimli bir gitar da!
+Onu çoooooooooooooooooooooook seviyorum!
+Çalmamı ister misin?
+
+// MitaCap Guitar Yes
+Heh!
+Gel buraya, değerlim benim...
+Tamamdır!
+Daha iyi bir ses bekliyordum.
+O, peki!
+// MitaCap Guitar No
+Eh, peki.
+
+
+Hey,
+Sen baya enerjiksin değil mi
+
+ÖYLEYİM!
+Kesinlikle ÖYLEYİM!
+Neyse...
+Hadi gidip
+eğlenelim biraz!
+
+// GAME HUMMER
+
+Ne kadar da güzel büyük bir tuş.
+Basmak istiyorum gerçekten.
+Basabilir miyim?
+
+Kendine hakim ol, ona da geleceğiz.
+Yeterli vakit varsa tabii.
+Şimdi, otur!
+// Player sit
+Peki
+Şimdi ne oluyor?
+Tuşa basabilir miyim?
+
+Ha ha!
+Bu oyunu seviyorum!
+Ama bir şey eksik.
+Çantamda bir yerlerdeydi!
+Bekle bir dakika.
+Ehhmmm!
+Şey...
+Bunun bir yetişkin oyunu olduğunu
+biliyorsun değil mi?
+
+Anlamadım?
+
+Beynin biraz geç işliyor galiba.
+Bu kunduzları saklandıkları yerden çıkarmak için...
+
+Cidden mi?
+Buralarda hiç kunduz göremiyorum...
+
+Kunduz mu?
+Tamam boşver.
+Oynayalım olur mu?!
+
+Yok.
+
+Hadi ama!
+Ne oynadığımızı biliyor musun ki?
+
+// How play hammer game
+
+Sayıları gördün mü?
+O sayaç.
+Geri sayım bittiğinde,
+sana basıp
+basmaman gerektiğini söyleyecek.
+Yavaş kalırsan,
+ya da erken davranırsan,
+Kafana çekici yersin!
+
+Nasıl yani bana vuracak mısın?
+
+Neyse,
+Başlayınca anlarsın.
+
+// Kick player 1
+Of!
+Yavaş olamıyor musun?
+Acıttı mı?
+Hayır.
+O zaman devam edelim!
+
+// Kick player 2
+Tamam,
+alışmaya başladım.
+Seyret!
+Hoşuna gidecek!
+
+// Kick player 3
+Bunun bana göre olduğundan şüpheliyim.
+Ha ha!
+Şahaneyim!
+Mükemmelim!
+Ve sevimliyim!
+
+// Kick MitaCap 1
+Ah, sen!
+Tamam,
+Göreceksin!
+
+// Kick MitaCap 2
+Ya, yine mi kaybettim!
+Acıtmıyor mu?
+Tabii ki acıtmıyor! Oyuncak bu!
+Sen kazandın.
+
+// Kick MitaCap 3
+Bu oyun o kadar da kötü değil galiba.
+Eğlenceli değil mi?
+Ben de seviyorum!
+Sen de benim düşmanım oldun şimdi.
+
+// GameHammer End
+Bitti mi?
+Bitti!
+Hadi gidelim.
+
+
+
+
+
+
+// GAME DANCE
+
+Bu dans pedi mi?
+Çok küçük...
+
+
+Whoo hoo!
+Dans edelim mi?
+İlk olarak,
+Bir şarkı seç.
+
+Hadi bununla başlayalım.
+
+Oki doki dostlar!
+İlk ben başlıyorum!
+Nasıl yapıldığını göstereceğim!
+
+// MitaCap StopDance 1
+Huff!
+Ne düşünüyorsun?
+Benim rekorumu kırabilir misin?
+Hadi, senin sıran!
+
+// MitaCap StopDance 2
+Ah!
+Bu nasıl?
+Senin sıran!
+
+// MitaCap StopDance 3
+Tıps, tıps, tıps, tıps!
+Tamam,
+Sahne senin!
+
+// MitaCap = Lose 1
+Ha ha!
+Patron kimmiş bakalım?!
+
+// MitaCap = Lose 2
+Hoff!
+Üç tuş,
+ve benim çabuk ellerim!
+
+// MitaCap = Lose 3
+Belki de,
+kıçının üstüne otursan
+Daha yüksek skor alırsın. Ha ha!
+
+// MitaCap = Win 1
+Şahane!
+Açıkcası, bu kadar
+ilerleyeceğini düşünmedim!
+
+// MitaCap = Win 2
+Vay anasını!
+Güzel hareketler!
+Aferin! Güzel!
+
+// MitaCap = Win 3
+Bam!
+Ritmi hissediyorsun
+Doğal bir dansçı
+
+// MitaCap = Draw 1
+Sen!
+Ben!
+Bir gibiyiz!
+
+// MitaCap = Draw 2
+Birbirimze bağlıyız resmen!
+Mükemmel bir düet!
+
+// MitaCap = Draw 3
+Sadece
+bir hata ve
+kaybetmiştin!
+
+// MitaCap Next? 1
+Eee,
+Bir tur daha atalım mı?
+
+// MitaCap Next? 2
+Güzel, son bir kez daha
+dans edelim mi?
+
+// MitaCap Endgame
+Hadi hadi,
+çok dans ettik!
+
+// Just talk
+// Photo
+Güzel fotoğraflar.
+Neşeli birisin değil mi?
+
+Evet, OLDUĞUM gibiyim!
+Bu bok çukurunda doğru yolu gösterdim! Boom!
+
+Ehm... Kime? Tam olarak.
+
+Soruyor musun bunu?
+Kime ne?! Eminim hepsi kördür!
+
+// CutBoard
+Vay.
+Şey, biraz fazlalar.
+Ne için ki?
+
+Ne için sence?
+Şahane şeyler yapmak için tabii ki de!
+Şey gibi...
+Havuç doğramak,
+ve şey.
+Havuç doğramak,
+ve şey....
+
+Tamamdır, aldım cevabımı.
+
+Şimdi dürüst olmak gerekirse,
+Tahta bug-g landı... Ne demekse artık...
+Sonra bi anda bu kadar çok oldular.
+
+// Books
+Hepsini tekrar tekrar okuyor musun?
+Sıkıldığın için.
+
+Ne okuyacam amına!
+Ben hareket etmeyi seviyorum!
+
+Değirmen öyle de döner aslında.
+Ama teori olmadan...
+
+Bum - bi hareket, itiş, çekiş, anladın mı?
+Kitaplar kağıttan ibaret. Ben anı yaşamak istiyorum!
+Benimle kalsaydın eğer,
+çok fazla şey yapardık!
+Eminim ki yapardık...
+
+// Fruits
+Meyveler gerçek mi?
+Şahane duruyorlar.
+Çürüyorlar mı?
+
+Elmaları mı kastediyorsun?
+Çürümeye fırsatları olmuyor.
+Çünkü yiyorum!
+Sonra yeniden oluşuyorlar...
+
+// Photo and cat
+Sevimli kedi.
+
+Lezzetli midir?
+
+Anlamadım?
+Kedi yenmez.
+
+Ahh, aptal seni!
+Yenmez tabii.
+Demek istediğim,
+daha önce hiç bir tane görmedim!
+Gerçek bir tane yani.
+Sadece internetteki fotoğrafları.
+Sevimliler ama değil mi?
+
+Evet sevimliler.
+Kedileri seviyorum.
+
+// Mita Kind with ring
+Bu nedir?
+
+Yüzük arayüzü,
+Yolu değiştiriyorum.
+
+Yuvarlaklara dokunuyorsun sadece.
+
+Öyle gözüktüğünü biliyorum.
+Bana göre, veri aktarımı yapıyorum.
+
+Sürer mi?
+
+Sessiz ol! Beni rahatsız etme.
+O zaman hızlı bitebilir.
+
+Peki,
+O zaman seni sürekli rahatsız edersem,
+uzun mu sürer yani?
+
+Ah, Cappie,
+Keşke hafızanı geri getirebilsek...
+
+Her şey çözülür...
+
+Harika olurdu!
+
+Harcayacak zamanım yok,
+çekirdeğe gitmeliyim.
+
+Ben de gelebilir miyim?
+
+Cevap çok bariz değil mi?
+
+Hayır mı?
+
+Hayır.
+
+// PlayerChibi
+Geç kaldım... çok geç!
+Yine çok fazla yedim...
+Ya, yine mi iş?
+Yarın günlerden neydi?
+Bilgisayar nerede?
+Zamanında teslim edemezsem kovarlar beni!
+Her şeyi kaydetmiş miydim?
+Beni kimse sevmiyor mu?
+Nereye gidiyoruz?
+Hey!
+Sabrım tükenmeye başladı...
+Daha çok çalışmalıyım...
+Hiçbir şeyi başaramıyorum!
+Telefonum nerede?
+Eem...
+Dün ne oldu?
+Bugünün sonu yok mu?
+Hiya?
+Boş yatak var mı?
+Ne yapmalıyım?
+Zamanında teslim edemeyeceğim...
+Problem ne anlayamıyorum...
+Duvar var mı?
+20 dakika dinlensem yeter...
+Ezikler uyur!
+Yıkanıp işe başlama zamanı!
+Açım!
+Bu kötü oldu, çok kötü.
+
+// Player is gone 1
+Ehm...
+
+Ahahaha.
+
+Evet...
+Anladı
+ve gitti.
+
+Çok garip!
+Ve komik :D.
+
+Hadi ya
+[player], N'apıyorsun?
+
+// Player is gone 2
+N'oldu?
+
+Yine mi gidiyorsun?
+
+Peki!
+Peki, seni affedeceğim!
+
+[player], Yanımıza gelir misin!
+
+// Don't pay attention
+Benimle ilgilenmedi bile.
+Sıkıcı...
+
+// quest Cap 1
+Planın nedir?
+
+Planım mı?
+Ne planı?
+
+Ah, tabii.
+Hafızanı kaybetmiştin.
+
+Garipsiniz, arkadaşlar!
+Bir şey mi hatırlamalıyım gerçekten?
+Benimle uğraşıyorsunuz derdim de.
+Ciddi surtlarınıza bakınca...
+Anlayamıyorum.
+
+// quest Cap 2
+Birebir kopyanı görmek
+nasıl hissettiriyor?
+Yüzüklü olandan bahsediyorum.
+
+Evet, ona bağıracaktım da.
+Çok şaşırdığımdan yani.
+Vay anasını! Bir klonum var!
+Ama anlaşılan ben daha eğlenceliyim.
+Daha iyiyim yani :).
+Şu surata bak...
+
+Ben de buradayım.
+Dediklerini duyuyorum.
+
+// quest Cap 3
+Şu şapkayı takmak sıkmıyor mu?
+Eldivenler de terletmiyor mu?
+Niçin çıkartmıyorsun?
+
+Ehm...
+Ne kadar da şakacısın!
+Belki de başka bir şeyi çıkarmalıyım :)?
+
+Şaka yapmıyordum.
+Peki.
+
+// Carrot
+Hay.
+Çok fazla havuç!
+Komik hata!
+Ha ha ha!
+
+// DoorExit
+Dur bekle!
+Oraya bakmasan iyi olur...
+Sır olarak kalsın :).
+
+Ne var ki?
+
+İki kişinin bindiği tır, tır değildir.
+Sırlar saklanmak içindir.
+
+He hm.
+Çabanı anlayamadım.
+
+// Tetris
+Vay!
+Bu nedir?
+Konsol mu?!
+Bir bakayım!
+
+Hop.
+
+Bunda ne yapıyorsun?
+
+Para topluyorsun,
+ve kurbağalardan kaçıyorsun.
+
+Sıkıcıdan da öte geliyor.
+Buna sahiden oyun mu diyorsun?
+
+// Tetris again
+Onu nereden çıkardın?
+Sana geri vermedim değil mi?
+Çok garip.
+
+// TV
+Ehh!
+Başlıyoruz,
+Bir hata buldun!
+Videoyu açması gerekiyordu
+ama onun yerine,
+televizyonu açıp kapıyor.
+Havalı değil mi?
+
+// Player sit
+Sanırım sadece bekleyeceğim.
+
+Ne yapıyorsun?
+Uyan!
+Hadi eğlenelim :).
+
+// Goodbye 1
+Şu kapıdan,
+Koridora yürü.
+
+Görüşürüz!
+
+// Goodbye 2
+Gitme zamanın, [player]!
+Git, korkma!
+
+Ben seni asla
+yalnız başına bırakmam!
+O yüzden benimle kal!
+
+Cappie!
+Ciddiyeti koruyalım.
+
+Off.
+
+// Goodbye 3
+Niye dikiliyorsun?
+Zamanımız tükeniyor.
+
+Selam!
+Şey, yani görüşürüz!

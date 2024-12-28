@@ -1,0 +1,24 @@
+// Board
+Trước tiên hãy bật nguồn
+Những thứ cần đặt lên máy quét
+Thìa
+Bút chì
+Dây buộc tóc
+// TV
+PHIÊN BẢN TRÒ CHƠI ĐÃ CŨ!
+PHIÊN BẢN
+CHẠY CHƯƠNG TRÌNH ĐỂ THỰC HIỆN CHUYỂN ĐỔI
+PHIÊN BẢN TRÒ CHƠI ĐÃ CŨ!
+MANG VẬT THỂ ĐẶT LÊN MÁY QUÉT
+KHÔNG PHÁT HIỆN PHIÊN BẢN
+SẴN SÀNG KHỞI ĐỘNG
+KHỞI ĐỘNG
+ĐANG TẢI
+CỔNG ĐÃ ĐƯỢC KÍCH HOẠT
+LỖI
+NGUỒN ĐIỆN YẾU!!!
+KHỞI ĐỘNG LẠI NGUỒN ĐIỆN
+THIẾU PIN MÁY CHỦ!
+ĐANG CHỜ KHỞI ĐỘNG
+THÀNH CÔNG
+HOÀN TẤT TRUYỀN DỮ LIỆU

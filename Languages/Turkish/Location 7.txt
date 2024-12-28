@@ -1,0 +1,19 @@
+// Track names
+Cracker
+Bubble drink
+Balloon
+// Quest none
+Boş ver.
+// Quest "Meeting Kind Mita"
+Sana güvenmeli miyim?
+Buraya nasıl geldim?
+Burası neresi?
+Buraya nasıl geldin?
+Yüzüğe ne yaptın?
+Geçitler tehlikeli mi?
+Kaçmamda yardımcı olacak mısın?
+Plan demiştin.
+// Quest MitaCap
+Hiçbir şey hatırlıyor musun?
+Yüzüklü Mita hakkında ne düşünüyorsun?
+Şapka hep kafanda mı senin?

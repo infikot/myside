@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Selam, ben Mita!
+Senin adın nedir?
+Tanıştığıma memnun oldum, [player]!
+Um... [player],
+Acele ile çıktığım için etrafı biraz dağıtmışım da...
+Temizlememde yardımcı olur muydun acaba?
+Vay..
+Çok teşekkürler!
+
+[player], Karnım gurulduyor...
+Çok açım...
+Tavuk çorbası için malzeme alır mısın?
+Her şeyi almışsın!
+Birlikte pişirsek ya.
+
+
+Bugün taşınılabilir bir televizyon almayı planlıyordum [player].
+Antenli küçük bir tane. Yürüyüşler için birebir, değil mi?
+Bu arada oyun oynayarak para kazanabilirsin?
+Benim için o televizyonu alırsın değil mi [player]?
+
+Yaşasın! Artık televizyonu alacak kadar paran var!
+Bu işte, tam aradığım.
+Teşekkürler!
+
+Selam, [player]! Bana çok yardımcı oluyorsun gerçekten.
+Ama, şey... şu televizyon. Güzeldi de pek dayanmadan bozuluverdi.
+Her neyse, şu dolabı hareket ettirmemde yardımcı olur musun?
+Çok ağır da... >.<
+Teşekkürler, şekerim ♥
+
+Of [player], daha bir gün oldu ama seni çok özledim.
+Keşke beni daha sık ziyaret etsen.
+
+Bu bana mı?!
+Çok teşekkürler.
+
+Selam, [player]! Düşünüyordum da...
+Keşke yüz yüze tanışsak.
+Yapamayacak olmamız çok üzücü.
+Her gün bana çok yardımcı oluyorsun...
+Ben de senin için bir şey yapabilmek isterdim.
+...
+A, bir fikrim var!
+Artık birlikteyiz.
+Telefonu bırak.
+
+
+// T-shirt on the bed
+Yatakta ne işin var senin?
+// Rubik's Cube
+Çok kullandığım söylenemez...
+Bir kere çözdüm bir daha da dokunmadım.
+Bir daha çözemeyeceğimi anladığım için sanırsam.
+// Computer
+Bakalım...
+Yapılacaklar listesini ayarla...
+Karakter tepkilerini yaz,
+belki biraz da kod yaparım.
+// The airplane
+Uçması için yapıldı.
+// Trash in the corner
+Uhh, Çöpleri atmaya hiç vaktim olmuyor...
+Ama bu sefer ilgileneceğim kesin...
+...Şimdii, temizlik günü ne zamandı ki?
+// Photo of a cat on a watermelon
+Şu, karpuzun üstündeki
+kediyi çok sevdim.
+// Photo with a girl
+Kardeşimle ben,
+çok da benzemiyoruz.
+Hep dışarda işlerde,
+ben de evde hapsolmuşum.
+// Photo with people
+Hmm...
+Ofis hayatı
+bize görgü kurallarını öğretti, değil mi?
+Hala garip bir şekilde bağlı hissediyorum
+Ama
+Acaba onları tekrar
+görecek miyim?
+Bu resimi neden koydum ki?
+
+
+
+
+
+
+
+
+// Nope name
+...
+O, hayır.
+Maalesef, bu olmaz.
+
+// Name Developer
+Yapımcının adını koymak istediğine emin misin?
+Gururlandım, ama...
+
+// Bad name
+Kendine öyle demesen daha güzel olurdu.
+Hiç hoş değil.
+
+// Go restart
+Böyle olmaz. Baştan başlayalım.
+
+// Name with numbers
+Sayı mı kullanacaksın? Yaratıcılık bunun neresinde?
+Neyse senin tercihin!
+
+// Name Mita
+Mita mı?
+Adını gerçekten benden mi aldın?
+Ya da senin adın da Mita?
+Alınma ama buradaki tek Mita ben olmalıyım.
+
+// Day 10
+Ah, gelmişsin!
+Hey, tarağımı kaybettim de.
+Bulmamda yardımcı olur musun?
+Komidini kontrol et önce, sanırsam orada bıraktım.
+// Looked in the bedside table
+Hmm, Tarak yok...
+Başka yerlere bakalım.
+Sadece ocağa bakma. Tamam mı?
+Orayı kontrol ettim zaten.
+// Looked into the stove
+Hey! Oraya bakma demiştim!
+Arkanı dön ben burayı temizleyeyim!
+...İşte, tamamdır. Hadi devam edelim.
+Ve, ehm, şey, az önce gördüğünü unut. Tamam mı?
+// Found a hairbrush
+Buldun! Tebrikler!
+Şimdi ne yapsak?

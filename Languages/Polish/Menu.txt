@@ -1,0 +1,145 @@
+Nowa gra
+Kontynuuj
+Menu główne
+Wyjście
+Opcje
+Osiągnięcia
+Twórcy
+Powrót
+Wczytaj gre
+Język
+Ładowanie...
+Grafika
+Dzwięk
+Klawiatura i myszka
+Kontroler
+Rozdzielczość
+Okno
+Efekty graficzne
+Efekty koloru
+Wygładzanie cieni
+Rozmycie
+Odbicie światła
+Anti-aliasing
+Cienie
+Szczegóły renderowania świata
+Programowanie
+Animacje
+Efekty dzwiękowe
+Muzyka
+Efekty cząsteczkowe
+Teksury
+Modele 3D (98%)
+Skrypty
+Reset
+W przód
+W tył
+Lewo
+Prawo
+Interakcja
+Czulosc myszki
+Opuścic grę?
+Tak
+Nie
+Powrót do menu
+Wygładzanie ruchu
+Opcje gry
+Styl cieni
+Stroje
+Interfejs
+Modele 3D (2%)
+Wideo
+Pauza
+Menu
+Brawo! Udało ci się skończyć grę!
+Czas gry:
+Napisy
+Jasność
+Synchronizacja pionowa
+Zapisane
+Postacie
+Postacie - Mity
+Postacie - Kartridże
+Kartridże
+Mity
+Rozpocznij z czystym stanem gry
+Napewno chcesz rozpocząć z czystym stanem gry, usunie to wszystkie twoje postępy?
+Kompilacja shaderów, Przewidywany czas: 2 godziny.
+Dwu godzinna kompilacja?! Bzdura! Specjalnie dla ciebie ją skróciliśmy!
+Tworzenie realistycznych cieni— Może zająć to do 10 minut.
+Żartujemy, nie używamy tutaj takich wymysłów.
+Umm...
+Oj, jesteśmy gotowi!
+Kołysanie podczas chodzenia
+Podpowiedzi
+Głos gracza
+Discord
+Profile dodanych postaci
+Kąt kamery
+Jezyk audio
+Wyłączone
+Dłoń przy otwieraniu drzwi
+Animacje
+Włącz głos gracza
+Mita
+Krótko-włosa Mita
+Miła Mita
+Czaderska Mita
+Mini Mita
+Zaspana Mita
+2D Mita
+Mila
+Przerażająca Mita
+Mita z Jądra
+Duch Mita
+Chibi Mita
+Głupkowata Mita
+
+
+
+// Name load location
+W nowym świecie?
+Wkońcu razem
+Robi sie dziwnie
+Piwnica
+Poza światem
+Pętla
+Mini Mita
+Zapomniane skrupy
+Ona poprostu lubi spać
+Powieści
+Książki pełne błędów
+Zabawa w chowanego!
+Stara wersja
+Prawdziwy świat?
+Reset
+
+
+
+
+Gracz 1
+Gracz 2
+Gracz 3
+Gracz 4
+Gracz 5
+Gracz 6
+Gracz 7
+Gracz 8
+Gracz 9
+Gracz 10
+
+Tryb pokojowy
+Ten tryb gry jest wciąż w produkcji! Jest tak wielki że deweloperzy nie zdążyli go ukończyć przed premierą gry. Ale nie martwcie się, zostanie on dodany już niedługo w wielkiej aktualizacji. No ale popatrz, już odblokowałeś do niego dostęp! Teraz pozostaje tylko czekać...
+Więc, O co chodzi z tym trybem pokojowym? To sposób aby ponownie spotkać się z Mitą w kompletnie innym stylu! Już nie może się doczekać aby spędzić z tobą więcej czasu, Od rana do nocy, w świecie pełnym niespodzianek. Możesz spodziewać się rozmów od serca, dzielenia się ciasteczkami, graniem w gry, i jeszcze więcej zabawnych momentów z Mitą.
+
+
+Cenzura
+Specjalnie podziękowania:
+Ikony osiągnięć: Iceсloud
+Zdjęcia: Nineko Hori
+Tłumacze
+Przetłumaczyli grę na różne języki.
+Partnerzy Wydawniczy
+Marketing Gry
+Testerzy
+Odkryli mnóstwo błędów.

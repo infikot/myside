@@ -1,0 +1,87 @@
+
+Hey, sen!
+Selam!
+Çıkmak mı istiyorsun?
+Anahtarı bulmamda yardımcı ol o zaman!
+// Key Search
+Boş!
+Burada bir şey yok—
+Yok, burada değil.
+Buldum!
+
+// The usual conversation
+Kısa olursun sanmıştım!
+Uzunsun—
+Ablam gibi!
+
+Ablan mı? Nasıl yani?
+
+He, ablam!
+Tanışmadım deme bana!
+
+Uhh... Tanıştım... Galiba...
+
+Aptal mısın?
+
+Emm...
+
+Sanırsam öylesin...
+Hadi anahtarı bulmamda yardımcı ol!
+
+// Next work
+Gel.
+Demirleri boruya koy!
+Teşekkürler!
+Şimdi odunu ver bana!
+Sağ olasın!
+Biraz daha yardım, lütfen!
+Oldu!
+Vay, çok güzel.
+Bas, hadi!
+Hazır.
+İşte, Al!
+Anahtar senindir!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+Ben ChibiMita.fbx!
+Tonla satır,
+en basit modelleme
+ve en iyisinden şahane saç!
+
+// Quest 2 (Have we seen each other yet?)
+Şapşal çocuk!
+Şirinsin aslında biliyor musun?
+Böyle şapşal sorular soruyorsun.
+Ancak
+Bu seninle ilk karşılaşışım!
+Ama...
+Biri bana benzemeye çalıştıysa,
+pişman ederim!
+
+// Quest 3 (Why are you here?)
+Anlamıyor musun
+Burası bir kontrol noktası.
+Zekanı ölçeceğin bir yer!
+Şimdi haydi!
+Burada kaybolmuşlara yardım ediyorum!
+
+// Quest 4 (Why are you helping me?)
+Seni özel yapan nedir?
+Niye yardım etmeyeyim?
+
+Anlamadım?
+
+Çok aptalca...
+Bi anda odada var oldun!
+Burada olmaman gerektiği bariz.
+Bu yüzden yardımcı oluyorum!
+
+Görüşürüz, şapşal!

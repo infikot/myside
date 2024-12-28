@@ -1,9 +1,9 @@
-// Player start
+// Player start - Player
 Où suis-je ?
 Cet endroit me dit quelque chose...
 Est-ce que je suis dans le jeu ?
-// Player try open the door
-C'est fermé ?
-// Player in dark
+// Player try open the door - Player
+C'est verrouillé ?
+// Player in dark - Player
 Il fait sombre là-dedans.
 Je ne peux rien y voir.

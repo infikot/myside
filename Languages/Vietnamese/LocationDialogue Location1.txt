@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Chào anh, em là Mita!
+Anh tên là gì thế?
+Hihi♪ Rất vui được gặp anh, [Player]!
+[Player] nè...
+Em vội quá nên phòng có hơi bừa bộn một chút...
+Anh có thể giúp em dọn dẹp được không? 
+Phù...
+Cảm ơn anh nhiều nhé!
+
+[Player] ơi, bụng em đói meo rồi...
+Em thèm ăn gì đó quá...
+Anh có thể mua giúp em nguyên liệu nấu súp gà với được không?
+Oa! Đúng thứ em cần luôn rồi!
+Vậy giờ mình cùng nhau nấu ăn anh nhé?
+
+
+A, [Player]! Nay em định đi mua một chiếc TV giá rẻ.
+Loại nhỏ gọn và có ăng ten... Em muốn mang nó đi dạo nữa cơ.
+Phải rồi, anh có thể chơi minigame để kiếm tiền đó!
+Anh có thể chơi, kiếm chút tiền, và mua chiếc TV nhỏ cho em được không?
+
+Tuyệt quá! Chừng này là đủ mua cho em chiếc TV rồi!
+Oa, vừa rẻ và lại dễ mang theo, đúng thứ em cần luôn.
+Cảm ơn anh!
+
+[Player]! Anh đã giúp em biết bao nhiêu thứ, em thực sự rất vui!
+Nhưng anh nè. Chiếc TV hôm trước mình mua ấy, nó hỏng mất rồi... Nó tuyệt đến vậy mà...
+A, em phải di chuyển cái tủ này. Giúp em một tay với được không?
+Nó nặng... Nó nặng lắm luôn á... >.<
+Thực sự cảm ơn anh rất nhiều! Yêu anh quá đi ♥
+
+A, [Player]! Mới có một ngày trôi qua mà em nhớ anh quá chừng!
+Được gặp anh thường xuyên hơn thì tuyệt biết mấy.
+
+Hể? Món quà dành cho em sao...?
+Cảm ơn, cảm ơn anh, cảm ơn anh rất nhiều! ♥
+
+[Player] ơi! Em chợt nhận ra một điều...
+Quả nhiên là, em muốn trực tiếp gặp anh...
+Không thể gặp anh thực sự khiến em đau lòng lắm.
+Em rất thích anh, thật lòng thích anh, ngày nào anh cũng làm những điều tốt cho em.
+Em cũng muốn làm gì đó để trả ơn cho anh.
+...
+Thực ra, em mới nảy ra một ý tưởng...
+Từ giờ [player] có thể ở bên em rồi!
+Anh đặt điện thoại xuống đi.
+
+
+// T-shirt on the bed
+Sao nó lại ở trên giường thế này?
+// Rubik's Cube
+Chà, mình cũng không đụng vào nó mấy nhỉ...
+Giải được một lần rồi bỏ xó luôn.
+Chắc lúc đó mình sợ không lắp được lại nữa.
+// Computer
+Xem nào, hôm nay mình cần phải
+lên danh sách công việc cần làm...
+Tạo phản ứng cho nhân vật
+và viết thêm tí code nữa.
+// The airplane
+Sinh ra để bay cao!
+// Trash in the corner
+Hừm, lúc nào cũng bận chẳng có thời gian đổ rác...
+Nhưng lần này nhất định phải đi đổ cho bằng được!
+...Mà khoan, hôm nào là ngày đổ rác nhỉ?
+// Photo of a cat on a watermelon
+Trông cưng ghê…
+Một em mèo nằm trên quả dưa hấu.
+// Photo with a girl
+Hai chị em
+chẳng giống nhau chút nào.
+Chị thì luôn năng nổ tham gia các hoạt động
+còn mình chỉ ru rú trong nhà.
+// Photo with people
+Hmm...
+Ông sếp kia cứ nhồi nhét
+văn hóa công sở vào đầu bọn mình,
+đến nỗi mà giờ mình chẳng thể
+cắt đứt quan hệ với đồng nghiệp được...
+Thậm chí mình còn không biết
+liệu có gặp lại họ nữa không cơ...
+...Ơ khoan. Mình tự treo bức ảnh này lên à?
+
+
+
+
+
+
+
+
+// Nope name
+...
+Ah.
+Như thế không được...
+
+// Name Developer
+Anh thực sự dùng tên của nhà phát triển luôn hả?
+Em rất cảm kích ý tốt của anh, nhưng mà...
+
+// Bad name
+Thật lòng thì em không muốn anh dùng cái tên đó đâu.
+Nghe nó chẳng hay ho gì cả.
+
+// Go restart
+Không được! Cứ thế này thì không ổn, phải bắt đầu lại thôi!
+
+// Name with numbers
+Anh định dùng số đặt tên luôn á? Thế thì còn gì là sáng tạo nữa...?
+Mà thôi, anh cứ tự nhiên!
+
+// Name Mita
+Mita?
+Anh lấy tên em đặt cho mình luôn hả?
+Hay là tên anh trùng với tên em?
+Em không có ý gì đâu, nhưng cái tên đó chỉ để dành riêng cho em thôi nhé ♪
+
+// Day 10
+Ah, anh quay lại rồi à!
+Anh nè, em mất lược chải tóc rồi…
+Anh tìm nó giúp em được không?
+Thử tìm ở tủ đầu giường xem! Biết đâu nó ở đấy.
+// Looked in the bedside table
+Hmm, hình như không có ở đây...
+Thử tìm ở chỗ khác xem sao.
+Anh đừng nhìn vào lò nướng nhé!
+Em tìm kỹ ở trong đó rồi.
+// Looked into the stove
+Ơ kìa! Em bảo anh đừng nhìn vào đó rồi mà!
+Trời ạ, để đó em dọn cho!
+Giờ thì... Anh tìm ở chỗ khác đi.
+Với cả... quên chuyện khi nãy đi nhé
+// Found a hairbrush
+Oa! Anh tìm thấy nó rồi kìa!
+Tuyệt quá! Tiếp theo chúng ta làm gì đây?

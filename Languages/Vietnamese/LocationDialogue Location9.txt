@@ -1,0 +1,87 @@
+
+Này, anh kia!
+Chào nhé!
+Anh muốn thoát khỏi đây không?
+Thế thì mau giúp tôi tìm chìa khóa đi!
+// Key Search
+Khỉ thật! Chìa khóa đâu rồi!
+Trống trơn!
+Chẳng có gì sất!
+Tìm thấy rồi!
+
+// The usual conversation
+Tôi cứ tưởng anh nhỏ con hơn cơ!
+Nhưng mà anh cao to
+giống chị gái tôi vậy!
+
+Chị gái ư? Chị gái em như nào?
+
+Đúng vậy, chị gái.
+Đừng nói là anh chưa gặp chị ấy bao giờ nhé!
+
+Ừm... Hình như anh gặp rồi... thì phải?
+
+Anh bị ngớ à?
+
+Ừ thì...
+
+Đúng là đần thật...
+Thôi, chỉ cho tôi chỗ nào có chìa khóa đi!
+
+// Next work
+Nào.
+Cho sắt vào trong ống đi!
+Cảm ơn!
+Giờ thì bỏ đống củi xuống đi!
+Cảm ơn!
+Giúp tôi một tay nào!
+Được rồi, tiếp theo là...
+Chà, đẹp thật.
+Ấn nút đi, nhanh lên!
+Xong rồi!
+Này, cầm lấy đi!
+Chìa khóa của anh đó!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+Tôi là ChibiMita.fbx!
+Tôi có cả hàng tấn lời thoại,
+mô hình đơn giản hết sức,
+và mái tóc thì đẹp miễn chê!
+
+// Quest 2 (Have we seen each other yet?)
+Trời ạ, đầu đất thật đó.
+Anh cũng dễ thương đấy chứ
+khi hỏi mấy câu ngớ ngẩn như vậy.
+Dù sao thì
+đây là lần đầu tôi gặp anh!
+Nhưng mà...
+Anh mà dám ăn cắp vẻ ngoài cực phẩm của tôi á...
+Phải trả giá rất đắt đấy!
+
+// Quest 3 (Why are you here?)
+Vẫn chưa hiểu hả?
+Đây là trạm kiểm soát!
+Tôi muốn kiểm tra đầu óc của anh như nào!
+Tóm lại!
+Tôi ở đây để dẫn đường cho cừu non lạc lối!
+
+// Quest 4 (Why are you helping me?)
+Này... Anh nghĩ anh là ai vậy?
+Sao lại không giúp anh cơ chứ?
+
+Gì cơ?
+
+Làm như không biết gì...
+Tự nhiên xuất hiện từ đâu ra!
+Đây không phải chỗ của anh đâu.
+Nên tôi mới giúp anh đấy!
+
+Tạm biệt, anh trai nhạt nhẽo!

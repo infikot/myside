@@ -1,0 +1,145 @@
+Nuovo gioco
+Continua
+Menu principale
+Esci
+Impostazioni
+Risultati
+Crediti
+Indietro
+Carica
+Lingua
+Caricamento...
+Grafica
+Suono
+Tastiera e mouse
+Controller
+Risoluzione
+Modalità a finestra
+Effetti grafici
+Effetti colore
+Ombre morbide
+Sfocatura
+Abbagliamento
+Anti-aliasing
+Ombre
+Qualità di visualizzazione del mondo
+Programmazione
+Animazione
+Effetti sonori
+Musica
+Particelle
+Texture
+Modelli 3D (98%)
+Scrittura
+Azzeramento
+Avanti
+Indietro
+A sinistra
+A destra
+Interazione
+Sensibilità del mouse
+Uscire dal gioco?
+Sì
+No
+Torna al menu principale
+Giri fluidi
+Impostazioni di gioco
+Stile dell'ombra
+Vestiti
+Interfaccia
+Modelli 3D (2%)
+Video di gioco
+Pausa
+Menu
+Congratulazioni! Hai completato il gioco!
+Il tuo tempo:
+Sottotitoli
+Luminosità
+Sincronizzazione verticale
+Salvati
+Personaggi
+Personaggi - Mita
+Personaggi - Cartucce
+Cartucce
+Mita
+Ricominciare da zero
+Sei sicuro di voler cancellare completamente tutti i tuoi progressi e ricominciare da zero?
+Compilazione degli shader, tempo di attesa stimato: 2 ore.
+2 ore di compilazione?! Questo è falso! Abbiamo saltato la coda per voi!
+Creazione di un tracciamento realistico delle ombre: tempo stimato di 10 minuti.
+Scherzo, qui non usiamo queste cose sofisticate.
+Umm...
+Oh, siamo pronti!
+Oscillare mentre si cammina
+Mostra suggerimenti
+Voce del giocatore
+Discord
+Aggiunta del profilo del personaggio
+Angolo della telecamera
+Voce
+Spento
+Mano tesa verso la porta
+Animazione
+Abilita la voce del giocatore
+Mita
+Mita dai capelli corti
+Mita gentile
+Mita con berretto
+Mita piccola
+Mita dormigliona
+Mita 2D
+Mila
+Mita inquietante
+Core Mita
+Mita fantasma
+Chibi Mita
+Mita manichino
+
+
+
+// Name load location
+Sono dentro un gioco?
+Finalmente insieme
+Le cose si fanno strane
+Il seminterrato
+Oltre il mondo
+Il Loop
+Mini Mita
+Manichini e puzzle dimenticati
+Vuole solo dormire
+Light novel
+Leggere libri, distruggere glitch
+Corri e nasconditi!
+Vecchia versione
+Il mondo reale?
+Riavviare
+
+
+
+
+Giocatore 1
+Giocatore 2
+Giocatore 3
+Giocatore 4
+Giocatore 5
+Giocatore 6
+Giocatore 7
+Giocatore 8
+Giocatore 9
+Giocatore 10
+
+Modalità pacifica
+Questa modalità è ancora in fase di sviluppo! È così ampia che gli sviluppatori non sono ancora riusciti a completarla. Ma non preoccupatevi: hanno promesso che sarà inclusa in un aggiornamento importante in arrivo. E guarda un po', sei già in anticipo sulla curva e hai sbloccato l'accesso! Ora non resta che aspettare...
+Allora, cos'è la Modalità Pacifica? È la possibilità di riconnettersi con Mita in un modo completamente diverso! Mita sarà felicissima di trascorrere più tempo con voi, dalla mattina alla sera, in un mondo pieno di divertimento e sorprese. Aspettatevi conversazioni sincere a tu per tu, condivisione di biscotti, giochi e tanti momenti esilaranti insieme.
+
+
+Gore
+Ringraziamenti speciali:
+Icona dei risultati: Iceсloud
+Fotografia: Nineko Hori
+Traduttore
+Converte il testo del gioco in un'altra lingua.
+Partner editoriale
+Marketing del gioco
+Tester
+Gioca e trova ogni sorta di bug.

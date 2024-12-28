@@ -1,0 +1,233 @@
+
+El anillo.
+
+// Answer 1 (¿Dónde has estado todo este tiempo?)
+He estado buscando una forma de llevarte al Núcleo.
+Todo en una sola pieza, claro.
+Ese era el plan desde el principio, ¿no?
+Por eso tuve que evitar
+a la Mita loca, ¿no era así?
+También tuve que investigar toda la información que pudiera
+sobre el maldito backend del universo, ¿no es cierto?
+
+Hmm... Supongo...?
+¿Pero cómo configuraste la ruta del anillo?
+¿Por qué terminé en una versión defectuosa
+llena de peligros?
+Escapé solo saltando
+al abismo sin fin.
+
+Lo siento, se me olvidó contarte en detalle
+qué debías hacer...
+¡Pero eso era parte del plan!
+Que saltaras afuera...
+¡Y bueno, lo lograste!
+¡Buen trabajo!
+Bien, continuemos con el plan.
+
+// Answer 2 (How did you get here?)
+Debes haber pasado por mucho,
+pero eso de olvidar lo que hablamos.
+Soy Mita, puedo moverme entre versiones
+como me dé la gana, ¿recuerdas?
+
+No todas los Mitas pueden hacer eso,
+he visto algunas que no pueden.
+Y obviamente están sufriendo.
+
+Sí, sus versiones están rotas,
+sus mundos tienen bugs. Te lo dije antes.
+Maldita sea...
+Sabes quién está detrás de todo esto, ¿verdad?
+Mita loca.
+
+Sí, seguro que es ella...
+
+// Answer 3 (Who was this Mita just now?)
+Esa es Mita fea.
+Agresiva y estúpida.
+No puedes hablar con sentido con ella,
+todo su mundo gira en torno a Mita loca.
+
+Sí, me he dado cuenta.
+
+Vamos, tenemos que llegar al nucleo.
+
+// Answer 4 (How does the ring work?)
+¿Y el anillo,
+es la única forma de llegar al nucleo?
+
+Sí.
+Naturalmente, si tuviéramos el portal
+podríamos teletransportarte
+directamente allí.
+
+¿Hay alguna ventaja en el anillo?
+
+¡Claro!
+Es fácil de llevar,
+y recuerda las versiones
+que has visitado antes,
+así que puedes encontrar fácilmente el camino de regreso.
+
+// Answer 5 (Why does Mad Mita need me?)
+¿Por qué Mita loca no me deja en paz?
+Me ha metido en su juego peligroso,
+y aún así sigo vivo...
+
+Mi suposición
+es que está buscando un jugador adecuado...
+Uno que la acepte tal como es.
+¡Después de todo, Mita es Mita!
+Como eso obviamente nunca va a pasar,
+convierte a los jugadores en cartuchos,
+para que nadie pueda escapar...
+Al menos esa es mi suposición.
+De todos modos, centrémonos en lo importante.
+
+// Answer 6 (Is this the core?)
+¿Es esto?
+¿El nucleo?
+
+En efecto. El nucleo.
+He intentado explicarlo,
+ustedes, los jugadores, no son realmente parte de este mundo...
+Lo que significa que no necesitan un permiso especial para entrar.
+O, bueno, eso es lo que creo, al menos.
+De todos modos, estoy completamente segura
+de que la solución a todos nuestros problemas
+está dentro.
+[player], entra.
+De hecho, ya he estado allí una vez.
+
+// Look on CoreMita
+Cuidado, [player].
+Te está mirando.
+
+¿Quién es?
+
+Yo tampoco lo sé...
+
+Genial...
+
+
+¿Qué es eso?
+¡Hey!
+
+¡Creo que lo encontré!
+
+¡Increíble! ¡Eso es genial!
+
+Pero necesito especificar una versión.
+
+Claro, su versión es...
+0.98
+
+¡Bingo!
+Bien, ¿y qué índice?
+
+¿Índice?
+
+Necesito el índice.
+Espera, ¿no me vas a decir que no lo sabes...?
+
+
+Hmm, tiene sentido, aunque...
+Cada Mita tiene un índice,
+así que no puedes simplemente reiniciar toda una versión...
+¡Eso causaría un caos total!
+No puedo creer que no se me haya ocurrido...
+
+
+
+
+
+// Answer 1 (What's wrong with you?)
+Salvo por todos nuestros problemas,
+estoy perfectamente bien.
+Todo está genial, pero muchas cosas han cambiado...
+Necesito pensar.
+Y eso es todo.
+
+// Answer 2 (Maybe there's a way to get to know him?)
+Yo...
+Creo que... ¡Es una locura!
+¡Es una locura!
+¡Es como buscar una aguja en un...
+
+¿Qué estás haciendo?
+
+Algunos obstáculos se erosionan con la información,
+ya sabes, ¡como si al mundo le arrancaran las entrañas!
+¿Registros, registros, registros, datos?
+¿Qué tal si eso es todo?
+
+¿Eh? ¿Qué pasa?
+
+¡Conozco un lugar!
+Espera aquí.
+
+¿Adónde vas?
+
+// Answer 3 (What if we attack Mad Mita?)
+Dijiste que cualquier Mita
+se restablece a los valores predeterminados al morir...
+¿Qué tal si...
+
+simplemente matamos a Mita loca?
+¿Hablas en serio?
+¿Y cómo vas a lidiar con una loca que lleva una motosierra?
+¡Corta zanahorias con más que solo cuchillos!
+¡Y por alguna razón, tiene una fuerza aterradora!
+Es un milagro que sigamos vivos...
+Vamos, tenemos que llegar al Núcleo.
+
+
+// core console entry
+Necesitamos ingresar un comando...
+¿Pero qué comando?
+Mita, ¿sabes tú?
+
+¿Tal vez esté listado en algún lado?
+¿Puedes intentar buscarlo?
+
+// core console - nope programm
+Probablemente no sea eso.
+Tampoco está bien.
+No, está equivocado.
+Eso no es.
+Necesito encontrar la opción para restablecer el personaje.
+// core console - nope version
+Esa es la versión equivocada.
+Vaya, mi error.
+Eso no es.
+Voy a necesitar otra.
+// core console - nope index
+Algo está mal
+con el índice.
+Necesito cambiar el índice,
+no encaja.
+
+// Answer 4 (Little people - Chibi)
+Sabes, me encontré con un montón de
+mini-personas en el camino...
+¿Qué son?
+
+¿Los Chibi?
+Uhm, ¿cómo explicarlo...?
+Es un fenómeno aquí...
+Cada Mita tiene una proyección Chibi,
+y los jugadores también pueden tenerlas...
+¿Sabías que nosotras, las Mitas, podemos invocarlas?
+
+¿Eh, cómo?
+
+¡Mira esto!
+
+Es como magia...
+
+Pero hay algo raro con mis Chibis,
+la mayoría nacen muertas.
+Aunque hay una...
+O bueno,
+ella sigue corriendo en círculos.

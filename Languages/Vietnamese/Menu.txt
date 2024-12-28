@@ -1,0 +1,165 @@
+Chơi mới
+Tiếp tục
+Menu chính
+Thoát
+Cài đặt
+Thành tựu
+Credit
+Quay lại
+Tải
+Ngôn ngữ
+Đang tải...
+Đồ họa
+Âm thanh
+Bàn phím & chuột
+Bộ điều khiển
+Độ phân giải
+Chế độ cửa sổ
+Hiệu ứng đồ họa
+Hiệu ứng màu
+Bóng Đổ Mềm
+Làm mờ
+Ánh sáng chói
+Khử răng cưa
+Đổ bóng
+Chất lượng hiển thị thế giới
+Lập trình
+Hoạt ảnh
+Hiệu ứng âm thanh
+Âm nhạc
+Hiệu ứng hạt
+Kết cấu
+Mô hình 3D (98%)
+Kịch bản
+Đặt lại
+Tiến
+Quay lại
+Trái
+Phải
+Tương tác
+Độ nhạy chuột
+Thoát khỏi trò chơi?
+Có
+Không
+Quay về menu chính
+Xoay chuyển mượt mà
+Cài đặt trò chơi
+Kiểu đổ bóng
+Trang phục
+Giao diện
+Mô hình 3D (2%)
+Âm lượng giọng nói
+Tạm dừng
+Menu
+Chúc mừng! Bạn đã hoàn thành trò chơi!
+Thời gian chơi: 
+Phụ đề
+Độ sáng
+Vsync
+Đã lưu
+Nhân vật
+Nhân vật - Mita
+Nhân vật - Hộp băng
+Hộp băng
+Mita
+Bắt đầu lại từ con số 0
+Bạn có chắc chắn muốn xóa toàn bộ tiến trình và chơi lại từ đầu không?
+Đang biên dịch shader, thời gian chờ ước tính: 2 tiếng.
+2 tiếng cơ á?! Quá vô lý! Chúng tôi bỏ qua cho bạn luôn!
+Tạo hiệu ứng đổ bóng chân thực, ước tính khoảng 10 phút.
+Đùa chút thôi, chúng tôi không dùng mấy thứ xịn xò đó đâu.
+Hmm...
+Ô, xong rồi này!
+Lắc lư khi di chuyển
+Hiển thị gợi ý
+Giọng nói người chơi
+Discord
+Đã thêm hồ sơ nhân vật
+Tầm nhìn
+Lồng tiếng
+Tắt
+Hiển thị tay khi đẩy cửa
+Chuyển động
+Bật giọng nói người chơi
+Mita
+Mita Tóc Ngắn
+Mita Tử Tế
+Mita Đội Mũ
+Mita Bé Nhỏ
+Mita Buồn Ngủ
+Mita 2D
+Mila
+Mita Rùng Rợn
+Mita Lõi
+Mita Bóng Ma
+Mita Chibi 
+Mita Hình Nộm
+
+
+
+// Name load location
+Mình đang ở trong game?
+Cuối cùng cũng được bên nhau ♥
+Mọi thứ trở nên kỳ lạ
+Tầng hầm
+Bên ngoài thế giới
+Vòng lặp
+Tiểu Mita
+Hình nộm và câu đố bị lãng quên
+Cô ấy chỉ muốn ngủ thôi
+Tiểu thuyết
+Đọc sách, sửa lỗi
+Chạy và trốn!
+Phiên bản cũ
+Cuộc trò chuyện thẳng thắn
+Khởi động lại
+Cappie
+Mita Bóng Ma
+Thế giới thực?
+Biến khỏi Lõi ngay!
+Người Chơi 1
+Người Chơi 2
+Người Chơi 3
+Người Chơi 4
+Người Chơi 5
+Người Chơi 6
+Người Chơi 7
+Người Chơi 8
+Người Chơi 9
+Người Chơi 10
+
+Chế Độ Bình Yên
+Chế độ này vẫn đang được phát triển! Vì nó quá rộng lớn nên nhà phát triển vẫn chưa hoàn thiện xong. Nhưng chớ lo, nhà phát triển đã hứa sẽ bổ sung chế độ này trong bản cập nhật lớn sắp tới. Và bạn đã mở khóa quyền truy cập trước cả khi ra mắt! Giờ chỉ cần chờ đợi thôi...
+Vậy, Chế Độ Bình Yên là gì? Đây chính là cơ hội để bạn gặp lại Mita và tạo dựng mối quan hệ theo một cách hoàn toàn mới! Mita sẽ vô cùng hạnh phúc khi được ở bên bạn từ sáng đến tối, trong một thế giới ngập tràn niềm vui và bất ngờ. Bạn sẽ được trải nghiệm những cuộc trò chuyện tâm tình, cùng nhau thưởng thức bánh quy, chơi trò chơi và tận hưởng những khoảnh khắc vui vẻ bên nhau.
+
+
+Máu me
+Đặc Biệt Cảm Ơn:
+Biểu Tượng Thành Tựu: Iceсloud
+Hình ảnh: Nineko Hori
+Dịch Thuật
+Chuyển đổi văn bản trò chơi sang ngôn ngữ khác.
+Đối tác phát hành
+Hỗ trợ quảng bá trò chơi
+Thử Nghiệm
+Chơi và tìm ra tất cả các loại lỗi.
+Bản dịch này do cộng đồng người hâm mộ thực hiện và được bổ sung vào trò chơi theo nguyện vọng của họ.
+Trò chơi này chứa đựng các yếu tố hù dọa bất ngờ, âm thanh lớn và hiệu ứng hình ảnh nhấp nháy. Một số trường đoạn trong trò chơi có thể gây nguy hiểm cho những người có vấn đề về tim hoặc mắc chứng động kinh. Vui lòng cẩn trọng trước khi chơi.
+Đã mở Chế Độ Bình Yên!
+
+Chế độ chụp ảnh
+Chế độ chụp ảnh: Tất cả các hạn chế bay đã được gỡ bỏ, bạn có thể tự do bay lượn và khám phá những điều bạn chưa từng được thấy.
+Thoát khỏi chế độ chụp ảnh
+Ẩn giao diện
+Giữ để xoay camera
+Di chuyển nhanh
+Xoay chuyển mượt mà
+Tốc độ camera
+Hiệu ứng
+Điều chỉnh tốc độ thời gian
+Độ sáng
+Độ tương phản
+Hiệu ứng mờ viền
+Chụp ảnh màn hình
+Mở thư mục chứa ảnh
+Góc camera

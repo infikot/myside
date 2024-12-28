@@ -61,7 +61,7 @@
 Закончить
 Уснуть
 
-Найти ещё пазлы
+Найти ещё части
 
 Попробуй // Guitara = Yes
 Не стоит // Guitara = No
@@ -85,7 +85,7 @@
 
 Мешать // Spoon coffee turn
 
-Дернуть рычаг // Switch turn
+Дёрнуть рычаг // Switch turn
 
 Выбрать правый // Choose Right knife
 Выбрать левый // Choose Left knife
@@ -125,7 +125,7 @@
 Перевернуть
 Переложить
 
-Тебе идет // [Yes] put on glasses?
+Тебе идёт // [Yes] put on glasses?
 Лучше снять // [No] put on glasses?
 
 Расскажи // [Yes] talk about?

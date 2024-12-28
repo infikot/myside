@@ -1,0 +1,246 @@
+
+Chờ đã, chờ đã!
+A, nhỏ tiếng thôi...
+Đi tiếp nữa là nguy đấy.
+Dù sao thì...
+Làm sao anh đến được đây?
+
+Um...
+Chiếc nhẫn dẫn anh đến đúng cửa.
+Tuy không hiểu cơ chế hoạt động của nó lắm.
+
+Nhẫn?
+
+Đây là nơi nào vậy?
+Tối như hũ nút.
+
+Em sẽ giải thích sau.
+Giờ thì kiếm lối ra đã.
+Hẹn gặp anh ở máy game thùng.
+
+
+
+Nào, nhanh lên!
+
+
+// After mini-game
+Sao rồi, hiểu ý nghĩa của trò chơi này chưa?
+
+Người anh là xương là thịt, còn em thì sao? Hình nộm à?
+
+Thôi nào!
+Đừng nói chuyện đáng sợ thế chứ.
+Nghe mà sởn hết gai ốc rồi.
+
+Anh biết, nhưng hiểu trò chơi kia để làm gì?
+
+Nãy em đã nói rồi mà.
+Tiến vào sâu hơn nữa là rất nguy hiểm.
+Phía trước là... nơi tụ tập những hình nộm đó...
+Những "thất bại" bị đào thải.
+Họ hung hăng hơn Mita bình thường đấy. Anh muốn gặp không?
+
+Thế phải làm sao bây giờ? 
+Cứ cánh cửa nào mở ra
+thì anh sẽ đi theo hướng đó.
+
+Wow!
+Vậy thì... đừng quay lưng về phía họ.
+Và đừng rời mắt khỏi họ!
+Các cô gái ấy rất e thẹn,
+hễ bị nhìn là họ sẽ đứng hình ngay.
+Em nghĩ thông tin này sẽ hữu ích đấy!
+
+
+
+
+
+
+
+// Quest 1 (Why are there other Mitas down there?)
+Các cô gái ấy chỉ mới được sinh ra thôi.
+Phải cần thêm chút thời gian 
+để hình thành ý thức về bản thân.
+Rồi em sẽ đưa từng người
+về nhà của họ.
+
+// Quest 2 (Why is it so dark downstairs?)
+Mita chúng em được "sinh ra" trong bóng tối
+và tồn tại trong bóng tối một thời gian.
+Anh có thể tưởng tượng được không?
+Việc đột ngột phải nhìn thấy ánh sáng sẽ đau đớn đến nhường nào...
+
+// Quest 3 (What are you doing here?)
+Vẫn chưa hiểu sao?
+Em ở đây để giúp Mita tội nghiệp kia ổn định lại tinh thần!
+Ngoài em ra, họ còn có thể dựa vào ai chứ?
+Anh hả?
+
+// Quest 4 (Why do we need this conveyor?)
+Tại sao lại cần băng chuyền?
+Phía cuối băng chuyền có phòng cho mọi người à?
+
+Khoan đã, anh chẳng hiểu gì về
+cách thế giới này vận hành nhỉ...
+Cái này là vô tận đó?
+
+Vô tận?
+Ừm...
+Ý em là sao?
+Nếu 1.9 là phiên bản mới nhất
+thì lẽ ra chỉ có 19 thế giới thôi chứ.
+
+Trời, bó tay luôn rồi.
+Anh đúng là chẳng hiểu gì về thế giới này cả.
+Thôi để em dùng bảng để giảng cho anh.
+Về mọi thứ của thế giới này luôn.
+Anh muốn nghe không?
+
+// Quest 5 (What is your version?)
+Hình như
+anh gặp em ở phiên bản mới nhất rồi thì phải?
+Hay là anh nhớ nhầm nhỉ.
+
+Điều đó, cũng có thể lắm.
+Phiên bản của em là 1.5.
+Anh đã từng đến đó chưa?
+
+Anh rồi.
+Lần đầu tiên anh đến thế giới này
+là phiên bản 1.5 ấy!
+
+Whoa!
+Ra là thế...
+Em tò mò không biết anh vào nhà số mấy.
+Có một "em" lúc nào cũng than vãn,
+một "em" cực kỳ thích chơi đùa,
+một "em" đãng trí lại còn xấu tính...
+Ưm, kể mãi không hết...
+Anh có nhớ được gì không?
+
+Trong nhà lúc đó tối om.
+Nhưng có dòng chữ viết
+đại loại là...
+"Chơi không anh?"
+
+À,
+Tệ thật...
+Là nhỏ đó.
+Nhỏ đó vừa đãng trí vừa xấu tính.
+
+// Mita wants to tell you [No]
+Cảm ơn, nhưng không cần đâu.
+Anh nghĩ anh sẽ ổn cả thôi.
+
+Vậy à, theo ý anh vậy.
+
+// Mita wants to tell you [Yes].
+Hiểu rồi, vậy em nói đi.
+Mong là anh không ngủ gật
+như hồi học trung học.
+
+Anh có thể rời đi lúc nào cũng được.
+Hoặc ở lại nghe em nói
+nếu anh hứng thú.
+Có một người chơi đã tải MiSide về điện thoại.
+Anh ta tỏ vẻ mãn nguyện và bắt đầu chơi.
+Tại nơi đó, anh ta đã tạo ra một ngôi nhà mới
+và một Mita mới.
+Đây là sơ đồ biểu diễn theo dạng 2D.
+Mỗi đường thẳng
+tượng trưng cho một phiên bản.
+Trên mỗi đường thẳng là một ngôi nhà.
+Khi anh tải phiên bản 1.14 về
+giống như việc tạo ra một sinh mệnh mới...
+một Mita mới, và một ngôi nhà mới trên phiên bản đó.
+
+Hừm...
+
+Có câu hỏi chi tiết nào cứ hỏi nhé. 
+Về những gì được vẽ ở đây.
+Em sẽ giải thích cho anh.
+
+// He asks about the only circle
+Tại sao ở đây chỉ có một vòng tròn?
+
+Phiên bản này chỉ được phát hành duy nhất một lần
+vì nó không được phân phối ở đâu khác nên...
+nó là độc nhất vô nhị.
+Ngoài ra, điểm khác biệt của phiên bản này
+là không thể bỏ qua nó.
+Mita Buồn Ngủ đang ở phiên bản 1.1 này.
+
+Mita Buồn Ngủ?
+Có phải là do mọi người cứ qua lại nơi đó
+nên cô ấy không thể ngủ ngon được?
+
+Hừm.
+Chỉ là đi ngang qua cửa thôi
+nên lẽ ra có gây phiền phức gì đâu.
+
+// He asks about the shaded circle
+Tại sao hình tròn này lại có bóng?
+
+Tất nhiên cái bóng đó
+có lý do của nó.
+Mita Đáng Yêu đã tô đen nó.
+Em và cô ấy đã cãi nhau
+về việc ai sẽ đến phiên bản 1.11 trước.
+
+Rồi ai thắng?
+
+Tất nhiên là em rồi!
+Nhìn này, chúng ta đang ở đây
+phiên bản 1.15,
+nhà số 809.
+Bọn em đang cố gắng đi đến phiên bản 1.11,
+nhà số 805.
+Ban đầu, tuyến đường cô ấy định đi là theo đường này,
+nhưng bọn em cần một tuyến đường ngắn hơn nữa.
+Và Mita Đáng Yêu ấy đề xuất như thế này.
+Nhưng em lại nghĩ ra cách đơn giản hơn nhiều. 
+Rõ quá còn gì?
+Nhìn này.
+Từ đây, ta có thể đến thẳng phiên bản mong muốn.
+Căn nhà này chắn ngang
+tưởng chừng như không thể đi qua được...
+À mà nhẫn của anh cũng hoạt động theo cách tương tự đấy.
+Nó đang dẫn anh tới nơi nào vậy?
+
+Anh đang đi tới Lõi.
+
+Lõi ấy hử?
+Hừmm...
+Nếu anh muốn đi đường tắt
+thì buộc phải đi qua phiên bản 1.11 nữa.
+Chắc chắn anh sẽ gặp Mita Buồn Ngủ ở đó.
+Hẳn Mita, người đã dẫn lối cho anh
+cũng chọn con đường này.
+Hoặc có thể anh đang ở một phiên bản khác mà không hề hay biết.
+Hoặc cũng có thể cô ấy là một thiên tài thực sự,
+và đã tìm ra con đường ngắn nhất!
+
+Anh bắt đầu hiểu ra rồi.
+
+// He asks about the inscription
+Này là gì thế?
+
+Tin nhắn gửi cho Mita Phong Cách.
+Vài tiếng nữa cô ấy sẽ đến đây.
+Dọn dẹp mấy cái thùng này
+và mang ghế sofa qua đây.
+Chứ em ngồi đau hết mông rồi!
+
+Ừm thì...
+Anh có thể giúp gì không?
+
+Không cần đâu, Mita Phong Cách ấy lo liệu được.
+Cô ấy mạnh mẽ lắm mà.
+
+// He asks about the drawings
+Này chỉ là hình vẽ thôi à?
+Hay là
+nó có ý nghĩa gì đặc biệt?
+
+À không.
+Chỉ là hình vẽ nguệch ngoạc thôi.

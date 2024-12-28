@@ -1,0 +1,87 @@
+
+¡Oye, tú!
+¡Hola!
+¿Quieres salir?
+¡Entonces ayúdame a encontrar la llave!
+// Key Search
+Mierda! ¡La llave desapareció!
+Nada aquí
+cero, nada, ¡nada!
+¡La encontré!
+
+// The usual conversation
+¡Vaya, pensé que serías más bajo!
+¡Eres alto
+justo como mi hermana!
+
+¿Tu hermana? ¿Qué pasa con ella?
+
+Sí, mi hermana.
+¡No me digas que nunca la has conocido!
+
+Uh... creo que la he conocido... ¿o sí?
+
+¿Eres tonto?
+
+Erm...
+
+Parece que sí...
+¡Vamos, ayúdame a encontrar la llave ya!
+
+// Next work
+Ven.
+¡Pon el hierro en la tubería!
+¡Gracias!
+¡Ahora tráeme esa madera!
+¡Gracias!
+¡Un poco más de ayuda, por favor!
+¡Todo listo! Ahora...
+guau, eso está hermoso.
+¡Púlsalo, vamos!
+Prepárate...
+¡ahí, tómalo!
+¡La llave es tuya!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+¡Soy ChibiMita.fbx!
+Con un montón de diálogos,
+un modelo súper simple,
+y lo mejor de todo, ¡un cabello hermoso!
+
+// Quest 2 (Have we seen each other yet?)
+¡Cabeza tonta!
+Eres un poco lindo, ¿sabías?
+Haciendo preguntas tontas como esa.
+Aunque,
+¡esta es la primera vez que te conozco!
+Pero escucha...
+¡Si robas mi estilo maravilloso,
+te haré arrepentirte!
+
+// Quest 3 (Why are you here?)
+¿No lo entiendes?
+¡Esto es un punto de control
+una prueba de tu astucia!
+¡Ahora ve!
+¡Estoy aquí para guiar a los perdidos sin esperanza!
+
+// Quest 4 (Why are you helping me?)
+¿Qué te hace tan especial?
+¿Por qué no ayudarte de todos modos?
+
+¿Qué?
+
+Tan tonto...
+¡Apareciste de la nada!
+No se supone que estés aquí,
+¡así que te estoy ayudando!
+
+¡Adiós, tonto!

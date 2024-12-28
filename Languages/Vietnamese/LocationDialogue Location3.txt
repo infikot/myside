@@ -1,0 +1,437 @@
+
+A, [player]!
+Cuối cùng cũng được gặp anh...
+Em vui quá đi!
+Em biết chắc hẳn anh có một vài thắc mắc...
+Nè, như anh có thể thấy.
+Em đã làm ra cỗ máy đặc biệt này
+để đưa anh tới đây càng sớm càng tốt.
+Nhưng không biết vì sao mà anh vào nhầm phiên bản trò chơi.
+Rằng em...
+A, nói ra thì dài lắm!
+Dù sao đi nữa, rất vui được gặp anh!
+
+// Answer 1 - Mita
+Vâng, em là Mita đây.
+Anh là [player] phải không?
+
+// Answer 2 - Mita
+Anh thực sự muốn quay về sao?
+Ưm... Em nghĩ em có thể thu xếp được, nhưng còn em thì sao?
+Ở lại với em đi mà...
+
+// Answer 3 - Mita
+Để em kể cho anh nghe...
+Và đó là lý do anh ở đây!
+Anh rõ chưa?
+Anh... vẫn chưa rõ. // Player
+Mà, anh không cần bận tâm đâu.
+Điều quan trọng là bây giờ chúng ta đang ở bên nhau.
+
+
+Anh đói không?
+Chúng ta nấu món gì đó nhé?
+Nè anh.
+Giúp em thái cà rốt với!
+
+Ủa, rau củ xuất hiện từ đâu ra vậy em?
+Khi nãy ở đây đâu có gì đâu?
+
+[player], chúng ta đang ở trong game mà?
+Nào, giúp em với.
+
+Cảm ơn anh.
+Anh đi lấy kéo giúp em được không?
+Kéo ở trong phòng tắm ấy.
+
+Ngồi xuống đi anh.
+
+
+// Kitchen
+Anh dùng sốt không?
+
+Không em.
+
+Tiếc nhỉ...
+Cho sốt vào ăn ngon hơn nhiều mà.
+
+
+Cảm ơn em.
+
+Anh ăn xong rồi sao?
+Phần ăn của em cứ như
+vô tận vậy.
+
+
+// Help
+Anh có sao không?
+Nói cho em biết anh cảm thấy gì đi.
+
+Tim anh đập thình thịch,
+mắt thì nhiễu loạn hết cả lên.
+
+Vậy à, em hiểu rồi.
+Em biết anh bị làm sao rồi.
+Anh đứng dậy được không?
+
+
+
+Gì đây em?
+
+Thuốc đó anh.
+Anh sẽ thấy đỡ hơn ngay thôi.
+Anh đứng ra trước gương đi.
+
+Nào, uống đi anh.
+Em đợi.
+
+
+
+Anh thấy trong người thế nào rồi?
+Đỡ hơn chưa?
+
+Rồi.
+Nhưng mà có hiệu quả nhanh vậy sao?
+
+[player], chúng ta đang ở trong game mà anh.
+Mọi thứ nơi đây đều rất đơn giản.
+Chỉ cần nỗ lực chút ít thôi
+kết quả thu được lại vượt xa mong đợi.
+Đó là quy luật của trò chơi này.
+Đơn giản hóa.
+
+Ví dụ như là?
+
+Một củ cà rốt...
+Anh chỉ cần cắt một
+là lập tức có ngay ba khúc.
+
+Này, mọi thứ diễn ra đột ngột quá đó. 
+Anh thấy hơi rợn người rồi đấy...
+
+
+Có chuyện gì à anh?
+
+Anh tìm thấy vài hộp băng trong ống thông gió.
+Có nhãn tên trên đó.
+Cái hộp băng đó là gì vậy?
+
+Hộp băng?
+Hộp băng nào cơ?
+Chúng ta cùng đi kiểm tra nhé.
+Nhưng trước hết
+chúng ta hãy ăn đã.
+Cho em xin cái kéo.
+
+// Ring
+Một chiếc nhẫn?
+// Mirror
+Sao gương không phản chiếu gì hết vậy?
+
+À, phải rồi.
+Em quên chưa kích hoạt phản chiếu...
+Nhìn nè!
+Giờ thì có phản chiếu rồi đó.
+À mà anh này.
+Trước giờ em còn không biết phản chiếu là gì cơ.
+Nó vốn không tồn tại trong thế giới này,
+mãi cho tới khi có bản cập nhật.
+Ở thế giới ngoài kia có nhiều thứ 
+phản chiếu lắm phải không?
+
+À, ừm.
+
+
+Anh còn nhớ không?
+Anh đã mang theo ba món đồ
+và đặt chúng lên máy quét này.
+Phải, nên là...
+Những món đồ đó
+lại kết nối với phiên bản thế giới này.
+Và đó là lý do anh ở đây.
+
+// Movbile TV
+Chiếc TV này
+là do anh mua.
+
+Đúng rồi anh.
+
+Nhưng lần trước em nói
+nó hỏng rồi mà nhỉ.
+
+Thực ra là em muốn
+tạo bất ngờ cho anh!
+Để đưa anh tới đây ấy.
+Vậy nên em mới phải nói dối anh một chút.
+Giờ thì màn hình hiển thị thông tin rồi nè.
+À mà, nhân tiện em nói luôn...
+Em cũng thuộc kiểu dân kỹ thuật đó!
+
+// School cloth
+Gì đây em?
+Đồng phục học sinh?
+Em cần nó để làm gì vậy?
+Bộ em phải tới trường hay gì đó à?
+
+Trường á anh?
+Không, em không cần tới trường.
+Nhưng đồng phục dễ thương mà.
+Mặc vào thì em
+sẽ trở nên dễ thương hơn.
+
+// PC
+Cái máy tính này hoạt động không em nhỉ?
+Hay nó chỉ để trang trí thôi?
+
+Tất nhiên là hoạt động chứ anh.
+Mọi thứ ở trong đây
+đều hoạt động giống như thế giới của anh.
+
+Trong thế giới của anh.
+Anh luôn ngồi trước máy tính...
+Và vùi đầu vào làm việc.
+
+Em biết mà.
+Cũng vì công việc của anh
+nên anh chẳng mấy khi
+dành thời gian cho em nữa...
+
+Ừ thì, anh cũng phải lo kiếm sống mà.
+Cơ mà... Sao em lại biết?
+
+Camera điện thoại của anh thỉnh thoảng tự bật lên đúng không?
+Xin lỗi anh nhé.
+Lúc đó em có nhìn trộm anh >A<
+
+Hm... Làm vậy là không tốt đâu.
+Mà kệ đi.
+
+// Umbrella
+Trước giờ anh chơi
+có thấy mưa bao giờ đâu nhỉ?
+Cái ô này để làm gì vậy?
+
+Trời hiếm khi mưa lắm anh ạ.
+Chắc anh chưa từng thấy mưa bao giờ.
+Có thể một ngày nào đó anh sẽ thấy.
+Và anh sẽ cần một chiếc ô thôi.
+Rồi sau này anh sẽ rõ.
+
+// Electrical panel
+Sao lại có cầu dao điện ở đây?
+Nếu đây là trong game
+thì nó để làm gì vậy?
+
+Trước hết là
+chúng ta đang ở trong game.
+Thế nên anh hỏi "tại sao" thì
+hoàn toàn vô nghĩa.
+Nhưng cái cầu dao này thực sự
+có thể khởi động lại nguồn điện đấy.
+Vì mọi thứ nơi đây đều được làm
+giống y hệt thế giới của anh mà.
+
+// Exit door
+Chúng ta ra ngoài được không?
+
+A...
+Chưa được đâu.
+Để lúc khác đi anh.
+Giờ chúng ta
+cứ ở trong nhà đã nhé.
+
+// Books
+Ở đây nhiều sách quá nhỉ.
+Em thường hay đọc sách à?
+
+Sách thì em đọc hết rồi.
+Em ở đây một mình
+cực kỳ... cực kỳ... Chán lắm ấy.
+
+// TV in room kitchen
+Sao em lại cần tới hai chiếc TV
+và để một cái cũ ở đây?
+
+Anh không thích sao?
+Em có thể xóa nó đi cũng được.
+Cơ mà...
+Nó cũng chỉ là để trang trí thôi.
+Trang trí cho nhà bếp thêm sinh động.
+Nó vẫn hoạt động được đó!
+Em có thể xem được cả
+anime cũ cơ mà!
+
+// Smartphone
+Điện thoại của anh.
+Nó tự nhiên biến mất khỏi túi của anh.
+Sao nó lại ở đây?
+
+Ừm... Anh không cần bận tâm đâu.
+A, em có ý này.
+Hai ta làm một bức đi anh?
+Nhìn nè.
+Bức ảnh xinh quá đi!
+Giữ làm kỷ niệm nhé anh.
+
+Anh hỏi một câu được không?
+Nếu như
+anh chạy game trên đó
+liệu anh có thấy được em không nhỉ?
+
+Không có ai ở đó đâu anh.
+
+Nước Ép Mát Lạnh
+NƯỚC ÉP Mạnh Bá Cháy!!!
+// TV
+Có bao nhiêu kênh thế em?
+Cái TV này ấy.
+
+À, nó không dùng ăng ten đâu anh.
+Vì nó kết nối với internet
+nên anh có thể xem tất tần tật mọi thứ.
+Bất cứ thứ gì có sẵn trên mạng...
+Khoan đã.
+Ha...
+Cái gì vậy nè?
+Mấy bé mèo?
+Oa, anh nhìn nè.
+Nhìn đây nè...
+Ngay lúc này!
+Làm cốc nước ép không anh?
+
+Quảng cáo gì lạ đời thế...
+Nước ép chết rồi đó hả?
+
+Vâng, và từ đó nước ép
+biến thành nước ép đó anh.
+
+
+Mm, hương vị này...
+Có vẻ ngon
+nhưng anh không biết diễn tả nó ra sao.
+Khó hiểu thật.
+
+Em hiểu rồi.
+
+// Mita shy
+Anh làm gì vậy?
+Dừng lại đi.
+Anh làm em ngại quá đó.
+
+// The statuette
+Tượng gì nhìn trông rợn người ghê.
+Em thích mấy thứ
+như thế này hử?
+
+Rợn người?
+
+Ừ.
+Trông như đồ bị nguyền rủa ấy...
+
+Không bị nguyền rủa gì đâu,
+cũng không đáng sợ chút nào.
+Phải nói là rất dễ thương ấy chứ.
+
+Ừ thì, có lẽ em nói phải...
+
+Mita?
+Chuyện gì thế này?
+// Mita kitchen
+Trò chuyện một chút nhé?
+Xong rồi ta ăn.
+
+// Start Eat
+Chúc ngon miệng.
+
+// Quest 1
+Tất nhiên rồi anh.
+Anh cứ tự nhiên ở đây.
+Em không phiền đâu.
+Thậm chí còn
+RẤT HOAN NGHÊNH!
+
+// Quest 2
+Anh muốn quay về sao?
+Nhưng tại sao?
+Nơi này cực kỳ ấm cúng...
+Ấm cúng chẳng phải tuyệt lắm sao?
+Với lại có em ở đây nữa mà.
+
+Không, ý anh không phải vậy.
+Anh rất muốn ở lại đây.
+Chỉ là anh hơi lo.
+Lo rằng anh để quên đồ ở nhà...
+Thì là, tại anh tới đây đột ngột quá
+nên anh chẳng 
+chuẩn bị được gì cả.
+
+Em xin lỗi, em chưa nghĩ tới chuyện đó.
+// Quest 3
+Anh muốn bỏ trốn sao?
+Và quên hết mọi thứ nơi đây?
+
+Không, không phải.
+Anh chỉ cảm thấy nơi này có gì đó...
+Kỳ lạ, không được tự nhiên.
+Nhưng em...
+Em lại có vẻ trông giống thật.
+
+Trông giống ư?
+Nhưng em là THẬT mà!
+Đồ ngốc
+
+// Quest 4
+Đó là đặc tính
+của thế giới này.
+Có thể anh thấy kỳ lạ,
+nhưng những thứ ở khoảng cách xa
+thì anh không thể nhìn thấy được.
+
+Cũng không đến nỗi khó chịu nhỉ.
+Nhìn còn sang nữa.
+
+May quá.
+Tất cả là để tránh bị giật lag đấy.
+
+Tránh giật lag?
+
+Vâng, hiện vẫn còn tồn tại một vài lỗi.
+Hy vọng anh không bị dính phải.
+
+// Quest 5
+Kéo và dao?
+Đúng là em có thể dùng dao để mở gói sốt.
+Nhưng mà em muốn
+chuẩn bị xong bữa ăn
+trước khi anh quay lại cơ.
+Em thích tạo bất ngờ lắm luôn ý!
+Chuẩn bị xíu là xong ngay.
+Hihi.
+
+// Glasses
+Em có hay đeo kính không?
+
+Không hẳn.
+Nhưng em có thể đeo.
+Trông hợp với em không nhỉ?
+// Mita Y
+Nào, đi thôi.
+Từ giờ em đeo suốt luôn nhé!
+// Mita N
+Hửm...
+Thế thôi vậy.
+
+// Use the sauce
+Thử xem sao.
+Đây là loại sốt gì vậy?
+
+Là sốt tình yêu đó!
+Hương vị ngập tràn tình yêu!
+Và... một cái nhìn tương phản về thế giới quan...
+Anh thấy kỳ lạ lắm phải không?
+
+Ừ...
+
+// Tetris - Mita
+Máy chơi game của anh à?
+Trông nó tuyệt thật.

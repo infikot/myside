@@ -1,0 +1,605 @@
+
+Eu... Eu tô te volta!?
+
+Ahm!!
+Você me assustou!
+Caramba.
+Meu save—Ah, não..
+Eu não entendo...
+cade o jogo?
+Você acabou com a minha rota!
+O que você quer?
+
+Eu preciso da versão...
+
+Huh?
+
+Eu preciso voltar para a versão antiga de alguma forma.
+
+Ah, tá bom vai!
+Eu tô ocupada demais
+para te entreter, seu idiota!
+
+E o que é isso? Brinquedos?
+
+Olha para ele, que imbecil!
+Não vai rolar amizade aqui.
+
+Escuta, eu preciso chegar no núcleo.
+
+Ai, ai, ai, ai, é culpa sua.
+Uhh.
+Huh?
+
+...Eu preciso ir até o núcleo e parar a Mita!
+
+Mita?
+Ah, por favor!
+Eu não ligo para ela!
+Não é a primeira, nem a ultima!
+
+Mas você é uma Mita também...
+
+Eu sou a Mi-la.
+
+Mi-Ta? La?
+
+Sim! Elas são todas Mitas
+Mita lá, Mita cá, Mita aqui!
+
+Então... Você é a Mila
+
+Eu já te falei! O quão idiota você consegue ser?
+
+Bem, boa sorte então, Mila...
+
+Onde acha que está indo?
+Tá achando que pode só ir embora assim?
+
+// Player check exit
+Achou que ia encontrar alguma coisa aqui?
+
+Mas que droga?
+O que é isso?
+
+Estava esperando o que?—
+O Pais das Maravilhas?
+
+Como eu saio daqui?
+Deve haver uma saída aqui.
+
+Não tem como sair.
+
+Bem, qual é essa versão então?
+Acho que estou no caminho certo.
+
+// Glitch kitchen
+Isso é seu?
+
+Sai de perto!
+Eu não sei o que é...
+é algum tipo de bug!
+
+Meu anel tá vibrando por algum motivo.
+
+Que tipo de anel?
+É de casamento?
+
+Não, recebi de uma das Mitas — uma das milhares delas.
+A única coisa que pode me fazer ir embora.
+
+E você ia tocar?
+Se minha casa explodir, você tá morto!
+
+// Bathroom - Mila is washing
+Eii!
+Sai sai sai!
+Não dá para ver que o banheiro está ocupado?!
+// The player continues to stand 1
+Por que você tá parado ai?!
+Saaai!
+// The player continues to stand 2
+Não me estressa!
+Vaza daqui muleke!
+// The player continues to stand 3
+Você é surdo?!
+Eu tô tomando banho, caramba!
+
+// Mila came out and swears
+O que que foi isso?
+Seu sem vergonha!!
+
+Por que você invadiu o banheiro de repente?
+Você poderia ter esperado
+até eu sair!
+
+Eu não sabia quanto tempo ia demorar.
+Quanto tempo vai ficar brincando com isso ai?
+
+Glitches?
+Tem mais?
+
+Uhum...
+bom, se minha casa tá de pé,
+Assumo que você se livrou do bug na cozinha
+
+Eu meio que fiz.
+
+Que bom. Agora tem minha permissão
+para ir no banheiro.
+
+Obrigado.
+
+// Mila hides under the table
+Mila?
+O que você está fazendo ai embaixo?
+
+Ai!
+Me assustou de novo!
+O que você quer, hein?
+
+Você viu mais algum glitch?
+
+Ah, então os problemas são desculpas
+para me fazer parar de ler o livro?
+Não!
+
+Tudo bem, eu mesmo vou procurar.
+
+Ahm, espera,
+Eu tenho que perguntar...
+você quer sair,
+não quer?
+
+Isso mesmo.
+Eu quero sair desse jogo.
+
+Talvez isso soe estranho...
+mas você leria comigo?
+
+Primeiro você está gritando comigo e agora está me pedindo para ficar?
+Para ler livros?
+Talvez eu ficasse,
+mas eu tenho que continuar andando.
+
+Uhum!
+Vai lá procurar os seus bugs...
+É a segunda vez que eu me machuco
+por sua culpa!
+// Player saw a glitch
+Ah, encontrei um.
+
+// Mila stands with a sword
+Ei! Tá prestando atenção?
+Me tema!
+Olha o que eu posso fazer!
+O quão perigosa eu sou!
+E você nem pisca.
+
+Você tá falando serio?!
+
+O que foi?
+Não foi convincente?
+
+Na verdade...
+
+Acho que é porque já viu de tudo resolvendo esses...bugs
+não é verdade?
+Você sabia que a pedra tava cortada,
+não sabia?
+
+Não.
+É só que... estamos em um jogo.
+Aqui, num estalar de dedos, tudo é possível.
+
+Ai..
+seu idiota!
+Um estalo de dedos, né?
+Por que você acha que eu tenho lido tantos livros?
+Para estalar o dedo e ficar feliz?
+Por mim eu faria tudo por conta propria
+que nem nos livros.
+
+// Mila is doing push-ups
+O que você tá fazendo?
+
+Não dá para ver?
+
+Talvez, mas por que você está fazendo isso?
+
+Tô ficando forte o suficiente para esmurrar sua cara
+
+Qual é o seu problema?
+Você está agindo estranha.
+
+Tá bom! Hunf!
+Sobre o negocio de esmurrar—
+Eu não tava falando serio.
+E eu não sou estranha
+Eu sou unica!
+Eu quer ser diferente das outras garotas.
+
+Você não precisa tentar tanto.
+Confie em mim — você já é bem diferente.
+
+Eu sei!
+Olha o que eu consigo fazer!
+Tá vendo?
+E agora—sem as mãos!
+
+Eu sei que é um jogo,
+mas isso é ridiculamente irreal...
+
+Ai!
+unhééé!
+Que fisica estupida...
+Você fala de realismo,
+E ai...
+Só acontece!
+Você tá falando que EU sou estranha?
+Cabeção!
+
+// Last glitch ready - player exit
+Aí está a passagem.
+Conseguimos, Mila!
+
+
+Boaa,
+Meu heroi!
+
+Oh, meu Deus!
+
+Arg!
+Desculpa—Eu não queria.
+
+Está tudo bem, Mila. Já posso seguir agora.
+
+Olha, eu preciso que você vá...
+mas você não pode ficar
+só um pouquinho?
+
+Mal posso esperar.
+A Mita Louca não é exatamente do tipo paciente.
+
+Eu odeio ela...
+
+Eu odeio, odeio, odeio tanto!
+
+Mila, escuta...
+
+Por que? Por que eu tô aqui?
+Eu não entendo!
+E por que eu não entendo?
+Eu nunca vou conseguir sair daqui!
+
+Eu entendo como você se sente, Mila.
+Você quer que eu volte? Depois?
+Se eu puder?
+
+Por favor, fica comigo...
+É tão legal estar com você, porque eu não me sinto sozinha...
+E se eu...Não conseguir?
+
+Eu vou. Só falta mais um pouco.
+// If the player clicks on the computer
+Já acabei de voltar daquela dimensão plana,
+e aqui estamos nós de novo...
+Mal posso esperar para voltar ao mundo real...
+
+Ha-ha-ha! :)
+Hmm,
+O mundo "real", né?
+É que nem uma lenda urbana!
+Eu nunca vi.
+
+Eu acho que...
+deve haver um caminho de volta.
+
+Você é confiante!
+Que piada!
+
+// Ask about books
+Por que você ainda lê livros?
+Existe a internet...
+
+Na internet? Tem muitas novels!
+Mas eu prefiro
+ter um livro fisico.
+É através deles
+que eu estou começando
+a entender um pouco melhor
+esse mundo.
+
+// Ask about the paintings
+Essas fotos... elas são reais?
+Em outras versões,
+sim, elas existem... mas são quase intensas demais.
+
+Eu sou a Mi-La, entendeu? Diferente do resto.
+E isso?
+São desenhos, sabe,
+fingindo ser mais do que devem.
+Eu vi outras Mitas
+desse mesmo jeito.
+
+Mila?
+Oiee?
+// Mila.
+E depois de tudo...
+Eu não quero ser assim.
+É muito...Nojento!
+
+// Ask about the butterfly painting
+Você já viu a natureza?
+Borboletas de verdade como essas?
+
+Não,
+mas eu tenho um livro por aqui.
+Que tem pequenas asinhas nele...
+Essa pintura,
+Argh...
+deu uma entortada.
+E aqui tem uma mancha...
+Aah, bem melhor.
+
+Você gostaria de ver a coisa real? Ir passear na natureza?
+
+Que pergunta besta!
+É claro,
+que eu iria!
+
+// Make long eye contact 1
+Por que tá encarando?
+Olha pra lá!
+
+// Make long eye contact 2
+Chega!
+Tsk, para com isso!
+Seu bobo...
+
+// Make long eye contact 3
+Qual é!
+Por que tá me olhando?
+Eu sou uma garota, sabe!
+
+Você já ouviu falar de boas maneiras?
+Xôôô!
+
+// Whispers 1
+Por que eles sempre me mandam
+caras idiotas,
+que acham que eu vou ser legal?
+Com joguinhos?!
+Que nem um Tamagotchi idiota!
+
+// Whispers 2
+Ele tá só vagando por ai...
+Enxerido.
+
+// Whispers 3
+Você falou alguma coisa?
+Essa música tá me deixando louca!
+
+// Whispers 4
+Como é que eu falo para ele
+que eu tô ocupada?
+É-É claro que eu não quero companhia...
+Mas e se ele for embora? Eu devia me importar?
+
+// Whispers 5
+Mãe...Pai...
+Por que essas palavras são tão...familiares?
+
+// Whispers 6
+Nevou aqui uma vez...Mas por que?
+
+// Whispers 7
+Nossa aparece do nada! Estranho.
+E se... não tiver nada lá?
+
+// Nearby 1
+E aqui estamos nós,
+parados...
+em silencio...
+Por que a gente tá parado aqui?
+O gato comeu sua lingua?
+Ou,
+só não sabe o que falar?
+
+// Nearby 2
+Aai, chega disso
+Serio, declarando guerra.
+Você sabe o que essa coisa faz
+com a linda pele de uma garota?
+
+// Nearby 3
+Livros não estão me ajudando muito com isso, mas se eu tiver sorte,
+talvez algum dia eu descubra...
+Essas porcarias de cenoura
+atrás de mim
+Tão me deixando louca!
+
+// Nearby 4
+Eu não gosto de excêntricos
+Amante de cenoura, amante de gatos...
+E ai está você, coletando bugs.
+Sinceramente, você é a pessoa mais estranha que eu já conheci!
+
+// Nearby 5
+Quer saber o que eu mais gostaria de fazer?
+Isso é...um pouco vergonhoso de falar.
+
+// Nearby 6
+Eles dizem que enfrentar
+sua natureza é um DESAFIO.
+Tô aprendendo etiqueta mas você,
+não tem ideia do quanto a minha mão coça
+de sentar e tomar um chá com você!
+
+// Nearby 7
+Nem com oculos,
+Não consigo enxergar o por que,
+dessa sua determinação.
+
+// Nearby 8
+Eu ouvi dizer que destino é algo que tá predefinido num script
+que até diz como você
+passa o seu dia.
+Haha! Quem escreveu essa merda?
+Foi você?
+
+// Nearby 9
+Eu consigo tankar uns idiotas, mas os loucos?
+Eu os odeio.
+
+// Nearby 10
+Algumas Mitas
+até que são fofas...
+Talvez eu gostaria de as conhecer mesmo que fossem
+clones dos clones dos clones.
+
+// Nearby 11
+Mas tem uma que é meio diferente.
+Ela tem um parafuso a menos.
+
+// Nearby 12
+Sem rabinho de cavalo!
+Eu os cortaria fora se pudesse!
+Eles são tão...Cringe!
+Você sabe do que eu estou falando—você raspou a cabeça!
+
+// Nearby 13
+E se não tiver nada atrás da porta?
+E essa casa e eu ...
+não tivessemos motivos para existir?
+Então por que você tem tanta certeza?
+Já ouviu falar da hipotese dos 5 minutos?
+
+
+
+// Last glitch ready - player exit
+Que corredor bizarro...
+Você vai entrar mesmo ai?
+
+Uhum.
+
+// FaceStone
+Oh, um cavalheiro 'atencioso'.
+Para que você precisa dele?
+
+Você vai descobrir
+em breve.
+E por que tá sempre tentando imitar ele?
+Só fica normal.
+
+Uh...
+okay.
+
+// Katana
+Isso é uma katana de brinquedo?
+
+NÃO é uma katana de brinquedo!
+Um toque dessa lamina
+e você vai sangrar.
+Diferente de você, eu sou uma otima espadachim!
+É melhor se cuidar—
+eu não gostaria de ver você arrancando seus proprios dedos.
+
+// Mirror
+Espelho...
+e ainda sem reflexo?
+
+Você
+parece desapontado.
+Olha só, eu li muito sobre reflexos
+nos livros!
+Mas na minha versão, eu não consigo fazer eles.
+Eu não consigo, tá?
+
+// Switch light
+Isso não funciona.
+As luzes aqui ligam e desligam sozinhas...
+deve ser problema no script!
+Mas!
+Por algum motivo a luz do banheiro
+funciona.
+Tão estranho
+// Switch light off
+Ainda tem luz aqui?
+
+// Little carrot
+Uma cenoura?
+Espera, onde foi?
+
+Ugh, eu tô cansada de cenouras!
+Parece que elas estão vivas!
+Toda vez que eu vejo uma,
+teleporta para outro lugar.
+
+// Little carrot
+Ah, é aquela cenoura...
+Ela foi embora de novo!
+Você acha que dá para pegar ela de algum jeito?
+
+huh.
+Confia em mim.
+Eu tentei!
+Só ignora, eu acho que é
+algum tipo de piada interna.
+
+// Tetris
+Ei!
+Eu sou uma piada para você?
+// Tetris
+Não vou devolver.
+Não, nunca!
+
+// Soap.
+Então, uh... esse sabão é real?
+Ou apenas mais uma decoração?
+
+Tá brincando?
+A maioria das coisas aqui são
+de verdade! Sinceramente...
+
+// BagWall
+Para onde você foi?!
+
+Posso passar por aqui?
+
+Você achou um bug novo ou...
+O que é isso?
+
+Isso parece com...
+nada.
+
+Ah, voltou.
+
+// Quest 1 Glasses
+Sua visão é ruim?
+Por que você precisa de óculos?
+
+O que—não gosta deles?
+É estilo!
+E minha visão é perfeita, tá?
+
+// Quest 2 Name miLa
+Mi-La?
+Por que não...
+Mi-Ka?
+Or Mi-Sa?
+
+Eu sou a Mila. É isso. Por que?
+
+Ah.. Nada não.
+
+// Quest 3 Evening
+Eu gosto da noite.
+Quando vai escurecer?
+
+Noite?
+Ugh, nem começa.
+Os dias aqui não acabam...
+um após o outro,
+sempre se repetindo.
+Ugh...

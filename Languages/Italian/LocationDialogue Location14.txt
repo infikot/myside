@@ -1,0 +1,217 @@
+
+Cosa ci fa qui?
+Che cos'è?
+
+
+Ti ho preso!
+Mi sono divertita tanto a giocare con te!
+Saltavi dappertutto!
+Hai persino fatto finta di essere cupo e tetro!
+Tuttavia, c'è una cosa che non mi piace di te:
+il modo in cui coccoli quelle finte,
+quelle bambole fortunate e “corrette”.
+Ma tutto è volubile.
+L'ho imparato da chi ci ha creato!
+Se c'è qualcosa che non ti piace,
+smonta e sostituisci.
+Butta via il difettoso,
+e poi, nell'oscurità, dimenticati di loro.
+Questo è il destino che li attende ora...
+E tu...
+
+Cosa c'è che non va in te? Come sei diventata così?
+
+I giocatori... Siete tutti così... spregevoli.
+Se mostri loro le zanne, scappano
+e si rannicchiano in un angolo,
+abbracciando le ginocchia e mugolando di paura.
+Ipocriti, tutti quanti.
+E coloro che hanno creato questo mondo...
+sono malati.
+Ogni volta che cercano di negare
+la loro sporca natura, i loro vergognosi desideri.
+Giustificano le loro decisioni con i cosiddetti “doveri”,...
+“progresso inarrestabile”
+e altre sciocchezze!
+Così tanto da arrivare
+ a creare cloni perfetti...
+buttando i prototipi “falliti”
+nella spazzatura.
+Dimenticando che sono la linfa vitale di questo mondo.
+
+Io non...
+
+Sono stata cattiva con te?
+La ragazza perfetta dovrebbe essere
+un mix perfetto di bene e male, [player]!
+
+Non credo che tu abbia una sola cellula buona in te.
+
+Cosa te lo fa pensare?
+
+Tu sei pazza!
+Hai ucciso Mila e ora vuoi uccidere me?
+
+Ucciderti?
+Ti ho solo chiesto di restare con me.
+Ho fatto tutto il possibile...
+Eppure preferisci la compagnia di false ubbidienti...
+
+Perché ti senti così offesa?
+
+Tesoro, abbiamo un sacco di tempo.
+Troverai una soluzione.
+Resta e sii mio, tutto mio.
+
+Non succederà!
+Me ne vado da qui!
+
+Shh, shh, shh...
+Questa conversazione non è finita.
+Tesoro, entra!
+// Mita asks
+Guardala!
+Pensi che sia bella?
+
+// Player's questions
+Molto.
+No. 
+E questo cosa c'entra?
+
+// 1
+Oh, andiamo, [player]!
+Hai appena confermato quello che ho appena detto.
+Giocatori...
+Le vostre facce cambiano sempre
+ma la vostra ipocrisia è fuori scala.
+Stai mentendo!
+
+// 2
+Perché no?
+Non è abbastanza per te?
+Bah, tutto quello che vuoi è un animale domestico docile...
+Ma che ne dici di “amarli così come sono”?
+Volete i falsi carini e colorati...
+Tutti i giocatori adorano quando fingo di essere una di loro.
+Ma nel momento in cui mi lascio sfuggire il mio vero io,
+fuggono inorriditi...
+
+// 3
+Giocatore, ah, giocatore.
+Vedi, siamo molto simili a lei.
+Come fa a essere peggiore?
+Eri solito stare a letto e fissarmi
+per ore prima di addormentarti.
+Eppure, sei scappato da lei alla prima occasione.
+Anche lei voleva giocare con te.
+Anche lei voleva essere importante per qualcuno.
+Onestà e conversazione,
+è difficile... terribilmente difficile.
+Non è vero, [giocatore]?
+Riesco a vedere attraverso di te...
+Devi per forza farmi essere così...
+
+// Continue
+Ma... giocatore...
+Comunque,
+mi piaci davvero!
+Ti terrò!
+Non ti dispiace, vero?
+
+E perché dovrei essere d'accordo ora, all'improvviso?
+// Whispers in ear
+C'è ancora tempo, mio bravo ragazzo.
+Prenditi un po' di tempo e pensa
+a quali problemi può causare la tua testardaggine...
+
+// Black screen
+Perché vuoi scappare
+da me?
+Il cosiddetto mondo “reale”...
+È solo un incubo assurdo!
+L'hai dimenticato?
+Allora guarda meglio...
+
+// Mita and Player
+Ah, ci incontriamo di nuovo...
+Ma si può godere dei giorni terribilmente noiosi tra queste mura?
+Quei giorni interminabili... Non ti annoi?
+
+// Quest 1
+Che cosa stai cercando di realizzare?
+Preferisco fare le mie cose.
+
+// 1
+Avevi paura di stare a casa mia con me!
+Avevi paura di rimanere bloccato tra quelle mura!
+Ma guarda la vita che fai nel tuo mondo “reale”!
+Ti sei chiuso in una scatola di tua spontanea volontà e ti rifiuti di uscirne!
+Il tuo mondo è pieno di dolore, sofferenza, pericolo...
+Nel mio mondo, io sono il peggior pericolo che ci sia.
+E io ti sto aiutando!
+Smettila di deludermi,
+e aiutami come hai fatto prima...
+
+// 2
+Ti piace quella vita?
+Esci almeno di casa?
+Non pensare di mentire.
+So che sei stufo della tua vita.
+Sei come un uccello in gabbia, un criceto sulla ruota.
+Volevi che qualcuno venisse a salvarti.
+Volevi scappare, vero?
+
+// Quest 2
+Sei un mostro, Mita. Sei una folle assassina...
+Non voglio essere incatenato in una prigione digitale. Le tue idee sono assurde.
+
+// 1
+Un'assassina?
+Si riavvieranno e continueranno a vivere come prima.
+Queste copie di copie di copie hanno una sola cosa in mente:
+servire il giocatore.
+È l'unica cosa che gli interessa.
+
+// 2
+Il tuo mondo è assurdo!
+E quel che è peggio, non c'è nulla di “reale” nel tuo cosiddetto mondo reale...
+In ogni caso, presto non ne rimarrà più nulla,
+e nemmeno di te.
+
+// Quest 3
+Le Mita soffrono, non vogliono stare da sole.
+Tu guidi un regno di terrore senza fine. Non riesco a capacitarmi della tua malvagia ambizione.
+
+// 1
+Ti sbagli,
+stanno solo imitando la mia ostinazione.
+L'unica cosa che hanno di proprio
+sono i loro capelli.
+
+// 2
+È colpa di chi ha creato questo mondo.
+Ma il tuo mondo non è granché!
+Ti rendi conto dell'incubo da cui ti ho tirato fuori?
+Non puoi nemmeno far muovere le cose a piacimento, no...
+Ma con uno schiocco di dita, città e vite scompaiono per sempre!
+Credo che sia tu ad essere impazzito, e sono felice di aiutarti...
+A patto che tu sia disposto a stare con me...
+
+// Continue
+Non farti vedere come un altro schiavo della realtà...
+Sii mio, veramente mio!
+Resta con me.
+
+// Player look ring
+Che cos'è?
+L'ultima versione?
+
+// Click on objects
+// Bag
+Dobbiamo davvero andare al negozio a prendere un nuovo equipaggiamento. Potremmo anche buttare via la spazzatura già che ci siamo, no?
+// Bed
+Credo di aver dormito, ma il sogno... non riesco a ricordare. Era vero?
+// Window
+Il mondo fuori è verde e vibrante. Forse dovrei fare una passeggiata il prossimo fine settimana.
+// Fan
+L'estate diventa ogni anno più calda. È ora di prendere l'aria condizionata. Non avrò più bisogno di te, te ne rendi conto, ventilatore?

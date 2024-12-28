@@ -1,0 +1,92 @@
+
+Mila! Hayır! Sen kafayı sıyırmışsın!
+
+Ha ha! NE OLDU?
+Yeni bir ifade mi görüyorum?
+Durma, biraz daha göreyim!
+Aynı surata bakmaktan sıkıldım!
+
+// Mita arena "Hello"
+N'aber, yorulmak bilmeyen avarem benim?
+Halen koşturup duruyor musun? Yetmedi mi?
+
+Mila'ya ne yaptın?
+
+A, yorulmadın demek!
+Bir oyun daha oynayalım o halde!
+
+Sen...
+
+Önce küçük bir testle başlayalım!
+Koordinasyonunu test edelim!
+Nasıl tepki verdiğini görelim!
+Ya bir problemin varsa!?
+Ya o üstüne tutmayı çok sevdiğin
+DERİYİ bile hak etmiyorsan!?
+
+// Show knifes
+Bak bakalım...
+Hangisi hoşuna gidiyor?
+Sağdaki mi?
+Yoksa
+soldaki mi?
+
+// Throw knifes
+Cidden mi?
+Fark eder mi?
+Sadece seninle uğraşıyordum!
+Bıçaklama eskimedi mi?
+Her neyse!
+Daha iyi oyunlar planlıyorum!
+mesela...
+// Show recorder
+Bak!
+Müzik açalım!
+Bu nasıl, güzel mi?
+Kanımı hızlanıdırıyor!
+Kuralları anlatarak
+başlayalım!
+// Show rules
+Müzik çalarken,
+hareket edebilirsin.
+Ama müzik durunca,
+KILINI KIPIRDATMA!
+Ya da ölürsün, sen bilirsin.
+Gayet basit: Müzik bitmeden
+Sona ulaşıyorsun.
+Haydi başlayalım!
+Halen yerinde duruyorsun bakıyorum.
+Koş, sevgilim, koş.
+
+// Ready recorder
+Bitti mi!
+Şuna bak! Ne kadar itaatkar!
+Mükemmel bir örnek.
+Seni kendime istiyorum.
+Bu çok kolaydı değil mi?
+
+Bırak gideyim!
+
+Götün kalkmasın.
+Daha oynayacak oyunlarımız var!
+Sıradaki:
+Gözlerimi kapatıyorum...
+Ve açtığımda 
+gitmiş olsan iyi olur!
+Anladın mı?
+Seni görürsem, sonu iyi bitmez!
+Tamamdır! Başlayalım.
+
+Çok saçma...
+
+// Ready hide
+Başarmışsın!
+Çok güzel ilerliyorsun, heyecanlanmaya başlıyorum.
+Ama işler zorlaşacak.
+BAYA zorlaşacak.
+Saklan, kaç, dön...
+
+Ağzımı bozduracak.
+
+// Player falls
+Kurtuldum herhalde.

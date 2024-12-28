@@ -1,0 +1,58 @@
+Avviare l'applicazione
+
+Confermare il login
+Accesso errato
+Programmi
+Indietro
+
+Gestione dispositivi virtuali
+Contabilità unità server [Selezionare la versione]
+Monitoraggio del processore principale [Selezionare la versione]
+Monitoraggio grafico dei processi [Selezionare la versione]
+Quadrangolo
+Fine del gioco
+
+
+Amministrazione avanzata del sistema
+Riavvio del carattere [Selezionare la versione]
+Riavvio del dispositivo [Selezionare la versione]
+Aggiornamento della versione [Selezionare la versione]
+Ricalcolo della geometria [Generale]
+
+
+
+
+Ripristino del sistema
+Risoluzione dei problemi [Generale]
+Antivirus [Generale]
+Console di comando [Generale]
+
+
+
+
+Funzioni avanzate
+Elimina oggetto [Seleziona versione]
+Visualizzazione della telecamera [Selezionare la versione]
+Visualizzare i trigger [Selezionare la versione]
+Impostazioni del motore fisico [Selezionare la versione]
+Ottenere l'unità flash
+
+
+
+Funzioni minori
+Editor del codice binario [Accesso speciale]
+Editor di matrici di unità [Accesso speciale]
+
+
+
+
+
+Specificare la versione del personaggio
+Specificare l'indice del personaggio
+Confermare il riavvio
+Utilizzare la leva
+Esegui sottoprogramma
+Riavviare il processo in corso!
+Preparazione per il riavvio
+Riavvio...
+Confermare

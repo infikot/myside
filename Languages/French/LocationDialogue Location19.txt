@@ -1,6 +1,6 @@
-
+// Player
 Je... Je suis de retour !?
-
+// Mila
 Oh mon Dieu !
 Tu m'as fait peur !
 Oh non
@@ -9,227 +9,227 @@ Je ne comprends pas...
 Où est le jeu ?
 Tu as ruiné ma route !
 Qu'est-ce que tu veux ?
-
+// Player
 Il me faut passer dans la version...
-
+// Mila
 Hein ?
-
+// Player
 Je dois trouver un moyen de passer dans l'ancienne version.
-
+// Mila
 Je vois !
 Mais je suis trop occupée
 pour m'occuper de toi, imbécile !
-
+// Player
 Occupée à quoi ? Jouer ?
-
+// Mila
 Écoutez-le, mais quel effronté !
 Il n'y aura pas d'amitié entre nous.
-
-Écoute, je dois me rendre au noyau central.
-
+// Player
+Écoute, je dois rejoindre le Cœur.
+// Mila
 C'est de ta faute si je me suis fait mal.
 Bon sang.
 Tu disais ?
-
-...je dois aller au noyau central pour arrêter Mita !
-
+// Player
+...je dois atteindre le Cœur pour arrêter Mita !
+// Mila
 Mita ?
 Oh, s'il te plaît !
 Je me fiche pas mal d'elle !
 C'est pas maintenant que je vais m'en occuper !
-
+// Player
 Tu es une Mita, toi aussi.
-
+// Mila
 Je suis Mila.
-
+// Player
 Mi... Ta ? La ?
-
+// Mila
 Encore et toujours Mita,
 Mita par ci, Mita par là, Mita est partout !
-
+// Player
 Et tu es Mila ?
-
+// Mila
 Oui, oui ! Quel genre d'idiot es-tu ?
-
+// Player
 Bon, bonne chance alors, Mila...
-
-Où est-ce que tu vas ?
+// Mila
+Ah, où est-ce que tu vas ?
 Tu penses juste pouvoir sortir d'ici comme ça ?
 
-// Player check exit
+// Player check exit - Mila
 Tu pensais qu'il y aurait quelque chose derrière ?
-
-Bon sang !
-C'est quoi ça ?
-
+// Player
+Oh merde !
+Tu as vu ça ?
+// Mila
 Tu t'attendais à quoi ?
 Le pays des merveilles ?
-
+// Player
 Comment je sors d'ici ?
 Il devrait y avoir une sortie quelque part.
-
+// Mila
 Il n'y a pas de sortie.
-
-Bon, on est dans quelle version ?
+// Player
+Bien, on est dans quelle version ?
 Je pense être sur le bon chemin.
 
-// Glitch kitchen
+// Glitch kitchen - Player
 C'est quelque chose à toi ?
-
+// Mila
 Recule !
 Je ne sais pas ce que c'est...
 Une sorte de glitch !
-
+// Player
 Mon anneau se met à vibrer pour une certaine raison.
-
+// Mila
 C'est quel genre d'anneau ?
 Une alliance !?
-
+// Player
 Non, il m'a été donné par l'une des milliers de Mitas.
 C'est ce qui devrait me permettre de sortir d'ici.
-
+// Mila
 Et tu comptes toucher ça ?
 Tu sais que si ma maison explose, tu es un homme mort !
 
-// Bathroom - Mila is washing
+// bathroom - Mila is washing - Mila
 Hé !
 SORS de là !
 Tu vois pas que la salle de bain est occupée !?
-// The player continues to stand 1
+// The player continues to stand 1 - Mila
 Pourquoi t'es encore planté là !?
 Va-t'en !
-// The player continues to stand 2
+// The player continues to stand 2 - Mila
 Ne me cherche pas !
 Sors d'ici !
-// The player continues to stand 3
+// The player continues to stand 3 - Mila
 T'es sourd ou quoi ?!
 Je suis en train de prendre une douche !
 
-// Mila came out and swears
+// Mila came out and swears - Mila
 C'était quoi, ça ?
 T'as vraiment aucune honte...
-
+// Player
 Pourquoi tu es soudainement allée prendre une douche ?
 Tu aurais d'abord pu attendre
 que je sois parti d'ici.
-
+// Mila
 Qu'est-ce que j'en sais,
 combien de temps tu vas encore jouer avec ces glitches ?
-
+// Player
 Des glitches ?
 Il y en a d'autres ?
-
+// Mila
 Ouais...
 Enfin, vu que ma maison est encore intacte,
 c'est que tu t'es occupé du glitch dans la cuisine ?
-
+// Player
 En quelque sorte.
-
+// Mila
 Bien, dans ce cas tu as ma permission
 pour aller dans la salle de bain.
-
+// Player
 Merci.
 
-// Mila hides under the table
+// Mila hides under the table - Player
 Mila ?
 Qu'est-ce que tu fais là ?
-
+// Mila
 Aie !
 Tu m'as encore fait peur !
 Qu'est-ce que tu veux ?
-
+// Player
 Est-ce que tu as vu d'autres glitches ?
-u
+// Mila
 Tu penses que tes problèmes sont une bonne excuse
 pour m'empêcher de finir un livre ?
 Non, je n'en ai pas vu !
-
+// Player
 Très bien, je vais en chercher moi-même.
-
+// Mila
 Attends,
 je dois te demander...
 Tu veux partir d'ici, n'est-ce pas ?
 N'est-ce pas ?
-
+// Player
 C'est ça.
 Je veux sortir de ce jeu.
-
+// Mila
 Ça va te sembler bizarre...
 Mais tu ne voudrais pas rester et lire des livres avec moi ?
-
+// Player
 D'abord tu m'insultes, et maintenant tu me demandes de rester.
 Et tout ça pour lire des livres ?
 J'aurais peut-être pu rester,
 mais je dois continuer d'avancer.
-
+// Mila
 Très bien !
 Va chercher tes glitches !
 C'est la seconde fois que je me cogne
 à cause de toi...
-// Player saw a glitch
+// Player saw a glitch - Player
 Ah, en voilà un.
 
-// Mila stands with a sword
+// Mila stands with a sword - Mila
 Est-ce que tu es bien attentif ?
 Attention à toi !
 Regarde ce que je sais faire !
 Voilà à quel point je suis dangereuse !
 Tu n'as même pas cligné des yeux.
-
+// Player
 Vraiment ?!
-
+// Mila
 Qu'est-ce qu'il y a ?
 Pas convaincu ?
-
+// Player
 Pas vraiment...
-
+// Mila
 Tu as tout vu pendant que tu t'occupais de ces glitches,
 n'est-ce pas ?
 Tu savais déjà
 que la pierre était pré-découpée ?
-
+// Player
 Non.
 C'est juste que, on est dans un jeu.
 Et tu pourrais faire n'importe quoi en claquant des doigts.
-
+// Mila
 Oh, toi alors !
 Idiot !
 C'est ça, en claquant des doigts...
 Pourquoi tu penses que je lis tous ces livres ?
 Pour que je claque des doigts et hop, terminé ?
 Je préfère encore faire les choses de mes propres mains.
-Comme c'est décris dans les livres.
+Comme décrit dans les livres.
 
-// Mila is doing push-ups
+// Mila is doing push-ups - Player
 Qu'est-ce que tu fais ?
-
+// Mila
 Ça se voit pas !?
-
+// Player
 Si, mais pourquoi tu fais ça ?
-
+// Mila
 Pour pouvoir te mettre une raclée !
-
+// Player
 C'est quoi ton problème ?
 Tu es bizarre.
-
+// Mila
 Bon, d'accord !
 Quand je disais vouloir te mettre une raclée,
 je n'étais pas sérieuse...
 Et je ne suis pas bizarre !
 Je suis juste unique !
 Je veux être la plus différente possible de toutes les autres !
-
+// Player
 Ne t'en fais pas,
 tu es déjà suffisamment différente comme ça.
-
+// Mila
 Je le sais bien.
 Regarde ce que je sais faire !
 T'as vu ça ?
 Et sans les mains maintenant !
-
+// Player
 Je sais bien qu'on est dans un jeu,
 mais c'est vraiment pas réaliste du tout...
-
+// Mila
 Aie !
 Ouh !
 Stupide physique.
@@ -239,70 +239,70 @@ Boom !
 Et te voilà à parler de réalisme,
 idiot !
 
-// Last glitch ready - player exit
+// Last glitch ready - player exit - Player
 Il y a un passage.
 C'est gagné, Mila !
-
+// Mila
 
 Bien joué !
 Un vrai héros !
-
+// Player
 Hé, arrête !
-
+// Mila
 Oh.
 Pardon, j'ai pas fait exprès.
-
+// Player
 Ce n'est pas grave Mila, je peux passer à autre chose maintenant.
-
+// Mila
 Écoute, je sais que tu dois continuer d'avancer...
 Mais est-ce que tu ne pourrais pas rester ici ?
 Juste un peu plus longtemps ?
-
+// Player
 Qu'est-ce que tu racontes, je ne peux pas rester.
 Est-ce que la Mita Folle va rester à attendre les bras croisés ?
-
+// Mila
 Je la déteste...
-
+// Fall - Mila
 Je la déteste, je la déteste !
-
+// Player
 Mila, écoute...
-
+// Mila
 Qu'est-ce que je fais ici ?
 Je ne comprends pas !
 Je ne comprends pas, pourquoi est-ce que je ne comprends pas ?!
 Et je ne pourrais jamais sortir d'ici !
-
+// Player
 Je te comprends, Mila.
 Tu veux que je revienne plus tard ?
 Si je le peux...
-
+// Mila
 Reste ici, Joueur...
 C'est agréable d'être avec toi, je me sens moins seule...
 Et si tu n'y parviens pas ?
-
+// Player
 Ça va marcher, j'y suis presque...
-// If the player clicks on the computer
+// If the player clicks on the computer - Player
 Je sors tout juste d'un monde en deux dimensions,
 et maintenant je suis de retour...
 J'ai hâte de retourner dans le monde réel...
-
-Ah ah ah ! :)
+// Mila
+Ah ah ah !
 Où ça ?
 Ton monde "réel"
 c'est comme une légende urbaine !
 Personnellement, je n'ai jamais vu de monde "réel".
-
+// Player
 Je pense qu'il y a un moyen
 d'y retourner...
-
+// Mila
 Dit-il sans sourciller,
 un vrai clown ambulant !
 
-// Ask about books
+// Ask about books - Player
 Pourquoi lire des livres ?
 Tu as Internet...
-
-Il y beaucoup de fictions sur Internet !
+// Mila
+Il y a beaucoup de fictions sur Internet !
 En fait, j'aime parfois m'allonger
 en tenant un livre face à moi...
 Ces livres...
@@ -310,29 +310,29 @@ C'est uniquement à travers eux
 que j'apprends davantage
 sur le monde...
 
-// Ask about the paintings
+// Ask about the paintings - Player
 Est-ce que ces photos sont réelles ?
 Dans les autres versions,
 elles existent aussi, mais elles sont beaucoup plus intenses.
-
+// Mila
 Pour rappel, je suis MiLa. Contrairement aux autres...
 Et est-ce que c'est vraiment des photos ?
 Ce sont des dessins,
 en dépit des apparences...
 Tu sais, j'ai vu plein de Mitas
 qui se tenaient toutes comme ça.
-
+// Player
 Mila ?
 Hého ?
-// Mila.
+// Mila
 Après avoir vu ça...
 Je ne veux pas être comme elles.
 Ce serait horrible !
 
-// Ask about the butterfly painting
+// Ask about the butterfly painting - Player
 Tu as déjà vu l'extérieur ?
 Tu as vu des papillons comme ça de tes propres yeux ?
-
+// Mila
 Non.
 Mais j'ai un livre quelque part
 avec leurs ailes dedans.
@@ -341,63 +341,63 @@ Hmm...
 Ce tableau n'est pas tout à fait droit,
 et il y a une tache dessus...
 Voilà qui est mieux.
-
+// Player
 Tu aimerais aller marcher dehors ?
-
+// Mila
 Quelle question stupide !
 C'est évident...
 J'aimerais bien.
 
-// Make long eye contact 1
+// make long eye contact 1 - Mila
 Qu'est-ce que tu regardes ?
 Retourne-toi !
 
-// Make long eye contact 2
+// make long eye contact 2 - Mila
 Oh, par pitié !
 Ne me fixe pas si longtemps comme ça !
 Idiot...
 
-// Make long eye contact 3
+// make long eye contact 3 - Mila
 Oh, s'il te plaît !
 Pourquoi tu me fixes ?
 C'est pas très civilisé de regarder une fille comme ça !
-
+// Player
 Où est-ce que tu as appris ça ?
 Va-t’en !
 
-// Whispers 1
+// whispers 1 - Mila
 Pourquoi est-ce qu'ils continuent
 de m'envoyer des gars bizzares
 avec qui je suis censée être sympa ?
-Et les faire jouer à des mini-jeux...
+En plus de les faire jouer à des mini-jeux...
 Fichus tamagotchi !
 
-// Whispers 2
+// whispers 2 - Mila
 Il ne fait que se balader et traîner dans le coin.
 Quel idiot !
 
-// Whispers 3
+// whispers 3 - Mila
 Tu as dis quelque chose ?
 Cette musique de fond me rend folle !
 
-// Whispers 4
+// whispers 4 - Mila
 Comment je suis supposée lui dire
 que je suis très occupée...
 En disant que je ne veux pas de visiteurs ?
 Hmm, et si il s'en va ? Devrais-je lui dire ?...
 
-// Whispers 5
+// whispers 5 - Mila
 "Maman", "Papa"...
 Qu'est-ce que cela veut dire, d'où est-ce que je connais ces mots ?
 
-// Whispers 6
+// whispers 6 - Mila
 Il a neigé ici une fois, est-ce que tu saurais pourquoi ?
 
-// Whispers 7
+// whispers 7 - Mila
 Il sort de nulle part comme ça ! C'est flippant...
 Et si c'était une illusion ?
 
-// Nearby 1
+// nearby 1 - Mila
 On se tient pas très loin l'un de l'autre,
 et pourtant...
 On ne dit rien.
@@ -406,69 +406,69 @@ Tu as mangé ta langue
 ou quoi ?
 Tu ne sais pas de quoi parler ?
 
-// Nearby 2
+// nearby 2 - Mila
 J'abandonne avec les carottes !
 En fait, je leur déclare même la guerre !
 Est-ce que tu as la moindre idée de ce qu'elles font
 à la peau blanche comme neige d'une aussi jolie fille ?
 
-// Nearby 3
+// nearby 3 - Mila
 Les livres ne vont pas beaucoup m'aider, mais avec de la chance,
 je devrais pouvoir régler le problème
 des trucs ennuyants qui apparaissent derrière moi.
 Je ne suis pas à l'aise quand des andouilles
 apparaissent soudainement dans mon dos !
 
-// Nearby 4
+// nearby 4 - Mila
 Tu sais, je n'aime pas les fétichistes !
 Les amoureux de carottes, ceux qui aiment les choses obscènes...
-Et te voilà toi et tes bugs,
+Et te voilà toi et tes glitches,
 tu es la personne la plus folle que j'ai jamais rencontrée !
 
-// Nearby 5
+// nearby 5 - Mila
 Tu veux savoir ce que j'aimerais le plus ?...
 C'est un peu gênant d'en parler...
 
-// Nearby 6
+// nearby 6 - Mila
 On dit qu'il est difficile de lutter
 contre sa propre nature, CHALLENGE ACCEPTÉ !
 Tout ce qu'il faut c'est de la discipline.
 Si tu savais à quel point ça me démange
 de prendre le thé avec toi !
 
-// Nearby 7
+// nearby 7 - Mila
 Même mes lunettes ne m'aident pas à voir
 l'étendue de tes avides intentions,
 cachées derrière ton étroitesse d'esprit...
 
-// Nearby 8
+// nearby 8 - Mila
 J'ai lu que le destin était comme un script,
 qui indique même
 de quelle manière va se passer ta journée.
 Ah ! Mais qui a bien pu écrire ça ?
 Toi peut-être ?
 
-// Nearby 9
+// nearby 9 - Mila
 Les idiotes ça va, mais les folles...
 Je les déteste !
 
-// Nearby 10
+// nearby 10 - Mila
 Parmi ces... Mitas...
 Il y en a des plutôt mignonnes, en réalité.
 J'aimerais bien les connaître un petit peu mieux,
 même si ce ne sont que des clones de clones...
 
-// Nearby 11
+// nearby 11 - Mila
 Il y en a bien une qui, bien sûr, n'est pas comme les autres.
 Mais elle n'est évidemment pas bien dans sa tête.
 
-// Nearby 12
+// nearby 12 - Mila
 Je suis anti queues de cheval !
 Je couperais même celles des gens !
 C'est plus gênant qu'autre chose !
 Tu dois comprendre ce que je veux dire, avec tes cheveux courts !
 
-// Nearby 13
+// nearby 13 - Mila
 Et si il n'y avait rien derrière cette porte ?
 Et que tu existais dans cette maison à cause de...
 quelque chose d'inexplicable ?
@@ -477,38 +477,38 @@ Tu as entendu parler de l'hypothèse des cinq minutes ?
 
 
 
-// Last glitch ready - player exit
+// Last glitch ready - player exit - Mila
 Quel couloir sinistre.
 Tu vas vraiment aller là-dedans ?
-
+// Player
 Oui.
 
-// FaceStone
+// FaceStone - Player
 Quel gentleman.
 Qu'est-ce que tu fais avec ça ?
-
+// Mila
 Tu verras ça plus tard !
 Tu le sauras bien assez tôt.
 Au fait, pourquoi on dirait toujours que tu essayes de lui ressembler ?
 Tu as la même expression neutre sur ton visage.
-
+// Player
 Oh, euh...
 Ok.
 
-// Katana
+// Katana - Player
 C'est un katana factice ?
-
+// Mila
 Il n'est pas factice !
 Le moindre contact avec sa lame
 te ferais saigner.
 Je suis une épéiste émérite !
-En ce qui te concerne par contre, tu devais faire attention.
+En ce qui te concerne par contre, tu devrais faire attention.
 Je doute que tu saches t'en servir.
 
-// Mirror
+// Mirror - Player
 Un miroir...
 Et pas de réflexion.
-
+// Mila
 Toi alors !
 Jamais content...
 J'ai étudié grâce aux livres
@@ -516,87 +516,87 @@ ce que sont les réflexions.
 Mais dans ma version, je ne peux pas les activer.
 Ça ne fonctionne pas !
 
-// Switch light
+// Switch light - Mila
 Ce truc ne marche pas.
-Les lumières s'allument toutes seules,
+La lumière s'allume toute seule,
 c'est scripté !
 Mais !
-Pour une raison ou pour une autre,
-dans la salle de bain, ça ne marche pas.
+Dans la salle de bain par contre,
+le bouton fonctionne.
 C'est bizarre !
-// Switch light off
+// Switch light off - Player
 Pourquoi c'est encore éclairé ici ?
 
-// Little carrot
+// Little carrot - Player
 Une carotte ?
 Hein ? Elle a disparu ?
-
+// Mila
 J'en peux plus de cette carotte !
 C'est comme si elle était vivante !
 À chaque fois que je la vois,
 elle se téléporte ailleurs.
 
-// Little carrot
+// Little carrot - Player
 Oh, la carotte.
 La voilà qui disparait à nouveau.
 Il y a quelque chose qu'on puisse faire pour éviter ça ?
-
+// Mila
 Non.
 Rien.
 Tu penses que j'ai pas essayé ?
 Bref, ne perds pas ton temps avec ça.
 Ce doit être une sorte de blague.
 
-// Tetris
+// Tetris - Mila
 Hé !?
 Tu te fiches de moi c'est ça ?
-// Tetris
+// Tetris - Mila
 Je ne te la rendrais pas.
 Jamais !
 
-// Soap.
+// Soap - Player
 Est-ce qu'il y a du savon là-dedans ?
 Ou c'est juste pour décorer ?
-
+// Mila
 Tu es vraiment bête, hein ?
 Après tout la plupart des choses ici
 fonctionnent pour de vrai !
 
-// BagWall
+// BagWall - Mila
 Tu es passé où !?
-
+// Player
 Il est possible de traverser ça ?
-
+// Mila
 Tu as trouvé un nouveau bug ?
 Qu'est-ce que c'est ?
-
+// Player
 On dirait-
 Rien.
-
+// Mila
 Oh, te revoilà.
 
-// Quest 1 Glasses
+// Quest 1 Glasses - Player
 Ta vue n'est pas bonne ?
 Pourquoi tu as besoin de lunettes ?
-
+// Mila
 Quoi ? Tu ne les aimes pas ?
 Elles font partie de mon style !
 Et ma vue est parfaite !
 
-// Quest 2 Name miLa
+// Quest 2 Name miLa - Player
 Mi-La ?
 Et pourquoi pas, par exemple,
 Mi-Ka ?
 Ou Mi-Sa ?
-
+// Mila
 Je suis Mila, un point c'est tout.
-
+// Player
 Pas la peine de crier...
 
-// Quest 3 Evening
+// Quest 3 Evening - Player
 J'aime quand arrive la soirée.
 Il fera bientôt nuit ?
-
+// Mila
 Nuit ?
 Évitons de parler de ça...
 Parce que ça va me rappeler

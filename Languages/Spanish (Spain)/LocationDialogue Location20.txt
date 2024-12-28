@@ -1,0 +1,92 @@
+
+Mila! ¡No! ¡Estás loca!
+
+¡Ja, ja! ¡TE ENCONTRE!
+¿Es esa una nueva expresión?
+Vamos, ¡déjame ver más!
+¡Mirar la misma vieja cara se vuelve taaaan aburrido!
+
+// Mita arena "Hello"
+¿Cómo va todo, mi pequeño y inquieto excursionista?
+¿Sigues corriendo por ahí? ¿Aún no has tenido suficiente?
+
+¿Qué le hiciste a Mila?
+
+¡Oh, así que todavía no estás cansado!
+¡Perfecto! ¡Juguemos otro juego!
+
+Tú...
+
+¡Empecemos con una pequeña prueba!
+¡Probemos tu coordinación!
+¡Ahora tu capacidad de actuar!
+¿Qué pasa si hay algo mal contigo!?
+¿Qué pasa si ni siquiera mereces esa PIEL
+que estás tan orgulloso de llevar!?
+
+// Show knifes
+Mira esto...
+¿Cuál te llama la atención?
+¿La derecha?
+¿O?
+¿la izquierda?
+
+// Throw knifes
+Oh, ¿en serio?
+¿Acaso importa?
+¡Solo estaba jugando contigo!
+Las puñaladas son cosa del pasado, de todos modos.
+¡Da igual!
+Tengo juegos mucho mejores planeados,
+como...
+// Show recorder
+¡Mira esto!
+¡Necesitamos algo de música!
+¿Qué opinas de esta melodía?
+¡Hace que mi sangre hierva!
+¡Empezaré
+con las reglas!
+// Show rules
+Mientras la melodía esté sonando,
+puedes moverte.
+Pero cuando la música se detenga,
+¡NO TE MUEVAS!
+O estás muerto. ¿Entendido?
+Es simple: llega al final
+antes de que la canción termine.
+¡Comencemos!
+¿Todavía estás ahí parado, eh?
+¡Corre, Amor, corre!
+
+// Ready recorder
+¡Oh!
+¡Mírate! ¡Tan obediente!
+Un espécimen perfecto.
+¡Te quiero solo para mí!
+Aunque eso fue demasiado fácil, ¿no?
+
+¡Déjame ir!
+
+¡No te pongas demasiado cómodo!
+¡Tenemos muchos más juegos para jugar!
+Aquí viene el siguiente
+Voy a cerrar mis ojos...
+Y cuando los abra,
+es mejor que no estés aquí.
+¿Entendido?
+¡Si te veo, te castigaré!
+¡Bien! ¡Empecemos!
+
+Esto es inútil...
+
+// Ready hide
+¡Lo lograste!
+¡Lo estás haciendo genial, esto se está poniendo emocionante!
+Pero ahora se va a poner más difícil.
+MUCHO más difícil.
+Escóndete, corre, GRITA
+
+¡Ah, pudrete en el infierno!
+
+// Player falls
+Creo que me escapé...

@@ -1,0 +1,605 @@
+
+Eu... estou de volta!?
+
+Oh, meu Deus!
+Tu assustaste-me!
+Oh, homem,
+O meu save—oh, não!
+Não percebo...
+Onde está o jogo?
+Arruinaste o percurso!
+O que queres?
+
+Preciso da versão...
+
+Hã?
+
+Tenho que voltar para a versão antiga de alguma maneira.
+
+Ok!
+Estou demasiado ocupada
+para te entreter, cabeçudo!
+
+E o que é isso? Brinquedos?
+
+Olha para ele, que parvo!
+Não vai haver amizade entre nós.
+
+Escuta, preciso de chegar ao Core.
+
+É por tua culpa que eu fiquei ferida.
+Caramba.
+Hã?
+
+...Preciso de chegar ao Core e parar a Mita!
+
+Mita?
+Por favor!
+Não me importo com ela!
+Nem a primeira, nem a centésima!
+
+Mas tu és a Mita, também...
+
+Sou a Mila.
+
+Mi-Ta? La?
+
+Sim! São todas Mita e Mita,
+Mita aqui, Mita ali, Mitas por todo o lado!
+
+Então... tu és a Mila
+
+Sim, já te disse! Quão idiota podes ser?
+
+Bem, boa sorte então, Mila...
+
+Para onde pensas que vais?
+Pensaste que podias sair daqui assim?
+
+// Verificação de saída do jogador
+Pensaste que encontrarias algo lá dentro?
+
+Maldição!
+O que esperavas?
+
+O que esperavas—
+Wonderland?
+
+Como é que eu saio daqui?
+Devia haver uma maneira de sair aqui.
+
+Não há maneira de sair.
+
+Bem, então que versão é esta?
+Acho que estou na versão certa.
+
+// Cozinha com glitch
+Isto é teu?
+
+Afasta-te!
+Não sei o que é...
+Algum tipo de glitch!
+
+O meu anel está a tremer por alguma razão.
+
+Que anel?
+Um anel de noivado?
+
+Não, foi-me dado por uma das Mitas—uma das milhares delas.
+Aquela que talvez me consiga tirar daqui.
+
+E vais tocar nisso?
+Sabes que se a minha casa explodir, tu morres também!
+
+// Casa de banho - Mila a lavar-se
+Ei!
+SAI!
+Não vês que a casa de banho está ocupada?!
+// O jogador continua a ficar 1
+Porque ainda estás aí?!
+Sai!
+//  O jogador continua a ficar 2
+Não me faças perder a paciência!
+Sai daqui!
+// O jogador continua a ficar 3
+És surdo ou o quê?
+Estou a tomar banho!
+
+// Mila sai e amaldiçoa
+O que foi isso?
+Não tens vergonha, sem consciência...
+
+Porque é que entraste de repente na casa de banho?
+Podias ter esperado
+até eu sair!
+
+Não sabia quanto tempo mais irias demorar.
+Quanto mais tempo vais continuar a mexer com esses glitches, de qualquer maneira?
+
+Glitches?
+Há mais?
+
+Sim...
+Bem, se a minha casa ainda está em pé,
+presumo que trataste do glitch da cozinha?
+
+Eu mais ou menos tratei.
+
+Bem. Agora tens a minha permissão
+para ir à casa de banho.
+
+Obrigado.
+
+// Mila esconde-se debaixo da mesa
+Mila?
+O que estás a fazer debaixo da mesa?
+
+Ai!
+Tu assustaste-me outra vez!
+O que queres?
+
+Viste mais glitches?
+
+Ah, então os teus problemas são desculpa para
+me impedir de acabar o meu livro?
+Não, não vi mais!
+
+Está bem, vou procurar eu mesmo.
+
+Espera,
+tenho que perguntar...
+Queres sair daí, 
+não queres?
+
+É isso.
+Quero sair deste jogo.
+
+Isto pode soar estranho...
+mas não queres ficar e ler comigo?
+
+Primeiro estavas a gritar comigo, agora pedes para eu ficar?
+Para ler livros?
+Talvez ficasse,
+mas tenho que continuar a andar.
+
+Está bem!
+Vai à procura dos teus glitches...
+Foi a segunda vez que me feri
+por tua causa!
+// O jogador viu um glitch
+Ah, encontrei-o.
+
+// Mila fica com uma espada
+Estás a prestar atenção?
+Teme-me!
+Olha o que eu posso fazer!
+É assim que sou perigosa!
+E, no entanto... nem piscaste.
+
+Estás a falar a sério?!
+
+O que se passa?
+Não foi convincente o suficiente?
+
+Não muito...
+
+Então, já viste tudo enquanto resolvias esses glitches,
+não viste?
+Já sabias que a pedra estava pré-cortada,
+não sabias?
+
+Não.
+É só... estamos num jogo.
+Aqui, com um estalar de dedos, tudo é possível.
+
+Oh,
+idiota!
+Um estalar de dedos, hã?
+O que pensas que andei a ler todos esses livros?
+Para estalar os dedos e ficar feito?
+Preferia fazer tudo eu mesma,
+exatamente da maneira que os livros descrevem.
+
+// Mila está a fazer flexões
+O que estás a fazer?
+
+Não vês!?
+
+Sim, mas porque é que estás a fazer isso?
+
+Para ficar forte o suficiente para te dar um soco na cara!
+
+O que há contigo?
+Estás a agir de forma estranha.
+
+Certo!
+Sobre a coisa do soco—
+não estava a falar a sério.
+E não sou estranha!
+Sou única!
+Quero ser o mais diferente possível de todos os outros.
+
+Não precisas de tentar tanto.
+Confia em mim—já és bem diferente.
+
+Eu sei!
+Olha o que eu posso fazer!
+Vês isso?
+E agora—sem mãos!!
+
+Eu sei que é um jogo,
+mas isto é ridiculamente irrealista...
+
+Ai!
+Ohh!
+Físicas estúpidas...
+Falas em realismo,
+e depois,
+bum! Isto acontece!
+E tu chamas-me estranha?
+Seu tonto!
+
+// Último glitch pronto - saída do jogador
+Ali está a passagem.
+Conseguimos, Mila!
+
+
+Muito bem,
+herói!
+
+Oh, meu Deus!
+
+Oh!
+Desculpa—não queria.
+
+Está bem, Mila. Eu posso seguir em frente agora.
+
+Olha, sei que precisas de ir...
+mas não ficas aqui
+só mais um bocadinho?
+
+Não posso esperar.
+A louca da Mita não é exatamente do tipo paciente.
+
+Ugh, odeio-a!
+
+Odeio-a, odeio-a!
+
+Mila, escuta...
+
+Porque é que estou aqui?
+Não entendo!
+Porque é que eu não entendo?!
+E nunca vou sair daqui!
+
+Eu entendo o que sentes, Mila.
+Queres que eu volte? Depois?
+Se eu conseguir?
+
+Fica aqui, Jogador...
+És divertido, não é como estar sozinho...
+E se não conseguires?
+
+Eu vou conseguir. É só mais um bocadinho.
+// Se o jogador clicar no computador
+Acabei de voltar daquela dimensão plana,
+e agora... aqui estamos outra vez.
+Não posso esperar para voltar ao mundo real...
+
+Ha-ha-ha! :)
+Oh,
+o 'mundo real', hã?
+Como uma lenda urbana!
+Nunca vi isso.
+
+Acho...
+tem que haver um caminho de volta.
+
+Não estás nada confiante!
+Que piada!
+
+// Perguntar sobre livros
+Porque é que lês livros?
+Há a internet...
+
+A internet? Está cheia de romances!
+Mas eu prefiro ter
+um livro verdadeiro nas mãos.
+Só através deles 
+que estou a começar
+a aprender sobre...
+este mundo.
+
+// Perguntar sobre as pinturas
+Estas imagens—são reais?
+Em outras versões,
+sim, existem... mas são quase demasiado intensas.
+
+Sou MiLa, percebe? Não como os outros.
+E estas?
+São desenhos, sabes,
+a fingir ser mais do que são.
+Já vi outras Mitas
+a ficarem assim.
+
+Mila?
+Olá?
+// Mila.
+Depois de tudo isso...
+Eu não quero ser assim.
+É... nojento!
+
+// Perguntar sobre a pintura da borboleta
+Já viste a natureza?
+Borboletas reais como aquelas?
+
+No,
+mas tenho um livro aqui algures.
+Até tem umas asinhas secas lá dentro...
+Esta pintura,
+no entanto...
+está um bocado torta.
+E há uma mancha...
+Ah, já está melhor.
+
+Gostavas de ver a coisa real? Fazer uma caminhada na natureza?
+
+Que pergunta mais parva!
+Claro que sim!
+Eu quero!
+
+// Olhar nos olhos longo 1
+Porque é que estás a olhar para mim?
+Desvia o olhar!
+
+// Olhar nos olhos longo 2
+Chega!
+Deixa-te disso, já!
+Tonto...
+
+// Olhar nos olhos longo 3
+Anda lá!
+O que é isso de ficar a olhar?
+Sou uma senhora, sabes!!
+
+Já ouviste falar de educação?
+Chiu!
+
+// Sussurros 1
+Porque é que sempre me mandam
+uns rapazes parvos,
+e esperam que eu seja simpática?
+Com mini-jogos?!
+Como uma Tamagotchi parva!
+
+// Sussurros 2
+Ele está só a andar por aí...
+pequeno tolo curioso.
+
+// Sussurros 3
+Disseste alguma coisa?
+Esta música de fundo está a dar-me cabo da cabeça!
+
+// Sussurros 4
+Como é que lhe digo
+que estou ocupada?
+Não quero companhia...
+E se ele for embora? Não, porque deveria preocupar-me?
+
+// Sussurros 5
+Mãe... Pai...
+Porque é que essas palavras me soam familiares?
+
+// Sussurros 6
+Neve já caiu aqui... mas porque?
+
+// Sussurros 7
+Aparece do nada! Que creepy.
+E se... não houver nada lá?
+
+// Próximo 1
+Aqui estamos,
+a ficar parados...
+em silêncio...
+Porque é que estamos só a ficar aqui?
+Gato com a língua?
+Ou,
+não sabes o que dizer?
+
+// Próximo 2
+Eu vou jurar que nunca mais como cenouras!
+Sério, declarei guerra.
+Sabes o que é que essa coisa faz à pele
+perfeita e branca de uma rapariga?
+
+// Próximo 3
+Os livros não estão a ajudar muito com isto, mas se tiver sorte,
+talvez finalmente chegue ao fundo disto...
+Essas cenouras intermináveis a aparecer
+atrás de mim estão-me a dar
+os nervos!
+
+// Próximo 4
+Não gosto de excêntricos!
+Amantes de cenouras, amantes de gatos...
+E cá estás tu, a recolher glitches.
+Sinceramente, és a pessoa mais estranha que eu já conheci!
+
+// Próximo 5
+Queres saber o que mais gostava de fazer?
+...Bem, é um bocado embaraçoso dizer.
+
+// Próximo 6
+Dizem que lutar contra a
+tua natureza é um DESAFIO.
+Estou a trabalhar a disciplina, mas tu
+não tens ideia do quanto as minhas mãos coçam para simplesmente
+sentar e fazer uma festa de chá contigo!
+
+// Próximo 7
+Mesmo com óculos,
+não consigo ver através das camadas da tua estranha,
+determinada e única perseverança.
+
+// Próximo 8
+Li que o destino é como uma coisa escrita
+que até descreve
+como vais passar o dia.
+Ha! Quem escreveu essa porcaria?
+Foste tu?
+
+// Próximo 9
+Consigo tolerar tolos, mas os malucos?
+Odeio-os.
+
+// Próximo 10
+Algumas das Mitas
+até são um pouco fofas...
+Gostaria de as conhecer melhor, mesmo que sejam só
+clones de clones de clones.
+
+// Próximo 11
+Mas há uma que é um pouco diferente.
+Ela tem um parafuso a menos, no entanto.
+
+// Próximo 12
+Nada de rabos-de-cavalo!
+Cortava-os todos se pudesse!
+São embaraçosos!
+Sabes o que quero dizer—rapaste a cabeça!
+
+// Próximo 13
+E se não houver nada atrás daquela porta?
+E esta casa, tu e eu—existirmos
+sem razão nenhuma?
+Então porque é que estás tão certo?
+Já ouviste falar da hipótese dos cinco minutos?
+
+
+
+// Último glitch pronto - saída do jogador
+Que corredor tão assustador...
+Vais mesmo entrar aí?
+
+Sim.
+
+// FaceStone
+Ah, um 'cavalheiro' pensativo.
+O que precisas dele?
+
+Vais descobrir
+muito em breve.
+E por que é que estás sempre a fazer esta impressão dele?
+Só mantém a tua cara simples.
+
+Uh...
+okay.
+
+// Katana
+Isso é uma katana de brinquedo?
+
+Não é UMA KATANA DE BRINQUEDO!
+Com um toque desta lâmina
+tu vais sangrar.
+Sou um espadachim habilidoso, ao contrário de ti!
+É melhor cuidares-te—
+não quero ver-te cortar os dedos.
+
+// Espelho
+Espelho...
+e sem reflexo?
+
+Tu
+pareces tão aborrecido.
+Olha, li tudo sobre reflexos
+nos livros!
+Mas na minha versão, eu não consigo fazê-los.
+Não consigo, ok?
+
+// Interruptor de luz
+Esta coisa não funciona.
+As luzes aqui acendem e apagam sozinhas...
+como se fosse um tipo de script!
+Mas!
+Por algum motivo, o interruptor da casa de banho
+realmente funciona.
+Que estranho!
+// Interruptor de luz desligado
+Ainda está claro aqui?
+
+// Pequena cenoura
+Uma cenoura?
+Espera, para onde foi?
+
+Argh, estou tão farta dessa cenoura!
+É como se estivesse viva!
+Cada vez que a vejo,
+ela teleporta-se para outro sítio.
+
+// Pequena cenoura
+Ah, é essa cenoura...
+desapareceu outra vez!
+Acham que podemos fazer alguma coisa sobre isso?
+
+Não.
+Acredita em mim,
+já tentei!
+Só ignora-a. Acho que é
+uma espécie de piada cósmica.
+
+// Tetris
+Ei!
+Sou alguma espécie de piada para ti?
+// Tetris
+Não te vou devolver.
+Não, nunca!
+
+// Sabonete
+Então, ah... este sabonete é real?
+Ou é só outra decoração?
+
+Estás a brincar?
+A maior parte das coisas aqui é na realidade
+real! Honestamente...
+
+// BagWall
+Para onde foste!?
+
+Posso passar aqui?
+
+Encontraste um novo bug ou algo assim?
+O que é isso?
+
+Parece...
+nada.
+
+Ah, de volta outra vez.
+
+// Quest 1 Óculos
+A tua visão é má?
+Porque precisas de óculos?
+
+O quê—não gostas deles?
+Chama-se estilo!
+E a minha visão está perfeita, obrigada.
+
+// Quest 2 Nome miLa
+Mi-La?
+Porque não...
+Mi-Ka?
+Ou Mi-Sa?
+
+Sou a Mila. Só. E porquê?
+
+Ah... nada.
+
+//  Quest 3 Noite
+Gosto da noite.
+Quando irá anoitecer?
+
+Noite?
+Ugh, nem comeces.
+Os dias intermináveis aqui...
+só um depois do outro,
+como se estivessem em repetição.
+Argh...

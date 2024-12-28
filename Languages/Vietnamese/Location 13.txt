@@ -1,0 +1,14 @@
+// Quest none
+Không có gì
+// Quest "First"
+Em đã đi đâu suốt thời gian qua?
+Em đến đây bằng cách nào?
+Mita khi nãy là ai vậy?
+Chiếc nhẫn này hoạt động như nào?
+Tại sao Mita Cuồng Bạo lại cần anh?
+Đây là Lõi phải không?
+// Quest "Second"
+Em có ổn không?
+Có cách nào để nhận biết nó không?
+Vậy nếu như tấn công Mita Cuồng Bạo?
+Người tí hon

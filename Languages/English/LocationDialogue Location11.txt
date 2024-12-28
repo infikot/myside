@@ -26,9 +26,9 @@ Attaboy!
 Woah, this is fun!
 
 // After a while 2
-I saw you heading toward the train.
+I saw you heading toward the cable car.
 That's the longest path
-between version...
+between versions...
 I wonder how you'll deal
 with those who live there
 in that fog.
@@ -59,7 +59,7 @@ my mind's blank...
 What on earth is going on here?
 // Cry 1
 I wanted to forget everything once...
-I broke every mirrors,
+I broke every mirror,
 ruined the photos...
 but now...
 all I feel is regret.
@@ -176,13 +176,13 @@ You did it.
 Hey, get out of here.
 Nice and quick!
 // Funicular wait 2
-What are you still here?
+Why are you still here?
 I told you to get out of here.
 // Funicular wait 3
 I don't understand...
 why are you just standing there?
 // Funicular tetris
-Why Tetris?
+What? A handheld?
 Dude...
 // Funicular goodbye
 Bye.

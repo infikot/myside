@@ -1,0 +1,132 @@
+Bas
+Konuş
+Yüzüğü tak
+Tuşu ara
+Bas
+Kalk
+Yüzüğü al
+Oyunu sil
+Kalk
+Yaz
+Bırak
+Koş
+Mesaja bak
+Oyunu indir
+Oyunu aç
+Konuş
+
+Pili al
+
+Kontrol et
+Koy
+Makası ver
+Yok
+Ye
+Kalk
+Kalkmaya çalış
+Hapı yut
+Olur
+Kartları al
+Kartlara bak
+Masaya bak
+Sağa
+Sola
+Kartı oyna
+Kal
+Dolabı aç
+
+Kartuşlar
+Aç
+
+İç
+İçme
+
+Sağa
+Sola
+Zıpla
+Eğil
+Saldır
+
+Geri al
+İleri al
+Bırak
+
+Çocuğu it
+
+Uyan
+Otur
+Kalk
+Bilgisayarı aç
+Yemeği al
+Bitir
+Uyu
+
+Kalk
+
+Çal
+Çalma
+
+Biliyorum
+Bilmiyorum
+Yumuşak vur
+Sert vur
+Bas!
+
+Sol
+Orta
+Sağ
+
+Sağa
+Seç
+Sola
+
+Bir tane daha
+Yeterli
+
+Araya gir
+
+Kolu çek
+
+Sağdaki
+Soldaki
+
+Sağa git
+Sola git
+Zıpla
+Kapıyı aç
+
+Oyun seç
+Yeter
+Devam et
+Oyna
+
+
+Kapıyı kapat
+
+Sağ
+Sol
+Aşağı
+Yukarı
+
+Kalk
+Bir tuşa bas
+
+Ye
+İç
+Köfteyi al
+Ekmeği al
+Süt ekle
+Şeker ekle
+Un ekle
+Yağ ekle
+Yumurta ekle
+Karıştır
+Karışımı koy
+Çevir
+Çok fazla
+
+Sana yakışıyor
+Yakışmamış
+
+Anlat
+Gerek yok

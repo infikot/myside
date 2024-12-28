@@ -1,0 +1,86 @@
+
+Hej, ty!
+Cześć!
+Chcesz się stąd wydostać?
+To nie stój tak i pomóż mi znaleźć klucz!
+// Key Search
+Cholera! Nie ma go!
+Nic tu nie ma—
+Nic a nic!
+Mam cię!
+
+// The usual conversation
+Huh, myślałam że będziesz niższy!
+A jesteś ogromniasty!
+tak jak moja siostrzyczka!
+
+Twoja siostrzyczka?
+
+Tak, moja siostrzyczka.
+Nie gadaj że jej nie spotkałeś!
+
+Em... Spotkałem... Chyba?
+
+Nie rób z siebie idioty
+
+Emm...
+
+Eh, chyba już na to za późno...
+No dalej, po prostu pomóż mi znaleźć ten klucz!
+
+// Next work
+Chodź.
+Włóż to żelastwo do rury!
+Dzięki, kochanieńki!
+Teraz drewno...
+Dziękuję!
+Pomożesz, proszę?
+Gotowe. I teraz...
+Whoa... Ale ślicznie.
+Naciśnij przycisk, no dalej!
+Teraz uważaj...
+proszę, weź go!
+Klucz jest twój.
+
+
+
+
+
+
+
+
+// Quest 1 (Jesteś Mita?)
+Jestem MiniMita.fbx!
+Masa lin,
+Najprostszy model, i—
+co najwazniesze - piękne włoski!
+
+// Quest 2 (Czy myśmy się gdzieś nie widzieli?)
+Głuptas!
+To trochę urocze, wiesz?
+pytasz o takie bzdury...
+Ale,
+to nasze pierwsze spotkanie!
+Więc ci wybaczam
+Ale ostrzegam, jeśli skradniesz moją stylowe
+To nawet szalona Mita mnie nie powstrzyma!
+
+// Quest 3 (Dlaczego tu jesteś?)
+Nie rozumiesz?
+To punkt kontrolny—
+test inteligencji!
+No weź!
+Wskazuje drogę zaginionym duszyczkom!
+
+// Quest 4 (Dlaczego mi pomagasz?)
+Nie jesteś jakiś specjalny...
+Po prostu stwierdziłam, że czemu nie.
+
+No co..
+
+Taki niemądry...
+Pojawiłeś się zniknad
+Nie powinno cię tu być,
+więc ci pomagam!
+
+Pa-Pa głuptasku!

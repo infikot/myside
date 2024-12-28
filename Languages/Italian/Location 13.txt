@@ -1,0 +1,14 @@
+// Quest none
+Non importa.
+// Quest "First"
+Dove sei stata?
+Come sei arrivata qui?
+Chi era quella Mita poco fa?
+Come funziona l'anello?
+Perché Crazy Mita ha bisogno di me?
+Quello è il Nucleo?
+// Quest "Second"
+Qual è il problema?
+C'è un modo per riconoscerlo?
+E se attaccassimo Crazy Mita?
+Mini persone

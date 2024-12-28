@@ -1,0 +1,221 @@
+
+İşte buradasın!
+Çekirdeği neden terk ettin?
+Bekle dedim sana!
+
+Daha gelmezsin sanmıştım.
+
+Tamam, sorun yok...
+Sanırım bir şey buldum...
+Sıra numarası gibi duruyor...
+Çalışıp çalışmadığına bakacağız!
+Hadi buradan çıkalım.
+Deli Mita...
+Yeni oyuncuyla uğraşıyor galiba.
+Bizi umursamayacak kadar meşguldür umarım...
+
+Mita?
+Beni bekle.
+
+
+Bunu mu düşürdün?
+Al, senin olsun!
+
+Mita...
+
+Yakala!
+
+
+Nasıl oluyor...
+
+Sen kimsin?
+
+Sen... Hayattasın!
+Hatırlamıyor musun?
+
+Seni tanıyor muyum?
+
+Ne oluyor..
+Şimdi ne yapmam lazım?
+Çıkamıyorum...
+
+"Çıkamıyorum" derken?
+
+Ne...
+Yüzük.
+Bu da.
+
+Ne olduğuna dair hiçbir fikrim yok.
+
+Sıra numarası!
+Bulmuşsun!
+
+Ne diyeceğimi bilmiyorum.
+
+Çekirdeğe gitmeliyiz.
+Sen de...
+Belki sen de benimle gelmelisin...
+
+Ee, ne?
+Tabii...
+
+Burada bekle.
+
+Mm-hmm.
+Tam burada oturuyorum.
+
+
+Sikeyim...
+Çok sıkıntı.
+Eee... Oldu mu?
+Güzel.
+Doğru sürümdeyim.
+
+
+Selam!
+Sen oyuncusun, değil mi?
+Adın nedir?
+
+Burayı terk etmek istiyorum.
+
+Bu kadar erkenden mi?
+Buraya nasıl geldin ki?
+Ah neyse..
+Peki, gidebilirsin...
+Kapıyı dene.
+Bol şans!
+
+
+Duvar mı?
+Hmmi bu tamamen yanlış.
+Belki...
+Bodrumda sana yardımcı olabilecek bir şey vardır.
+Yeni keşfettim.
+Dolabımdaki bir kapı...
+bodruma gidiyormuş.
+Ama tamamen çöp dolu.
+Çöp ve bir sürü ekipman tabii.
+Bir tür kod gibi bir şey istiyor.
+Pek anlamam ben.
+Umrumda da değil açıkçası.
+Ayrıca rahatsız edici, yani, bayağı rahatsız edici.
+İlgilenir misin?
+
+Ehm. Tabii.
+
+// Player thinks
+Hiçbir şey hatırladığını
+sanmıyorum...
+Başardık mı?
+Sıfırlayabildik mi?
+Artık yapmam gereken tek şey
+Koduğumun oyunundan çıkmak...
+
+
+O kadar hızlı değil.
+Sarılmak istiyorum.
+
+He?
+// Hugs
+Seni görmek güzeldi.
+
+Ahh...
+Birlikte,
+az vakit geçirdik.
+Çok üzücü oldu.
+
+Eee...
+Ne demeye çalışıyorsun?
+
+Demek istediğim,
+benimle kalabilirdin...
+Hepsi benim suçum...
+O dolap ve... sesler.
+Onu daha erkenden ÖLDÜREBİLİRDİM!
+
+Bekle bi',
+Sen yoksa?
+Nasıl bunları hatırlayabiliyorsun?
+
+HA!
+Bu kadar kolay olur mu sandın?
+Aptalın tekisin...
+Tıpkı öbür oyuncular gibi...
+Çok iyi ilerledin, bak!
+GERÇEK
+sana
+ihtiyaç yok artık.
+Üzgünüm. 
+
+İnanamıyorum...
+Yapamadık mı...
+Hayır... Seni sıfırladım, eminim...
+
+Halen anlamıyorsun...
+HA HA HA HA!
+Şahane rol yapıyorum inanamıyorum!
+Şu an suratını görmen lazım!
+Bu çok eğlenceli!
+
+Niye böylesin?!
+Senin sorunun ne?!
+
+Evet...
+Benim sorunum ne?
+Ben de bilmiyorum...
+Neden sen bana söylemiyorsun?
+Neden asla gerçek bir Mita olamayacağım?
+Benim sürümüm, 
+Hiç var olmadı ki!
+Ben bu saf elemanları yüzüyorum,
+derilerinde saklanıyorum...
+Beni sıfırlamanın
+hiçbir yolu yok!
+
+İnanılmaz...
+Sen...
+Sorun onlarda değil!
+Asıl var olmaması gereken sensin!
+
+Şimdi sen de başladın...
+Sen diyince acıtıyor.
+Ama neyse!
+Artık gitme zamanın!
+Seninle sonra görüşeceğiz!
+Herkes hazır!
+Seni konsoldan çıkarmanın
+vakti geldi!
+Sonra görüşürüz!
+Benim favori kartuşum olacaksın...
+İlginç isimli bir oyuncu.
+
+// core console - nope programm
+Bu değildir muhtemelen.
+Bu da değil.
+Yok, yanlış.
+Bu değil.
+Karakter sıfırlama seçeneğini bulmam gerek.
+
+// core console - nope version
+Yanlış versiyon.
+Ah, benim hatam.
+Yanlış girdim.
+Başka daha deneyelim.
+
+// core console - nope index
+Sıra numarasında
+bir şey yanlış.
+Sıra numarasını değiştirmeliyim,
+Uyumsuz.
+
+// Why kitchen
+Aç mısın?
+Havuç doğramada ustayım. :)
+
+// Why bathroom
+Ah, sanırım
+tek girmek istedin?
+
+// Why bedroom back
+Neden yuvarlak çiziyoruz?
+Niye döndük?

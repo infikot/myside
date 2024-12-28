@@ -1,17 +1,17 @@
-
+// Mita
 Reste là.
 Je pense avoir fait tomber un truc. Je serai bientôt de retour.
 Ensuite on ira à la recherche d'un autre monde.
-
+// MitaCreepy - [not]
 D'accord.
 
-
+// MitaCreepy - [not]
 Faisons un jeu !
 Je veux mon ours en peluche !
 Je l'ai perdu...
 Trouve-LE !
 
-
+// MitaCreepy - [not]
 Toi.
 Qu'est-ce que tu regardes ?
 
@@ -23,31 +23,31 @@ Qu'est-ce que tu regardes ?
 
 
 
-// Quest 1 (Who are you?)
+// Answer 1 - MitaCreepy - [not]
 Je suis Mita.
 La meilleure Mita.
 La première Mita.
 C'est ce que Mita a dit, ma Mita.
 
-// Quest 2 (Why do you look like that?)
+// Answer 2 - MitaCreepy - [not]
 À quoi je ressemble ?
 À quoi je ressemble ?
 À quoi je ressemble ?
 Ma Mita dit que je suis belle et originale.
 C'est à ça que je ressemble.
 
-// Quest 3 (What was Mita doing here?)
+// Answer 3 - MitaCreepy - [not]
 Elle va venir me chercher.
 Nous allons vivre dans un nouveau monde.
 Ma Mita m'a invitée.
 Elle va venir me chercher. Nous irons jouer.
 
-// Quest 4 (Why do you need a teddy bear?)
+// Answer 4 - MitaCreepy - [not]
 Tu es un Petit Ours.
 Et tu es perdu,
 Comme mon Petit Ours.
 
-// Quest 5 (Why is Mita angry?)
+// Answer 5 - MitaCreepy - [not]
 Ma...
 Mita.
 Elle veut jouer.
@@ -58,13 +58,13 @@ Nous sommes les seules.
 Mita et ma Mita,
 0.8A et 8М54*
 
-// Quest 6 (Do you believe Mita?)
+// Answer 6 - MitaCreepy - [not]
 Ma Mita.
 Ma meilleure amie.
 Ma Mita.
 Ma seule amie.
 
-
+// MitaCreepy - [not]
 C'est toi !
 Regarde.
 Faisons un jeu !

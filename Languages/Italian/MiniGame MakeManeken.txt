@@ -1,0 +1,35 @@
+È richiesta la scansione!
+Requisiti
+Versione
+Quantità di ossa
+Nessuna entità trovata. Scansione necessaria!
+Scansione completata
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Whoo-hoo!
+Ce l' hai fatta!
+
+// Tutorial
+Allora, cosa ci faccio qui?
+Devo raggiungere il tuo schermo...
+Ora...
+Quindi!
+Devi assicurarti che questo prototipo sia quello giusto.
+Per prima cosa, scansionalo.
+Ora controlla la versione e lo scheletro osseo.
+Prendi i dati di questo prototipo e confrontali con la versione standard.
+È una corrispondenza perfetta! Ora controlliamo le emozioni.
+L'esemplare mostra con successo le emozioni! È ora di testare il comportamento.
+Ok, abbiamo controllato tutto e tutto corrisponde! Ora tira la leva verso l'alto.
+Evviva! Ora la pelle è indossata! Passale la scatola dei vestiti.
+Ecco fatto! Vedi quelle luci in alto? Una di esse è diventata verde, il che significa che hai fatto bene!
+Tocca a te! Tornerò quando tutte le luci saranno verdi. Buona fortuna!

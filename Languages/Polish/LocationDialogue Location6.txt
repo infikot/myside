@@ -1,0 +1,150 @@
+
+Mita?
+
+Skąd się tu wziąłeś?
+
+Jesteś Mitą, prawda?
+Ale jesteś jakaś inna...
+
+Cóż za spostrzegawczość.
+Ale masz rację, jestem Mita.
+Ale nie tą Mita którą poznałeś wcześniej.
+Uważaj ona knuje coś...
+Złowieszczego.
+
+Co? Złowieszczego?
+
+Nie ma czasu żeby ci to teraz tłumaczyć:
+Jeśli nam się uda, wszystko ci wyjaśnię.
+Obok sofy jest klucz, przynieś mi go.
+
+Ale...
+
+Nie mamy na to czasu!
+Idź po klucz.
+Czekaj, weź ten pierścień.
+Co?
+Chcesz się stąd wydostać?
+Umm, no tak...
+Więc go zakładaj.
+To rzadki artefakt,
+I bardzo możliwe że niedługo ci się przyda.
+
+Okej...
+Tak przy okazji, jestem
+[player].
+
+Mmm,
+[player].
+Jestem... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Widzisz tą 
+Konsolę? Podnieś ją.
+
+To nagranie?
+Kto tam z nią jest?
+
+Nie, to dzieje się na żywo.
+To inny gracz.
+Wykorzystuje go.
+Prawdopodobnie ciebie też zechce,
+Zmienić w kartridż.
+
+Muszę się stąd natychmiast wynosić.
+Ty także.
+
+To prawda.
+
+Czyli ona nas wykorzystuje?
+Tylko po co?
+Co się stanie jeśli wyjmę tą kasetę?
+
+Prawdopodobnie 
+Nieodwracalnie ją uszkodzisz.
+Co za tym idzie...
+Gracz umrze.
+
+...
+A jeśli poprostu wyłączę konsolę?
+
+Możliwe że to zadziała...
+Warto spróbować. Powinien gdzieś być czerwony przycisk!
+Widzisz go?
+Jest.
+Wciśnij go.
+
+// MitaKind quest 2
+Muszę tu zostać.
+Jest parę pytań które muszę jej zadać
+Chce się dowiedzieć o niej i o mnie.
+Ale wątpię że połknie haczyk...
+
+// MitaKind quest 3
+Jesteśmy w mojej wersji gry.
+Dotrzymywałam towarzystwa innemu graczowi,
+Ale nagle coś się zmieniło.
+Pojawiła się ona...
+Zmieniła gracza w kasetę
+A mnie zamknęła tutaj.
+
+Czekaj, co?
+Jak to go zmieniła?
+Ale dlaczego?
+Po co jej gracze?
+
+Ona jest szalona...
+Bawi się nimi, wykorzystuje ich do spełnia chorych fantazji!
+A później zamienia w kasety...
+Niektórzy nawet nie wiedzieli co się dzieje...
+A inni nie stawiali nawet oporu... Hah!
+To przykre...
+Musisz nam pomóc!
+Ja? Ale jak?
+Potrzebujemy się nawzajem!
+Jeśli mi pomożesz, ja pomogę tobie!
+To może być nasza jedyna szansa.
+Pierścień zaprowadzi cię do prawidłowej wersji.
+Tam się spotkamy.
+
+// MitaKind quest 4
+Dalej nie rozumiem 
+Co się odwaliło...
+Tamta Mita...
+Czy ona chciała mnie zabić?
+
+Zabić?
+Ona planuje znacznie gorsze rzeczy...
+Musisz się pośpieszyć.
+
+// Hide!
+Cholera, musisz się ukryć!
+Czekaj, czemu...?
+Szybko, zaraz tu będzie!
+Pierscień zaprowadzi cię w bezpieczne miejsce!
+
+
+Proszę, proszę, powiesz mi gdzie on jest?
+
+Czemu miałabym?
+Nie zabijesz go prawda?
+
+Hah, czyli nie chcesz po dobroci.
+Niech będzie, lubię wyzwania.
+Wiem że gdzieś tu jest.
+
+Czemu jesteś dla nas taka wredna?
+Nawet nie odwagi mi tego wyjaśnić!
+Pozatym...
+Po co ci są ci wszyscy gracze?
+To nie zabawki!
+Co w ciebie wstąpiło?!
+
+Wystaczy! Morda w kubeł, idiotko!

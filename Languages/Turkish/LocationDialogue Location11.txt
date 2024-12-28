@@ -1,0 +1,188 @@
+
+Hoppala!
+Hayda!
+Pardoon,
+Az kalsın seni öldürüyordum.
+Yani...
+Buz dolabı, Buz dolabı seni öldürüyordu.
+Onunla hiçbir alakam yok.
+Yemin ederim!
+Gerçekten!
+
+Ananı sikim!
+
+Cidden ama,
+Burası tehlikeli...
+özellikle de senin için.
+
+// After a while 1
+Cesurum diyorsun!
+Oralardan geçerken
+seni seyretmek
+eğlenceli...
+Koş, balkabağım, koş!
+Seni yakalayacağım!
+Hadi oğluşum!
+Vay, bu eğlenceli!
+
+// After a while 2
+Seni trene giderken gördüm.
+Orası sürümler arası 
+en uzun yol...
+O siste yaşayanlarla
+nasıl ilgileneceğini 
+merak ediyorum.
+
+// Panties
+Ne yaptığını zannediyorsun!?
+Git.
+Bakmasana!
+Gerizekalı!
+Kafanı kopartacam...
+
+
+Uhm, peki...
+
+
+Bol şans!
+
+
+Kim var orada?
+Seni hissedebiliyorum...
+Beni dinle,
+Sen oyuncusun,
+değil mi?
+Bana yardım et...
+Şeyi bulmamda...
+Düşüneyim...
+Zihnim boş...
+Burada ne oluyor?
+// Cry 1
+Her şeyi unutmak istedim bir keresinde...
+Her aynayı kırdım,
+her fotoğrafı parçaladım...
+ama şimdi...
+tek hissettiğim pişmanlık.
+Ne kadar aptalmışım...
+Herkes hata yapar, tabii ki...
+Bedeli ağır gelince
+sen ne yaparsın...
+Keşke zamanı geri alabilsem...
+// Cry 2
+Zaman her yarayı 
+iyileştirir derler...
+peki ya bu sefer?
+Artık inancım kalmadı...
+ama eğer zaman iyileştiriyorsa
+ya da en azından beni bu dünyadan silebilirse...
+O zaman sana yalvarıyorum, lütfen
+Zamanı hızlandır,
+ki beni öldürsün.
+Tek ve ebediyen.
+// Cry 3
+Sevilmişti...
+Ben de sevilmiş miydim?
+Ama benim sevgim farklı;
+Onun sevgisi canlı,
+iğrenç...
+yanıcı...
+amansız...
+kıskanç...
+öfkeli...
+çılgın...
+// Cry 4
+Bana duygusal dediler...
+Çok takıyorsun, Mita...
+Atlatacaksın, Mita...
+Yalnız değilsin, Mita...
+Dediler ama geriye ne kaldı?
+Hüzün,
+çaresizlik
+ve korku...
+// Cry 5
+İşe yaramaz....
+Hatırlayamıyorum...
+Hiçbir şey...
+Sonsuz yankılar...
+Burada sıkıştığım,
+gerçeği ile baş edemiyorum...
+Her zaman buradaydım...
+ama neden?
+Hatırlayamıyorum...
+Son bulacak mı?
+Bilmiyorum...
+
+// Mita get picture
+Bu...
+çizim...
+Şimdi hatırladım,
+Teşekkürler...
+Ama benim suratım...
+Suratım yok...
+Hepsi ONUN....
+Benden bir parçamı aldı...
+Fırlatıp attı...
+Güçlü...
+Zeki...
+Seni durdurmaya hakkım yok, oyuncu.
+Dolaba bak...
+
+
+Hey!
+Yolumdasın!
+Orada öylece duracak mısın?
+Önümden çıkar mısın?
+Bırak geçeyim!
+Büyüksün diye güçlü olduğun anlamına gelmiyor!
+
+// HEY! STOP!
+Beni takip mi ediyorsun!?
+Geri bas!
+
+
+
+
+// Funicular - radio voice
+Dur orada... Oyuncu?
+Burada ne yapıyorsun?
+
+Kimsin sen?
+
+Başka bir oyuncu...
+Ben Mitaphone.
+Burada oturuyor, trenleri kontrol ediyorum.
+Cehennemine doğru gittiğinin
+farkındasın değil mi?
+
+Belki de,
+ama tek yol bu.
+
+Haklısın.
+Tuşa bas ve topun başına geç.
+
+Top mu?
+
+Hı Hı.
+Kolayca geçeceğini sanmadın herhalde?
+Canavar vurma oyununu bitirmen lazım,
+O yüzden patlatmaya hazır ol.
+
+// Funicular go
+Yola koyulma vakti.
+// Funicular win
+Şahane!
+Başardın!
+// Funicular stop
+Git buradan.
+Hızlı ve dikkatli!
+// Funicular wait 2
+Niye halen buradasın?
+Git dedim!
+// Funicular wait 3
+Anlamıyorum...
+Neden öylece dikiliyorsun?
+// Funicular tetris
+Tetris mi cidden?
+Kanka ya...
+// Funicular goodbye
+Görüşürüz.

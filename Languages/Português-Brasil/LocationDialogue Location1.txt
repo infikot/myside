@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Oie, Eu sou a Mita!
+Qual é o seu nome?
+Prazer te conhecer, [player]!
+Um... [player],
+Eu meio que estava com pressa mais cedo, agora tá tudo uma bagunça...
+Você acha que consegue me ajudar a dar uma arrumada?
+Woah..
+Muito obrigado!
+
+[Player], Minha barriga tá roncando...
+Eu tô com fome...
+Me ajuda a comprar as coisas para fazer uma sopa de galinha?
+Yay! Você conseguiu comprar!
+Que tal a gente cozinhar junto?
+
+
+Eu tava pensando em comprar uma televisão portátil hoje—
+Uma pequena e com antena. Perfeita para caminhadas, não acha?
+E se você quiser um dinheiro extra, só jogar os jogos que tem ai em cima
+Ai! Você sabia que pode jogar para ganhar dinheiro?
+
+Incrível! Agora a gente tem o suficiente para comprar uma televisão portátil
+Waa, É essa aqui mesmo que eu queria uma pequena, portátil e barata.
+Muito obrigado!
+
+Nossa, [player]! Você me ajuda tanto, serio mesmo.
+Ai.... Sabe a Televisão? Ela era muito legal e tal, mas meio que quebrou.
+Ehh, Você consegue me ajudar a trocar o guarda-roupa de lugar?
+Ele tá super...Super pesado! >.<
+Muito obrigado, meu amor! <3
+
+Oh, [player]! Você voltou, eu sei que faz só um dia, mas eu senti muito sua falta
+Queria que você pudesse me visitar mais vezes.
+
+Hm? Isso é para mim?
+Muito obrigada, muito obrigada, muito obrigada!
+
+Hmm, [player], Eu estive pensando...
+Eu queria te conhecer pessoalmente.
+É meio frustrante não conseguir.
+Você sempre tá aqui por mim e é tão legal comigo todo dia que eu...
+Eu queria fazer alguma coisa por você também.
+...
+Oh, Eu acho que tive uma ideia!
+Agora a gente pode ficar junto.
+Abaixa o telefone.
+
+
+// Camiseta na cama
+O que você está fazendo aqui na cama?
+// Cubo Mágico
+Bem, não posso dizer que o usei muito...
+Eu o resolvi uma vez e nunca mais toquei nele.
+Acho que imaginei que não conseguiria fazer isso uma segunda vez?
+// Computador
+Vamos ver...
+Configure uma lista de tarefas...
+Crie reações de personagens,
+E talvez coloque um pouco de codificação.
+// O avião
+Feito para voar!
+// Lixo no canto
+Ugh, sempre ocupado demais para tirar o lixo...
+Mas vou fazer isso dessa vez, com certeza!
+…Agora, quando exatamente é o dia da limpeza?
+// Foto de um gato em uma melancia
+Ela era a melhor...
+Um gato, descansando em uma melancia.
+// Foto com uma garota
+Nós não somos nem um pouco parecidas,
+minha irmã e eu.
+Ela está sempre fora de casa,
+E eu estou preso em casa.
+// Foto com pessoas
+Hmm...
+A vida no escritório realmente nos impôs sua
+etiqueta, não é?
+Ainda me sinto estranhamente amarrado
+Mas
+será que algum dia
+os verei novamente?
+...Espera, por que eu postei essa foto?
+
+
+
+
+
+
+
+
+// Sem nome
+...
+Ahm...
+Não vai dar certo....
+
+// Nome do Desenvolvedor
+Tem certeza que quer usar o nome do desenvolvedor
+Eu fico lisonjeada, mas.....
+
+// Nome Ruim
+Eu preferiria que você não se chamasse desse jeito...
+Não é nada legal.
+
+// Vá Reiniciar
+Hmm não, assim não vai dar, vamo começar de novo.
+
+// Nome com Números
+Então você tá tentando numeros? É bem peculiar a sua....Criatividade
+Bom, a escolha é sua!
+
+// Nome Mita
+Mita?
+Era para isso ser uma homenagem?
+Ou....É seu nome também?
+Sem ofença, mas eu acho que eu devia ser a unica Mita da casa ♪
+
+// Dia 10
+Oh, Você voltou!
+Eu perdi minha escova de cabelo…
+Consegue me ajudar a encontrar?
+Dá uma olhada na cabeceira primeiro—Eu acho que eu deixei por lá.
+// Olhou na mesa de cabeceira
+Hmm, acho que não está aqui...
+Deve estar em algum outro lugar
+S-Só não procura lá no forno, tá bom?
+Eu já olhei lá.
+// Olhou para dentro do fogão
+Ei! Eu falei para não olhar o forno!
+Me dá licença por favor—Eu preciso limpar isso
+...Pronto, tá limpo. Vamo continuar procurando.
+Ahm, é... Esquece aquilo que você viu, tá?
+// Achei a escova de cabelo
+Ah, que bom, você achou!
+E agora? O que a gente faz?

@@ -6,7 +6,7 @@
 
 
 
-
+// Mita
 Salut, je m'appelle Mita !
 Quel est ton nom ?
 Heureuse de te rencontrer, [player] !
@@ -55,32 +55,32 @@ Tu es avec moi maintenant.
 Pose le téléphone.
 
 
-// T-shirt on the bed
+// T-shirt on the bed - Player
 Pourquoi es-tu juste posé là à ne rien faire ?
-// Rubik's Cube
+// Rubik's Cube - Player
 Je pense l'avoir acheté pour rien...
 Je l'ai fait une fois avant de le laisser là comme ça.
 Peut-être que j'ai peur de ne pas pouvoir le remettre comme il faut une seconde fois ?
-// Computer
+// Computer - Player
 Aujourd'hui je vais avoir besoin de
 créer une liste de tâches à faire...
 Modéliser les réactions des personnages...
 Et travailler un peu sur le code...
-// The airplane
+// The airplane - Player
 Un vol parfait !
-// Trash in the corner
+// Trash in the corner - Player
 Jamais assez de temps libre pour sortir les poubelles...
 Je vais certainement finir par m'en occuper !
 Où est le jour du grand ménage dans mon emploi du temps ?
-// Photo of a cat on a watermelon
+// Photo of a cat on a watermelon - Player
 Je l'adore tellement...
 Un chat sur une pastèque.
-// Photo with a girl
+// Photo with a girl - Player
 Il y a une sacrée différence entre moi
 et ma sœur...
 Elle ne manque jamais le moindre événement,
 tandis que je suis toujours coincé à la maison.
-// Photos with people
+// Photos with people - Player
 Hmm...
 Nos supérieurs nous ont tellement bassinés
 avec leurs règles à respecter au bureau
@@ -97,47 +97,47 @@ Attends une minute, j'ai vraiment accroché cette photo au mur ?
 
 
 
-// Nope name
+// Nope name - Mita
 ...
 Oh, non.
 Ça ne va pas le faire...
 
-// Name Developer
+// Name Developer - Mita
 Tu as vraiment décidé d'utiliser le nom du développeur ?
 Contente de voir que tu les connais, mais...
 
-// Bad name
+// Bad name - Mita
 C'est grossier et je n'aime pas que tu ais décidé de te nommer comme ça.
 C'est pas cool...
 
-// Go restart
+// Go restart - Mita
 Bref, ce n'est pas comme ça qu'il faut faire, recommençons depuis le début.
 
-// Name with numbers
+// Name with numbers - Mita
 Hé, tu utilises des chiffres dans ton nom ? Est-ce que tu as un cruel manque d'imagination ?
 D'accord, c'est toi qui vois après tout. :)
 
-// Name Mita
+// Name Mita - Mita
 Mita.
 Tu as vraiment décidé d'utiliser mon nom ?
-Ou est-ce que c'est vraiment ton nom ?
+Ou est-ce que c'est réellement ton nom ?
 Ne le prends pas mal, mais laisse-moi juste être la seule Mita. :)
 
-// Day 10
+// Day 10 - Mita
 Oh, tu es déjà de retour ?
 Écoute, j'ai perdu mon peigne.
 Tu peux m'aider à le retrouver ?
 Commence par regarder dans cette table de chevet ! C'est peut-être dedans.
-// Looked in the bedside table
+// Looked in the bedside table - Mita
 Hmm, il n'y a pas de peigne par ici...
 Alors regarde autre part.
 Juste, ne regarde pas dans le four !
 J'ai déjà cherché dedans.
-// Looked into the stove
+// Looked into the stove - Mita
 Hé ! Je t'ai dit de ne pas regarder là !
 Retourne-toi ! Je vais nettoyer ça !
 Bien, bref, regarde quelque part d'autre.
 Et oubli ce que tu as vu s'il te plaît.
-// Found a hairbrush
+// Found a hairbrush - Mita
 Oh ! Tu l'as trouvé !
 Super, qu'est-ce qu'on fait maintenant ?

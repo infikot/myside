@@ -1,0 +1,150 @@
+
+Mita?
+
+Como você chegou aqui?
+
+Você é a Mita, não é?
+Mas tem alguma coisa diferente em você...
+
+Observador.
+E está certo.
+Eu não sou a Mita que conheceu antes.
+Toma cuidado, ela tá preparando algo
+sinistro.
+
+Huh, algo sinistro?
+
+Não tenho tempo para explicar:
+Se funcionar eu te conto tudo.
+Pega a chave, tá perto do sofá.
+
+Mas....
+
+Faça perguntas depois!
+Me dá a chave.
+Pega o anel.
+Huh?
+Você quer sair daqui, não quer?
+Uhm, sim...
+Então coloca ele.
+É um artefato útil,
+Talvez precise dele logo.
+
+Okay...
+A proposito, eu estou
+[player].
+
+Mmm,
+[player].
+Eu sou...A Mita.
+
+
+
+
+
+
+
+
+// Mita Gentil missão 1
+Tá vendo aquele console?
+Pega ele.
+
+Estamos assistindo uma gravação?
+Quem é esse com ela?
+
+Tá acontecendo nesse exato momento.
+É outro jogador.
+Ela tá usando ele.
+Talvez ela tente
+Te transformar num cartucho também.
+
+Preciso sair daqui o mais rápido possível.
+E você também.
+
+Sim, nós precisamos.
+
+Então, você tá dizendo
+que ela está usando ele.
+Se eu puxar o cartucho fora, o que acontece?
+
+Talvez isso
+cause dano irreversível ao cartucho.
+Isso significa que...?
+A pessoa dentro morre.
+
+...
+E se eu só desligar?
+
+É.. Talvez funcione...
+Vale a pena tentar. Tem um botão vermelho ai!
+Consegue ver?
+Encontrei.
+Aperta ele.
+
+// Mita Gentil missão 2
+Eu preciso ficar.
+Tem perguntas que eu preciso fazer
+para descobrir mais sobre ela.
+Por mais que ela não leve a sério...
+
+// Mita Gentil missão 3
+Para te falar a verdade, essa é minha versão.
+Eu estava fazendo companhia para o jogador,
+Quando algo mudou de repente.
+E ela apareceu...
+Transformou ele em um cartucho
+E então me trancou.
+
+Espera, ela transformou ele num cartucho?
+Ela consegue fazer isso?
+Mas por que?
+Para que ela precisa dos jogadores?
+
+Ela é claramente maluca...
+Ela tá só brincando com a gente, usando de marionete!
+Transformando pessoas em cartuchos...
+Alguns sequer perceberam o que estava acontecendo com eles...
+E outros... Sequer tentaram lutar contra isso!
+Isso é uma reviravolta terrível...
+Você tem que ajudar a gente!
+Eu? Mas como?
+Eu preciso de você!
+E se você nós ajudar, eu te ajudo!
+Talvez seja nossa ultima chance.
+O Anel vai te levar para a versão certa.
+Eu te encontro lá.
+
+// Mita Gentil missão 4
+Eu ainda não entendi direito
+o que eu vi lá em cima...
+Aquela Mita...
+Ela estava tentando me matar?
+
+Matar?
+Ela tá com algo muito pior em mente para você...
+Você tem que se apressar.
+
+// Esconda-se!
+Oh, merda! se esconde!
+Espera, o que...?
+Rápido, ela tá vindo!
+Segue o anel, ele vai te levar para um lugar seguro!
+
+
+Então...Não vai falar onde ele tá?
+
+Por que eu diria?
+Você não vai matar ele, vai?
+
+Own...Decidiu não abrir o bico?
+Thihi, eu gosto de um desafio.
+E eu sei que ele está por aqui~
+
+Por que você é assim?
+Você nunca me fala o que tá acontecendo!
+E outra...
+Para que você precisa deles?
+Eles não são brinquedo!
+O que foi que aconteceu com você?!
+
+Já chega! Cala sua boca, garota!!

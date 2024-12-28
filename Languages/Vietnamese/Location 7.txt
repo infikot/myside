@@ -1,0 +1,19 @@
+// Track names
+Cracker
+Bubble drink
+Balloon
+// Quest none
+Không có gì
+// Quest "Meeting Kind Mita"
+Anh có nên tin em không?
+Làm sao anh đến được đây?
+Đây là nơi nào?
+Làm sao em tới được đây?
+Em đã làm gì với chiếc nhẫn vậy?
+Hành lang này có nguy hiểm không?
+Em sẽ giúp anh thoát khỏi đây chứ?
+Em có nhắc đến một kế hoạch
+// Quest MitaCap
+Em còn nhớ gì không?
+Em nghĩ sao về Mita đang nghịch chiếc nhẫn kia?
+Em lúc nào cũng đội mũ đó à?

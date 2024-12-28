@@ -1,0 +1,9 @@
+// Player start
+Đây là đâu?
+Nơi này thật quen thuộc...
+Khoan... Mình đang ở trong game sao?
+// Player try open the door
+Bị khóa rồi?
+// Player in dark
+Chỗ này tối quá.
+Mình không nhìn thấy gì cả.

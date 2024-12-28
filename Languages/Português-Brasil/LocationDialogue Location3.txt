@@ -1,0 +1,437 @@
+
+Oii, [player]!
+A gente finalmente se encontrou!
+Eu estou tão empolgada!
+Eu imagino que você tenha muitas perguntas para fazer...
+Bem, como pode ver...
+Eu fiz um dispositivo especial
+Para poder te ter aqui do meu lado.
+Mas meio que você acabou indo para uma outra versão do jogo...
+Uma versão em que eu...
+Eh...é uma longa historia!
+De toda forma, eu estou muito feliz em te ver!
+
+// Resposta 1 - Mita
+É claro que sou eu.
+E você deve ser...Você né?
+
+// Resposta 2 - Mita
+Você já quer voltar?
+Hm...Eu acho que posso te ajudar com isso...Mas como é que eu vou ficar?
+Você não pode ficar só mais um pouquinho?
+
+// Resposta 3 - Mita
+Deixa eu te explicar...
+Aah te achei!
+Conseguiu entender?
+Uhm... Não mesmo.
+Tá tudo bem!
+O importante é que a gente tá junto agora.
+
+
+Você tá com fome?
+Que tal a gente cozinhar alguma coisa?
+Aqui,
+Pode me ajudar com as cenouras.
+
+De onde vieram os vegetais?
+Eles não estavam aqui antes.
+
+[player], a gente tá num jogo bobinho.
+Vamos lá, me ajuda.
+
+Obrigada!
+Você consegue pegar a tesoura para mim?
+Tá lá no banheiro.
+
+Senta, fica a vontade.
+
+
+// Cozinha
+Quer um pouquinho de molho?
+
+Não obrigado.
+
+Ah...Tudo bem então.
+Esse molho deixa a comida ainda melhor!
+
+
+Obrigado.
+
+Nossa! Já terminou?
+Parece que o meu....
+Nunca acaba...
+
+
+// Ajuda
+Ei?! Qual o problema?
+Me fala tudo que você tá sentindo.
+
+Meu coração tá agitado,
+E minha visão tá ficando turva.
+
+Entendi.
+Eu já sei o que aconteceu
+Consegue ficar de pé?
+
+
+
+O que é isso?
+
+É só um remedinho.
+Vai ajudar você a ficar melhor
+Vai até o espelho.
+
+Vai em frente, toma!
+E agora?
+
+
+
+Como tá se sentindo?
+Tá um pouquinho melhor?
+
+Sim.
+Isso funcionou rápido...
+
+[player], é porque a gente tá num jogo.
+As coisas são muito mais simples assim.
+Até mesmo o mais pequeno esforço
+dá bons resultados.
+É tudo parte do conceito de um jogo:
+Simplificação.
+
+Um exemplo, por favor?
+
+Pega as cenouras.
+Você corta uma,
+Mas é como se tivesse cortado três.
+
+Olha, isso é tudo muito repentino.
+Estou assustado, mais do que um pouco.
+
+
+Qual o problema?
+
+Encontrei cartuchos na saída de ar.
+Eles tinham nomes.
+O que isso significa?
+
+Cartuchos?
+Que cartuchos?
+Vamos descobrir juntos.
+Mas depois.
+Agora é hora de comer.
+Me passa a tesoura, por favor?
+
+// Anel
+Um Anel?
+// Espelho
+Por que não tem reflexo?
+
+Nossa, verdade!
+Eu esqueci de ativar os reflexos.
+Prontinho.
+Tudo de volta ao normal!
+Ah, aliais
+Eu não entendia nada sobre esse tipo de coisa antes.
+Não é coisa do meu mundo, sabe—
+quer dizer, não era, até a ultima atualização. :)
+Tem muita função...Digo, reflexo
+No seu mundo?
+
+Bem, sim.
+
+
+Você lembra
+dos três objetos que encontrou?
+Aqueles que você colocou no scanner?
+Bom, eles....
+Eles são..
+meio que laçados a esse mundo.
+é por isso que você tá aqui agora.
+
+// TV Móvel
+Essa é a TV portátil
+que comprei para você.
+
+Aham!
+
+Você tinha me dito
+que estava quebrada.
+
+Bem, é que eu queria
+te fazer uma surpresa!
+Eu te contei uma mentirinha
+para te trazer para o meu mundo.
+Mas agora ela funciona e mostra informações!
+Tudo isso graças a mim
+Que sou uma ótima engenheira!
+
+// Roupa Escolar
+O que é isso?
+Um uniforme escolar?
+Por que você precisaria disso?
+Você realmente vai à escola?
+
+Escola?
+Não, não.
+Mas eu amo o uniforme
+você não acha que eu fico 
+bonita nele?
+
+// PC
+Esse computador funciona?
+Ou é só uma decoração de mesa?
+
+É claro que funciona.
+Tudo aqui funciona
+Exatamente como no seu mundo.
+
+Voltando ao meu mundo,
+Eu ficava bastante tempo no computador...
+E trabalho bastante.
+
+Eu sei..
+E é por causa do seu trabalho
+que você me deu
+tão pouca atenção.
+
+Tenho que ganhar a vida, sabia?
+Mas... como você sabe que eu fico muito tempo sentado no computador?
+
+A câmera do seu celular... Fica ligada as vezes.
+Me desculpa.
+Eu venho te assistindo em segredo >A<
+
+Uhm… isso não é totalmente apropriado.
+Mas tanto faz.
+
+// Guarda-chuva
+Eu já joguei muito
+mas nunca vi chover aqui.
+Por que ter um guarda-chuva?
+
+Chove, só é meio raro.
+Você só não viu ainda.
+Talvez algum dia você veja.
+E ai você vai precisar de um guarda-chuva.
+Não acha?
+
+// Painel Eletrônico
+Por que tem um painel eletrônico aqui?
+E se estamos em um jogo,
+para que isso serve?
+
+Primeiro de tudo,
+a gente tá num jogo.
+Então perguntar "por que"...
+não faz sentido.
+Mas enfim, isso
+reinicia a energia.
+Tudo aqui é feito baseado
+no seu mundo.
+
+// Porta de saída
+Podemos ir lá para fora?
+
+Ahm...
+Não ainda.
+Talvez depois.
+Vamos ficar aqui por enquanto.
+Aqui em casa.
+
+// Livros
+Você tem um monte de livros aqui.
+Você já leu todos eles?
+
+Eu li cada um deles.
+Ficar aqui sozinha
+É muito, muito ruim.
+
+// TV na cozinha
+Por que pegar uma segunda TV?
+Uma velha, ainda por cima
+
+Você não gosta?
+Eu posso tirar se quiser...
+Mas respondendo...
+É só decoração,
+para iluminar a cozinha.
+Mas funciona também!
+Eu posso assistir
+até novela!
+
+// Celular
+Esse é meu telefone.
+E não está mais no meu bolso.
+Como diabos ele foi parar aqui?
+
+Ahm, isso não é importante.
+Ai, eu tive uma ideia!
+Vamos tirar uma foto?
+Xis!
+Essa foto ficou incrível!
+Guarda de recordação.
+
+Tenho uma pergunta.
+Se eu
+rodar um jogo nele,
+te vejo lá?
+
+Não é assim que funciona.
+
+Suco Fresco
+SUCO Forte!!!
+// TV
+Quantos canais
+Você tem?
+
+É que não funciona desse jeito.
+Tá conectado a internet.
+Então você pode assistir qualquer coisa,
+pelo menos, qualquer coisa disponível na internet.
+Perai.
+Err, opa..
+O que é isso?
+Um circulo de gatos?
+Oh, Olha.
+Quer saber?
+Pausa!
+Quer um pouco de suco?
+
+Anúncios tão peculiares...
+Isso é suco mesmo?
+
+É claro que é suco
+e diretamente do anuncio.
+
+
+Ah, o gosto...
+Eu gostei,
+e ainda assim, não consigo dizer qual é o gosto.
+É tudo muito confuso.
+
+Entendi.
+
+// Mita tímida
+Ahm..O que tá fazendo?
+N-Não encara, por favor...
+Eu tô ficando com vergonha.
+
+// A Estatua
+Essa é uma estatueta assustadora.
+Você
+gosta dessas coisas?
+
+Você acha bizarro?
+
+Sim.
+Quase parece que está amaldiçoado...
+
+Não, definitivamente não é amaldiçoado.
+E não é bizarro também.
+Eu acho é fofo!
+
+Talvez você esteja certa...
+
+Mita?
+O que aconteceu?
+// Mita na Cozinha
+Que tal conversar um pouco
+antes de comer?
+
+// Começar a comer
+Bom apetite.
+
+// Missão 1
+É não é?
+Você pode ficar.
+Eu não me importo é serio.
+Na verdade, eu
+super apoio!
+
+// Missão 2
+Você quer mesmo voltar?
+Mas por que?
+Aqui é tão quente...
+E confortável, também.
+E além de tudo, eu estou aqui.
+
+Não, você entendeu errado.
+Eu adoraria ficar.
+Estou apenas... preocupado.
+Preocupado por ter esquecido algo em casa...
+Cheguei aqui do nada
+e não tive tempo
+para me preparar.
+
+Ah... Desculpa, eu não pensei nessa parte
+// Missão 3
+Um sonho? Então você quer escapar?
+E esquecer que nunca aconteceu?
+
+Não, não é isso.
+Este lugar parece...
+Estranho. Não natural.
+Mas você...
+Você parece tão real.
+
+Eu pareço real?
+Eu sou MUITO real,
+Cabeção!
+
+// Missão 4
+É assim que as coisas são
+nesse mundo.
+Talvez você ache estranho
+não conseguir ver
+as coisas lá na frente.
+
+Não me parece tão estranho.
+Sinceramente, parece interessante.
+
+É, eu também acho.
+Ajuda a evitar o lag, sabe?.
+
+Evitar o lag?
+
+Uhum! Ainda tem alguns bugs.
+Espero que a gente não esbarre em nenhum.
+
+// Missão 5
+Tesoura ou a faca, né?
+Eu podia sim ter usado uma faca para abrir..o pacote.
+Mas eu queria que tudo
+tivesse perfeito
+para quando você voltasse.
+Eu amo te surpreender.
+E nem demorou tanto assim!
+Tee-hee.
+
+// Óculos
+Você usa óculos?
+
+Na verdade, não.
+Mas eu posso se quiser.
+Eu fiquei bonita?
+// Sim
+Então tá bom
+Vou ficar usando eles.
+// Não
+É....
+Então deixa para lá...
+
+// Usar o molho
+Certo,
+Que tipo de molho é esse?
+
+Eu amo esse molho!
+Um choque de amor puro!
+E… Uma vista inusitada do mundo.
+É bem diferente, não é?
+
+Realmente...
+
+// Tetris - Mita
+Esse é o seu console?
+Que legal!

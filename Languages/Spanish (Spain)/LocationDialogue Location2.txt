@@ -1,0 +1,9 @@
+// Inicio del jugador
+¿Dónde estoy?  
+Este lugar me resulta familiar.  
+Espera... ¿estoy en el juego?  
+// El jugador intenta abrir la puerta
+¿Está cerrada con llave?  
+// El jugador en la oscuridad
+Está oscuro aquí.  
+No puedo ver nada.  

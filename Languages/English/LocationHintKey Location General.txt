@@ -63,8 +63,8 @@ Go to sleep
 
 Find more puzzles
 
-Try
-I shouldn't
+Go ahead
+You shouldn't
 
 I know
 I don't know
@@ -128,5 +128,5 @@ Too much
 They look good on you
 Just take them off
 
-Talk to me
+Explain
 No need

@@ -1,0 +1,5 @@
+Çıkış ara.
+Mita'yı uyandırmayı dene.
+Kahve yap.
+Mita'ya kahveyi ver.
+Mita'yı kapıya götür.

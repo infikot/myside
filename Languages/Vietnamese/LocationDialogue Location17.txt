@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+Mình cần ai đó giúp ở đây. 
+Hy vọng Mita ở đây không cắn mình...
+
+Mình đang lãng phí thời gian vào cái gì thế này...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, dậy đi!
+Mita!
+
+Mita, dậy đi!
+Anh cần em giúp.
+
+Fuwa... Ai zợ...?
+
+Giúp anh kéo cần gạt với.
+
+Cần gạt gì cơ?
+Buồn ngủ lắm rồi, đừng có làm phiền chứ...
+Hay là cho ly cà phê đi...
+
+Có hai cái cần gạt lận ấy...
+Mita?
+Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita
+cà phê của em đây.
+
+
+
+// MitaDreamer exercise
+Anh khi nãy
+nói cần gạt phải không?
+
+Ừm.
+
+Sao anh lại biết được nhỉ?
+À, chắc khỏi cần phải hỏi...
+Anh đang ở đây cơ mà.
+Anh chắc biết rất nhiều thứ rồi...
+
+Ah, chờ chút.
+Em ngồi xuống cái đã.
+
+Rồi sao?
+
+Anh không biết phải nói sao nữa...
+Nhưng anh phải đi tiếp.
+Men theo con đường mà chiếc nhẫn chỉ dẫn.
+
+Anh có nhẫn của cô ấy à?
+Thì ra là vậy.
+Bảo sao anh đến được nơi này.
+
+Phải.
+Vậy, em giúp anh được không?
+Giúp anh kéo cái cần gạt kia.
+
+Được thôi.
+Em sẽ giúp.
+Kéo cần gạt phải hông...
+
+
+Mita, lại ngủ rồi à...
+Mau đi thôi nào.
+
+Hế...?
+Ừm.
+Đi thôi.
+
+
+// MitaDreamer fall
+Dậy đi em.
+Buồn ngủ đến thế cơ à?
+
+// MitaDreamer again sleep
+Dậy đi.
+Chúng ta tới rồi này.
+
+
+// Switches
+Okay.
+Sẵn sàng rồi.
+
+Bên này cũng vậy.
+
+Giờ thì.
+Em bắt đầu
+đếm nhé.
+Hai đứa sẽ cùng lúc gạt cần.
+Hiểu chưa?
+
+Còn em đừng có ngủ quên đấy!
+Nào.
+
+
+3
+2
+1
+
+// Player lose 1
+Anh làm gì vậy?
+Thôi được rồi,
+lại một lần nữa...
+
+// Player lose 2
+Lại nữa à?
+Mmm...
+Buồn ngủ quá...
+không chịu nổi...
+
+// Player lose 3
+Em sắp ngủ tới nơi rồi...
+
+
+
+Tuyệt vời!
+Cảm ơn em nhiều, Mita.
+
+Hổng có chi.
+
+
+Cửa mở...
+chậm...
+quá...
+
+
+Em ngủ ây...
+
+// Why kitchen?
+Vào phòng bếp làm gì vậy?
+Em mà ngủ quên trên sàn bếp lạnh lẽo này
+thì là lỗi của anh đấy nhé.
+
+// Why bathroom?
+Rốt cuộc...
+Anh cần kéo cần gạt nào trong này vậy?
+
+// Put button
+Không có gì xảy ra?
+Thế cái nút này để làm cái gì vậy?
+
+// Cofee
+Thêm cà phê nữa nhé?
+Em lại sắp ngủ rồi kìa.
+
+Hế?
+Không cần âu...
+Cà phê này vị nó dở quá à...
+Em hoàn toàn... tỉnh táo mà...
+
+// Button
+Mita? Cái nút không hoạt động... Em nghe thấy anh nói không?
+Em ơi?

@@ -1,0 +1,150 @@
+
+Mita?
+
+Come sei finito qui?
+
+Tu sei Mita, vero?
+Ma c'è qualcosa di diverso in te...
+
+Osservatore, vedo.
+E hai ragione.
+Non sono la Mita che hai conosciuto prima.
+Fai attenzione, sta tramando qualcosa di
+di sinistro.
+
+Eh, qualcosa di sinistro?
+
+Non c'è tempo per spiegare:
+se funziona, ti dirò tutto.
+Prendi la chiave. È vicino al divano.
+
+Ma...
+
+Risparmiati le domande per dopo!
+Dammi la chiave.
+Prendi questo anello.
+Eh?
+Vuoi uscire di qui, vero?
+Uhm, sì...
+Allora indossalo.
+È un manufatto utile,
+probabilmente ti servirà presto.
+
+Ok...
+A proposito, io sono
+[player].
+
+Mmm,
+[player].
+Io sono... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Vedi quella
+console? Prendila.
+
+Stiamo guardando una registrazione?
+Chi c'è con lei?
+
+Sta accadendo proprio in questo momento.
+È un altro giocatore.
+Lo sta usando.
+Potrebbe cercare di
+trasformare anche te in una cartuccia.
+
+Devo andarmene da qui il prima possibile.
+E anche tu.
+
+Sì, è così.
+
+Quindi, stai dicendo
+che lei lo sta usando.
+Se estraggo la cartuccia, cosa succede?
+
+Potrebbe benissimo
+danneggiare irreversibilmente la cartuccia.
+Il che significa che...
+il giocatore morirebbe.
+
+...
+E se lo spegnessi e basta?
+
+Potrebbe funzionare...
+Vale la pena di provare. C'è un pulsante di accensione rosso!
+Lo vedi?
+L'ho trovato.
+Premilo.
+
+// MitaKind quest 2
+Devo restare.
+Ci sono domande che devo farle
+per scoprire di più su di lei.
+Anche se è improbabile che stia al gioco...
+
+// MitaKind quest 3
+A dire la verità, questa è la mia versione.
+Stavo facendo compagnia a un giocatore,
+quando improvvisamente qualcosa è cambiato.
+Poi è arrivata lei...
+e ha trasformato il giocatore in una cartuccia
+e mi ha rinchiuso.
+
+Aspetta, lo ha trasformato in una cartuccia?
+Può mai fare una cosa del genere?
+Ma perché?
+A cosa le servono i giocatori?
+
+È ovviamente pazza...
+Sta solo giocando con noi e ci usa per le sue macchinazioni!
+Trasformare i giocatori in cartucce...
+Alcuni non si sono nemmeno resi conto di ciò che gli stava per accadere...
+E alcuni che lo sanno, non reagiscono nemmeno... Gah!
+Questa sì che è una svolta oscura...
+Devi aiutarci!
+Io? Ma come?
+Ho bisogno di te!
+Se ci aiuterai, io ti aiuterò!
+Questa potrebbe essere la nostra unica possibilità.
+L'anello ti condurrà alla versione giusta.
+Ci vediamo lì.
+
+// MitaKind quest 4
+Non riesco ancora a capire
+cosa ho visto lassù...
+Quella Mita...
+Stava cercando di uccidermi?
+
+Ucciderti?
+Ha in mente un destino peggiore per te...
+Devi sbrigarti.
+
+// Hide!
+Oh, merda! Nasconditi!
+Aspetta, cosa...?
+Sbrigati, sta arrivando!
+Segui l'anello, ti condurrà al sicuro!
+
+
+Bene, bene, vuoi dirmi dove si trova?
+
+Perché dovrei?
+Non lo ucciderai, vero?
+
+Ah, quindi ti rifiuti di dirmelo.
+Mi piacciono le sfide.
+So che è da qualche parte qui intorno.
+
+Perché sei così cattiva con noi?
+Non mi dici nemmeno cosa sta succedendo!
+E poi...
+a cosa ti servono i giocatori?
+Non sono giocattoli!
+Ma che ti prende?!
+
+Basta! Tieni la bocca chiusa, bambola!

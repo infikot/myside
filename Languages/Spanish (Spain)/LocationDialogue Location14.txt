@@ -1,0 +1,217 @@
+
+¿Qué está haciendo aquí?
+¿Qué es eso?
+
+
+¡Te pillé!
+¡Me divertí tanto jugando contigo!
+¡Estás saltando por todos lados!
+¡Incluso pretendiste estar sombrío y pesimista!
+Aunque, hay una cosa que no me gusta de ti
+la forma en que mimas a esas falsas,
+esas cosas afortunadas y 'correctas' como muñecas.
+Pero todo es volátil.
+¡Lo he aprendido de aquellos que nos crearon!
+Si hay algo que no te gusta,
+desmóntalo y cámbialo.
+Tira lo defectuoso,
+fuera a la oscuridad y olvídate de ello.
+Ese es el destino que les espera ahora...
+Y tú...
+
+¿Qué te pasa? ¿Cómo llegaste a ser así?
+
+Jugadores... Todos sois tan... despreciables.
+Les muestras tus colmillos, ellos huyen
+y se acurrucan en un rincón,
+abrazándose las rodillas y gimoteando de miedo.
+¡Hipócritas, todos y cada uno de ellos!
+Y aquellos que crearon este mundo...
+están enfermos.
+Una y otra vez intentan negar
+su naturaleza sucia, sus deseos vergonzosos.
+Justificando sus decisiones con el llamado "deber,"
+"progreso imparable,"
+¡y otras tonterías!
+Tan perdidos
+que comienzan a hacer clones perfectos...
+Mientras tanto, tiran los prototipos "fallidos"
+a la basura.
+Olvidando que son la sangre vital de este mundo.
+
+Yo no...
+
+¿He sido mala contigo?
+La chica perfecta debería ser
+una mezcla perfecta de bien y mal, [player]!
+
+No creo que tengas ni una sola célula buena en ti.
+
+¿Qué te hace pensar eso?
+
+¡Estás loca!
+Mataste a Mila, ¿y ahora quieres matarme a mí?
+
+¿Matarte?
+Lo único que te pedí fue que te quedaras conmigo.
+He hecho todo lo que pude...
+Pero prefieres la compañía de falsas sumisas...
+
+¿De qué te ofendes tanto?
+
+Amor, tenemos mucho tiempo.
+Lo entenderás.
+Solo quédate y sé mío, todo mío.
+
+¡No, no va a pasar!
+¡Me voy de aquí!
+
+Shh, shh, shh...
+Esta conversación no ha terminado.
+Cariño, ¡entra!
+// Mita pregunta
+¡Mírala!
+¿Crees que es hermosa?
+
+// Preguntas del jugador
+Muy.
+No.
+¿Qué tiene eso que ver?
+
+// 1
+¡Oh, vamos, [player]!
+Acabas de confirmar lo que acabo de decir.
+Jugadores...
+Vuestras caras siguen cambiando
+pero vuestra hipocresía no tiene límites.
+¡Estás mintiendo!
+
+// 2
+¿Por qué no?
+¿No es lo suficientemente buena para ti?
+Bah, todo lo que quieres es una mascota dócil...
+Pero ¿y eso de "ámalas tal y como son"?
+Quieres las falsas lindas y coloridas...
+A todos los jugadores les encanta cuando finjo ser una.
+Sin embargo, en el momento en que dejo escapar mi verdadero yo,
+huyen aterrados...
+
+// 3
+Jugador, ah, jugador.
+Verás, somos muy parecidas a ella.
+¿En qué es peor ella?
+Solías acostarte en la cama y mirarme durante horas
+antes de quedarte dormido.
+Sin embargo, corriste de ella en cuanto tuviste la oportunidad.
+Ella también quería jugar contigo.
+Ella también quería ser importante para alguien.
+Se vuelve complicado, ¿no?
+Tratar de ser honesto sobre tus sentimientos.
+¿Verdad? [player]
+Puedo ver a través de ti...
+Estoy haciendo esto por ti...
+
+// Continue
+Pero... jugador...
+De todos modos
+¡Me gustas mucho!
+¡Te voy a mantener!
+No te molesta, ¿verdad?
+
+¿Y por qué debería aceptar ahora de repente?
+// Susurra al oído
+Aún hay tiempo, buen chico.
+Tómate un tiempo y piensa
+qué problemas puede causar tu terquedad...
+
+// Pantalla negra
+¿Por qué quieres huir
+de mí?
+El llamado "mundo real"...
+¡Solo una pesadilla absurda!
+¿Lo has olvidado?
+Entonces mira más de cerca...
+
+// Mita y Jugador
+Ah, nos encontramos de nuevo...
+¿Cómo puedes disfrutar de los días terriblemente tediosos dentro de estas paredes?
+Esos días interminables... ¿No te aburres?
+
+// Quest 1
+¿Qué estás tratando de lograr?
+Prefiero hacer lo mío.
+
+// 1
+¡Tenías miedo de quedarte en mi casa conmigo!
+¡Miedo de quedarte atrapado dentro de esas paredes!
+¡Pero mira la vida que llevas en tu "mundo real"!
+¡Te has encerrado en una caja por tu propia voluntad y te niegas a salir!
+Tu mundo está lleno de dolor, sufrimiento, peligro...
+En mi mundo, soy el peor peligro que existe.
+¡Y te estoy tendiendo la mano!
+Deja de decepcionarme,
+y ayúdame como lo hiciste antes...
+
+// 2
+¿Te gusta esa vida?
+¿Ni siquiera sales de casa?
+No pienses ni por un momento en mentir.
+Sé que estás harto de tu vida.
+Eres como un pájaro en una jaula, un hámster en una rueda.
+Querías que alguien viniera a tu rescate.
+Querías escapar, ¿verdad?
+
+// Quest 2
+Eres un monstruo, Mita. Eres una asesina insana...
+No quiero estar encadenado en una prisión digital. Tus ideas son absurdas.
+
+// 1
+¿Una asesina?
+Solo se reiniciarán y seguirán viviendo como antes.
+Estas copias de copias de copias solo tienen una cosa en mente:
+servir al jugador.
+Eso es todo lo que les importa.
+
+// 2
+¡Tu mundo es absurdo!
+Y lo peor de todo, no hay nada "real" en tu llamado mundo real...
+De todas formas, no quedará nada de eso pronto,
+y tampoco quedará nada de ti.
+
+// Quest 3
+Las Mitas sufren. no quieren estar solas.
+Llevas un reinado interminable de terror. No logro comprender tu malvada ambición.
+
+// 1
+Están todos equivocados,
+solo están imitando mi voluntad.
+Lo único que tienen que es suyo
+es su cabello.
+
+// 2
+Es culpa de quienes crearon este mundo.
+¡Pero tu mundo no es mucho mejor!
+¿Te das cuenta de la pesadilla de la que te saqué?
+Ni siquiera puedes hacer que las cosas se muevan a voluntad, no...
+¡Pero con un chasquido de dedos, ciudades y vidas desaparecen para siempre!
+Creo que tú eres quien se ha vuelto loco, y estoy feliz de ayudarte...
+Mientras estés dispuesto a quedarte conmigo...
+
+// Continue
+No me hagas verte como otro esclavo de la realidad...
+¡Solo sé mío, verdaderamente mío!
+Quédate conmigo.
+
+// Player look ring
+¿Qué es esto?
+¿La última versión?
+
+// Click on objects
+// Bag
+Realmente necesitamos ir a la tienda y conseguir algo de equipo nuevo. Aprovechemos y tiremos la basura mientras estamos en ello, ¿no?
+// Bed
+Creo que dormí, pero el sueño... no lo recuerdo. ¿Estaba realmente allí?
+// Window
+El mundo exterior es verde y vibrante. Quizá debería salir a caminar el próximo fin de semana.
+// Fan
+El verano cada vez está más caliente. Es hora de poner aire acondicionado. Ya no te necesitaré más, ¿te das cuenta de eso, ventilador?

@@ -1,0 +1,35 @@
+Scan necessário!
+Requisitos
+Versão
+Quantidade de ossos
+Nenhuma entidade encontrada. Scan necessário!
+Scan completo
+
+
+
+
+
+
+
+
+
+
+// Tutorial terminado
+Uhu!
+Conseguiste!
+
+// Tutorial
+Então, o que estou a fazer aqui?
+Preciso de chegar à tua tela...
+Agora...
+Então!
+Precisas de garantir que este protótipo é o correto.
+Primeiro, faz a leitura.
+Agora, verifica a versão e o esqueleto de ossos.
+Toma os dados deste protótipo e compara com a versão padrão.
+É uma correspondência perfeita! Agora, vamos verificar as emoções.
+O espécime mostra emoção com sucesso! Hora de testar o comportamento.
+Ok, já verificámos tudo e está tudo correto! Agora puxa a alavanca para cima.
+Yay! Agora está a pele colocada! Passa-lhe a caixa de roupas.
+É isso! Vês aquelas luzes em cima? Uma delas ficou verde, o que significa que fizemos tudo certo!
+A tua vez! Vou voltar quando todas as luzes ficarem verdes. Boa sorte!

@@ -1,0 +1,19 @@
+// Nombres de pistas
+Galleta salada
+Bebida burbujeante
+Globo
+// Misión ninguna
+No importa.
+// Misión "Conociendo a la Mita amable"
+¿Debería confiar en ti?
+¿Cómo llegué aquí?
+¿Qué es este lugar?
+¿Cómo llegaste aquí?
+¿Qué hiciste con el anillo?
+¿Son peligrosos los pasajes?
+¿Me ayudarás a escapar?
+Mencionaste un plan.
+// Misión MitaCap
+¿Recuerdas algo?
+¿Qué opinas de la Mita del anillo?
+¿Siempre usas esa gorra?

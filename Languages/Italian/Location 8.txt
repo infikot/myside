@@ -1,0 +1,11 @@
+// Quest none
+Non importa.
+// Quest
+Tu sei Mita, vero?
+Cosa ti è successo?
+Diventare il tuo secondo amico?
+Questa è la tua casa?
+Come faccio a lasciare questo posto?
+
+// TV
+RILASCIATA!

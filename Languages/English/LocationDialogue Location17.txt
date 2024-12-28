@@ -141,7 +141,7 @@ it's your fault.
 
 // Why bathroom?
 I don't understand...
-what switches did you need help with?
+what switches do you need my help with here?
 
 // Put button
 Nothing happened?
@@ -157,5 +157,5 @@ This coffee tastes terrible...
 I'm totally fine...
 
 // Button
-Mita? The button doesn't work... Co you hear me?
+Mita? The button doesn't work... Can you hear me?
 Hello?

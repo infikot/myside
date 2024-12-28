@@ -90,8 +90,8 @@ Am Griff ziehen
 Das rechte
 Das linke
 
-Nach rechts drehen
-Nach links drehen
+Rechts abbiegen
+Links abbiegen
 Springen
 Tür öffnen
 

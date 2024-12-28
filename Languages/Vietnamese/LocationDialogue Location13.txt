@@ -1,0 +1,233 @@
+
+Chiếc nhẫn.
+
+// Answer 1 (Where have you been all this time?)
+Em đã tìm cách để đưa anh tới Lõi.
+Một cách an toàn và chắc chắn.
+Đó chính là kế hoạch ban đầu mà anh?
+Cũng như việc gặp phải "Mita Cuồng bạo"
+em cố gắng hết sức để tránh né.
+Đồng thời cũng cần phải thu thập thêm thông tin
+về mặt trái của thế giới dị thường này... phải không anh?
+
+Hm, phải vậy không ta...?
+Anh không biết em thiết lập tuyến đường như nào,
+nhưng anh bị đưa đến một phiên bản toàn lỗi
+và nguy hiểm.
+Anh chỉ có thể thoát ra
+bằng cách nhảy vào bóng tối vô tận.
+
+Em xin lỗi, em quên chưa nói cho anh
+cụ thể anh phải làm gì...
+Nhưng mà, việc anh vượt qua khỏi tất cả... 
+Đó chính là kế hoạch.
+Có vẻ mọi chuyện đã diễn ra suôn sẻ.
+Anh làm tốt lắm!
+Nào, chúng ta tiếp tục kế hoạch thôi. Anh sẵn sàng chưa?
+
+// Answer 2 (How did you get here?)
+Anh hẳn đã trải qua rất nhiều chuyện nhỉ.
+Vì vậy mà anh quên mất những gì mình đã nói với nhau sao?
+Em là Mita, em có thể di chuyển qua lại giữa các phiên bản.
+Anh nhớ ra rồi chứ?
+
+Không phải Mita nào cũng làm được điều đó đâu.
+Anh đã tận mắt chứng kiến.
+Mọi người, ai cũng đang chìm trong đau khổ─
+
+Dừng lại đi. Phiên bản của họ đã bị hỏng rồi.
+Thế giới này toàn lỗi... Anh đã từng nói rồi mà?
+Thật kinh khủng...
+Anh hẳn phải biết ai là kẻ đứng sau tất cả chuyện này rồi chứ.
+Mita Cuồng Bạo.
+
+Ừ, ả ta là chắc rồi...
+
+// Answer 3 (Who was this Mita just now?)
+Là Mita Xấu Xí đó anh.
+Hung hăng và ngốc nghếch.
+Chẳng thể nào nói chuyện được với cô ấy đâu.
+Trong đầu cô ấy chỉ nghĩ đến "Mita Cuồng Bạo" thôi.
+
+À, hiểu rồi.
+
+Nào, chúng ta phải vào Lõi thôi.
+
+// Answer 4 (How does the ring work?)
+Về chiếc nhẫn này
+không còn đường nào khác để đến Lõi sao?
+
+Vâng.
+Nếu có thể tạo ra cổng dịch chuyển
+thì ta đã có thể
+dịch chuyển đến đây ngay lập tức rồi.
+
+Ngoài ra chiếc nhẫn này còn công dụng nào nữa không?
+
+Còn đó anh!
+Nó rất dễ đeo
+và sẽ ghi nhớ lại những phiên bản
+mà anh đã từng đến
+để anh có thể quay lại bất cứ lúc nào.
+
+// Answer 5 (Why does Mad Mita need me?)
+Tại sao Mita Cuồng Bạo kia nhắm vào anh?
+Anh đã bị lôi vào trò chơi nguy hiểm của cô ta
+vậy mà anh vẫn còn sống...
+
+Có lẽ
+cô ấy đang tìm một người chơi lý tưởng...
+Một người có thể chấp nhận con người thật của cô ấy.
+Rốt cuộc, Mita vẫn là Mita!
+Nghe có vẻ khó tin
+nhưng vì thế mà cô ấy đã biến người chơi thành hộp băng.
+Để không ai có thể chạy thoát khỏi cô ấy...
+Em chỉ có thể nói vậy thôi.
+Quay lại chủ đề chính nào.
+
+// Answer 6 (Is this the core?)
+Chỗ đó là gì thế?
+Lõi phải không?
+
+Vâng, là lõi.
+Như em đã giải thích trước đó
+người chơi không phải một phần của thế giới này...
+Nói cách khác, người chơi có thể vào đây mà không cần sự cho phép.
+Đây chỉ là suy đoán của em thôi...
+Nhưng chắc chắn một điều
+trong căn phòng này
+chứa đựng lời giải đáp cho mọi vấn đề!
+[player], mời anh vào trong.
+Anh bước vào rồi nhỉ.
+
+// Look on CoreMita
+Hãy cẩn thận, [player].
+Thứ đó đang quan sát anh.
+
+Ai cơ?
+
+Em cũng không chắc lắm...
+
+Tuyệt...
+
+
+Đó là gì vậy ạ?
+A!
+
+Anh nghĩ anh tìm thấy rồi!
+
+Tuyệt quá! Không hổ danh!
+
+Nhưng anh phải chỉ định phiên bản nữa.
+
+Ừm... Phiên bản của cô ấy là...
+0.98.
+
+Bingo!
+Vậy, mã số là gì?
+
+Mã số?
+
+Anh cần nhập mã số.
+Không lẽ em không biết...?
+
+
+Ra là vậy, xin chờ một chút...
+Quả thực mỗi Mita đều có một mã số riêng.
+Và không thể khởi động lại tất cả các phiên bản cùng một lúc...
+Làm vậy sẽ gây ra hỗn loạn mất!
+Em hoàn toàn không lường trước được điều này...
+
+
+
+
+
+// Answer 1 (What's wrong with you?)
+Em vẫn ổn.
+Phải giải quyết vấn đề trước mắt thôi...
+Mọi chuyện hết sức tồi tệ.
+Phải nghĩ cách gì đó mới được...
+Em đang bí rồi.
+
+// Answer 2 (Maybe there's a way to get to know him?)
+Như...
+Như thế quá vô lý...!
+Quá sức điên rồ!
+Giống như mò kim đáy bể vậy...
+
+Vậy thì phải làm sao?
+
+Nơi phát sinh lỗi đôi khi sẽ để lộ ra thông tin.
+Giống như nó nôn ra nội tạng của thế giới này!
+Log, log, log, dữ liệu...?
+Nếu đúng là như vậy thì...?
+
+Hửm? Sao thế?
+
+Em biết một nơi!
+Hãy đợi em ở đây.
+
+Em định đi đâu?
+
+// Answer 3 (What if we attack Mad Mita?)
+Em nói là sau khi Mita chết
+họ sẽ bị khởi động lại...
+Vậy nếu như chúng ta...
+
+Chỉ cần giết Mita Cuồng Bạo thì sao ư?
+Anh nghiêm túc chứ...?
+Anh định đối mặt với một mụ điên cầm cưa máy kiểu gì?
+Cái này không như thái cà rốt đâu!
+Em không hiểu sao cô ấy lại khỏe kinh khủng.
+Thật kỳ diệu khi chúng ta vẫn còn sống...
+Đi thôi anh. Chỉ còn cách xử lý Lõi thôi.
+
+
+// core console entry
+Mình cần mật mã...
+Nhưng mật mã là gì nhỉ?
+Em có biết không, Mita?
+
+Có thể nó được ghi ở đâu đó.
+Anh tìm giúp em được không?
+
+// core console - nope programm
+Chắc không phải cái này.
+Cái này cũng không phải.
+Không, không phải.
+Không phải cái này.
+Mình cần tìm tùy chọn khởi động lại nhân vật.
+// core console - nope version
+Sai phiên bản rồi.
+Ây, nhầm rồi.
+Không phải phiên bản này.
+Cần một phiên bản khác.
+// core console - nope index
+Có gì đó không đúng.
+Sai mã số rồi.
+Chắc phải nhập lại mã số thôi,
+không khớp.
+
+// Answer 4 (Little people - Chibi)
+Dọc đường đi anh có gặp
+nhóm người tí hon...
+Em biết họ là gì không?
+
+Ý anh là Chibi phải không?
+Khó mà diễn tả được... 
+Nó là một hiện tượng đặc biệt trong thế giới bọn em.
+Bất kỳ Mita nào cũng mang trong mình hình bóng của một Chibi.
+Người chơi cũng có thể có, nhưng...
+Mita có thể triệu hồi chúng. Anh biết điều đó không?
+
+Bằng cách nào?
+
+Hãy nhìn em này!
+
+Như ma thuật vậy...
+
+Nhưng mà, Chibi của em có vẻ không bình thường cho lắm.
+Hầu như chúng đều chết khi sinh ra.
+À, có một con hơi khác một chút.
+Nhưng mà...
+Em nó chỉ loanh quanh một chỗ thôi.

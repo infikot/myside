@@ -1,0 +1,233 @@
+
+Pieścień.
+
+// Answer 1 (Gdzie się podziewałaś?)
+Próbowałam dostać się do rdzenia.
+Oczywiście w jednym kawałku.
+O to chodziło od początku, prawda?
+Dlatego musiałam też unikać
+Szalonej Mity.
+Szukałam też informacji
+o zapleczu tego cholernego wszechświata.
+
+Tak właściwie...
+Jak ty ustawiłaś te drogę na pierścieniu?
+Dlaczego skończyłem w zepsutej wersji
+pełnej niebezpieczeństw?
+Ledwo udało mi się uciec
+Skacząc przez okno w nieskończony mrok.
+
+Przepraszam, zapomniałam ci wytłumaczyć
+co musisz zrobić aby uciec...
+Ale tak, taki był plan
+od początku wystarczyło skoczyć...
+I cóż... udało ci się!
+Dobra robota!
+W porządku, trzymajmy się planu.
+
+// Answer 2 (Jak się tu dostałaś?)
+Musiałeś chyba sporo przejść,
+skoro zapomniałeś o czym mówiłam.
+Jestem Mita. Mogę podróżować między wersjami
+kiedy zapragnę, pamiętasz?
+
+Nie każda Mita to potrafi,
+Widziałem kilka.
+Strasznie przez to cierpiały.
+
+Niestety, ich wersje są zepsute
+a światy pełne błędów...
+Cholera...
+Wiesz kto za tym wszystkim stoi, prawda?
+Szalona Mita.
+
+Powiedz mi coś, czego nie wiem...
+
+// Answer 3 (Kim była Mita sprzed chwili?)
+To brzydka Mita.
+Agresywna i głupia.
+Nie da sie jej przemówić do rozsądku,
+jej cały świat to Szalona Mita.
+
+Ta... Zauważyłem.
+
+Dawaj, musimy dostać się do rdzenia.
+
+// Answer 4 (Jak działa pieścień?)
+Ten pierścień...
+to jedyna droga do rdzenia?
+
+Owszem.
+Oczywiście, gdybyśmy mieli portal
+mogli byśmy cie tam teleportować
+ale cóż, dobre i to.
+
+Jakie są zalety pieścienia?
+
+Jest ich wiele!
+Łatwo się go nosi,
+I zapamiętuje wersje
+które odwiedziłeś,
+więc możesz łatwo znaleźć do nich drogę.
+
+// Answer 5 (Do czego Szalona Mita mnie potrzebuje?)
+Dlaczego Szalona Mita nie da mi spokoju?
+Wciągnęła mnie w swoją niebezpieczną gierkę,
+jednak wciąż żyje...
+
+Ciężko powiedzieć...
+Możliwe że szuka odpowiedniego gracza...
+Takiego który ją zaakceptuje i pokocha.
+Mimo wszystko, Mita to Mita!
+Z racji że oczywiście to się nie stanie,
+zmienia graczy w kasety,
+aby nikt nie mógł jej już uciec...
+Przynajmniej tak zgaduję.
+Wracając, skupmy się na tym co ważne.
+
+// Answer 6 (Czy to rdzeń?)
+To jest to?
+Cel naszej podróży?
+
+Zaiste. Rdzeń.
+Spróbuję wytłumaczyć.
+Wy, gracze nie jesteście z tego świata...
+Co znaczy, że nie potrzebujecie pozwolenia aby tam wejść.
+Cóż, przynajmniej tak mi się wydaje.
+Wracając, jestem pewna
+że rozwiązanie naszych wszystkich problemów
+znajduje się w środku!
+[player], wejdź.
+Tak właściwie, byłam tam kiedyś.
+
+// Look on CoreMita
+Ostrożnie, [player].
+To cie obserwuje.
+
+To?
+
+Nie mam pojęcia co to...
+
+Fajne...
+
+
+A cóż to?
+Hej!
+
+Chyba znalazłem!
+
+Wspaniale! Dobra robota!
+
+Jednak muszę wyszczególnić wersję gry.
+
+Jasne... Jej wersja to
+0.98.
+
+Bingo!
+Okej, która wersja domu?
+
+Wersja domu?
+
+Potrzebuję wersję domu.
+Czekaj, nie gadaj że nie wiesz...?
+
+
+Hmm, to ma sens...
+Każda Mita ma własną wersję domu,
+aby przypadkiem nie zresetować całej wersji gry...
+To by spowodowało chaos!
+Nie mogę uwierzyć że o tym zapomniałam...
+
+
+
+
+
+// Answer 1 (Co jest z tobą nie tak?)
+Panaceum na nasze problemy,
+Jest dobrze.
+Choć tak wiele się zmieniło...
+Muszę pomyśleć...
+Daj mi chwilę.
+
+// Answer 2 (Może jest jakiś sposób aby go poznać?)
+Ja...
+Myślę że... To obłęd!
+Totalne szaleństwo!
+To jak szukanie igły w stogu...
+
+Co ty wyprawiasz?
+
+Niektóre przeszkody aż eksplodują informacjami,
+wiesz, tak jakby światu wyrywał ktoś flaki!
+Dzienniki i dane.
+A co jeśli to koniec?
+
+Hm? Co się stało?
+
+Znam pewne miejsce!
+Zaczekaj tu.
+
+Gdzie idziesz?
+
+// Answer 3 (A co gdyby zaatakować szaloną Mitę?)
+Wspominałaś, że każda Mita
+Powraca do ustawień fabrycznych po śmierci...
+A gdyby tak...
+
+Zabić szaloną Mite?
+Mówisz poważnie?
+Jak chcesz sobie poradzić z psychopatką dzierżącą piłę łańcuchową?
+Ona kroi marchewki nie tylko nożem!
+I z jakiegoś powodu jest przerażająco silna!
+To cud, że jeszcze żyjemy...
+No dalej, musimy dostać się do rdzenia.
+
+
+// core console entry
+Musimy wprowadzić komendę...
+Ale jaką?
+Mita wiesz coś o tym?
+
+Może jest gdzieś napisane?
+Rozejrzyj sie.
+
+// core console - nope programm
+To chyba nie to.
+Ani to.
+Pudło.
+Nie, to nie to.
+Muszę znaleźc okienko resetu postaci.
+// core console - nope version
+To błędna wersja.
+Oj, mój błąd.
+To nie to.
+Będe potrzebować kolejnej.
+// core console - nope index
+Coś jest nie tak
+z wersją świata.
+muszę zmienić wersję świata,
+nie mieści się.
+
+// Answer 4 (Little people - Chibi)
+Po drodze spotkałem wielu
+mini ludzików...
+Kim oni są?
+
+Słodziaki?
+Jakby ci to wytłumaczyć...
+To takie zjawisko...
+Każda Mita ma swoją malutką wersje,
+gracze też je mają...
+Wiesz, że możemy je przyzwać?
+
+Co? Jak?
+
+Patrz na to!
+
+Prawie jak magia...
+
+Ale coś jest nie tak z moimi słodziakami,
+są w większości martwe.
+Jest niby ten jeden...
+ale cóż,
+biega tylko w kółko bez celu.

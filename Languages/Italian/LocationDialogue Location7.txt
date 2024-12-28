@@ -1,0 +1,837 @@
+
+Ce l'hai fatta!
+
+Che posto è questo?
+
+Mostrami l'anello.
+Sì...
+Ecco fatto!
+È ora di chiarire alcune cose, non credi?
+// If the player did not approach the good Mitya and decided to play a race - Mita Kind
+Sono stata qui ad aspettarti per tutto il tempo
+e tu invece giochi a un gioco di corse?!
+Comunque, vieni qui...
+// If the player talked to Mita first, and went through the game to the end - Mita Kind
+Congratulazioni, hai vinto!
+Ci ho giocato anch'io!
+Ho anche cercato di raccogliere tutte le monete e di ottenere il 1° posto
+per ottenere il risultato!
+E caspita, è stato davvero difficile!
+Mi ci è voluta una vita per abituarmi ai comandi.
+
+// Quest 1 (Should I trust you?)
+Beh, almeno io sono sana di mente...
+a differenza di altri...
+E poi,
+sono la persona più gentile che troverai da queste parti, tesoro.
+Non vorrai mica arrenderti, vero?
+È un'assassina a sangue freddo. Dobbiamo fermarla.
+
+// Quest 2 (How did I get here?)
+L'anello ti ha portato qui.
+È una grande invenzione.
+Solo il giocatore che lo possiede
+può trovare la strada per la versione corretta.
+
+// Quest 3 (What is this place?)
+Questi passaggi
+collegano le diverse versioni.
+Sì, qui è un po' vuoto.
+E caspita! Ho sentito parlare di una Mita
+che non riusciva ad archiviare la sua versione...
+La sua casa
+ha semplicemente cessato di esistere...
+E si suppone che si aggiri per
+questi passaggi.
+Poverina...
+
+// Quest 4 (How did you end up here?)
+Lo sai,
+è passato un po' di tempo dall'ultima volta che ci siamo incontrati.
+E grazie a te,
+sono uscita da quella dannata gabbia,
+e sono scappata da quella pazza.
+E per tua informazione,
+posso passare facilmente da una versione all'altra,
+a differenza di te, mia caro.
+
+// Quest 5 (What did you do with the ring?)
+Ho cambiato il percorso
+con quello che ci serve.
+Ho preparato il percorso più breve possibile,
+riempiendolo con tutto ciò che ci serve...
+Funziona così: si apre una porta,
+e l'anello apre il confine
+tra le versioni.
+
+// Quest 6 (Are the passages dangerous?)
+Ho visto ogni sorta di cose strane
+da quando sono arrivata
+nel suo gioco...
+Qui tutto sembra tranquillo,
+ma i passaggi sembrano...
+tutt'altro che sicuri.
+
+Hai ragione, e questo posto sta diventando
+sempre più imprevedibile.
+Ma su con la vita!
+Abbiamo pensato a tutto,
+e prenderemo la strada più breve
+e più battuta!
+
+Spero proprio che tutto vada bene.
+Ma cosa c'è in questi passaggi?
+
+Beh,
+difetti, bug, anomalie.
+Quelli vivi.
+Anche pericolosi, che potrebbero attaccarti a vista...
+
+Ehm...
+E forse altre Mita ostili.
+Altre pazze, non adatte?
+
+Ne conosco almeno una...
+La Mita brutta.
+E tanto perché tu lo sappia, non sono stata io a darle il nome!
+È solo che...
+è una versione molto precoce di Mita.
+Il problema di questa versione di Mita
+è che provoca i peggiori inconvenienti...
+E sono preoccupata che potremmo incontrarla.
+È la più vicina alla versione zero, dopo tutto...
+
+// Quest 7 (Will you help me get out?)
+Non ho un piano vero e proprio...
+Ma in ogni caso,
+sei riuscito ad arrivare qui, vero?
+E poi,
+che altro puoi fare
+se non affidarti a me, la gentile Mita!
+Non è vero che...
+
+// Quest 8 (You were talking about some kind of plan...)
+Quindi, dobbiamo raggiungere il Nucleo.
+La mia intuizione mi dice che è lì che troveremo
+la soluzione a tutti i nostri problemi.
+
+Ma perché non andarci da sola? Perché hai bisogno di un giocatore?
+
+Per qualche motivo, noi non possiamo
+entrare nella Sala del Nucleo.
+Io l'ho visto solo dall'esterno.
+Ma voi giocatori siete diversi.
+Sono sicura che
+che possiate entrare.
+Vuoi discutere il piano?
+Si', certo.
+Bene...
+Bene...
+È giunto il momento di presentarti
+a Cool Mita!
+Visto che ha un berretto figo,
+la chiamo semplicemente
+Cappie.
+Con lei ho discusso il piano,
+il piano per fermare Crazy Mita.
+Questo è [player]!
+
+
+Saluti!
+Sei il mio... nuovo giocatore?
+Come devo chiamarti?
+Il nome è...
+
+Un attimo!
+Tu...
+...non ti ricordi di me?
+
+Eh?
+Chi diavolo sei?
+
+Che sia maledetto tutto!
+[player]...
+Credo che lei sia stata qui,
+Crazy Mita...
+Ascolta!
+Cerca di ricordare, per il bene di tutti noi!
+
+Ricordare cosa?
+Pensa. Penso che ci assomigliamo?
+
+Questo non sembra essere d'aiuto...
+Ascolta, [player],
+le cose non stanno esattamente
+ andando secondo i piani...!
+Dovevamo usare il portale
+per rendere il nostro viaggio un milione di volte più facile e veloce.
+Ma non riusciremo a farlo funzionare senza l'aiuto di Cappie.
+E ci mancano alcuni pezzi...
+Sarà anche puntigliosa, ma la sua mente lavora velocemente...
+Bene, allora cosa facciamo?
+Mi inventerò qualcosa.
+Cosa le ha fatto Crazy Mita?
+
+Io... credo...
+l'abbia uccisa.
+L'ha uccisa?!
+
+Ed essendo morta...
+Cool Mita si riavvia semplicemente.
+Ripristinando le impostazioni di fabbrica
+e dimenticando tutto ciò che è importante.
+Il che significa...
+che il nostro piano non funzionerà.
+
+È una cosa orribile...
+Meglio che scomparire per sempre, credo...
+Ma chi può dirlo con certezza?
+E che ne sarà di noi giocatori?
+Ucciderci azzererà anche i nostri ricordi?
+
+I ricordi possono essere resettati, di sicuro.
+Almeno dopo essere stati trasformati in una cartuccia.
+Ma nemmeno io so
+cosa succede a quelli di voi che vengono uccisi.
+
+Sempre cartucce... Allora, come faccio a capire
+se sono una cartuccia o no?
+
+Vieni qui, ti controllo
+ti controllo...
+// MitaKind check
+Fiuuuuuuu,
+non sei ancora una cartuccia.
+Sei un giocatore vivo e vegeto.
+
+È una buona notizia...
+
+Certo, ma ora cosa facciamo...
+Fammi pensare...
+Dobbiamo cambiare tutto il nostro piano.
+Hmm...
+Aspetta un attimo...
+Sì, credo di avere un'idea!
+Dammi l'anello!
+
+Si'...
+Devo cambiare il percorso.
+
+Hai in mente un percorso?
+
+Ascolta, tesoro,
+dovrai attraversare altre versioni
+per raggiungere il Nucleo.
+A tutta velocità, capito?
+
+E devo andare da solo?
+Ma non conosco la strada, e nemmeno come arrivarci
+
+Ti aiuterò per quanto possibile,
+per quanto la situazione lo consenta.
+Ti darò indicazioni e..,
+farò del mio meglio.
+E poi parleremo...
+Prima gioca un po' con Cappie.
+Mi servono forse 10 minuti...
+
+// MitaKind ready, if player near
+OK.
+Tutto fatto!
+// MitaKind ready
+[player],
+Vieni qui.
+// MitaKind ring
+Prendi questo.
+Purtroppo è vero, [player].
+Per ora dovrai andare da solo,
+Devo capire che sta succedendo qui.
+Il mio piano era impeccabile...
+Ma siamo messi peggio che mai.
+Devo capire cosa è andato storto,
+e dove sono i pezzi...
+Cercherò di trovarli.
+Forse possiamo ancora mettere insieme il portale.
+Ma il tempo è fondamentale.
+Crazy Mita sa di questo posto,
+e restare qui significa rischiare tutto.
+Buona fortuna, [player]! Ci vediamo presto!
+
+Ecco...
+Spero solo di vivere abbastanza a lungo per incontrarti di nuovo...
+
+
+
+
+
+
+
+
+
+
+// Chibi players
+Perché?
+Chi sono io?
+Voglio tornare a casa!
+Come?
+Perché?
+
+Ma che...?
+
+// LimpingPerson
+Sei una...
+una persona vera?
+
+Ciao!
+Sei nuovo qui?
+Nuovo?
+Vieni dal mondo reale, vero?
+
+Io sono...
+Uhm, stai bene?
+
+È una sciocchezza, non preoccuparti.
+Sono qui da circa un anno,
+e sto benissimo.
+Bene... Beh, cos'è questo posto?
+È una specie di spazio tra le versioni.
+Sai come uscire da qui?
+
+Non posso dire di saperlo.
+Inoltre, non voglio andarmene.
+Non ne ho bisogno.
+Perché no?
+Basta chiacchiere. Ho fretta.
+La mia amata Mita mi sta aspettando.
+Devo trovarla...
+Arrivederci.
+Aspetta...!
+Sparisci!
+
+
+Ho sentito tutto!
+Non so cosa stia succedendo,
+ma è tutto così interessante!
+Credo che
+che tu sappia già chi sono, vero?
+Sono Mita!
+Ma ovviamente non sono la stessa di quell'altra!
+Sai cosa intendo, vero?
+Perché ho questo
+QUI
+figo!
+E BOOOM!
+Guanti fantastici!
+Ma non è tutto!
+Anche una chitarra elettrica carinissima!
+Mi piace così taaaaaaaaaaaaaaanto!
+Vuoi che ti suoni una canzone?
+
+// MitaCap Guitar Yes
+Hah!
+Vieni qui, mio caro...
+Va bene!
+Beh, sinceramente spero che suoni meglio di così.
+Oh, bene!
+// MitaCap Guitar No
+Va bene.
+
+
+Ehi,
+sei proprio una tipa energica!
+
+LO SONO!
+Certo che lo sono!
+Comunque...
+Andiamo
+a divertirci!
+
+// GAME HUMMER
+
+Che bel pulsante grande.
+Voglio premerlo.
+Posso?
+
+Contieniti, ci arriveremo.
+Se c'è abbastanza tempo, ovviamente.
+Ora, siediti!
+// Player sit
+Giusto.
+E adesso?
+Posso premere il pulsante?
+
+Ha-ha!
+Adoro questo gioco!
+Ma manca qualcosa.
+È da qualche parte nel mio inventario!
+Solo un secondo...
+Errr!
+Beh...
+Lo sai...
+che questo è un gioco per adulti, no?
+
+Che cos'era?
+
+Sei piuttosto lento a capire, eh?
+E' per attirare i castori fuori dal loro nascondiglio...
+
+Sul serio?
+Non ho visto nessun castoro qui intorno...
+
+Eh? Castori?
+Gah, basta così,
+giochiamo, ok?!
+
+Nah.
+
+Ma dai!
+Sai almeno a che gioco stiamo giocando?
+
+
+// How play hammer game
+Vedi i numeri?
+È il timer!
+Quando il tempo scade,
+ti dirà
+quando premere il pulsante.
+Se sei troppo lento,
+o lo premi a sproposito,
+ti colpirò in testa con un martello!
+
+Aspetta, vuoi colpirmi?
+
+Comunque,
+capirai quando inizieremo a giocare!
+
+// Kick player 1
+Ahi!
+Non riesci a trattenerti?
+Ti ha fatto male?
+No. Allora continuiamo!
+Allora continuiamo!
+
+// Kick player 2
+Ok..,
+Mi sto abituando.
+Guarda me!
+Ti piacerà!
+
+// Kick player 3
+Non credo che questo faccia per me.
+Ha-ha!
+Sono fantastica!
+Sono epica!
+E sono carina!
+
+// Kick MitaCap 1
+Oh, tu!
+Ok,
+ti prendo a calci in culo!
+
+// Kick MitaCap 2
+Gah, ho perso di nuovo!
+Non fa male?
+Certo che no! È un peluche!
+Hai vinto.
+
+// Kick MitaCap 3
+Questo gioco non è male, heh.
+È divertente, no?
+Piace anche a me!
+E ora sei la mia nemesi!
+
+// GameHammer End
+Tutto qui?
+Sì, è tutto!
+Andiamo.
+
+
+
+
+
+
+
+// GAME DANCE
+È una pista da ballo?
+È così piccola...
+
+
+Whoo-hoo!
+Vogliamo ballare?
+Per cominciare,
+scegli un brano!
+
+Scegliamo questo.
+
+Okeydokey!
+Prima io!
+Ti faccio vedere come si fa!
+
+// MitaCap StopDance 1
+Phew!
+Allora,
+pensi di poter battere il mio record?
+Forza, è il tuo turno!
+
+// MitaCap StopDance 2
+Ah!
+Che ne dici?
+È il tuo turno!
+
+// MitaCap StopDance 3
+Tsk, tsk, tsk, tsk!
+Ok,
+in pista!
+
+// MitaCap = Lose 1
+Ha-ha!
+Chi è il capo?
+
+// MitaCap = Lose 2
+Pew!
+Tre bottoni,
+e le mie mani veloci!
+
+// MitaCap = Lose 3
+Forse stando seduti con il culo
+su quei pulsanti
+ti farà ottenere un punteggio più alto. Ha-ha!
+
+// MitaCap = Win 1
+Fantastico!
+Onestamente, non pensavo che
+che ce l'avresti fatta!
+
+// MitaCap = Win 2
+Wow!
+Queste sono delle mosse fantastiche!
+Ottimo lavoro! Bello!
+
+// MitaCap = Win 3
+Bam!
+Si sente il ritmo!
+Un ballerino nato!
+
+// MitaCap = Draw 1
+Tu!
+Io!
+Noi siamo la squadra!
+
+// MitaCap = Draw 2
+I fili del destino ci legano!
+Un duetto perfetto!
+
+// MitaCap = Draw 3
+Solo
+un solo errore!
+E avresti perso...
+
+// MitaCap Next? 1
+Quindi,
+che ne dici di un altro giro?
+
+// MitaCap Next? 2
+Bene, un'ultima.
+Che ne dici di un ballo?
+
+// MitaCap Endgame
+Forza, forza!
+Abbiamo ballato abbastanza!
+
+// Just talk
+// Photo
+Queste foto sono davvero fantastiche.
+Ti piace proprio ridere, eh?
+
+Sì, sono quello che sono!
+Gli ho fatto vedere come si fa in questo buco di merda! Boom!
+
+Mostrare a chi, esattamente?
+
+Davvero, me lo stai chiedendo?
+Chi se ne frega! Scommetto che sono tutti ciechi!
+
+// CutBoard
+Wow,
+Ce ne sono, um... così tanti.
+Per cosa?
+
+Secondo te?
+Si tratta di fare cose incredibili!
+Come...
+Tagliare le carote,
+e come
+tagliare le carote,
+e tipo...
+
+Giusto, ho capito.
+
+Ok, per essere onesti,
+il tagliere ha fatto ka-cha-cha! Qualunque cosa significhi...
+E questo è tutto ciò che ha scritto!
+
+// Books
+Li rileggi tutti, eh?
+Perché ti annoi?
+
+Non mi piacciono i libri!
+Mi piace fare le cose!
+
+Questo è un modo di vedere le cose.
+Ma senza teoria...
+
+Boom: movimento, abilità motorie, tatto, capisci?
+I libri sono solo carta, a me piace vivere il momento!
+Se solo tu restassi qui con me..,
+potremmo fare tanto, tantissimo!
+Sono sicura che potremmo...
+
+// Fruits
+Ma la frutta è vera?
+Hanno un aspetto fantastico.
+Vanno mai a male?
+
+Le mele, intendi?
+Non hanno il tempo di andare a male,
+perché le mangio tutte!
+E poi riappaiono...
+
+// Photo and cat
+Che bel gattino.
+
+È gustosa?
+
+Aspetta, cosa?
+Non si mangiano i gatti.
+
+Gah, stupido!
+Lo so!
+Volevo solo dire
+che non ne ho mai visto uno!
+Uno vero, cioè.
+Solo foto su Internet.
+Sono carini, vero?
+
+Sì, sono molto carini.
+Mi piacciono i gatti.
+
+// Mita Kind with ring
+Che cos'è?
+
+È l'interfaccia dell'anello,
+e sto cambiando il percorso.
+
+Ma stai solo girando in tondo?
+
+Sì, potresti pensarlo.
+Per me, invece, sto trasferendo dati.
+
+Ci vorrà molto?
+
+Silenzio! Non mi disturbare
+e sarà molto più veloce.
+
+Giusto,
+quindi se continuo a interromperti,
+ci vorrà più tempo?
+
+Oh, Cappie,
+Vorrei che potessimo recuperare i tuoi ricordi...
+
+Presto andrà tutto bene...
+
+Meraviglioso!
+
+Non abbiamo tempo da perdere.
+Dobbiamo raggiungere il Nucleo.
+
+Posso venire con te?
+
+Beh, non so...
+
+Quindi non posso?
+
+Temo di no.
+
+// PlayerChibi
+Sono in ritardo... super in ritardo!
+E ho mangiato troppo...
+Gah, ancora lavoro?
+Qual è l'appuntamento di domani?
+Dov'è il computer?
+Mi cacceranno se non finisco in tempo!
+Ho salvato tutto?
+Nessuno mi ama?
+Dove stiamo andando?
+Ehi!
+Sto finendo la pazienza...
+Devo lavorare di più...
+Non riesco a fare nulla!
+Dov'è il mio telefono?
+Uhm...
+cosa è successo ieri?
+Oggi non c'è fine!
+Pronto?
+Hai un letto libero?
+Cosa dovrei fare?
+Non riuscirò a finire in tempo...
+Non riesco a capire quale sia il problema...
+Qualche parete?
+Un riposo di 20 minuti dovrebbe andare bene...
+Dormire è da perdenti!
+È ora di lavarsi e mettersi al lavoro!
+Ho fame!
+Questo è male, molto male.
+
+// Player is gone 1
+Ehm...
+
+Ahahaha.
+
+Si'...
+Ha capito,
+e se n'è andato.
+
+Che strano!
+E divertente :D
+
+Oh, andiamo.
+[player], cosa stai facendo?
+
+// Player is gone 2
+Cosa c'è?
+
+Te ne vai di nuovo?
+
+Va bene, va bene, va bene.
+Bene, ti perdono.
+
+[player], torna da noi!
+
+// Don't pay attention
+Non mi ha nemmeno guardata!
+Noioso...
+
+// quest Cap 1
+Qual è il tuo piano?
+
+Il mio piano?
+Quale piano?
+
+Oh, giusto.
+Hai perso la memoria.
+
+Siete davvero notevoli, ragazzi!
+Dovrei davvero ricordare qualcosa!
+Mi stai prendendo in giro?
+Ma guardando la tua espressione...
+Non riesco a capirlo!
+
+// quest Cap 2
+Che effetto fa vedere una
+ copia esatta di te stessa?
+Sai, quella con l'anello.
+
+Si, stavo per urlarle contro.
+Sai, per farle una sorpresa.
+Santo cielo! Guarda, è un clone di me!
+Anche se io sono molto più divertente.
+Quindi sono più figa, heh :)
+Guarda che espressione accigliata...
+
+Sono proprio qui.
+Posso sentire tutto quello che dici.
+
+// quest Cap 3
+Non ti stanca indossare quel berretto?
+E quei guanti non ti scaldano?
+Perché non li togli?
+
+Ehm...
+Sei proprio un burlone!
+O dovrei togliermi qualcos'altro? :)
+
+Ero serio.
+Oh, ok.
+
+// Carrot
+Ops.
+Sono una tonnellata di carote!
+Che strano bug!
+Ha-ha-ha!
+
+// DoorExit
+Aspetta, aspetta!
+È meglio che non vedi cosa c'è lì dentro...
+E' un segreto :).
+
+Cosa c'è lì dentro?
+
+Un segreto è un segreto,
+e i segreti sono fatti per essere mantenuti.
+
+Ah-ah.
+Perché ti stai agitando?
+
+// Tetris
+Wow!
+Che cos'è?
+Una console!?
+Fammi provare!
+
+Oh-oh.
+
+Cosa si fa in questa?
+
+Si raccolgono solo monete,
+ed evitare le rane.
+
+Gah, sembra davvero noioso.
+Sul serio, lo chiamate gioco?
+
+// Tetris again
+Dove l'hai preso?
+Non è che te l'ho restituito.
+Strano, non credi?
+
+// TV
+Ugh!
+Bravo,
+hai trovato un bug!
+Questo dovrebbe far partire il video
+ma invece fa apparire e scomparire 
+la TV
+Piuttosto bello, non credi?
+
+// Player sit
+Penso che aspetterò.
+
+Che cosa stai combinando?
+Sveglia!
+Andiamo a divertirci!)
+
+// Goodbye 1
+Esci da quella porta
+per l'auditorium.
+
+Ciao ciao!
+
+// Goodbye 2
+È ora che tu vada, [player]!
+Vai, non aver paura!
+
+Non ti lascerei mai
+da solo!
+Quindi resta con me!
+
+Cappie!
+Non scherzare, ok?
+
+Bah!
+
+// Goodbye 3
+Perché te ne stai lì impalato?
+Non abbiamo più tempo!
+
+Ciao!
+Ehm, volevo dire ciao ciao!

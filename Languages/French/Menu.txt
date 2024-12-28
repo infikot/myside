@@ -48,7 +48,7 @@ Style des ombres
 Vêtements
 Interface
 Modèles 3D (2%)
-Vidéo du jeu
+Volume des voix
 Pause
 Menu
 Félicitation ! Vous avez terminé le jeu !
@@ -65,7 +65,7 @@ Mita
 Recommencer depuis le début
 Êtes-vous sûr de vouloir supprimer complétement toute votre progression et recommencer depuis le début ?
 Compilation des shaders, cela va prendre 2 heures, veuillez patienter.
-Mais quelle compilation ? On a déjà fait ça pour vous !
+Mais quelle compilation ? On s'en est déjà occupé pour vous !
 Création d'ombres réalistes, cela va durer 10 minutes.
 Je plaisante, pas de graphismes comme ça ici.
 Hmm...
@@ -89,8 +89,8 @@ Petite Mita
 Mita Endormie
 Mita 2D
 Mila
-Mita Effrayante
-Mita du Noyau Central
+Mita Laide
+Mita du Cœur
 Mita Fantôme
 Chibi Mita
 Mannequin Mita
@@ -111,12 +111,12 @@ Roman
 Lire des livres, détruire des glitches
 Cours et cache-toi !
 Ancienne version
-Le monde réel ?
+Parlons peu, parlons bien
 Redémarrage
-
-
-
-
+Cappie
+Mita Fantôme
+Le monde réel ?
+À contre-Cœur !
 Joueur 1
 Joueur 2
 Joueur 3
@@ -143,3 +143,23 @@ Traduction du jeu dans une autre langue.
 Marketing
 Testeurs
 Ont joué et fait remonter les problèmes.
+Cette traduction a été réalisée par des membres passionnés de la communauté et fut ajoutée au jeu à leur demande.
+Le jeu contient des screamers accompagnés de sons forts et d'effets visuels clignotants. Certains passages du jeu peuvent présenter un danger pour les personnes atteintes de problèmes cardiaques, ou ceux souffrant d'épilepsie. Merci d'être vigilant.
+Le Mode Pacifique est désormais disponible !
+
+Mode Photo
+Mode Photo : Caméra libre disponible, vous permettant de regarder là où vous ne le pouviez pas.
+Quitter le Mode Photo
+Masquer l'interface
+Maintenir pour déplacer la caméra
+Vitesse de déplacement accélérée
+Mouvements adoucis
+Vitesse
+Effets
+Vitesse du jeu
+Luminosité
+Contraste
+Vignettage
+Prendre un cliché !
+Ouvrir le dossier des captures d'écran
+Rotation de la caméra

@@ -367,12 +367,12 @@ Der ist sicher irgendwo in meinem Inventar!
 Warte kurz.
 Ah!
 Nun…
-Du kennst doch dieses eine…
-Spiel ab 18, oder?
+Dir ist schon klar, dass dieses Spiel…
+Ab 18 ist?
 
-Wie bitte?
+Was war das?
 
-Kapierst du es nicht?
+Ein wenig schwer von Begriff, was?
 Es dient dazu, Mäuse aus ihren Löchern herauszulocken…
 
 Im Ernst?
@@ -382,9 +382,9 @@ Hä? Mäuse?
 Können wir das einfach ignorieren
 und zu spielen beginnen?
 
-Nö.
+Hmm, nö.
 
-So!
+Ist auch egal!
 Weißt du überhaupt, was das für ein Spiel ist?
 
 
@@ -567,7 +567,7 @@ und dann…
 Verstanden, verstanden.
 
 Okay, um ehrlich zu sein…
-Das Schneidebrett war völlig gaga! Was auch immer das schon wieder heißt…
+Das Schneidebrett war völlig gaga! Was auch immer das heißen mag…
 Und mittlerweile gibt es eine ganze Menge davon!
 
 // Books

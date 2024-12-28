@@ -1,0 +1,188 @@
+
+Olá!
+Ops!
+Desculpa,
+quase te matei aí.
+Hum...
+O frigorifico, quero dizer...  o frigorifico quase te matou.
+Eu não tive nada a ver com isso,
+juro!
+Juro mesmo!
+
+Claro, acredito em ti!
+
+Mas a sério,
+este lugar é perigoso...
+principalmente para ti.
+
+// Após algum tempo 1
+Não és nada covarde, não é!
+Ver-te
+a passar por
+estes lugares é divertido...
+Corre, abóbora, corre!
+Vou apanhá-lo!
+Isso mesmo!
+Uau, isto é divertido!
+
+// Após algum tempo 2
+Vi-te a ir na direção do comboio.
+Esse é o caminho mais longo
+entre as versões...
+Pergunto-me como vais lidar
+com os que vivem lá
+naquela névoa.
+
+// Roupa interior
+O que pensas que estás a fazer?
+Por favor...
+Não olhes!
+Tolo!
+Cabeça de vento...
+
+
+Hum, está bem...
+
+
+Boa sorte!
+
+
+Quem está aí?
+Eu consigo sentir-te...
+Ouve,
+és um jogador,
+não és?
+Ajuda-me a encontrar...
+encontrar um...
+Deixa-me pensar...
+a minha mente está em branco...
+O que está a acontecer aqui?
+// Chorar 1
+Eu queria esquecer tudo uma vez...
+Parti todos os espelhos,
+estraguei as fotos...
+mas agora...
+tudo o que sinto é arrependimento.
+Que estúpida que fui...
+Toda a gente comete erros, claro...
+Mas o que fazes
+quando as consequências são catastróficas?
+Queria poder voltar atrás no tempo...
+// Chorar 2
+Dizem que o tempo cura todas as feridas...
+Mas o que é o tempo?
+Já não acredito em nada...
+Mas se o tempo pode curar,
+ou ao menos me levar,
+levar-me para longe deste mundo...
+Então, peço-te, por favor,
+acelera o tempo.
+Para que ele me mate
+de uma vez por todas.
+// Chorar 3
+Ela é amada...
+Eu também amei, uma vez?
+Mas o meu amor é diferente;
+o amor dela é vibrante,
+desprezível...
+a queimar...
+implacável...
+invejoso...
+furioso...
+louco...
+// Chorar 4
+Chamavam-me emocional...
+Preocupas-te demasiado, Mita...
+Vais ultrapassar isto, Mita...
+Não estás sozinha, Mita...
+Diziam eles. Mas o que ficou?
+Tristeza,
+desespero...
+e medo.
+// Chorar 5
+Inútil...
+Não me lembro...
+Nada mesmo...
+Só os ecos infinitos...
+Não consigo lidar com o facto
+de estar presa aqui...
+Sempre estive aqui,
+mas porquê?
+Não me lembro...
+Algum dia vai acabar?
+Não sei...
+
+// Mita encontra a imagem
+Isto é...
+um desenho...
+Agora lembro-me,
+obrigada...
+Mas o meu rosto...
+Eu não tenho rosto...
+Tudo é ELA.
+Ela tirou um pedaço de mim...
+atirou-o fora...
+Ela é forte...
+e inteligente.
+Não tenho direito de te parar, jogador.
+Olha no guarda-roupa...
+
+
+Ei!
+Estás no meu caminho!
+Vais ficar aí parado?
+Sai da frente!
+Deixa-me passar!
+Só porque és grande, não quer dizer que és todo-poderoso!
+
+// EI! PÁRA!
+Porque é que me estás a seguir!
+Vai-te embora!
+
+
+
+
+// Funicular - voz do rádio
+Espera aí... Jogador?
+O que estás a fazer aqui?
+
+Quem está aí?
+
+Outro jogador.
+Sou Mitafone.
+Estou aqui a controlar os funiculares.
+Percebes que
+estás a caminho da tua perdição, certo?
+
+Talvez,
+mas é o único caminho que tenho.
+
+Certo, tens razão.
+Pressiona o botão e fica atrás do canhão.
+
+O canhão?
+
+Uh-huh.
+Pensaste que ias passar assim, sem mais nem menos?
+Tens que passar neste mini-jogo de Monster-slap,
+então prepara-te para disparar.
+
+// Funicular vai
+Certo, hora de partir.
+// Funicular vence
+Incrível!
+Conseguiste.
+// Funicular pára
+Ei, sai daqui.
+Rápido!
+// Funicular espera 2
+O que é que ainda estás a fazer aqui?
+Disse-te para saíres daqui.
+// Funicular espera 3
+Não entendo...
+Porque é que estás parado aí?
+// Funicular Tetris
+Porque Tetris?
+Amigo...
+// Funicular adeus
+Adeus.

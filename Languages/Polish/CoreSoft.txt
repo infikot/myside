@@ -1,0 +1,58 @@
+Startowanie Aplikacji
+
+Podaj login
+Nieprawidłowy login
+Programy
+Wróć
+
+Zarządzanie Urządzeniami Mobilnymi
+Księgowanie Serwera [Wybierz Wersję]
+Monitorowanie Procesów Głównych [Wybierz Wersję]
+Monitorowanie procesów Graficznych [Wybierz Wersję]
+Czworokąt
+Koniec Gry
+
+
+Zaawansowany System Zarządzania
+Reset Postaci [Wybierz Wersję]
+Reset Urządzenia [Wybierz Wersję]
+Aktualizacja Wersji [Wybierz Wersję]
+Przeliczanie Geometrii [Ustawienia Ogólne]
+
+
+
+
+Reset systemu
+Rozwiązywanie problemów [Ustawienia Ogólne]
+Anty-wirus [Ustawienia Ogólne]
+Konsola komend [Ustawienia Ogólne]
+
+
+
+
+Funkcje Zaawansowane
+Usuń Obiekt [Wybierz Wersję]
+Wyświetlanie Obrazu [Wybierz Wersję]
+Wyświetlanie Triggerów [Wybierz Wersję]
+Opcje Silnika Fizycznego [Wybierz Wersję]
+Dostęp do Pamięci Fizycznej
+
+
+
+Funkcje podrzędne
+Edytor Kodu Binarnego [Dostęp Specjalny]
+Edytor Macierzy Jednostkowych [Dostęp Specjalny]
+
+
+
+
+
+Wprowadz Wersję Postaci
+Wprowadź Indeks Postaci
+Potwierdz Reset
+Użyj dźwigni
+Odpal Program
+Zresetuj Działanie Programu
+Przygotowanie do Restartu
+Reset...
+Potwierdz

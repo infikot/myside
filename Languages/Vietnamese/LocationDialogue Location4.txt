@@ -1,0 +1,400 @@
+Mita?
+A, anh tỉnh lại rồi.
+Ơ, em dịch chuyển tức thời à?
+Mới nãy em còn đứng ở cạnh anh mà.
+
+Không phải đâu.
+Anh đứng bất động ở trước gương
+nên em mới rời đi.
+Thế còn mấy căn phòng này?
+
+Em đã sắp xếp lại nơi này
+để khiến anh cảm thấy thoải mái hơn.
+Ý em là...
+Các phòng không xếp thẳng hàng nữa,
+mọi thứ chỉ trở về như ban đầu thôi.
+
+Em không cần phải làm vậy đâu,
+anh cũng đang dần quen cách bố trí trước rồi.
+Nhưng rồi anh sẽ thấy cách bố trí này thoải mái hơn thôi.
+// Mita card game
+Vậy thì
+chúng ta chơi thôi nào.
+Để em giải thích ngắn gọn cho anh.
+Mỗi con chip đặt trên bàn đại diện cho loại chỉ số được sử dụng trong ván đấu đó.
+Ví dụ, chip hình ♥ là sinh mệnh chẳng hạn.
+Chúng ta sẽ chọn lấy một lá trên tay mình,
+nếu lá bài có ♥... chỉ số sinh mệnh của anh
+cao
+hơn em
+là anh thắng.
+Rút bài đi anh.
+Tiếp theo là em.
+Oa!
+Rút được bài đẹp quá nè.
+Em đánh trước nhé!
+
+
+
+
+
+
+
+
+
+Đến lượt anh đó!
+Tới lượt anh ha!
+Ưm ưm.
+Đến lượt anh!
+
+So điểm sinh mệnh nào!
+Chọi chỉ số tấn công nào!
+Giờ là so khả năng phòng thủ!
+
+
+Chiến thắng thuộc về anh!
+Anh thắng rồi!
+Vậy là anh thắng.
+Ah, anh thắng ha...
+
+Em thắng!
+Em thắng rồi nè! ♪
+Chiến thắng thuộc về em!
+Tuyệt quá, vậy là em thắng.
+
+Hòa rồi.
+Đồng quy vu tận!
+Năm mươi năm mươi!
+Y chang nhau...
+
+
+
+
+
+
+
+
+
+
+
+// The card game is interrupted
+Tiếng động gì đằng đó vậy?
+Hình như có tiếng gì đó trong tủ quần áo.
+
+Tiếng động?
+Tiếng động nào cơ?
+Em không nghe thấy gì cả.
+Tiếng động như nào vậy anh?
+
+Có tiếng gõ, như thể có người ở bên trong.
+
+Nhưng ở trong đó...
+Không có ai cả.
+
+Anh phải ra kiểm tra thử mới được.
+Có gì đó không đúng.
+
+Tại sao...
+Lại nữa...
+
+
+
+
+
+
+
+Anh làm gì vậy!?
+Trong đó...
+có đồ lót của em.
+
+Em giấu anh chuyện gì phải không?
+
+Tại sao anh không tin em?
+Em làm sai chuyện gì sao?
+Em chỉ muốn...
+Em chỉ muốn anh ở bên em thôi mà.
+// Player
+Anh cũng muốn hứa như vậy, nhưng còn bên trong tủ thì sao?
+// Mita
+Sao anh cứ phải bận tâm tới tủ quần áo làm gì?
+// Player
+Anh chỉ muốn biết âm thanh đó là gì thôi!
+// Mita
+Kỳ thực...
+Thế giới này
+chỉ có vỏn vẹn bốn căn phòng.
+Như thế vẫn chưa đủ với anh sao?
+Làm ơn... ở lại với em đi anh?
+
+
+// Don't stay with Mita
+Em hiểu rồi.
+Lại nữa à...
+Anh muốn biết bên trong có gì phải không?
+Vậy thì anh sẽ biết...
+ngay bây giờ thôi!
+
+
+
+
+Cái quái...
+
+Chuyện thường xảy ra lắm anh.
+Căn phòng này vẫn chưa tải xong.
+Chờ thêm chút nữa nhé.
+
+Kỳ lạ thật.
+Hay là chúng ta đang ở trong điện thoại của ai đó?
+Kiểu như cái điện thoại đời cũ tải chậm ấy?
+
+Không đâu.
+Chỉ là thế giới này
+vẫn chưa được hoàn hảo...
+Chúng ta đang được nạp bởi
+lõi của thế giới này.
+
+Lõi của thế giới?
+
+Chuyện thường thôi mà anh?
+
+
+
+Đúng rồi! Hay là chúng ta
+chơi game console đi?
+Hoặc là chơi bài cũng được.
+Anh thích chơi gì hơn?
+
+
+
+// Mita play fight
+Anh muốn đấu với em sao?
+Anh phải thắng em
+4 lần đấy nhé.
+Chiến thôi nào.
+Vì là lần đầu
+em sẽ nhẹ tay với anh.
+
+
+Hay lắm.
+Nào, giờ em chơi tới bến luôn!
+
+Woa!
+Được rồi, từ giờ em mới
+thực sự nghiêm túc đây này.
+
+Hay quá đi!
+Nhưng để xem lần này
+anh có thắng được em không đây?
+
+Anh
+thật sự
+đỉnh quá mức! Kỹ thuật ngón tay của anh thật điêu luyện!
+
+
+Sao vậy anh?
+Thế này chẳng vui chút nào.
+
+Được rồi...
+Vậy là xong. Anh thử dựa vào vận may xem sao.
+
+Tuyệt!
+Anh không nghiêm túc hơn thì anh sẽ mãi là kẻ thua cuộc đó!
+
+Ổn không vậy anh?
+Cứ thế này thì anh không thắng được em đâu.
+Anh cần phải cố gắng hơn nữa.
+Bí quyết để trở nên mạnh mẽ như em đó!
+
+
+Được rồi, giờ thì...
+Tiếp theo chúng ta chơi bài ha?
+Trong phòng của em.
+
+
+
+// Door > [ERROR]
+Hở? Chuyện gì thế này?
+Đâu đây...
+
+Ah.
+Em xin lỗi.
+Em đã tải một file
+trên mạng về.
+Em muốn làm cho
+quan cảnh bên ngoài đẹp hơn.
+Nhưng cuối cùng
+em lại tải nhầm định dạng file...
+Để tí em sửa sau nhé.
+
+Vậy là chúng ta không ra ngoài được hả?
+Vâng, có vẻ là vậy.
+// Mita shy
+Nè...
+Có chuyện gì vậy anh?
+Anh muốn gì đó à?
+
+
+
+// Wall Clock
+Cái đồng hồ này
+nó hiển thị thời gian nào vậy?
+Thời gian hiện tại trong game?
+Hay là nó được đồng bộ từ điện thoại của anh?
+
+Ừm, thì...
+Em cũng không biết nữa.
+Ở nơi này thì thời gian không thành vấn đề.
+Dù có đến muộn cũng chẳng sao cả.
+Miễn là trong ngôi nhà này...
+Một cô gái mạnh mẽ như em
+không bao giờ biết mệt mỏi là gì!
+Nếu em muốn, thế giới này sẽ mãi mãi tràn ngập sắc xuân,
+mặt trời sẽ chẳng bao giờ lặn!
+
+Nghe hấp dẫn thật...
+Nhưng cũng có gì đó thật đáng sợ.
+Bị giam cầm mãi mãi trong không-thời gian này sao...
+
+
+
+// Photos of Mita
+Bức ảnh đẹp thật.
+Người trong ảnh là em phải không?
+
+Vâng.
+Em cũng thích bức ảnh đó lắm.
+
+Ai đã chụp bức này vậy?
+Ngoài chúng ta ra, còn ai khác trong thế giới này à?
+
+Cũng có thể nói như vậy.
+Để hôm nào đó em giới thiệu cho anh.
+Nhưng bây giờ chưa phải là lúc để nói về
+những người bạn thú vị này.
+
+
+
+
+// Portal
+Cái cổng đó giờ ra sao rồi?
+Hay nó gọi là gì ấy nhỉ?
+
+Em đã
+dùng phép "búng tay"
+để dịch chuyển nó
+đến một nơi khác rồi.
+Chúng ta không cần cái cổng đó nữa.
+Vì nó chỉ gây cản trở hai ta thôi.
+
+
+// Mirror in the bedroom
+Nhìn vào gương cứ thấy rờn rợn.
+Chẳng phản chiếu gì cả...
+
+Em có thể kích hoạt phản chiếu
+nếu anh muốn.
+Anh có cần không?
+
+Tất nhiên là anh cần.
+Hay là... Nó có hậu quả gì à?
+
+Vâng.
+Chúng ta di chuyển chậm kinh khủng, cử động lại còn bị cứng đờ.
+Anh đã xem anime với tốc độ khung hình thấp bao giờ chưa?
+Nó sẽ kiểu như vậy hoài...
+
+Anh hiểu rồi.
+Có lẽ không kích phản chiếu nữa vậy...
+
+[player] nè,
+anh thích ngắm mình trong gương lắm sao?
+Hay là anh sợ khi nhìn thấy một chút gì đó tích cực trên gương mặt mình?
+
+Hể? Anh không nhìn gì cả...
+Chỉ là anh mệt
+vì công việc thôi.
+
+
+
+// Blue sneakers
+Giày này là của em à?
+
+Không, giày của anh mà.
+Anh không nhớ sao?
+
+Anh làm gì có giày thể thao như thế này?
+
+Giờ nó là của anh rồi đấy.
+Khi nào anh ra ngoài
+nhớ mang theo nhé.
+
+Còn quần áo thì sao nhỉ?
+Lúc anh đến thế giới này
+chỉ có mỗi bộ đồ đang mặc.
+Làm sao để kiếm bộ đồ khác bây giờ?
+
+Cũng không có gì to tát đâu.
+Em từng thấy bộ đồ thường ngày anh mặc rồi.
+Nói thiệt thì gu thẩm mỹ của anh không được tốt lắm.
+Nhưng đừng lo, cứ để đó cho em.
+Mà chuyện đó để sau nhé anh.
+Em hứa.
+
+Anh hiểu rồi.
+
+
+// Games on TV
+Chúng ta chơi game gì đây?
+// Game milk
+Này là game đối kháng!
+Chúng ta sẽ xem ai chịu chua giỏi hơn...
+Game này thú vị lắm đó!
+Em cũng ngán sữa rồi, ta đổi vị chút đi?
+// Game penguins
+Trong game này, anh sẽ trở thành chim cánh cụt
+và trượt trên băng thôi.
+Game này chơi thế chắc đủ rồi anh.
+
+// Stay with Mita
+Hể, sao cơ?
+Anh nghiêm túc sao? Em cứ tưởng...
+Tim em đập nhanh quá đi!
+Em hơi bối rối một chút...
+Vậy thì...
+Xin anh, hãy ở bên em
+mãi mãi...
+
+
+
+
+
+
+
+
+
+
+
+
+// A game about penguins
+Đơn giản lắm anh.
+Thu thập những quả bóng tuyết.
+Hiển nhiên là ai nhiều bóng tuyết hơn sẽ thắng!
+Nào, chúng ta chơi hai ván nhé.
+// The first map
+Hay quá! Sao anh gom được nhiều bóng tuyết thế kia?
+Hihi! Em nhiều bóng tuyết hơn nè.
+Cố gắng bắt kịp em đi nào.
+Ha, 1:1!
+// The second map
+Anh trượt y như chim cánh cụt thật ấy!
+Giá mà chúng ta cũng được trượt trên băng thật thì tuyệt biết mấy.
+Trời ạ, anh chậm quá đó!
+Anh vẫn còn tiếc trận trước sao?
+Woa, không ngờ lại hòa được hai ván, thật là hiếm thấy!
+// The game is over
+Anh có muốn thử trò khác không?
+Hay là thôi mình không chơi nữa?
+
+// Tetris - Mita
+Cái đó để làm gì vậy anh?
+Anh là game thủ hả?

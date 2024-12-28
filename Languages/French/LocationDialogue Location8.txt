@@ -1,16 +1,16 @@
-// The first meeting
+// The first meeting - Player
 Qui es-tu ?
 Qu'est-ce qu'il t'est arrivé ?
 Tu peux parler ?
 
-
+// MitaBroke
 Attends...
 Tu veux partir ?
-
+// Player
 Oui...
 Je dois me rendre
 dans l'ancienne version.
-
+// MitaBroke
 L'ancienne version ?
 Pourquoi est-ce que tu voudrais
 aller autre part ?
@@ -18,10 +18,10 @@ Tu peux rester ici...
 Deviens mon
 second ami...
 
-// Skipping all dialogs
+// Skipping all dialogs - MitaBroke
 D'accord...
 
-// Standing by the window (Random)
+// standing by the window (Random) - MitaBroke
 Les portes ne mènent pas vers la sortie.
 Tu sembles vouloir te dépêcher...
 Tourner en rond ne te sauvera pas.
@@ -29,13 +29,13 @@ Tu veux t'échapper tant que ça ?
 Pense aux fenêtres...
 
 
-// Quest 1 (Aren't you Mita?)
+// quest 1 (Aren't you Mita?) - MitaBroke
 Un joueur... tu es un joueur, n'est-ce pas ?
 On peut jouer.
 Si j'en ai la force,
 nous jouerons sûrement.
 
-// Quest 2 (What happened to you?)
+// quest 2 (What happened to you?) - MitaBroke
 Je n'en suis pas sûre... Je ne sais pas.
 Je ne pense pas que quelque chose de mal soit arrivé...
 Mais il y a de moins en moins de bonnes choses qui se produisent...
@@ -44,40 +44,40 @@ Les joueurs sont partis...
 Est-ce qu'ils m'ont tourné le dos ?
 J'ai peur...
 
-// Quest 3 (Become a second friend?)
+// quest 3 (Become a second friend?) - MitaBroke
 Les amis...
 Il y en avait de moins en moins
 Et il n'en reste qu'un désormais.
 C'est triste, joueur.
 Tu peux être mon nouvel ami ?
-
+// Player
 J'aimerais bien,
 mais je dois continuer d'avancer...
-
+// MitaBroke
 J'ai mal...
 
-// Quest 4 (Is this your house?) - MitaLittle
+// quest 4 (Is this your house?) - MitaBroke
 Ma maison ?
 Joueur... tu sembles différent...
 Tes bras sont plus courts, et ton visage n'est plus autant en colère...
 Joueur, tu es devenu plus gentil.
-
+// Player
 Je ne sais pas...
 de quoi tu veux parler.
-
+// MitaBroke
 Ce n'est pas grave.
 Tu ne vas plus me faire de mal maintenant, hein ?
 
-// Quest 5 (How do I leave this place?)
+// quest 5 (How do I leave this place?) - MitaBroke
 Tu vas me laisser seule, joueur ?
 Est-ce que c'est là...
 mon destin ?
-
+// Player
 Je...
-
+// MitaBroke
 Les portes ne t'aideront jamais.
 
-// Hold player (Random)
+// Hold player (Random) - MitaBroke
 Pourquoi est-ce que tu veux partir ?
 Reste ici...
 Allons jouer...

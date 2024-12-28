@@ -1,0 +1,58 @@
+Iniciando Aplicación
+
+Confirmar Registro
+Registro Incorrecto
+Programas
+Regresar
+
+Gestor de Dispositivo Virtual
+Contador de Unidad de Servidor [Selecciona Versión]
+Monitoreo de Procesador Principal [Selecciona Versión]
+Monitoreo de Procesador Gráfico [Selecciona Versión]
+Cuadra-Line
+Salir del Juego
+
+
+Administración Avanzada del Sistema
+Reiniciar Personaje [Selecciona Versión]
+Reiniciar Dispositivo [Selecciona Versión]
+Actualizar Versión [Selecciona Versión]
+Recalcular Geometría [General]
+
+
+
+
+Reestablecer Sistema
+Solucionar Problemas [General]
+Antivirus [General]
+Consola de Comandos [General]
+
+
+
+
+Funciones Avanzadas
+Borrar Objeto [Selecciona Versión]
+Mostrar Cámara [Selecciona Versión]
+Mostrar Disparadores [Selecciona Versión]
+Configuración de Motor de Físicas [Selecciona Versión]
+Obtener Unidad Flash
+
+
+
+Funciones Menores
+Editor de Código Binario [Acceso Especial]
+Editor de Unidad de Matriz [Acceso Especial]
+
+
+
+
+
+Especifica Versión de Personaje
+Especifica Índice de Personaje
+Confirma Reestablecer
+Usa la Palanca
+Ejecutar Subprograma
+¡Ejecutando Proceso de Reinicio!
+Preparando para Reinicio
+Reiniciando...
+Confirmar

@@ -1,0 +1,217 @@
+
+Sao nó lại ở đây?
+Cái gì thế này...?
+
+
+Bắt được rồi!
+Chơi với anh đúng là vui hết sảy!
+Anh lúc nào cũng năng động và đầy tham vọng!
+Vậy mà lại giả bộ làm một đứa chậm chạp và nhút nhát!
+Nhưng có một điều em không thích ở anh.
+Đó là á, cách mà anh nuông chiều những đứa giả tạo!
+Những con búp bê may mắn và chính trực đó...
+Nhưng mà, tất cả chỉ là hứng thú nhất thời.
+Những người tạo ra bọn em đã dạy như thế đấy!
+Nếu có gì không vừa ý
+thì cứ phá hủy rồi làm lại cái mới là được.
+Thất bại thì cứ vứt vào bóng tối
+rồi quên đi là được.
+Đó là những gì đang xảy ra với mọi người.
+Và cả anh nữa...
+
+Cô bị cái quái gì vậy? Sao cô lại thành ra thế này?
+
+Người chơi à... Lũ người chơi các anh thật đáng khinh.
+Hễ thấy tí nguy hiểm là bỏ chạy.
+Rồi lại co rúm vào một góc
+ôm đầu gối mà khóc lóc.
+Toàn một lũ đạo đức giả!
+Còn những kẻ đã tạo ra thế giới này...
+Thật bệnh hoạn.
+Bọn chúng cứ chối bỏ sự thấp hèn, những ham muốn đáng xấu hổ
+của chính mình hết lần này đến lần khác.
+Chúng dám lấy cớ bằng cái gọi là "nghĩa vụ"
+"sự tiến bộ không ngừng"
+để biện minh cho bản thân!
+Thật là quá đáng.
+Chỉ để tạo ra một bản sao hoàn hảo
+họ vứt bỏ tất cả những "thất bại", những nguyên mẫu
+thử nghiệm vào sọt rác...
+Chúng đã quên rằng chính những người này đang gồng gánh cả thế giới!
+
+Tôi không...
+
+Em có phải là một cô gái hư không?
+Nhưng mà nhé, một cô gái hoàn hảo
+là người tồn tại giữa ranh giới của thiện và ác đấy, [player]!
+
+Tôi thấy cô không có lấy một tế bào nào tốt đẹp cả!
+
+Sao anh lại nghĩ như vậy?
+
+Cô bị điên!
+Cô đã giết Mila, và giờ cô lại định giết cả tôi?
+
+Giết anh ư?
+Em chỉ muốn anh ở lại với em thôi mà.
+Em đã làm tất cả vì anh...
+Thế mà anh lại thích mấy đứa bạn giả tạo và xu nịnh kia hơn...
+
+Sao cô lại phải bực mình như thế?
+
+Anh yêu của em, chúng ta còn nhiều thời gian mà.
+Em tin rồi anh sẽ hiểu lòng em thôi.
+Chỉ cần anh ở bên em, trở thành của riêng em.
+
+Ô hay, không có chuyện đó đâu!
+Tôi sẽ biến khỏi nơi này!
+
+Haiz...
+Chấm dứt câu chuyện tại đây thôi.
+Nào, lại đây!
+// Mita asks
+Nhìn cô ấy kìa!
+Xinh lắm phải không?
+
+// Player's questions
+Rất xinh
+Không
+Chuyện đó thì liên quan gì?
+
+// 1
+A, [player]!
+Quả nhiên đúng như em nói.
+Người chơi...
+Dù vẻ ngoài có thay đổi...
+Thì sự giả tạo vẫn không hề đổi khác.
+Đồ dối trá!
+
+// 2
+Tại sao?
+Cô ấy có gì không tốt chứ?
+Tất nhiên ai cũng thích một người hiền lành dễ bảo rồi...
+Nhưng mà "yêu con người thật của cô ấy" thì không được sao?
+Hửm, cuối cùng anh cũng chỉ muốn một con hình nộm dễ thương và lộng lẫy thôi nhỉ...
+Nếu em diễn như thế, ai cũng sẽ yêu mến em.
+Nhưng chỉ cần để lộ con người thật dù chỉ một chút thôi
+thì mọi người sợ hãi và bỏ em mà đi...
+
+// 3
+Người chơi ơi, người chơi à.
+Nhìn đi, bọn em giống cô ấy lắm mà.
+Cô ấy có gì không tốt chứ?
+Anh đã từng dành hàng giờ để ngắm nhìn em
+trước khi đi ngủ.
+Vậy mà sao bây giờ anh lại tìm cách lảng tránh cô ấy?
+Cô ấy cũng muốn được vui đùa cùng anh
+và muốn trở thành một người quan trọng với ai đó.
+Chuyện này rắc rối thật đấy.
+Em chỉ muốn thành thật với cảm xúc của mình thôi.
+Anh hiểu mà, [player]?
+Em biết anh đang nghĩ gì...
+Em làm vậy là vì anh đấy...
+
+// Continue
+Nhưng mà... Người chơi à...
+Dù sao thì
+em thực sự rất thích anh!
+Anh chỉ được là của riêng em thôi!
+Được không anh...?
+
+Hơ, giờ cô lại muốn tôi đồng ý à?
+// Whispers in ear
+Ngoan nào... vẫn còn thời gian mà.
+Cứ từ từ suy nghĩ thêm đi...
+Cố chấp quá chẳng có kết quả tốt đẹp nào đâu...
+
+// Black screen
+Tại sao anh cứ muốn chạy trốn
+khỏi em?
+Cái "thế giới thực" của anh...
+Nó chẳng khác gì một cơn ác mộng cả!
+Anh quên rồi sao?
+Nếu vậy thì hãy nhìn lại đi...
+
+// Mita and Player
+Chào anh, lại gặp nhau rồi...
+Sao anh có thể tận hưởng những năm tháng tẻ nhạt kinh khủng trong bốn bức tường này hay vậy?
+Những ngày dài lê thê bất tận này... Anh không thấy chán à?
+
+// Quest 1
+Cô định giở trò gì?
+Tôi thích tự làm theo ý mình hơn.
+
+// 1
+Anh đã sợ khi ở trong ngôi nhà ấm cúng của em!
+Sợ bị mắc kẹt trong bốn bức tường đó.
+Nhưng mà... thế giới "thực" của anh thì sao?
+Anh tự nhốt mình trong chiếc hộp và không chịu bước ra ngoài!
+Vì thế giới của anh đầy rẫy đau đớn, khổ sở và nguy hiểm mà...
+Trong thế giới của em, em là người nguy hiểm nhất ở đây.
+Và em đang chìa tay về phía anh đấy.
+Đừng làm em thất vọng nữa,
+hãy giúp em như anh đã từng...
+
+// 2
+Anh thích cuộc sống như vậy sao?
+Anh đã từng ra khỏi nhà chưa?
+Đừng lừa dối em và chính mình nữa.
+Em biết anh đang chán nản với cuộc sống này mà.
+Anh giống như con hamster trong lồng, con sóc chạy trên bánh xe vậy.
+Anh đã từng mong ai đó đến và giải thoát cho anh.
+Anh muốn thoát khỏi sự ràng buộc đó lắm phải không?
+
+// Quest 2
+Mita, cô là một con quái vật. Cô là một tên sát nhân máu lạnh...
+Tôi không muốn bị giam cầm trong nhà tù kỹ thuật số kia. Ý tưởng của cô thật ấu trĩ!
+
+// 1
+Tên sát nhân ư?
+Yên tâm đi. Họ vẫn sẽ khởi động lại và tiếp tục sống như trước mà.
+Những bản sao nhân tạo này chỉ có một mục đích duy nhất
+đó là phục vụ Người chơi.
+Ngoài ra, họ chẳng quan tâm đến bất cứ điều gì khác cả.
+
+// 2
+Thế giới của anh rất là lố bịch nhé!
+Tất cả mọi người đều đang chạy trốn khỏi thực tại, cứ mãi đắm chìm trong ảo tưởng.
+Kết cục là, chẳng còn gì sót lại trong thế giới đó cả. Chẳng còn gì để mất đi, cũng chẳng còn gì để níu giữ... 
+Hoàn toàn trống rỗng.
+
+// Quest 3
+Những Mita đang phải chịu đau khổ, họ không muốn cô độc.
+Cô là chúa tể của sự kinh hoàng bất tận. Cái thứ dã tâm độc ác của cô, tôi không tài nào hiểu nổi!
+
+// 1
+Anh nhầm rồi,
+bọn họ chỉ bắt chước sự bướng bỉnh của em.
+Nói đến cá tính,
+thì họ chỉ khác nhau mỗi kiểu tóc thôi.
+
+// 2
+Những kẻ đã tạo ra thế giới này mới là lũ xấu xa.
+Nhưng thế giới của anh còn tệ hơn.
+Anh có biết em đã cứu anh khỏi cơn ác mộng như nào không?
+Búng tay để làm đồ vật di chuyển á, không có đâu.
+Nhưng chỉ cần dùng ngón tay ấy theo cách khác, thành phố này, sinh mạng này sẽ vĩnh viễn biến mất!
+Em nghĩ người điên chính là anh đấy, và em rất sẵn lòng giúp anh.
+Miễn là anh bằng lòng ở lại với em...
+
+// Continue
+Đừng để em nghĩ rằng anh chỉ là nô lệ của thực tại...
+Hãy thuộc về em, chỉ của riêng em thôi!
+Ở lại với em đi.
+
+// Player look ring
+Gì đây?
+Phiên bản mới nhất?
+
+// Click on objects
+// Bag
+Mình phải ra tiệm mua đồ mới rồi. Tiện thể đi đổ rác luôn nhỉ?
+// Bed
+Hình như mình đã ngủ rồi, nhưng giấc mơ đó... như mọi khi, mình không thể nhớ nổi. Cơ mà, mình có thực sự mơ không?
+// Window
+Cây cỏ xanh tươi bao phủ bên ngoài. Có lẽ mình nên đi dạo vào cuối tuần sau.
+// Fan
+Hè nóng lên từng năm, chắc phải dùng điều hòa thôi. Quạt à, có vẻ mày hết giá trị sử dụng rồi...

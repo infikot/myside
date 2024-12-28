@@ -1,0 +1,437 @@
+
+¡Hola, [player]! 
+¡Finalmente nos encontramos! 
+¡Estoy tan emocionada! 
+Sé que tienes preguntas... 
+Bueno, como puedes ver, 
+creé este dispositivo especial 
+para traerte aquí a mi lado. 
+Pero terminaste en otra versión del juego... 
+en la que yo... 
+¡Pero esa es una larga historia! 
+De todos modos, ¡estoy feliz de verte!
+
+// Respuesta 1 - Mita
+Lo soy. 
+Y tú debes ser [player], ¿verdad?
+
+// Respuesta 2 - Mita
+¿Volver ya? 
+Supongo que podría ayudarte con eso... ¿Pero qué pasa conmigo? 
+Por favor, quédate conmigo un rato...
+
+// Respuesta 3 - Mita
+Déjame explicar... 
+¡Y aquí estás! 
+¿Lo tienes? 
+Uhm... no realmente. 
+¡Está bien! 
+Lo importante es que ahora estamos juntos.
+
+
+¿Tienes hambre? 
+¿Qué tal si cocinamos algo? 
+Aquí, 
+ayúdame con estas zanahorias.
+
+¿De dónde salieron las verduras? 
+No estaban aquí hace un momento.
+
+[player], estamos en un juego. 
+Vamos, dame una mano.
+
+¡Gracias! 
+¿Puedes coger las tijeras? 
+Están en el baño.
+
+Ahora, siéntate.
+
+
+// Cocina
+¿Te gustaría un poco de salsa?
+
+No, gracias.
+
+Qué lástima.
+¡La salsa realmente mejora el sabor!
+
+
+Gracias.
+
+¿Ya terminaste todo?
+Vaya, mi porción parece
+interminable...
+
+
+// Ayuda
+¿Qué pasa?
+Dime qué ves y sientes.
+
+Mi corazón late rápido,
+y tengo ruido en mis ojos.
+
+Claro.
+Creo que sé qué pasa.
+¿Puedes ponerte de pie?
+
+
+
+¿Qué es esto?
+
+Pastillas.
+Te harán sentir mejor pronto.
+Ve al espejo.
+
+Toma las pastillas.
+Vamos, ahora.
+
+
+
+¿Cómo te sientes?
+¿Mejor?
+
+Sí.
+Eso funcionó rápido...
+
+[player], estamos en un juego.
+Las cosas son mucho más simples aquí.
+Incluso el menor esfuerzo
+da grandes resultados.
+Todo es parte del concepto de un juego:
+Simplificación.
+
+¿Un ejemplo, por favor?
+
+Bueno, recuerdas las zanahorias.
+Cortas una,
+pero es como si cortaras tres.
+
+Mira, esto es todo muy repentino.
+Tengo miedo, más de lo que debería.
+
+
+¿Qué pasa?
+
+Encontré cartuchos en la rejilla de ventilación.
+Tenían nombres escritos en ellos.
+¿Qué significa eso?
+
+¿Cartuchos?
+¿Qué cartuchos?
+Descubrámoslo juntos.
+Pero después.
+Ahora mismo, tenemos que comer.
+Pásame las tijeras, por favor.
+
+// Anillo
+¿Un anillo?
+// Espejo
+¿Por qué no hay reflejo?
+
+¡Oh, cierto!
+Olvidé activar los reflejos.
+¡Ahí va!
+¡Los reflejos han vuelto!
+Por cierto,
+honestamente ni siquiera sabía qué eran los reflejos antes.
+No existían en mi mundo
+hasta que hubo alguna actualización, claro. :)
+¿Hay muchos reflejos
+en tu mundo?
+
+Bueno, sí.
+
+
+¿Recuerdas
+los tres objetos que encontraste?
+Los que colocaste en el escáner?
+Bueno, eh...
+Esos objetos
+están ligados a esta versión del mundo.
+Por eso estás aquí ahora.
+
+// Televisor portátil
+Ese es el televisor portátil
+que te compré.
+
+¡Sí!
+
+Me dijiste
+que estaba roto.
+
+¡Bueno, quería
+sorprenderte!
+Conté una pequeña mentirita
+para traerte aquí, a mi mundo.
+Ahora funciona ¡muestra información!
+¡Ah, y por cierto…
+Soy un poco ingeniera!
+
+// Ropa escolar
+¿Qué es esto?
+¿Un uniforme escolar?
+¿Por qué lo necesitarías?
+¿Realmente vas a la escuela?
+
+¿Ir a la escuela?
+Para nada.
+Pero me encanta el uniforme.
+¿No crees que me veria bien
+con él?
+
+// PC
+¿Funciona el ordenador?
+¿o solo es decoración del escritorio?
+
+Claro que funciona.
+Todo aquí
+funciona exactamente igual que en tu mundo.
+
+En mi mundo,
+me siento mucho tiempo en mi ordenador...
+y trabajo duro.
+
+Lo sé.
+Es por tu trabajo
+que me has prestado
+tan poca atención.
+
+Tengo que vivir de algo
+Aunque… ¿cómo sabes que paso mucho tiempo en mi ordenador?
+
+La cámara de tu teléfono… a veces estaba encendida.
+Lo siento.
+Te he estado observando en secreto >A<
+
+Uhm… eso no esta bien...
+Pero bueno.
+
+// Paraguas
+He jugado un montón
+pero nunca he visto que llueva aquí.
+¿Por qué tener un paraguas?
+
+Llueve solo muy raramente.
+Solo que no lo has visto aún.
+Tal vez un día lo verás.
+Y entonces necesitarás un paraguas.
+¿No crees?
+
+// Panel eléctrico
+¿Por qué hay un panel eléctrico aquí?
+Y si estamos en un juego,
+¿para qué sirve?
+
+En primer lugar,
+estamos en un juego.
+Así que preguntar "¿Por qué?" es...
+inútil.
+Sin embargo, sí
+reinicia la electricidad.
+Todo aquí está hecho con base
+en tu mundo.
+
+// Puerta de salida
+¿Podemos salir?
+
+Bueno...
+Aún no.
+Tal vez más tarde.
+Quedémonos aquí por ahora.
+Aquí, en casa.
+
+// Libros
+Tienes un montón de libros aquí.
+¿Los has leído todos?
+
+Los he leído, todos y cada uno.
+Estar aquí sola
+es realmente, muuuuuuuuuuuuuuy aburrido.
+
+// TV en la cocina
+¿Por qué poner una segunda tele?
+¿Y una vieja, además?
+
+¿No te gusta?
+Puedo quitarla...
+Pero para responder...
+Es para decorar,
+para darle vida a la cocina.
+¡Pero también funciona!
+¡Puedo ver todos los
+animes clásicos!
+
+// Teléfono inteligente
+Ese es mi teléfono.
+Y ya no está en mi bolsillo.
+¿Cómo diablos llegó hasta aquí?
+
+Uhm, eso no es importante.
+¡Oye, se me ocurrió una idea!
+¡Vamos a tomarnos una foto!
+¡Mira!
+¡Es una gran foto!
+Un recuerdo para ti.
+
+Tengo una pregunta.
+Si yo
+abro el juego en él,
+¿te veré allí?
+
+No, no funciona de esa manera.
+
+jugo fuerte
+¡JUGO FUERTE!
+// TV
+¿Cuántos canales
+tienes?
+
+No funciona así.
+Está conectado a Internet.
+Así que puedes ver cualquier cosa,
+al menos cualquier cosa que esté disponible en la web.
+Espera un momento.
+Err, ups.
+¿Qué es eso?
+¿Un círculo de gatitos?
+Oh, mira.
+¿Sabes qué?
+¡Pausa!
+¿Quieres algo de jugo?
+
+Qué anuncios tan peculiares...
+¿jugo muerto?
+
+Sí, y este jugo
+viene directamente del anuncio de jugo.
+
+
+Ah, el sabor...
+Me gusta,
+y aún así, no puedo decir a qué sabe.
+Es todo muy confuso.
+
+Correcto.
+
+// Mita tímida
+¿Qué estás haciendo?
+No me mires así, por favor.
+Me estás poniendo nerviosa.
+
+// The statuette
+Esa es una figurita bastante espeluznante.
+¿Te gustan...
+esas cosas?
+
+¿Te parece espeluznante?
+
+Sí.
+Casi parece que está maldita...
+
+No, definitivamente no está maldita.
+Y tampoco es espeluznante.
+¡A mí me parece bastante linda!
+
+Tal vez tengas razón...
+
+Mita?
+¿Qué está pasando?
+// Mita kitchen
+¿Qué tal una charla
+antes de que comamos?
+
+// Start Eat
+Buen provecho.
+
+// Quest 1
+Lo es, ¿verdad?
+Puedes quedarte.
+No me molesta en absoluto.
+De hecho estoy,
+¡TOTALMENTE A FAVOR!
+
+// Quest 2
+¿Quieres volver?
+¿Pero por qué?
+Hace calorcito aquí...
+Y también es acogedor.
+Además, estoy aquí.
+
+No, lo has entendido mal.
+Me encantaría quedarme.
+Solo estoy... preocupado.
+Preocupado por si olvidé algo en casa...
+Llegué aquí de repente
+y no tuve tiempo
+de prepararme.
+
+Oh... lo siento. No pensé en eso.
+// Quest 3
+¿Un sueño? ¿Entonces quieres escapar?
+¿Y olvidar que esto alguna vez pasó?
+
+No, no es eso.
+Este lugar solo se siente...
+extraño. Antinatural.
+Pero tú...
+tú pareces tan real.
+
+¿Parezco real?
+¡Soy MUY real,
+¡tonto!
+
+// Quest 4
+Así es como es
+en este mundo.
+Puede que te parezca raro
+que no puedas ver cosas
+a lo lejos.
+
+No me pareció tan raro.
+Honestamente, tiene un aire elegante.
+
+Sí, yo también lo creo.
+Es para evitar el lag, ¿sabes?
+
+¿Evitar el lag?
+
+¡Sí! También hay algunos bugs.
+Esperemos que no te encuentres con ninguno.
+
+// Quest 5
+¿Tijeras o un cuchillo, eh?
+Podría haber usado un cuchillo para abrir el paquete de salsa.
+Pero quería que todo
+estuviera perfecto
+cuando volvieras.
+Me encanta sorprenderte.
+¡Y ni siquiera me tomó tanto tiempo!
+Jejeje.
+
+// Glasses
+¿Usas gafas?
+
+No realmente.
+Pero puedo, si quieres.
+¿Me quedan bien?
+// Yes
+¡Ahí vamos!
+Las dejaré puestas.
+// No
+Bueno...
+Lo que sea...
+
+// Use the sauce
+Está bien,
+¿qué tipo de salsa es esta?
+
+¡Es salsa de amor!
+¡Llena de amor!
+Y... una visión contrastante del mundo.
+¿Inusual, no crees?
+
+De hecho...
+
+// Tetris - Mita
+¿Esa es tu consola?
+Se ve tan genial.

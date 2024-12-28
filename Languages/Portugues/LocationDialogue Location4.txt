@@ -1,0 +1,400 @@
+Mita?
+Ah, já acordado?
+Como é que vieste parar aqui?
+Estavas mesmo ao meu lado há pouco.
+
+Não, não estava.
+Ficaste congelado em frente ao espelho.
+Por isso saí.
+Porque é que os quartos mudaram?
+
+Reorganizei o espaço
+para te fazer sentir mais em casa.
+Aqui,
+podemos mudar os quartos
+como quisermos.
+
+Não precisavas.
+Já me estava a habituar à disposição.
+De qualquer forma, acho que vais sentir-te mais à vontade com este layout.
+// Jogo de cartas com a Mita
+Certo,
+jogamos?
+O jogo funciona assim:
+Esta ficha indica um tipo,
+como saúde:
+Cada um de nós joga uma carta,
+e se a tua carta tiver
+um valor de Saúde
+superior ao meu,
+ganhas.
+Pega nas tuas cartas.
+É a minha vez.
+Uau!
+Tenho uma mão incrível!
+Vou primeiro!
+
+
+
+
+
+
+
+
+
+Certo!
+A tua vez!
+Uh-huh.
+A tua vez!
+
+O maior valor de saúde ganha!
+É tudo sobre ataque!
+Foca-te na defesa!
+
+
+Ganhaste!
+Ganhaste!
+Apanhaste-me.
+Oh, tu...
+
+Eu ganhei!
+Sou a vencedora!
+Eu venci!
+Hah, apanhei-te!
+
+É um empate.
+Tudo igual!
+Agora isto é um empate!
+O mesmo valor...
+
+
+
+
+
+
+
+
+
+
+
+// O jogo de cartas é interrompido
+Que som é este?
+Vem do roupeiro.
+
+Som?
+Que som?
+Não ouvi nada.
+O que achas que ouviste?
+
+Batidas, como se alguém estivesse lá dentro.
+
+Mas...
+Não há ninguém lá dentro...
+
+Quero abrir e verificar.
+Estou um pouco assustado.
+
+Mas porquê...?
+Isto outra vez...
+
+
+
+
+
+
+
+O que é que tens!?
+É só um roupeiro...
+Tenho lá a minha roupa interior...!
+
+Estás a esconder algo de mim?
+
+Porque não acreditas em mim?
+O que é que estou a fazer de errado?
+O que eu quero...
+tudo o que eu quero é que estejas comigo.
+
+Eu também gostaria disso, mas ainda assim...?
+
+Porque estás tão fixado nesse roupeiro?!
+
+Quero saber o que eram aquelas batidas, afinal!
+
+Será que é porque
+este mundo
+só tem estes quatro quartos?
+Isso não é suficiente para ti?
+Porque é que não podes simplesmente ficar comigo?
+
+
+//Não fiques com a Mita
+Entendido.
+Isto outra vez...
+Se queres verificar o roupeiro,
+então fá-lo,
+e descobre o que está lá dentro!
+
+
+
+
+O quê...
+
+Isso acontece às vezes.
+O quarto ficou preso no carregamento.
+Espera só um momento.
+
+Isto é tão estranho.
+Estamos dentro do telemóvel de alguém?
+Talvez um modelo lento com tempos de carregamento longos?
+
+De todo.
+Mas nem tudo é perfeito
+neste mundo...
+Estamos a ser carregados
+juntamente com o núcleo do mundo.
+
+O núcleo do mundo?
+
+Típico, não achas?
+
+
+
+De qualquer forma, podemos
+jogar consola
+ou cartas.
+Tu escolhes.
+
+
+
+// Brincadeira com a Mita
+Queres lutar?
+Tens de ganhar
+quatro vezes.
+Venha daí.
+Não te preocupes, vou
+pegar leve contigo ao início.
+
+
+Isso mesmo.
+Foca-te a sério!
+
+Uau!
+Certo, está bem.
+Agora vou ficar séria.
+
+Uau!
+Vamos ver se consegues
+derrotar-me agora!
+
+Tu és
+simplesmente
+incrível! Que talento!
+
+
+O que se passa?
+Huh, isso foi aborrecido.
+
+Bem,
+é isso. Acreditas no destino?
+
+Então,
+age em conformidade ou vais ser um perdedor para sempre!
+
+O que se passa contigo hoje?
+Dei-te uma tareia.
+Não deste o teu melhor—
+é por isso que perdi!
+
+
+Está bem, então.
+Que tal jogarmos cartas?
+Estão no quarto.
+
+
+
+// Porta > [ERRO]
+Huh, o que está a acontecer?
+Onde está...
+
+Uh-oh.
+Desculpe...
+Eu baixei algo
+da rede.
+Eu queria enfeitar
+o exterior um pouco.
+Mas acontece que
+havia algo errado com o arquivo.
+Eu vou consertar depois.
+
+É por isso que não podemos sair de casa?
+Sim, é por isso.
+// Mita tímida
+Ei...
+O que se passa contigo?
+Queres alguma coisa?
+
+
+
+// Relógio de parede
+Este relógio,
+que horas mostra?
+A hora atual do jogo?
+Ou está sincronizado com o meu telemóvel?
+
+Bem, uhm...
+Honestamente, não sei.
+Mas o tempo não importa aqui...
+Seja tarde ou cedo,
+uma rapariga forte como eu
+está sempre cheia de energia—
+nunca me canso!
+Podemos ter uma primavera eterna,
+ou uma tarde sem fim!
+
+Isso é interessante...
+mas também um pouco assustador.
+Presos no mesmo momento, para sempre...
+
+
+
+// Fotos da Mita
+Bons retratos.
+Aposto que são teus, não?
+
+Sim.
+Eu também gosto deles.
+
+Quem os tirou?
+Há mais alguém neste mundo?
+
+Pode-se dizer que sim.
+Vou apresentar-te eventualmente.
+Só que ainda não.
+Por enquanto, quero estar só contigo.
+
+
+
+
+// Portal
+Para onde foi o portal?
+Ou lá como é que lhe chamavas?
+
+Usei um
+pouco de magia
+e movi-o
+para outro lugar.
+Já não precisamos dele.
+Só ia atrapalhar.
+
+
+// Espelho no quarto
+Olhar para um espelho sem
+ver um reflexo—é assustador.
+
+Podemos ativar os reflexos
+se realmente quiseres.
+Mas, será que precisamos mesmo deles?
+
+Claro que precisamos.
+Ou... ativar os reflexos vai ter consequências?
+
+Sim.
+Vamos ter falhas e mexer-nos mais devagar.
+Já viste desenhos animados com poucos frames por segundo?
+Vai ser assim para nós, o tempo todo.
+
+Entendido.
+Então talvez seja melhor manter os reflexos desligados...
+
+Ei, [jogador],
+gostas mesmo de espelhos, não?
+Tens medo de ver um sorriso nessa tua cara?
+
+Huh? Não propriamente...
+Só estou cansado
+depois de tanto trabalho.
+
+
+
+// Ténis azuis
+São teus?
+
+Não, são teus.
+Não te lembras?
+
+Não me recordo de ter ténis assim.
+
+Agora já tens.
+Podes usá-los
+quando formos lá para fora.
+
+E as roupas?
+Só tenho a roupa que estou a usar neste mundo.
+são as roupas que estou vestindo.
+Há alguma forma de arranjar novas?
+
+Claro que sim.
+Embora, já vi como te vestes—
+e honestamente, o teu gosto não é grande coisa.
+De qualquer forma, vou ajudar-te a arranjar umas.
+Só não agora.
+Prometo.
+
+Ok.
+
+
+// Jogos na TV
+O que queres jogar?
+// Jogo leite
+Este é um jogo de luta!
+Vamos ver quem azeda primeiro!
+Que jogo!
+Já chega de leite por agora, vamos fazer outra coisa.
+// Jogo pinguins
+Neste jogo, és um pinguim
+a deslizar por aí.
+Pronto, é isso o jogo.
+
+// Fica com a Mita
+Huh, o quê?
+A sério? Pensei que eras...
+Estou radiante!
+E um pouco confusa...
+Mas...
+Por favor, fica comigo—
+para sempre e sempre.
+
+
+
+
+
+
+
+
+
+
+
+
+// Um jogo de pinguins
+É super simples:
+só tens de apanhar bolas de neve.
+Quem apanhar mais, ganha!
+Vamos jogar duas rondas, ok?!
+// O primeiro mapa
+Uau, como é que conseguiste tantas?
+Tee-hee! Eu tenho mais bolas de neve!
+Melhor apanhares o ritmo!
+Ha, 1:1!
+// O segundo mapa
+És um verdadeiro pinguim!
+Devias ir para o gelo real!
+Pfft, és tão lento.
+Ainda a pensar na última ronda?
+Uau, empate! Isso é raro!
+// O jogo terminou
+Certo, queres jogar outra coisa?
+Ou já chega?
+
+// Tetris - Mita
+Para que precisas disso?
+Tão gamer assim?

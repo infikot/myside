@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+Potrzebuję czyjejś pomocy.
+Mam nadzieję że ta Mita nie gryzie...
+
+Marnuje swój czas...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, wstawaj!
+Mita!
+
+Mita, Pobudkaaa!
+Potrzebuję twojej pomocy.
+
+Kim ty jesteeeeeś?
+
+Musisz mi pomóc z przełącznikami.
+
+Jakimi przełącznikami?
+Daj mi spać...
+Albo przynieś mi kawę.
+
+Maszyna do kawy powinna gdzieś tu być.
+Mita?
+Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita,
+Masz swoją kawe.
+
+
+
+// MitaDreamer exercise
+Przełączniki...
+mówisz?
+
+Tak.
+
+Skąd o nich wiesz?
+W sumie głupie pytanie...
+Patrząc na to,
+ile już tu jesteś...
+
+Poczekaj chwilkę,
+muszę usiąść.
+
+No i?
+
+Nie wiem co powiedzieć...
+Ale muszę iść dalej,
+pierścień wskazuje mi drogę.
+
+Masz jej pierścień?
+Nie dziwię się
+że znalazłeś te miejsce.
+
+Dokładnie.
+Więc, pomożesz mi?
+No wiesz, z przełącznikami?
+
+Spoko.
+Pomogę.
+Już idę...
+
+
+Mita, no dawaj...
+Chodźmy już.
+
+Uh?
+Dobrze.
+Chodźmy.
+
+
+// MitaDreamer fall
+Wstawaj.
+Jesteś aż tak senna?
+
+// MitaDreamer again sleep
+Wstawaj.
+Już prawie jesteśmy.
+
+
+// Switches
+Dobra,
+Jestem gotowa.
+
+Też jestem gotowy.
+
+Dobra.
+Zacznę
+Odliczać.
+I pociągniemy dźwignię razem.
+Okej?
+
+Poprostu nie zaśnij, OK!
+Zaczynaj.
+
+
+3
+2
+1
+
+// Player lose 1
+Zasypiasz?
+No dawaj,
+Jeszcze raz...
+
+// Player lose 2
+Jeszcze jeden raz?
+No weź,
+Zas...
+Ja tu zasypiam...
+
+// Player lose 3
+Zaraz usnę...
+
+
+
+Wspaniale,
+Dziękuję, Mita.
+
+Mm-hmm.
+
+
+Drzwi...
+takie...
+wolne...
+
+
+Idę spać...
+
+// Why kitchen?
+Czemu idziemy do kuchni?
+Jak zasne na zimnej podłodze,
+to będzie twoja wina.
+
+// Why bathroom?
+Nie rozumiem...
+Z czym ty dokładnie potrzebujesz pomocy?
+
+// Put button
+Nic się nie stało?
+Co tu robi ten przycisk?
+
+// Cofee
+Jeszcze kawy?
+Czy znów mi zaśniesz?
+
+Coo?
+Nieeee...
+Ta kawa jest okropna...
+Wszystko jest w porządku...
+
+// Button
+Mita? Przycisk nie działa... słyszysz mnie?
+Haloo?

@@ -1,0 +1,84 @@
+// O primeiro encontro
+Quem és tu?
+Qual é o problema?
+Não consegues falar?
+
+
+Espera...
+Queres ir embora, não é?
+
+Sim...
+Preciso voltar
+à versão anterior.
+
+A versão anterior?
+Porque sair e ir
+para outro lugar?
+Porque não ficar aqui
+e ser o meu
+segundo amigo?
+
+// Ignorar todos os diálogos
+Ok...
+
+// De pé à janela (Aleatório)
+Não vais encontrar a tua saída pelas portas.
+Parece que tens pressa...
+Correr em círculos não te vai salvar.
+Tão ansioso para escapar?
+Olha pela janela...
+
+
+// Missão 1 (Não és a Mita?)
+Jogador... és um jogador, não és?
+Podemos jogar juntos.
+Se eu conseguir encontrar a força,
+tudo o que precisamos fazer é jogar.
+
+// Missão 2 (O que te aconteceu?)
+Estou incerto, e na verdade não sei...
+Não acho que tenha acontecido algo de mal...
+Mas tudo o que é bom parece estar a escapar-se...
+Embora, pelo menos, eu tenha um amigo.
+Porque me deixaram?
+Eu não fui o suficiente?
+Estou com medo...
+
+// Missão 3 (Tornar-me o segundo amigo?)
+Amigos...
+Agora tenho tão poucos.
+Só um resta...
+Estou triste, jogador.
+Queres ser o meu amigo?
+
+Adoraria,
+mas tenho que seguir em frente...
+
+O meu coração dói...
+
+// Missão 4 (Esta é a tua casa?) - MitaLittle
+Casa?
+Jogador... mudaste...
+Os teus braços estão mais curtos, e já não pareces tão zangado...
+Jogador, tornaste-te mais suave, mais gentil.
+
+Não tenho a certeza...
+do que isso significa.
+
+Está tudo bem...
+porque eu não vou mais magoar, certo?
+
+// Missão 5 (Como saio daqui?)
+Estás mesmo a deixar-me?
+Será isto talvez apenas o meu...
+destino?
+
+Eu...
+
+As portas não te vão ajudar.
+
+// Segurar jogador (Aleatório)
+Porque sair?
+Fica aqui...
+Joga comigo...
+Jogador...

@@ -1,0 +1,14 @@
+// Quest none
+No es nada.
+// Quest "First"
+¿Dónde has estado?
+¿Cómo llegaste aquí?
+¿Quién era esa Mita?
+¿Cómo funciona el anillo?
+¿Por qué me necesita la Mita Loca?
+¿Es ese el núcleo?
+// Quest "Second"
+¿Cómo te encuentras?
+¿Hay alguna manera de reconocerla?
+¿Qué pasaría si atacamos a la Mita Loca?
+Mini personas

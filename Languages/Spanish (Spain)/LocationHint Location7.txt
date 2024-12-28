@@ -1,0 +1,4 @@
+Encuentra una salida.
+Persigue a las mini personas hasta la salida.
+Habla con Mita.
+Sigue adelante.

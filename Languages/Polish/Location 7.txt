@@ -1,0 +1,19 @@
+// Nazwy utworow 
+Cracker
+Bubble drink
+Balloon
+// Quest none
+Nie ważne.
+// Quest "Mila Mita"
+Powinienem ci ufać?
+Skad tu sie wzialem?
+Co to za miejsce?
+Jak się tutaj znalazłaś?
+Co zrobilaś z pierścieniem?
+Czy te przejście jest niebezpieczne?
+Pomożesz mi uciec?
+Podobno masz plan.
+// Quest Mita z czapka.
+Czyli nic nie pamiętasz?
+Co myślisz o Micie z pierscieniem?
+Zawsze nosisz tą czapke?

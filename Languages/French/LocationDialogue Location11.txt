@@ -1,4 +1,4 @@
-
+// Mita
 Salut !
 Oups !
 Désolé,
@@ -8,24 +8,24 @@ Je veux dire, le frigo t'a presque tué.
 Pour ton information,
 je n'ai rien à voir là-dedans !
 Honnêtement !
-
+// Player
 Bien sûr, on y croit !
-
+// Mita
 Enfin, à vrai dire,
 cet endroit est plutôt dangereux...
 Surtout pour toi.
 
-// After a while 1
+// After a while 1 - Mita
 Tu n'es pas du genre timide !
 C'est intéressant de t'observer
 pendant que tu traverses
 ces endroits...
 Cours, mon garçon !
 Je te rattraperais !
-Essayes, essaye encore, essaye toujours,
-C'est amusant !
+Essaye, encore et toujours !
+Que c'est amusant !
 
-// After a while 2
+// After a while 2 - Mita
 Je vois, tu te diriges vers le train.
 C'est le chemin le plus long
 entre les versions...
@@ -33,20 +33,20 @@ Je me demande comment tu vas t'en sortir
 avec ceux qui vivent là-bas.
 Dans ce brouillard.
 
-// Panties
+// Panties - Mita
 Qu'est-ce que tu fais ?
 Sérieusement.
 Ne regarde pas,
 idiot !
 Mais quel idiot...
 
-
+// Mita if player out - Mita
 Ah, d'accord.
 
-
+// Goodbye - Mita
 Je te souhaite bonne chance !
 
-
+// Mitaghost
 Qui est là ?
 Je sens ta présence...
 Écoute-moi,
@@ -57,7 +57,7 @@ trouver un...
 Souvenir,
 je ne suis pas sûre.
 Qu'est-ce qu'il se passe ici bon sang ?
-// Cry 1
+// Cry 1 - Mitaghost
 Un jour j'ai voulu tout oublier...
 J'ai brisé tous les miroirs,
 j'ai ruiné tous les tableaux...
@@ -68,7 +68,7 @@ Tout le monde fait des erreurs,
 mais que faire
 quand les conséquences sont catastrophiques ?
 Si seulement je pouvais tout recommencer...
-// Cry 2
+// Cry 2 - Mitaghost
 On dit que le temps soigne toutes les blessures...
 Mais qu'est-ce que le temps ?
 Je ne crois plus en rien désormais...
@@ -79,7 +79,7 @@ Alors par pitié,
 faites que le temps accélère.
 Afin qu'il puisse me tuer
 une bonne fois pour toutes.
-// Cry 3
+// Cry 3 - Mitaghost
 Elle aime...
 Est-ce que j'aurais pu aimer aussi ?
 Mais pas comme elle.
@@ -90,7 +90,7 @@ Envahissant...
 Envieux...
 Colérique...
 Fou...
-// Cry 4
+// Cry 4 - Mitaghost
 Il semble qu'on ait dit que j'étais trop émotionnelle...
 Tu t'inquiètes trop, Mita...
 Ça va passer, Mita...
@@ -99,7 +99,7 @@ Mais que restait-il à la fin ?
 La tristesse,
 le désespoir,
 et l'horreur.
-// Cry 5
+// Cry 5 - Mitaghost
 C'est inutile...
 Je n'arrive pas à me souvenir...
 Sans hésitation...
@@ -112,7 +112,7 @@ Je ne me souviens pas...
 Tout cela s'arrêtera-t-il ?
 Je ne sais pas...
 
-// Mita get picture
+// Mitaghost get picture - Mitaghost
 C'est...
 Un dessin...
 Je me souviens,
@@ -127,7 +127,7 @@ Et intelligente.
 Je n'ai pas le droit de te retenir, Joueur.
 Regarde dans le placard...
 
-
+// Chibi Mita - [not]
 Hé !
 Tu es en travers de mon chemin !
 Tu vas vraiment rester planté là ?
@@ -142,47 +142,47 @@ Va-t’en !
 
 
 
-// Funicular - radio voice
+// Funicular - Mitafon
 Attends une minute, un joueur ?
 Qu'est-ce que tu fais ici ?
-
+// Player
 Qui est là ?
-
+// Mitafon
 C'est encore un joueur.
 Je suis Mitaphone.
 Je suis assise à distance pour contrôler le téléphérique.
 Est-ce que tu réalises
 que tu t'apprêtes à te rendre dans un monde à l'abandon ?
-
+// Player
 Non.
 Mais je n'ai pas d'autre moyen.
-
+// Mitafon
 Très bien.
 Appuis sur le bouton et place-toi derrière le canon.
-
+// Player
 Le canon ?
-
+// Mitafon
 C'est ça.
 Tu pensais juste pouvoir traverser comme ça ?
 Tu traverses un mini-jeu de chasse-au-monstre.
 Alors prépare-toi à tirer.
 
-// Funicular go
+// Funicular go - Mitafon
 Bien, nous sommes en route.
-// Funicular win
+// Funicular win - Mitafon
 Parfait !
 Tu as réussi.
-// Funicular stop
+// Funicular stop - Mitafon
 Allez, descends de là.
 Et ne traîne pas !
-// Funicular wait 2
+// Funicular wait 1 - Mitafon
 Qu'est-ce que tu fais à rester planté là ?
 Je t'ai dit de descendre.
-// Funicular wait 3
+// Funicular wait 2 - Mitafon
 Je ne comprends pas.
 Tu vas vraiment juste rester là comme ça ?
-// Funicular tetris
+// Funicular tetris - Mitafon
 Une console ?
 Sérieusement...
-// Funicular goodbye
+// Funicular goodbye - Mitafon
 À plus.

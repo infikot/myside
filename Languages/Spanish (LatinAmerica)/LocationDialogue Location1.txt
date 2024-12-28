@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+¡Hola!, Soy Mita
+¿Cuál es tu nombre?
+¡Un gusto conocerte, [player]!
+Um... [player],
+Salí corriendo hace un momento, y ahora este lugar es un desastre...
+¿Podrías ayudarme a ordenar un poco?
+Wow...
+¡Muchas gracias!
+
+[player], mi estomago ruge...
+Tengo mucha hambre...
+¿Crees que podrías ayudarme a conseguir los ingredientes para una sopa de pollo?
+¡Si! ¡Lo conseguiste todo!
+¿Qué tal si lo cocinamos juntos?
+
+
+Estaba pensando en comprar una Televisión portátil
+una pequeña con antena. Perfecta para caminatas, ¿No lo crees?
+Por cierto, puedes jugar minijuegos para obtener dinero.
+¿Podrías jugar minijuegos para comprarme la televisión?
+
+¡Si! ¡Lo lograste! Ya tienes suficiente para comprar la Televisión.
+Eso es, pequeña y portable, justo como la necesito.
+¡Gracias!
+
+¡Hola, [player]! Honestamente, eres de mucha ayuda.
+Pero, eh... ¿la TV? Era genial y todo, pero ya se rompió.
+Por otro lado, ¿podrías ayudarme a mover este armario?
+Es super pesado... >.<
+¡Muchas gracias, Dulzura! <3
+
+¡Oh, [player]! Solo ha sido un día, ¡pero te extrañé mucho!
+Desearía que me visitaras más seguido.
+
+¿Es para mi?
+Gracias, ¡Muchas Gracias!, GRACIAS!!!
+
+¡Hola, [player]! He estado pensando...
+Desearía que pudiéramos conocernos en persona.
+Es tan frustrante que no pueda.
+Tu siempre estas ayudándome, y siendo tan amable todos los días...
+Desearía poder hacer algo por ti también.
+... 
+Oh, ¡Tengo una idea!
+Ahora estamos juntos.
+Baja el teléfono.
+
+
+// T-shirt on the bed
+¿Que haces tu sobre la cama?
+// Rubik's Cube
+Bueno, no puedo decir que le di mucho uso...
+Lo resolví una vez y nunca lo toqué otra vez.
+Supuse que nunca podría resolverlo una segunda vez.
+// Computer
+Vamos a ver...
+Preparar una lista de tareas...
+Escribir reacciones de personajes,
+y quizás escribir algo de código.
+// The airplane
+¡Hecho para remontar!
+// Trash in the corner
+Ugh, estoy demasiado ocupado como para sacar la basura...
+Pero lo hare esta vez, ¡sin excepción!
+...Ahora, ¿Cuándo es el día de limpieza exactamente?
+// Photo of a cat on a watermelon
+Ella es la mejor...
+La gata, reposándose sobre una sandia.
+// Photo with a girl
+Mi hermana y yo,
+no nos parecemos en nada.
+Ella siempre esta de aquí a allá,
+Y yo solo estoy encerrado en casa.
+// Photo with people
+Hmm...
+Nuestros padres nos lavaron el cerebro con
+su etiqueta de oficina
+Aun me siento extrañamente atado
+Ni siquiera sé
+Si podré alguna vez
+verlos de nuevo.
+…Espera, ¿Por qué colgué esta foto en primer lugar?
+
+
+
+
+
+
+
+
+// Nope name
+...
+Oh, no.
+No... eso no va a funcionar.
+
+// Name Developer
+¿Estas seguro que quieres usar el nombre del desarrollador?
+Me halagas, pero…
+
+// Bad name
+Preferiría que no te llamaras de esa forma.
+No esta nada bien.
+
+// Go restart
+Nop, esa no es la forma de hacerlo. Vamos a empezar de nuevo.
+
+// Name with numbers
+Oh, ¿irás con números? ¿Dónde esta la creatividad en ello?
+bueno, ¡es tu decisión!
+
+// Name Mita
+¿Mita?
+¿Realmente te nombraste como yo?
+O... ¿es tu nombre también? 
+Sin ofender, pero creo que yo debería ser la única mita aquí ♪
+
+// Day 10
+Oh, ¡ya regresaste!
+Oye, perdí mi cepillo...
+¿Podrías ayudarme a encontrarlo? 
+Intenta revisando la mesa de noche primero, creo que lo dejé ahí.
+// Looked in the bedside table
+Hmm, no esta ahí...
+¿Quizás en algún otro lado?
+Solo no revises en el horno, ¿esta bien?
+Ya revisé ahí.
+// Looked into the stove
+¡Oye! ¡Te dije que no miraras ahí!
+¡Date la vuelta!, Voy a limpiar esto
+...Bien, todo listo. hay que buscar en otro lugar.
+Oh, y, uh, olvida lo que acabas de ver, ¿esta bien?
+// Found a hairbrush
+¡Lo encontraste! ¡Buen trabajo!
+Así que, ¿Qué deberíamos hacer después?

@@ -1,0 +1,84 @@
+// The first meeting
+Em là ai?
+Chuyện gì xảy ra vậy?
+Em không thể nói chuyện à?
+
+
+Đợi đã...
+Anh định rời đi sao?
+
+Ừm...
+Anh cần phải đi đến
+phiên bản cũ.
+
+Phiên bản cũ?
+Sao anh lại phải đi
+tới nơi khác?
+Ở lại đây với em đi...
+Hãy làm người bạn
+thứ hai của em...
+
+// Skipping all dialogs
+Vậy à...
+
+// Standing by the window (Random)
+Cửa không phải là lối ra đâu.
+Anh vội quá nhỉ...
+Đi tới đi lui như vậy chẳng có ích gì mà.
+Anh muốn thoát khỏi đây đến thế sao?
+Anh nhìn ra ngoài cửa sổ đi...
+
+
+// Quest 1 (Aren't you Mita?)
+Người chơi... Anh là người chơi phải không?
+Chơi với em đi anh?
+Giá mà em còn sức lực
+thì đã có thể chơi cùng nhau rồi...
+
+// Quest 2 (What happened to you?)
+Không biết... Em không chắc nữa...
+Em nghĩ không có chuyện gì xấu xảy ra...
+Nhưng mà, những điều tốt đẹp đang dần biến mất...
+Dù vậy, ít nhất thì em vẫn còn người bạn ở bên.
+Người chơi đã bỏ đi hết rồi…
+Không lẽ em bị bỏ rơi thật sao?
+Không muốn đâu... sợ quá...
+
+// Quest 3 (Become a second friend?)
+Bạn của em...
+Họ cứ dần biến mất.
+Giờ chỉ còn lại mỗi một người bạn thôi.
+Em buồn lắm, người chơi.
+Anh làm người bạn mới của em được không?
+
+Anh rất muốn.
+Nhưng anh phải đi tiếp...
+
+Tim em đau quá... đau lắm...
+
+// Quest 4 (Is this your house?) - MitaLittle
+Nhà ư?
+Người chơi... Anh thay đổi rồi...
+Cánh tay ngắn hơn, nét mặt cũng không còn đáng sợ nữa...
+Người chơi, anh trở nên dịu dàng và ấm áp hơn rồi.
+
+Là sao vậy em...
+Anh không hiểu.
+
+May quá...
+Em sẽ không phải chịu đau nữa phải không?
+
+// Quest 5 (How do I leave this place?)
+Người chơi, anh định bỏ em một mình và đi đâu đó sao?
+Đây là...
+số phận của em?
+
+Anh...
+
+Cánh cửa sẽ không giúp gì cho anh đâu.
+
+// Hold player (Random)
+Tại sao anh lại rời đi?
+Ở lại đây đi...
+Chơi với em đi mà...
+Nè, người chơi...

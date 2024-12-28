@@ -1,0 +1,16 @@
+// Quest none
+Nie ważne.
+// Quest "Pierwsza Mita"
+Jesteś... Mita?
+A co jeśli chciałbym wrócic do domu?
+Jakim cudem trafiłem do gry?
+// Quest "Kitchen eat"
+Jest tutaj bardzo przytulnie.
+Kiedy mogę wrócić do domu?
+Czuje się tutaj jak w jakims śnie ...
+Czemu za oknem jest tak biało?
+Po co ci nożyczki skoro mogłaś użyc noża?
+Bon appétit!
+// TV
+Silny w smaku!
+SILNY w dzialaniu!

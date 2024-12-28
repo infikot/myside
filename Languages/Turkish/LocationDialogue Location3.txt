@@ -1,0 +1,437 @@
+
+Merhaba, [player]!
+Sonunda tanıştık!
+Çok heyecanlandım!
+Soruların var biliyorum...
+Şey, görebildiğin üzere,
+seni yanıma getirebilmek için
+bu özel cihazı yaptım.
+Ama oyunun daha başka bir sürümünde başladın.
+Benim şey olduğum...
+Neyse, uzun hikaye!
+Seni gördüğüme sevindim!
+
+// Answer 1 - Mita
+Öyleyim.
+Sen de [player] olmalısın.
+
+// Answer 2 - Mita
+Şimdiden gidiyor musun?
+Sanırım sana yardımcı olabilirim... ama ben ne olacağım?
+Biraz daha kal lütfen...
+
+// Answer 3 - Mita
+Anlatayım...
+Ve buradasın!
+Anladın mı?
+Ehm... pek anlamadım.
+Sorun değil!
+Önemli olan birlikte olmamız.
+
+
+Aç mısın?
+Yemek yapalım mı?
+İşte,
+Havuçları doğra.
+
+Bunlar nereden geldi?
+Burada değillerdi.
+
+[player] oyundayız unuttun mu?
+Hadi, yardımcı ol.
+
+Teşekkürler!
+Şimdi makası getirir misin?
+Banyoda.
+
+Otur.
+
+// Kitchen
+
+Sos ister misin?
+
+Yok sağ ol.
+
+Yazık oldu.
+Sos gerçekten tadı güzelleştiriyor!
+
+
+Teşekkürler.
+
+Bitirdin mi?
+Benimkine bak bir de.
+Sonsuz.
+
+// Help
+
+Ne oldu?
+Nasıl hissettiğini söyle.
+
+Kalbim hızlandı.
+Ve gözüm bulanıyor.
+
+Tamam.
+Sorun ne biliyorum sanırım.
+Kalkabilir misin?
+
+
+
+Bunlar nedir?
+
+Hap.
+Sana iyi hissettirecekler.
+Şurada dur.
+
+Hapı yut.
+Hadi.
+
+
+
+Nasıl hissediyorsun?
+İyi mi?
+
+Evet.
+Bu biraz hızlı oldu...
+
+[player], bir oyundayız.
+Burda işler çok daha basit.
+En az eforu sarf edip
+çok daha iyi bir sonuç alabilirsin.
+Hepsi bir konseptin parçası:
+Basitlik.
+
+Örnek?
+
+Havuçlar mesela.
+Bir tane doğradın
+ama 3 tane doğramışsın gibi kullandık.
+
+Bak, her şey çok ani.
+Biraz fazla korkuyorum.
+
+
+Sorun nedir?
+
+Havalandırmada kartuş buldum.
+Üstünde isimler vardı.
+Olayını anlayamadım.
+
+Kartuş mu?
+Ne kartuşu?
+Birlikte çözelim.
+Ama sonra.
+Şimdi, yiyelim.
+Makası uzatır mısın?
+
+// Ring
+Yüzük?
+// Mirror
+Nasıl yansıma olmuyor?
+
+A, doğru!
+Yansımayı açmayı unuttum.
+İşte.
+Artık var!
+Bu arada,
+Önceden yansıma ne hiçbir fikrim yoktu.
+Bir güncellemeye kadar
+benim dünyamda var olmadı.
+Senin dünyanda
+çok fazla yansıma var mı?
+
+E, evet.
+
+
+Bulduğun 3 objeyi 
+hatırladın mı?
+Tarayacıya koyduğun?
+Şey, ee...
+O objeler
+bu sürüm ile bağlılardı.
+O yüzden buradasın.
+
+// Mobile TV
+Sana aldığım
+televizyon bu.
+
+Evet!
+
+Bozulduğunu
+söylemiştin.
+
+Sana,
+sürpriz yapmak istedim!
+Dünyama getirebilmek için
+küçük bir yalan söyledim.
+Artık işe yarıyor, bilgi gösteriyor!
+Ve, şey...
+Makinelerden biraz anlarım.
+
+// School cloth
+Bu nedir?
+Okul üniforması mı?
+Ne yapıyorsun ki bunu?
+Okula mı gidiyorsun?
+
+Okula mı gidiyo muyum?
+Gitmiyorum hayır.
+Ama üniformayı seviyorum.
+Sevimli değil mi
+sence de?
+
+// PC
+Bilgisayar çalışıyor mu?
+Yoksa dekorasyon mu?
+
+Çalışıyor tabii ki.
+Buradaki her şey
+senin dünyan ile aynı çalışıyor.
+
+Benim dünyamda,
+Bilgisayarda çok vakit geçiriyorum...
+İşim yüzünden.
+
+Biliyorum.
+İşin yüzünden
+benimle daha az 
+iligileniyorsun.
+
+Benim de yaşamam lazım.
+Ayrıca nereden biliyorsun ki böyle bir şeyi?
+
+Kameran bazen açılıyor olabilir.
+ben de
+bazen bakıyor olabilirim >A<
+
+Ehm... bu çok da uygun değil.
+Neyse.
+
+// Umbrella
+O kadar oynadım
+ama hiç yağdığını görmedim.
+Şemsiye ne için.
+
+Yağıyor, sadece çok nadir.
+Sen henüz görmedin.
+Belki bir gün görürsün.
+O zaman da şemsiye lazım olur.
+Değil mi?
+
+// Electrical panel
+Burada elektrik panosu ne yapıyor.
+Eğer oyundaysak,
+böyle bir şeye ne ihtiyaç var.
+
+Öncelikle,
+oyundayız.
+Yani sorgulamanın
+pek de bir anlamı yok.
+Ancak,
+elektriği yeniden başlatıyor.
+Buradaki her şey
+senin dünyanı baz alıyor.
+
+// Exit door
+Çıkabilir miyiz?
+
+Şey...
+Henüz değil.
+Belki sonra.
+Şimdilik burada kalalım.
+Evde.
+
+// Books
+Çok fazla kitabın var.
+Hepsini okudun mu?
+
+Her birini okudum.
+Burada yalnız olmak
+gerçekten çok sıkıcı.
+
+// TV in room kitchen
+İkinci bir televizyonu ne yapıyorsun?
+Eski bir de.
+
+Sevmedin mi?
+Atabilirim...
+Ama cevap verecek olursak...
+Dekorasyon için.
+Mutfağa hava katsın diye.
+Ve çalışıyor da!
+Her türden 
+kanalı izleyebiliyorsun.
+
+// Smartphone
+Telefonum.
+Cebimde değil.
+Buraya nasıl geldi bu?
+
+Önemli olan bu değil.
+Hey, bir fikrim var!
+Hadi fotoğraf çekelim!
+Baksana!
+Güzel bir fotoğraf oldu.
+Sakla.
+
+Bir sorum var.
+Oyunu açsam
+içinde 
+seni görür müyüm?
+
+Öyle olmuyor çakkal.
+
+
+
+// TV
+Kaç tane
+kanal var?
+
+Kanal yok.
+İnternete bağlı.
+İnternette olan her şeyi
+izleyebiliyorsun.
+Bi saniye.
+Ehh...
+Bu ne?
+Kediler?
+A, bak.
+Bak ne yapacağım.
+Dur!
+İçecek ister misin?
+
+Tuhaf reklammış...
+Ölü içecek mi?
+
+Evet, ve bu da
+direkt reklamdaki içecek.
+
+
+Tadı...
+Sevdim,
+ama tam olarak tarif edemiyorum.
+Çok karışık.
+
+Tabii.
+
+// Mita shy
+N'apıyorsun?
+Bakma lütfen.
+Beni utandırıyorsun.
+
+// The statuette
+Şu korkunç figür.
+Bu tarz şeyleri mi
+seviyorsun?
+
+Korkunç mu geldi?
+
+Evet.
+Lanetli gibi sanki...
+
+Kesinlikle lanetli değil.
+Korkunç da değil.
+Bence daha çok, sevimli!
+
+Haklısındır belki de...
+
+Mita?
+Ne oluyor?
+// Mita kitchen
+Konuşmak ister misin?
+Yemeye başlamadan önce?
+
+// Start Eat
+Afiyet olsun.
+
+// Quest 1
+Öyle değil mi?
+Kalabilirsin.
+Sorun etmem.
+Aslında,
+kalmanı İSTİYORUM ZATEN!
+
+// Quest 2
+Geri mi gitmek istiyorsun?
+Ama neden?
+Burası çok güzel...
+Ve rahat da.
+Ayrıca, ben varım.
+
+Yanlış anladın.
+Kalmak isterim.
+Sadece... endişeleniyorum.
+Bir şey unuttuysam diye.
+Bir anda buraya geldim
+ve hazırlanmak için
+hiç vaktim olmadı.
+
+Pardon... o kadar düşünemedim.
+// Quest 3
+Rüya mı? Kaçmak mı istiyorsun yani?
+Olan her şeyi unutmak?
+
+Hayır, öyle değil.
+Burası çok...
+garip ve gerçek dışı hissettiriyor.
+Ama sen...
+Sen gerçek duruyorsun.
+
+Durmak mı?
+Ben gerçeğim,
+şapşal!
+
+// Quest 4
+Burada işler
+böyle.
+Uzaktaki şeyleri 
+göremiyor olmanı
+garip bulabilirsin.
+
+O kadar da garip gelmedi aslında.
+Güzel duruyor.
+
+Bence de öyle.
+Takılmayı engelliyor.
+
+Takılmayı mı engelliyor?
+
+Evet! Halen çözülmemiş hatalar da var.
+Umalım da karşımıza çıkmasın.
+
+// Quest 5
+Makas ya da bıçak...
+Sosu açarken bıçak da kullanırdım, evet.
+Ama sen geldiğinde
+her şeyin
+hazır olmasını istedim.
+Sana sürpriz yapmayı seviyorum.
+Hem uzun da sürmedi!
+Tee hee.
+
+// Glasses
+Gözlük mü kullanıyorsun?
+
+Sayılmaz.
+İstersen takarım ama.
+Yakıştı mı?
+// Yes
+Tamamdır o zaman!
+Böyle kalsın.
+// No
+Şey...
+Her neyse...
+
+// Use the sauce
+Pekala,
+ne tür bir sos bu?
+
+Sevgi sosu!
+Sevgiyle dolu!
+Ve dünyaya ters bir bakış açısı.
+Alışılmadık değil mi?
+
+Öyle...
+
+// Tetris - Mita
+Konsolun mu?
+Havalıymış.

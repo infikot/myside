@@ -1,0 +1,165 @@
+Nuevo Juego
+Continuar
+Menú Principal
+Salir
+Configuración
+Logros
+Créditos 
+Regresar
+Cargar
+Idioma
+Cargando...
+Gráficos 
+Sonido 
+Teclado y Ratón
+Mando
+Resolución
+Modo ventana
+Efectos de gráficos
+Efectos de color
+Suavizado de sombras
+Desenfoque
+Deslumbramiento
+Anti-alising
+Sombras
+Calidad del Mundo
+Programación
+Animación
+Efectos de Sonido
+Música
+Partículas
+Texturas
+Modelos 3D (98%)
+Guion
+Reiniciar
+Adelante
+Atrás
+Izquierda
+Derecha
+Interactuar
+Sensibilidad del Ratón
+¿Salir del Juego?
+Si
+No
+Regresar al menú principal
+Giros suaves
+Configuración del Juego
+Estilo de sombras
+Atuendos
+Interfaz
+Modelos 3D (2%)
+Volumen Voces
+Pausa
+Menú
+¡Felicidades! ¡Terminaste el juego!
+Tu tiempo:
+Subtítulos
+Brillo
+Sincronización Vertical
+Guardado
+Personajes
+Personajes - Mitas
+Personajes - Cartuchos
+Cartuchos
+Mitas
+Empezar desde Cero
+¿Estas seguro que quieres borrar todo tu progreso y empezar desde cero?
+Compilando Shaders, tiempo de espera estimado: 2 horas.
+¡¿Compilación de 2 horas?! Mejor nos saltamos la espera.
+Creando trazo realista de sombras, tiempo de espera estimado: 10 minutos.
+Solo bromeaba, no usamos esas cosas tan elegantes aquí.
+Umm...
+Oh, ¡Ya esta listo!
+Ladear mientras caminas
+Mostrar pistas
+Voz del Jugador
+Discord
+Perfil de personaje agregado
+Angulo de visión
+Voz
+Desactivado
+Extender mano hacia la puerta
+Animación
+Habilitar voz del jugador
+Mita
+Mita de Cabello corto
+Mita amable
+Mita con Gorra
+Pequeña Mita
+Mita Dormilona
+Mita 2D
+Mila
+Mita Horrible
+Mita Central
+Mita Fantasmal
+Mini Mita
+Mita Maniquí
+
+
+
+// Name load location
+¿Estoy dentro de un juego?
+Juntos al fin
+Las cosas se ponen raras
+El sótano
+Mas allá del mundo 
+El Bucle
+Mini Mita
+Maniquíes y rompecabezas olvidados
+Ella solo quiere dormir
+Novelas Visuales
+Leyendo libros, destruyendo glitches
+¡Corre y escóndete!
+Versión antigua
+Charla sincera
+Reinicio
+Gorrita
+Retazos Olvidados
+¿El mundo real?
+¡Fuera del núcleo!
+Jugador 1
+Jugador 2
+Jugador 3
+Jugador 4
+Jugador 5
+Jugador 6
+Jugador 7
+Jugador 8
+Jugador 9
+Jugador 10
+
+Modo Pacifico
+¡Este modo aún se encuentra en desarrollo! Es tan extenso que los desarrolladores aún no han logrado terminarlo. Pero no te preocupes, lo prometido será incluido en una actualización mayor próximamente. Y mírate, ¡ya tienes la ventaja al desbloquear el acceso! ahora todo lo que falta es esperar...
+Entonces, ¿Qué es este Modo pacifico? Es tu oportunidad para reconectar con Mita en una manera completamente diferente! Ella estará mas que Feliz por pasar tiempo contigo, de mañana a noche, en un mundo rebosante de diversión y sorpresas. Puedes esperar conversaciones sinceras uno a uno, compartir galletas, jugar juegos, y muchos momentos divertidos juntos.
+
+
+Censura
+Agradecimientos especiales:
+Íconos de logros: Iceсloud
+Fotografías: Nineko Hori
+Traductores
+Quienes convirtieron el texto del juego a otro idioma.
+Socios de Publicacion
+Marketing de juego
+Testers
+Quienes jugaron y encontraron todo tipo de bugs.
+Esta traducción fue hecha por miembros apasionados de la comunidad y fue agregada al juego bajo su petición.
+Este juego contiene sustos, sonidos intensos y luces parpadeantes. Que pueden resultar peligrosos para personas con problemas cardiacos o ataques epilépticos. Se recomienda tomar precaución.
+¡Modo Pacifico Desbloqueado!
+
+Modo Foto
+El modo foto te permite desplazar la cámara a lugares que por otro lado serian inaccesibles 
+Salir del Modo Foto
+Esconder interfaz
+Mantener para rotar la cámara
+Movimiento rapido
+Movimiento suave
+Velocidad de la cámara
+Efectos
+Control del tiempo
+Brillo
+Contraste
+Viñetas
+Tomar Foto
+Abrir carpeta de Fotos
+Ángulo de cámara

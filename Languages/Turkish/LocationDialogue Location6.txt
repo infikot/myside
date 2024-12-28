@@ -1,0 +1,150 @@
+
+Mita?
+
+Buraya nasıl geldin sen?
+
+Sen Mita'sın değil mi?
+Ama sende bir farklılık var.
+
+Gözlemcisin, anladığım kadarıyla.
+Ama haklısın.
+Tanıştığın Mita ben değilim.
+Dikkatli ol
+kötü bir şeylerin peşinde.
+
+He, kötü bir şey mi?
+
+Açıklamaya zaman yok:
+İşe yararsa sana her şeyi anlatırım.
+Koltuğun önündeki anahtarı getir.
+
+Ama...
+
+Sorularını sonraya sakla!
+Anahtarı ver bana.
+Bu yüzüğü al
+Hm?
+Burada çıkmak istiyorsun değil mi?
+Eh, evet...
+Tak o zaman.
+İşe yarar bi alet.
+İleride lazım olacak.
+
+Peki...
+Bu arada ben,
+[player].
+
+Hmm,
+[player].
+Ben... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Şu konsolu gördün mü?
+Al onu.
+
+Video mu izliyoruz?
+O yanındaki kim?
+
+Bu şu anda oluyor.
+Başka bir oyuncu.
+Onu kullanıyor.
+Seni de 
+kartuş yapmayı deneyebilir.
+
+Buradan acilen çıkmam gerek.
+Senin de öyle.
+
+Evet, çıkmalıyız.
+
+Yani diyorsun ki
+kullanıyor enayiyi.
+Kartuşu çekersem ne olur peki?
+
+Bu büyük ihtimal
+kartuşa geri alınamaz bir hasar verir.
+Bu da oyuncunun...
+öleceği anlamına geliyor tabii.
+
+...
+Kapatırsam ne olur?
+
+İşe yarayabilir...
+Denemeye değer. Kırmızı bir tuş var!
+Gördün mü?
+Buldum.
+Bas.
+
+// MitaKind quest 2
+Kalmam lazım.
+Sormam gereken sorularım var.
+Onun hakkında öğrenmem gereken şeyler var.
+Pek konuşmaya hevesli değil ama...
+
+// MitaKind quest 3
+Sana karşı dürüst olayım, burası benim sürümüm.
+Bir oyuncuyu ağırlıyordum.
+taa ki her şey birden değişene kadar.
+Sonra o çıkageldi...
+Ve oyuncuyu kartuşa çevirip
+beni de kilitledi.
+
+Bekle, oyuncuyu kartuşa çevirdi mi dedin?
+Öyle bir şey mi yapabiliyor?
+Neden ama?
+Oyuncuları ne yapıyor ki?
+
+Bariz bir şekilde delirmiş...
+Sadece bizimle eğleniyor ve bizi entrikalarına alet ediyor!
+Oyuncuları kartuşa çeviriyor...
+Bazıları ne olduğunu bile anlayamadı...
+Bazıları karşılık bile vermedi...
+Bu beklenmedik oldu...
+Bize yardım etmelisin!
+Ben mi? Nasıl?
+Sana ihtiyacım var!
+Bize yardım et, ben de sana yardım edeyim!
+Bu tek şansımız olabilir!
+Yüzük seni doğru sürüme götürecek.
+Seninle orada buluşurum.
+
+// MitaKind quest 4
+Halen tam olarak
+yukarıda ne gördüğümü anlamadım...
+O Mita...
+Beni öldürmeye mi çalışıyordu?
+
+Öldürmek mi?
+Aklında sandığından daha kötü bir son hazırlamış senin için...
+Acele etmen gerek.
+
+// Hide!
+Ah, siktir! Saklan!
+Ne?
+Çabuk, geliyor!
+Yüzüğü takip et, o seni kurtarır!
+
+
+Bakalım, bakalım, nerede olduğunu söyleyecek misin?
+
+Neden söyleyeyim?
+Onu öldürmeyeceksin değil mi?
+
+Yani söylemeyeceksin öyle mi?
+Heh, çabalamayı severim.
+Burada bir yerde olduğunu biliyorum.
+
+Bize karşı niye böylesin?
+Neler olduğunu bile söylemiyorsun!
+Ayrıca...
+Oyuncuları ne yapacaksın ki?
+Oyuncak değiller!
+Sana ne oldu böyle?!
+
+Yeter! Kes sesini, kukla!

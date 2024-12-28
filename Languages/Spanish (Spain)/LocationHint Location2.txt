@@ -1,0 +1,6 @@
+Echa un vistazo alrededor.
+Encuentra los objetos necesarios y colócalos en el escáner.
+Escanea los objetos y enciende la máquina.
+Ve al panel de fusibles cerca de la puerta principal.
+Encuentra las baterías faltantes y devuélvelas a la máquina.
+Enciende la máquina.

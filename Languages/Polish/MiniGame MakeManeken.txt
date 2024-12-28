@@ -1,0 +1,35 @@
+Wymagany skan!
+Wymagania
+Wersja
+Jakość szkieletu
+Nie znaleziono jednostki. Wymagany skan!
+Skan zakończony
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+O tak!
+Udało ci się!
+
+// Tutorial
+A więc... Co ja tu robie?
+Muszę się dostać do twojego ekranu...
+Teraz...
+Więc!
+Musisz się upewnić, że ten prototyp jest właściwy.
+Na początek zeskanuj go.
+Teraz, sprawdź wersję i szkielet.
+Porównaj dane prototypu do standardowej wersji.
+Pasują idealnie! Sprawdźmy teraz moduł emocji.
+Nasz okaz potrafi okazywać emocje! Pora sprawdzić moduł zachowania.
+W porządku. Wszystko się zgadza. Pociągnij za dźwignię
+Yay! Prawie gotowe! Podaj jej pudło z ubraniami.
+O to chodzi! Widzisz te światełka na górze? Udało nam się, więc jedno z nich pali się na zielono.
+Twoja kolej! Wrócę, kiedy wszystkie światełka będą zielone. Powodzenia!

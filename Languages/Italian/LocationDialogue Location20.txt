@@ -1,0 +1,92 @@
+
+Mila! No! Tu sei pazza!
+
+Ha-ha! CHE COS'È QUESTA?
+E' una nuova espressione quella che vedo?
+Avanti, fammi vedere di più!
+Guardare la stessa vecchia faccia diventa così noioso!
+
+// Mita arena "Hello"
+Come va, mio piccolo vagabondo irrequieto?
+Ancora in giro a correre? Non ne hai ancora abbastanza?
+
+Cosa hai fatto a Mila?
+
+Oh, allora non sei ancora stanco!
+Perfetto! Facciamo un altro gioco!
+
+Tu...
+
+Cominciamo con un piccolo test!
+Mettiamo alla prova la tua coordinazione!
+E ora la tua capacità di agire!
+E se ci fosse qualcosa di sbagliato in te?
+E se non ti meritassi nemmeno quella pelle
+che sei così orgoglioso di indossare!?
+
+// Show knifes
+Dai un'occhiata...
+Quale di questi attira la tua attenzione?
+Quello di destra?
+O
+quello di sinistra?
+
+// Throw knifes
+Oh, davvero?
+Ha importanza?
+Ti stavo solo prendendo in giro!
+Gli accoltellamenti sono una cosa vecchia, comunque.
+Non importa!
+Ho in programma giochi molto più divertenti,
+come...
+// Show recorder
+Guarda qui!
+Abbiamo bisogno di un po' di musica!
+Cosa ne pensi di questa melodia?
+Mi fa pompare il sangue!
+Inizierò
+con le regole!
+// Show rules
+Durante la riproduzione della melodia,
+è possibile muoversi.
+Ma quando la musica si ferma,
+NON TI MUOVERE!
+O sei morto. Capito?
+È semplice: arriva alla fine
+prima che la canzone finisca.
+Cominciamo!
+Ancora in piedi, eh?
+Corri, tesoro, corri!
+
+// Ready recorder
+Oh!
+Ma guardati! Così obbediente!
+Un piccolo esemplare perfetto.
+Ti voglio per me!
+È stato troppo facile, però, vero?
+
+Lasciami andare!
+
+Non metterti troppo comodo!
+Abbiamo molti altri giochi da fare!
+Ecco il prossimo:
+Chiuderò gli occhi...
+E quando li riaprirò,
+sarà meglio che tu te ne sia andato!
+Capito?
+Se ti vedo, ti punisco!
+Bene! Cominciamo!
+
+È inutile...
+
+// Ready hide
+Ce l' hai fatta!
+Stai andando alla grande, sta diventando emozionante!
+Ma ora diventerà più difficile.
+Molto più difficile.
+Nasconditi, corri, gira...
+
+Gah, che tu sia maledetta!
+
+// Player falls
+Credo di essere riuscito a scappare...

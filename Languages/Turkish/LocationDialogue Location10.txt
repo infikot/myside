@@ -1,0 +1,246 @@
+
+Bekle, dur burada!,
+Sessiz ol...
+İlerisi tehlikeli.
+Bu arada...
+Nasıl geldin sen buraya?
+
+Um...
+Yüzük doğru kapıları açıyor
+cart curt çok bilmiyorum.
+
+Yüzük mü?
+
+Buranın olayı ne?
+Niye bu kadar karanlık?
+
+Daha sonra anlatırım.
+Şimdilik çıkışa git.
+Oyun makinesinde buluşuruz.
+
+
+
+Acele et, geç kalma!
+
+
+// After mini-game
+Eee, mesajı anladın mı?
+
+Benim et ve kemikten yapıldığım senin de iskelet modelinden yapıldığın mı?
+
+Wow!
+Öyle diyince korkutucu geldi.
+Ama genel olarak öyle.
+
+Güzel, niye anlamam gerekti peki bunu?
+
+İlerlemenin tehlikeli olduğunu söylerken
+şaka yapıyorum mu sandın?
+Terk edilmiş modellerle karşılaşıcaksın...
+"hatalı" olarak işaretlenmiş olanlarla.
+Agresifler ve seni öldürmek isteyecekler.
+
+Yani, ne yapmalıyım?
+Kapı nereye açılırsa 
+oraya giderim.
+
+Peki!
+O zaman onlara arkana dönme.
+Gözünün önünde bulunsunlar!
+Onlara baktığında utanırlar,
+o kadar utanırlar ki donakalırlar.
+Aklında bulunsun.
+
+
+
+
+
+
+
+// Quest 1 (Why are there other Mitas down there?)
+Onlar yeni yapılmış.
+Benliklerini kazanmaları için
+zamana ihtiyaçları var.
+Sonra tek tek evlerine,
+götürüyorum.
+
+// Quest 2 (Why is it so dark downstairs?)
+Biz Mita'lar karanlıkta yaratılırız
+O yüzden biraz karanlıkta kalmamız gerekir.
+Karanlıktan ışığa yürümenin
+acısını hayal etsene...
+
+// Quest 3 (What are you doing here?)
+Anlamadın mı halen?
+Yeni Mita'ların yerleşmesinde yardımcı oluyorum!
+Ben olmasam kim yardımcı olacak?
+Sen mi?
+
+// Quest 4 (Why do we need this conveyor?)
+Bu bant ne için?
+Herkes için yer var mı?
+
+Buranın olayını anlamadığını
+söyleme bana lütfen...
+Burası sonsuz.
+
+Sonsuz mu?
+Ehm...
+Ne demek istiyorsun?
+1.9 son sürümse eğer
+19 dünya vardır.
+
+Tanrım,
+gerçekten hiçbir şey anlamamışsın.
+Sana şu tahtada
+her şeyi anlatabilirim.
+Duymak ister misin?
+
+// Quest 5 (What is your version?)
+Bekle,
+Ben seninle ileri sürümlerde karşılaşmamış mıyıdım?
+Ya da hayal mi etmiştim?
+
+Aslında mümkünatı var.
+Ben 1.5 sürümündenim.
+Orada mıydın?
+
+Evet.
+Bu saçmalığa itildiğimde
+ilk başladığım yer orasıydı!
+
+Vay!
+Ama nasıl?
+Evinin sıra numarası neydi ki?
+Mızmızlanan bir 'ben' var orada,
+takılmayı seven bir 'ben',
+başkalarını zorbalamayı seven ve her şeyi unutan bir 'ben'...
+Uzun bir liste...
+Ne hatırladığını söyle.
+
+Karanlıktı.
+Duvarda bir yazı yazıyordu
+Şey gibi...
+"Benimle oyna."
+
+Ah,
+Ne yazık ki...
+O unutkan ve zorbalığı seven
+'ben' oluyorum.
+
+// Mita wants to tell you [No]
+Teşekkürler ama hayır.
+Bilmesem de olur.
+
+Peki, rahatına bak.
+
+// Mita wants to tell you [Yes].
+Olur, anlat.
+Umarım lise gibi olmaz.
+Sürekli sıkıntıdan uyuyaklıyordum da.
+
+İstediğin zaman gidebilirsin,
+ya da kalıp dinlersin.
+Sana kalmış.
+Bir oyuncu MiSide'ı indirir
+ve istediği kadar oynar.
+İşte o zaman,
+yeni bir ev ve Mita yaratmış olur.
+Bu 2 boyutlu temsili.
+Bunlar sürümler,
+çizgiler olarak gösterilmiş.
+Evler bu çizgilerde konuşlanır.
+Diyelim ki 1.14 sürümünü indirdin,
+bu yeni bir hayat demek oluyor.
+Yeni bir Mita yeni bir ev.
+
+Vay amq...
+
+Evet
+Sorularınız varsa
+alayım.
+
+// He asks about the only circle
+Şurada neden tek bi çember var?
+
+O sürüm bir daha çıkmamak üzere,
+bir kere çıktı.
+O sürüm tek sürüm.
+O sürümler özel
+ve başka sürümlere yolları yok.
+1.1 sürümünde Uykucu Mita kalıyor.
+
+Uykucu Mita mı?
+Onun sürümünden geçen insanlar yüzünden,
+uyuyamıyor diye mi?
+
+Hayır öyle değil.
+Yanından geçerken ses yapsan da,
+uyanması imkansız.
+
+// He asks about the shaded circle
+Bu küre niye tamamen boyanmış?
+
+Ehm, o
+Güzel Mita yüzünden.
+O çizdi.
+Kim ilk 1.11 sürümüne gider diye,
+tartışıyorduk da.
+
+Ee, kim kazandı?
+
+BEN tabii ki!
+Bak, biz burada,
+1.15 sürümündeyiz.
+Ev sıra kodu 809.
+1.11 sürümü 805 sırasına, 
+gitmeliyiz.
+Onun yolu burdan başladı.
+Daha kısa bir yol bulmaya çalıştık.
+Güzel Mita da bu yolu önerdi.
+Sonra ben daha basit bir tane çizdim.
+Basit, değil mi?
+Bak bi.
+Şuradan direkt doğru sürüme gidebiliyorsun.
+Bu ev yolda gibi 
+ama sorun çıkarmıyor.
+Neyse, senin yüzüğün de aynı şekilde çalışıyor.
+Nereye gidiyorsun?
+
+Çekirdeğe
+
+Çekirdeğe mi?
+Hmm...
+En kısa yolu istiyorsan.
+Senin de 1.1 sürümünden geçmen gerek.
+Orada kesinlikle Uykucu Mita ile karşılaşırsın.
+Seni yollayan Mita da
+aynı yolu kullandı sanırım.
+Ya da senin farklı bir yolda olduğunu anlayamadı.
+Ya da belki çok zekidir
+ve daha da kısa bir yol bulmuştur!
+
+Sanırım anlıyorum.
+
+// He asks about the inscription
+Bu ne için?
+
+O Havalı Mita için.
+Birkaç saate burada olur.
+Kutuları kaldıracak
+ve oraya koltuk koyacak.
+Kıçım acıyor.
+
+Emm...
+Yardımcı olabilirim belki.
+
+Hayır, o Havalı Mita'nın işi.
+Serttir.
+
+// He asks about the drawings
+Şunun bir anlamı var mı
+yoksa 
+sadece bir çizim mi?
+
+Evet
+sadece bir karalama.

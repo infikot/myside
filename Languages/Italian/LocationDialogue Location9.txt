@@ -1,0 +1,87 @@
+
+Ehi, tu!
+Ciao!
+Vuoi uscire da qui?
+Allora aiutami a trovare la chiave!
+// Key Search
+Merda! La chiave è sparita!
+Non c'è niente qui...
+zero, zero, nada!
+L'ho trovata!
+
+// The usual conversation
+Pensavo fossi più basso!
+Sei alto...
+proprio come mia sorella!
+
+Tua sorella? Cosa c'entra lei?
+
+Sì, mia sorella.
+Non dire che non l'hai mai incontrata!
+
+Uh... l'ho conosciuta... Credo...
+
+Sei uno sciocco?
+
+Ehm...
+
+A quanto pare lo sei...
+Dai, aiutami a trovare la chiave!
+
+// Next work
+Vieni.
+Metti il ferro nel tubo!
+Grazie!
+Ora portami la legna!
+Grazie!
+Un altro aiuto, per favore!
+Tutto fatto! Ora...
+wow, è bellissimo.
+Premi, forza!
+Pronti...
+Ecco, prendila!
+La chiave è tua!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+Sono ChibiMita.fbx!
+Tonnellate di linee,
+modelli più semplici e...
+la cosa migliore di tutte: capelli bellissimi!
+
+// Quest 2 (Have we seen each other yet?)
+Sciocchino!
+Sei piuttosto carino, sai?
+fare domande stupide come questa.
+Anche se,
+è la prima volta che ti incontro!
+Ma ascolta...
+Se rubi il mio meraviglioso stile,
+te ne farò pentire!
+
+// Quest 3 (Why are you here?)
+Non lo capisci?
+Questo è un punto di controllo.
+una prova di ingegno!
+E ora avanti!
+Sono qui per guidare chi si è irrimediabilmente perso!
+
+// Quest 4 (Why are you helping me?)
+Cosa ti rende così speciale?
+Perché non aiutarti comunque?
+
+Che cosa?
+
+Che sciocco...
+Sei apparso dal nulla!
+Non dovresti essere qui,
+quindi ti sto aiutando!
+
+Ciao ciao, sciocco!

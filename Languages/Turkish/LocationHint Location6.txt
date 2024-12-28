@@ -1,0 +1,3 @@
+Koltuğun önündeki anahtarı al.
+Konsolu al!
+Saklan!

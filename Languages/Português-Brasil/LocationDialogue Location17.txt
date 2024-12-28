@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+Eu tô precisando de ajuda.
+Espero que a Mita daqui não morda...
+
+Com o que estou perdendo meu tempo...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, acorda!
+Mita!
+
+Mita, bom dia dorminhoca!
+Eu preciso da sua ajuda.
+
+Quem é vocêêê?
+
+Me ajuda com os interruptores.
+
+Que interruptor?
+Me deixa dormir...
+Ou me faz um cafezinho.
+
+A cafeteira está logo ali.
+Mita?
+Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita,
+Aqui o seu café.
+
+
+
+// MitaDreamer exercise
+Interruptores,
+você disse né?
+
+Uhum.
+
+Como sabe deles?
+Hmmm, por que eu perguntei?
+Considerando que tá aqui,
+já deve saber de muita coisa...
+
+Me dá um minutinho,
+Eu preciso sentar.
+
+E?
+
+Eu não sei mais o que dizer...
+Mas eu não posso parar,
+preciso continuar seguindo a orientação do anel.
+
+Você está com o anel dela?
+Faz sentido
+ter achado esse lugar agora.
+
+Exatamente.
+Então, você pode me ajudar?
+Com os interruptores?
+
+Uhum.
+Eu vou.
+Com os interruptores...
+
+
+Mita, vamos lá...
+Vamos logo.
+
+Uh?
+Tá..
+Vamo.
+
+
+// MitaDreamer fall
+Se levanta.
+Você tá com tanto sono assim?
+
+// MitaDreamer again sleep
+Acorda.
+A gente chegou.
+
+
+// Switches
+Okay,
+Eu tô pronta.
+
+Eu tô pronto também.
+
+Tá.
+Vou começar
+a contar.
+E a gente aperta junto.
+Tá bom?
+
+Só fica acordada, por favor!
+Vai.
+
+
+3
+2
+1
+
+// Player lose 1
+Tá viajando?
+Vamo lá,
+de novo...
+
+// Player lose 2
+De novo
+Qual é,
+Eu...
+Eu tô morrendo de sono...
+
+// Player lose 3
+Ai como eu queria tá na minha caminha...
+
+
+
+Perfeito,
+Obrigada, Mita.
+
+Mm-hmm.
+
+
+As portas...
+tão...
+devagar...
+
+
+Boa noite...
+
+// Why kitchen?
+Por que a cozinha?
+Se eu dormir no chão gelado,
+é culpa sua.
+
+// Why bathroom?
+Eu não entendo...
+Com que interruptores quer ajuda?
+
+// Put button
+Nada aconteceu?
+Então o que esse botão está fazendo aqui?
+
+// Cofee
+Vai um pouco mais de café?
+Ou você vai acabar dormindo de novo.
+
+Ahm?
+Nãooo...
+Esse café é horrível...
+Eu tô ótima não se preocupa...
+
+// Button
+Mita? O botão não tá funcionando... Você consegue me ouvir?
+Oiee?

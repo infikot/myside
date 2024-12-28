@@ -1,0 +1,150 @@
+
+Mita?
+
+Làm sao anh tới được đây?
+
+Em là Mita phải không?
+Nhưng hình như có gì đó không đúng...
+
+À, thì ra là vậy...
+Em đúng là Mita,
+nhưng em không phải Mita mà anh biết.
+Cẩn thận đấy anh. Cô ấy đang ấp ủ
+mưu đồ rất xấu xa.
+
+Hả, xấu xa gì cơ?
+
+Không còn thời gian đâu
+nếu mọi thứ suôn sẻ, em sẽ kể cho anh mọi chuyện.
+Anh hãy tìm chìa khóa ở gần ghế sofa.
+
+Nhưng...
+
+Hỏi han để sau đi!
+Đưa cho em chìa khóa.
+Với cả chiếc nhẫn này nữa.
+Hở?
+Anh muốn rời khỏi đây phải không?
+À, anh muốn...
+Vậy thì đeo vào ngón tay đi.
+Nó sẽ giúp ích cho anh.
+Anh sẽ sớm cần đến nó thôi.
+
+Được rồi...
+Nhân tiện, anh là
+[player].
+
+Tên của anh thật đẹp.
+[player].
+Em là... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Anh thấy
+console đó chứ? Cầm lấy nó đi.
+
+Đây là đoạn ghi hình à?
+Ai đang ở cùng với cô ấy vậy?
+
+Đây không phải là đoạn ghi hình.
+Đó là một người chơi khác.
+Cô ấy đang lợi dụng người đó.
+Anh cũng vậy,
+coi chừng anh cũng bị biến thành hộp băng đấy.
+
+Chúng ta phải rời khỏi đây ngay.
+Em cũng vậy.
+
+Vâng, tất nhiên rồi.
+
+Vậy... em nói là cô ấy
+đang lợi dụng người chơi nhỉ?
+Nếu anh rút hộp băng ra thì sẽ thế nào?
+
+Hộp băng có khả năng sẽ bị hỏng
+không thể sửa chữa được.
+Như vậy có nghĩa là...
+người chơi sẽ chết.
+
+...
+Thế nếu như anh tắt nó đi thì sao?
+
+A, nghe có vẻ được ấy...
+Anh hãy thử xem. Có một nút màu đỏ ở đó!
+Anh thấy không?
+Thấy rồi.
+Anh nhấn đi.
+
+// MitaKind quest 2
+Em cần phải ở lại đây.
+Có điều em muốn hỏi cô ấy.
+Em cần hiểu rõ hơn về cô ấy.
+Mặc dù bọn em khó để nói chuyện tử tế với nhau được...
+
+// MitaKind quest 3
+Thực ra, đây là phiên bản của em.
+Em đang ở cùng một người chơi,
+bỗng nhiên mọi thứ bị đảo lộn.
+Rồi cô ấy xuất hiện...
+cô ấy biến người chơi thành hộp băng
+và em thì bị nhốt ở đây.
+
+Gì cơ? Biến thành hộp băng?
+Sao lại có thể như vậy?
+Nhưng mà tại sao?
+Cô ấy cần người chơi để làm gì?
+
+Cô ấy hoàn toàn bị điên rồi...
+Một con quỷ độc ác chỉ biết thỏa mãn thú vui của bản thân!
+Những người chơi bị biến thành hộp băng...
+Họ hoàn toàn không nghi ngờ gì cô ấy cả...
+Kể cả những người nhận ra, chẳng hiểu sao họ cũng không hề kháng cự...
+Thật kinh khủng...
+Xin anh hãy giúp bọn em!
+Anh á? Làm thế nào?
+Người chơi, bọn em cần anh!
+Chúng ta phải giúp đỡ lẫn nhau!
+Không còn cơ hội nào nữa đâu.
+Chiếc nhẫn sẽ chỉ dẫn cho anh đến đúng phiên bản.
+Ta sẽ gặp lại nhau tại đó!
+
+// MitaKind quest 4
+Anh vẫn chưa hiểu
+chuyện gì diễn ra khi nãy...
+Mita đó...
+Không lẽ cô ấy muốn giết anh?
+
+Giết thôi ư?
+Có thể cô ấy còn định làm điều gì đó kinh khủng hơn...
+Anh hãy mau lên.
+
+// Hide!
+Chết rồi! Trốn đi anh!
+Hả, gì cơ...?
+Mau lên, cô ấy đang tới!
+Hãy đi theo chiếc nhẫn! Nó sẽ chỉ cho anh đến chỗ an toàn!
+
+
+Nào, nói cho tôi biết anh ấy đang ở đâu?
+
+Không đời nào!
+Cô sẽ không giết anh ấy đâu phải không?
+
+Hửm, không chịu nói cơ à.
+Được thôi, tôi thích chơi trốn tìm lắm đấy.
+Chắc chỉ đâu đó quanh đây thôi phải không.
+
+Sao cô lại tàn nhẫn với chúng tôi đến vậy?
+Nói cho tôi biết chuyện gì đang diễn ra đi!
+Hơn nữa...
+Những người chơi kia, cô định làm gì với họ?
+Họ không phải là đồ chơi!
+Rốt cuộc chuyện gì khiến cô nóng giận như vậy?!
+
+Hư! Ngậm cái miệng lại, con rối gỗ này nữa!

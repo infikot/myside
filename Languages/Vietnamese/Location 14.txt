@@ -1,0 +1,5 @@
+// Snaker
+Thất Bại!
+Thành Công!
+// DontWork
+Dừng lại!

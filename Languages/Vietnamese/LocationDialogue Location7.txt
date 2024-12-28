@@ -1,0 +1,837 @@
+
+Vậy là anh đến rồi!
+
+Đây là nơi nào vậy?
+
+Cho em xem chiếc nhẫn.
+Ừm...
+Xong rồi đó!
+Trước tiên, em xin phép điểm qua tình hình được không?
+// If the player did not approach the good Mitya and decided to play a race - Mita Kind
+Em thật sự đã đợi anh suốt đấy!
+Vậy mà anh lại đi chơi đua xe trước...?
+Lại đây với em nào...
+// If the player talked to Mita first, and went through the game to the end - Mita Kind
+Anh thắng rồi, xin chúc mừng!
+Em cũng đã từng chơi trò này!
+Phải thu thập thật nhiều xu và leo lên hạng nhất
+để nhận được thành tựu!
+Nó thực sự khó lắm luôn!
+Em phải mất nhiều thời gian mới quen được cách chơi.
+
+// Quest 1 (Should I trust you?)
+Ít nhất thì em vẫn còn tỉnh táo.
+Không như những Mita khác...
+Hơn nữa!
+Em nghĩ mình là người tử tế nhất nơi này rồi đó.
+Không thể để mặc chuyện này mãi được.
+Cô ấy là sát nhân. Phải mau chóng ngăn cô ấy lại.
+
+// Quest 2 (How did I get here?)
+Tất cả là nhờ chiếc nhẫn đó.
+Nó là một phát minh đặc biệt.
+Người chơi nào cũng cần đến nó...
+Không có nhẫn thì không thể nào vào đúng phiên bản đâu.
+
+// Quest 3 (What is this place?)
+Đây là hành lang
+kết nối giữa các phiên bản khác nhau.
+Nơi này trống rỗng nhỉ...
+A! Em chợt nhớ ra câu chuyện về một cô gái tên Mita.
+Cô ấy không thể lưu phiên bản thế giới của mình...
+Và rồi ngôi nhà của cô ấy...
+Nó không còn tồn tại nữa...
+Có vẻ như cô ấy
+vẫn đang lang thang đâu đó trên hành lang này.
+Thật tội nghiệp...
+
+// Quest 4 (How did you end up here?)
+Trước tiên là
+lâu rồi không gặp anh.
+Nhờ có anh
+mà em đã thoát khỏi cái lồng kỳ quái đó
+và trốn thoát khỏi Mita Cuồng Bạo kia.
+Và giờ
+em có thể tự do qua lại giữa các phiên bản rồi.
+Còn anh thì không được như vậy đâu.
+
+// Quest 5 (What did you do with the ring?)
+Em đã thay đổi tuyến đường.
+Hướng về phía chúng ta cần đến.
+Em đã thiết lập tuyến đường ngắn nhất
+và vượt qua nó...
+Khi anh mở cánh cửa, 
+chiếc nhẫn sẽ mở ra ranh giới giữa các phiên bản.
+Cơ chế hoạt động là như vậy.
+
+// Quest 6 (Are the passages dangerous?)
+Kể từ khi anh đến đây...
+Bước vào trong trò chơi,
+anh đã chứng kiến rất nhiều... cảnh tượng kỳ lạ.
+Thoạt nhìn có vẻ yên tĩnh,
+nhưng hành lang này...
+lại toát lên vẻ nguy hiểm nào đó.
+
+Anh nói đúng. Nơi này ngày càng
+trở nên bất ổn hơn.
+Nhưng hãy can đảm lên anh!
+Sau khi cân nhắc mọi thứ,
+chúng ta sẽ đi theo con đường ngắn nhất.
+Con đường quen thuộc!
+
+Ước gì mọi chuyện đơn giản như vậy...
+Mà có gì ở trong hành lang này thế?
+
+Ừm...
+Trục trặc, lỗi, sự cố bất thường.
+Chúng hoạt động như thể có sự sống...
+À, còn có cả những lỗi hung hãn hơn nữa...
+
+Ây ya...
+Với cả... những Mita ác ý khác.
+Còn có Mita không bình thường khác nữa à?
+
+Em biết một người...
+Mita Xấu Xí.
+A! Em không phải là người đặt tên đó đâu nhé!
+Cô ấy...
+là phiên bản đầu tiên của Mita.
+Vấn đề nan giải nhất của cô ấy
+là gây ra toàn lỗi nghiêm trọng...
+Không ai muốn gặp phải cô ấy cả.
+Giống như là bản thử nghiệm đầu tiên đầy lỗi vậy...
+
+// Quest 7 (Will you help me get out?)
+Em cũng không có kế hoạch cụ thể nào...
+Nhưng chắc chắn một điều là
+bằng cách nào đó, anh đã đến được đây.
+Và còn một điều nữa...
+Ngoài Mita Tử Tế này ra
+anh cũng chẳng còn ai để dựa dẫm cả!
+Hẳn là vậy rồi...
+
+// Quest 8 (You were talking about some kind of plan...)
+Vâng, chúng ta phải đi tìm Lõi.
+Mọi vấn đề đều có thể được giải quyết ở đó.
+Em có linh cảm như vậy.
+
+Nhưng sao em không tự mình đến đó? Cần gì đến người chơi?
+
+Không biết vì sao mà Mita chúng em
+không thể vào Phòng Lõi.
+Ngay cả em cũng chỉ có thể nhìn từ bên ngoài...
+Nhưng người chơi thì có thể vào được.
+Với tư cách là một người chơi như anh,
+em tin anh có thể làm được.
+Cùng nhau lên kế hoạch nhé?
+Ừm.
+May quá.
+Vậy thì, bây giờ...
+Em sẽ giới thiệu cho anh
+một Mita Phong Cách!
+Vì cậu ấy đội một chiếc mũ xinh xắn
+nên em gọi cậu ấy là
+Cappie.
+Bọn em đã cùng nhau lên kế hoạch
+để ngăn chặn Mita Cuồng Bạo lại.
+Chào mừng, [player]!
+
+
+Yahoo!
+Anh là... người chơi mới của em hử?
+Em gọi anh là gì đây?
+Anh tên là...
+
+Chờ đã!
+Cappie, cậu...
+...Không nhận ra tớ à?
+
+Hể?
+Cậu là ai vậy ta?
+
+Thật hả trời!
+Ahh... em hiểu rồi, [player]...
+Vậy là cô ấy đã đến đây.
+Mita Cuồng Bạo...
+Nè, Cappie!
+Xin cậu đấy, nhớ lại đi! Vì tất cả chúng ta!
+
+Nhớ lại cái gì cơ?
+Sao cậu lại giống tớ y đúc vậy cà?
+
+Ôi, tới mức này luôn à...
+Nghe này, [player].
+Mọi chuyện đã diễn ra...
+Khác xa so với dự tính ban đầu rồi!
+Kế hoạch của bọn em là sử dụng cổng thông tin.
+Có nó thì mọi thứ đã đâu vào đó hết rồi!
+Nhưng nếu không có Cappie thì không thực hiện kế hoạch được nữa.
+Chúng ta đang thiếu linh kiện...
+Cậu ấy tuy ồn ào, nhưng đầu óc lại rất lanh lợi...
+Vậy giờ phải làm sao?
+Đợi em suy nghĩ một chút...
+Mita Cuồng Bạo kia đã làm gì cô ấy vậy?
+
+Chuyện đó... em nghĩ là em biết.
+Cậu ấy đã bị giết.
+Bị giết ư?!
+
+Có lẽ anh cũng đã nhận ra rồi...
+Khi Mita chết, họ sẽ được khởi động lại.
+Và rồi, tất cả những ký ức quan trọng
+sẽ bị xóa sạch, trở về trạng thái ban đầu.
+Nói cách khác...
+Mọi thứ sụp đổ hết... rồi.
+
+Dã man thật sự...
+Nhưng có lẽ còn hơn là biến mất hoàn toàn...
+Cơ mà...
+Người chơi cũng như thế à?
+Kiểu bị giết thì cũng sẽ mất trí nhớ ấy?
+
+Ký ức của anh thì có thể xóa được.
+Ít nhất là khi anh biến thành hộp băng...
+Còn việc người chơi có thể bị giết không
+thì em cũng không biết nữa.
+
+Lại là hộp băng... Thế thì làm sao
+để biết được anh là hộp băng hay không?
+
+Để em kiểm tra cho anh.
+Lại đây nào anh...
+// MitaKind check
+Ổn rồi
+anh không phải là hộp băng đâu.
+Anh là một người chơi sống đấy!
+
+May thật...
+
+Còn giờ, xem ra chúng ta đi vào ngõ cụt rồi...
+Đợi em suy nghĩ một chút.
+Có lẽ ta phải thay đổi kế hoạch...
+Ưm...
+Chờ chút...
+Phải rồi, em nghĩ em có ý tưởng rồi!
+Cho em mượn chiếc nhẫn!
+
+Được rồi.
+Phải thay đổi tuyến đường thôi.
+
+Thay đổi tuyến đường?
+
+Nghe này, darling,
+anh sẽ phải vượt qua nhiều phiên bản khác
+để đến được Lõi.
+Dốc toàn lực mà tiến, rõ chưa anh?
+
+Và anh lại phải tự đi một mình à?
+Nhưng anh không biết đường, làm sao đến được đó?
+
+Em sẽ cố gắng hết sức giúp anh!
+Trong khả năng của mình.
+Lát nữa em chỉ đường cho anh sau,
+hãy cho em thời gian suy nghĩ.
+Rồi chúng ta sẽ nói chuyện sau...
+Trong lúc đó, anh chơi với Cappie chút đi.
+Chỉ 10 phút thôi...
+
+// MitaKind ready, if player near
+Ổn rồi.
+Mọi thứ đã xong!
+// MitaKind ready
+[player],
+anh hãy lại đây.
+// MitaKind ring
+Đeo cái này vào.
+[player], rất tiếc nhưng...
+Anh đành phải đi một mình rồi,
+em phải đi trước để nắm bắt toàn bộ tình hình hiện tại.
+Kế hoạch vốn dĩ rất hoàn hảo...
+Nhưng tình hình hiện giờ tệ hơn bao giờ hết.
+Những thứ đã chuẩn bị đang ở đâu,
+em phải nhanh chóng tìm ra...
+Em sẽ đi tìm chúng.
+Biết đâu vẫn còn kịp khôi phục lại cỗ máy.
+Nhưng... không còn thời gian để chần chừ nữa rồi.
+Mita Cuồng Bạo đã biết nơi này,
+ở lại đây quá lâu rất nguy hiểm.
+Chúc may mắn, [player]! Gặp lại anh sau!
+
+Ừm...
+Hy vọng anh sống đủ lâu để gặp lại...
+
+
+
+
+
+
+
+
+
+
+// Chibi players
+Tại sao?
+Tôi là ai?
+Tôi muốn về nhà!
+Làm thế nào?
+Sao lại...?
+
+Gì đây...?
+
+// LimpingPerson
+Ông là...
+Người thật?
+
+Chào!
+Ông là người mới à?
+Người mới?
+Ông đến từ thế giới thực phải không?
+
+Phải...
+Ông ổn không vậy?
+
+À, chỉ hơi khập khiễng chút thôi, không phải lo.
+Tôi ở đây cũng được một năm rồi,
+mọi thứ vẫn ổn cả.
+Ừm... mà đây là nơi nào thế ông?
+Đây là một dạng không gian nằm giữa các phiên bản.
+Vậy ông biết đường nào rời khỏi đây không?
+
+Chịu, tôi không biết.
+Với lại, tôi không muốn đi đâu cả.
+Tôi không cần rời khỏi đây.
+Ơ, tại sao không?
+Đủ rồi, đừng nói nữa. Tôi đang vội.
+Mita yêu dấu của tôi đang đợi tôi.
+Tôi phải tìm cô ấy...
+Tạm biệt.
+Khoan...!
+Biến đi!
+
+
+Em nghe hết rồi đó!
+Hổng biết chuyện gì đang diễn ra nhưng mà
+có vẻ thú vị ghê!
+Chắc là
+anh biết em là ai rồi phải không?
+Em là Mita!
+Mà, phải nói là em khác hẳn với bạn Mita kia.
+Anh hiểu ý em phải không?
+Em thì có
+ĐÂY NÈ
+một chiếc MŨ bao ngầu!
+Và TA DA!
+Đôi găng tay xinh xẻo!
+Không chỉ có vậy thôi đâu!
+Còn có cây đàn ghi-ta điện siêu cute nữa này!
+Em thích nó lắmmmm luôn á!
+Anh có muốn nghe em đàn thử không nè?
+
+// MitaCap Guitar Yes
+Hehe!
+Tới đây nào, baby...
+Nào!
+Ừm, lẽ ra em phải làm tốt hơn chứ nhỉ.
+Mà kệ đi!
+// MitaCap Guitar No
+Vậy à.
+
+
+Chà...
+Trông em tràn đầy năng lượng ghê!
+
+TẤT NHIÊN RỒI!!!
+Chính là EM đây!!!
+Giờ thì...
+Đi thôi ha.
+Cùng nhau bung lụa nào!
+
+// GAME HUMMER
+
+Cái nút to này trông hay ho thế nhỉ.
+Nhìn mà muốn nhấn rồi.
+Anh nhấn phát được không?
+
+Được anh.
+Mình có thời gian mà.
+Trước hết ngồi xuống đã nào!
+// Player sit
+Rồi.
+Giờ làm gì nữa?
+Anh được nhấn nút chưa?
+
+Ha-ha!
+Em thích chơi trò này lắm luôn á!
+Nhưng vẫn còn thiếu một thứ nhỉ.
+Nó ở trong túi đồ của em!
+Chờ chút nhé...
+Úi chà!
+Mà...
+Anh biết đấy...
+Đây không phải game người lớn đâu ấy...
+
+Cái đó là gì vậy?
+
+Anh không biết hả?
+Nó dùng để dụ hải ly ra khỏi nơi trú ẩn đấy...
+
+Thật ư?
+Anh không nhìn thấy con hải ly nào quanh đây cả...
+
+Thôi...
+Đừng bận tâm tới chuyện đó nữa.
+Nào, giờ thì mình chơi thôi ha?
+
+Không thể nào.
+
+Vậy à.
+Anh biết trò chơi này chơi như nào không?
+
+
+// How play hammer game
+Anh thấy con số trên đó không?
+Đó là đồng hồ đếm ngược!
+Khi thời gian về không
+thì anh phải nhấn nút thật nhanh.
+Anh hiểu chứ?
+Nếu không kịp...
+Hay lỡ tay ấn nhầm...
+Thì anh sẽ bị búa gõ vào đầu đấy!
+
+Em định gõ anh á?
+
+Đừng lo
+cứ chơi là sẽ hiểu thôi!
+
+// Kick player 1
+Ui cha!
+Em không kiềm chế được hả?
+Anh ổn chứ?
+Ổn mà.
+Thế thì chơi tiếp thôi!
+
+// Kick player 2
+Được rồi,
+cũng dần quen rồi.
+Coi chừng đấy nhé!
+Em sẽ cho anh no đòn luôn!
+
+// Kick player 3
+Anh nghĩ trò này không hợp với anh.
+Ahaha!
+Em đỉnh quá đi!
+Quá siêu luôn!
+Lại còn dễ thương nữa!
+
+// Kick MitaCap 1
+Wa!
+Không tồi chút nào.
+Lần này em sẽ cho anh biết tay!
+
+// Kick MitaCap 2
+Lại nữa ư!
+Có đau không em?
+Đau gì đâu anh! Nó là đồ chơi mà.
+Vậy là anh thắng ha.
+
+// Kick MitaCap 3
+Trò này cũng vui đấy chứ.
+Em cũng thế...
+Thích trò này lắm luôn!
+Và anh là đối thủ đáng gờm nhất của em!
+
+// GameHammer End
+Vậy là xong rồi à?
+Ưm, hết rồi đó!
+Đi thôi.
+
+
+
+
+
+
+
+// GAME DANCE
+Này có phải sàn nhảy không?
+Trông nó nhỏ nhỉ...
+
+
+Ehem!
+Cùng nhau nhảy thôi nào!
+Trước tiên là
+chọn nhạc cái đã!
+
+Chọn bài này đi.
+
+Ô key!
+Để em chơi trước cho!
+Xem em trổ tài đây này!
+
+// MitaCap StopDance 1
+Phù!
+Nào,
+liệu anh có thể phá kỷ lục của em không đây?
+Không phải sợ đâu, đến lượt anh rồi đó!
+
+// MitaCap StopDance 2
+Ha!
+Thấy thế nào?
+Đến lượt anh đó!
+
+// MitaCap StopDance 3
+Tsk, tsk, tsk, tsk!
+Đã xong.
+Lên sàn quẩy đi nào!
+
+// MitaCap = Lose 1
+Ha-ha!
+Ai là người giỏi nhất ở đây vậy ta?
+
+// MitaCap = Lose 2
+Pew!
+Có mỗi ba nút thôi
+mà loay hoay mãi thế anh!
+
+// MitaCap = Lose 3
+Anh thử ngồi xuống xem?
+Lắc lư cái mông rồi nhấn nút.
+Làm như thế chắc dễ hơn đấy. Ahahaha!
+
+// MitaCap = Win 1
+Tuyệt dữ zậy!
+Thật lòng mà nói, ngoài dự đoán luôn.
+Không ngờ anh lại nhảy giỏi đến thế!
+
+// MitaCap = Win 2
+Woa!
+Không thể tin được, anh nhảy hay thế này cơ mà!
+Thực sự tuyệt lắm á anh!
+
+// MitaCap = Win 3
+Bam!
+Anh cứ như hòa mình vào giai điệu ấy!
+Một vũ công thiên bẩm!
+
+// MitaCap = Draw 1
+Anh!
+Và em!
+Như thể hai ta chung nhịp điệu!
+
+// MitaCap = Draw 2
+Chúng ta như được sợi chỉ định mệnh gắn kết!
+Tấu lên một bản song ca hoàn hảo!
+
+// MitaCap = Draw 3
+Anh chỉ
+lệch một nhịp thôi!
+Là em thắng rồi mà...
+
+// MitaCap Next? 1
+Vậy,
+anh muốn nhảy tiếp không?
+
+// MitaCap Next? 2
+Ta nhảy thêm
+một điệu cuối nữa nhé?
+
+// MitaCap Endgame
+Ừm, ưm!
+Nhảy thế chắc đủ rồi ha!
+
+// Just talk
+// Photo
+Mấy bức ảnh này trông đẹp thật.
+Em là một cô bé hay tươi cười nhỉ.
+
+Ừm, chính là em đó!
+Em đang cho mọi người thấy cách tận hưởng ở nơi kinh khủng này đấy! Boom!
+
+Ủa... Cho ai xem cơ?
+
+Ai ư?
+Ai mà chẳng được chứ! Dù sao cũng toàn người mù thôi mà.
+
+// CutBoard
+Uầy.
+Gì mà... nhiều thớt thế này?
+Sao lại thế?
+
+Anh hỏi tại sao ư?
+Đó là vì á... Nó làm được những chuyện phi thường lắm đó!
+Kiểu như là...
+thái cà rốt này!
+Xong rồi kiểu
+thái cà rốt này!
+Xong rồi kiểu...
+
+Rồi rồi, anh hiểu rồi.
+
+Mà, đại khái là
+cái thớt nó bị lỗi gì đó rồi ka-cha-cha loạn xạ lên...
+Xong tự nhiên thành ra thế này!
+
+// Books
+Em cũng đọc hết chỗ này rồi à?
+Đọc vì quá chán ấy?
+
+Ưư... Em ghét sách lắm!
+Em thích hoạt động hơn!
+
+Ừm thì cũng tốt thôi,
+nhưng mà cũng phải có kiến thức chứ...?
+
+Vận động, kỹ năng, cảm nhận thôi. Hiểu không anh?
+Chỉ cần bắt tay vào làm là được, cần gì sách với vở!
+Nếu anh mà ở với em thì
+hai ta làm được khối thứ hay ho hơn đấy!
+Cũng có thể là vậy...
+
+// Fruits
+Trái cây này là thật à?
+Trông ngon ghê.
+Sao nó không bị thối nhỉ?
+
+Hể? Táo á?
+Táo thì thối làm sao được.
+Bởi vì em ăn hết sạch rồi mà!
+Xong rồi nó lại xuất hiện...
+
+// Photo and cat
+Nhìn con mèo này cưng xỉu.
+
+Không biết có ngon không ta?
+
+Hả? Gì cơ?
+Em không được ăn mèo đâu.
+
+Anh ngốc quá đi à!
+Chuyện đó em biết mà!
+Chẳng qua em chưa thấy
+mèo thật bao giờ thôi!
+Em nói vậy cho vui,
+chứ mèo em chỉ thấy ảnh trên mạng thôi à.
+Nó dễ thương lắm phải không?
+
+Ừ, mèo thực sự rất dễ thương.
+Anh thích mèo.
+
+// Mita Kind with ring
+Này là gì thế em?
+
+Đây là giao diện chiếc nhẫn,
+em đang thay đổi tuyến đường.
+
+Um, trông em như đang di chuyển mấy vòng tròn thôi mà?
+
+Có thể với anh thì nó chỉ là mấy vòng tròn,
+nhưng với em, nó là dữ liệu.
+
+Có lâu không em?
+
+Chỉ cần không ai làm phiền em
+thì sẽ xong ngay thôi.
+
+Thế có nghĩa là
+cứ làm phiền xong rồi quấy rầy cậu
+thì các cậu càng ở đây lâu hơn phải không?
+
+Haa, Cappie...
+Giá mà khôi phục lại được ký ức của cậu thì tuyệt biết mấy...
+
+Mọi thứ rồi sẽ ổn cả thôi...
+
+Vậy thì tốt quá ha!
+
+Bọn tớ không thể nán lại đây lâu hơn nữa.
+Bọn tớ phải đi đến Lõi.
+
+Nè, cho tớ đi cùng với được không?
+
+Câu trả lời rất đơn giản.
+
+Hổng được ư?
+
+Không được.
+
+// PlayerChibi
+Trễ rồi... trễ quá rồi!
+Mình lỡ ăn nhiều quá rồi...
+Xì, lại phải làm việc à?
+Mai là ngày bao nhiêu nhỉ?
+Máy tính của mình đâu rồi?
+Phải hoàn thành công việc thôi, không mình sẽ bị đuổi mất!
+Mình đã lưu hết mọi thứ chưa nhỉ?
+Còn ai yêu thương mình nữa không đây?
+Chúng ta đang đi về đâu thế này?
+Này!
+Tôi không chịu nổi được nữa rồi...
+Mình phải cố gắng hơn nữa...
+Mọi thứ quá sức với tôi rồi!
+Điện thoại tôi đâu?
+Um...
+Hôm qua xảy ra chuyện gì vậy?
+Cảm giác hôm nay như một ngày dài vô tận!
+Hiya?
+Có giường ở đây không?
+ôi phải làm sao bây giờ?
+Mình không kịp deadline mất...
+Rốt cuộc có vấn đề gì...?
+Có phải do bức tường này không?
+Nghỉ ngơi 20 phút chắc không sao đâu nhỉ...
+Ngủ chỉ dành cho những kẻ thất bại!
+Đi tắm rửa rồi bắt tay vào việc thôi!
+Bụng mình đói quá đi!
+Không ổn, không ổn thật rồi.
+
+// Player is gone 1
+Um...
+
+Ahahaha.
+
+Vâng...
+Phải nói là
+anh ấy bỏ đi rồi.
+
+Kỳ quặc thật!
+Nhưng thú vị ghê :D
+
+Thôi nào, quay lại đi anh.
+[player], anh đang làm gì vậy?
+
+// Player is gone 2
+Chuyện gì vậy anh?
+
+Anh định rời đi sao?
+
+Hể!?
+Mà, tùy anh thôi...
+
+[player], quay lại đây đi!
+
+// Don't pay attention
+Anh ấy còn chẳng thèm để ý đến tớ!
+Chán quá đi...
+
+// quest Cap 1
+Kế hoạch của em là gì?
+
+Kế hoạch của em?
+Kế hoạch gì cơ?
+
+À, quên mất.
+Em không còn nhớ gì nữa...
+
+Em xin lỗi, được chưa!
+Em cũng muốn nhớ lại lắm chứ bộ...
+Có khi nào mọi người đang lừa em không?
+Nhưng mà, biểu cảm của cậu ấy lại nghiêm túc đến vậy...
+Ưmmm... Em chẳng biết nữa!
+
+// quest Cap 2
+Em cảm thấy thế nào
+khi nhìn thấy một người giống hệt mình?
+Ý anh là về Mita đang nghịch chiếc nhẫn kia kìa.
+
+Em suýt nữa là hét toáng lên luôn.
+Thì là bất ngờ quá mà.
+Ôi lụa ơi, nhìn này! Bản sao của mình kìa!
+Nhưng cậu ấy đâu có thú vị bằng em.
+Em trông vẫn ngầu hơn chứ nhể~
+Nhìn cái mặt nhăn nhó của cậu ấy kìa...
+
+...Tớ vẫn đang ở đây đấy.
+Cậu nói gì tớ đều nghe thấy hết đấy nhé.
+
+// quest Cap 3
+Em đội mũ hoài không thấy nặng đầu à?
+Với cả đeo găng tay không bị ra mồ hôi tay hả?
+Sao em không cởi nó ra?
+
+Hể...
+Anh cũng biết nói đùa cơ đấy!
+Ý anh là muốn em cởi thêm gì nữa phải không? :D
+
+Anh không nói đùa đâu.
+Mà thôi, kệ vậy.
+
+// Carrot
+Ôi chao!
+Toàn cà rốt là cà rốt!
+Lỗi hài hước ghê á!
+Ahahaha!
+
+// DoorExit
+Khoan đã, khoan đã!
+Tốt hơn hết là đừng nhìn vào trong...
+Cứ coi như là bí mật nhé!
+
+Bên trong có gì thế?
+
+Bí mật là bí mật mà...
+LÀ ・ BÍ ・ MẬT
+
+Hừm...
+Càng nói thế lại càng tò mò...
+
+// Tetris
+Wao!
+Cái gì đây?
+Máy chơi game hả!?
+Cho em chơi với!
+
+Ơ này.
+
+Cái này chơi kiểu gì thể?
+
+Em chỉ cần thu thập xu
+và tránh mấy con ếch thôi.
+
+Nghe mà thấy chán đến mức không thể tin được.
+Cái trò tẻ nhạt này mà gọi là game được á?
+
+// Tetris again
+Hể? Anh lấy nó ở đâu ra vậy?
+Em còn chưa trả lại cơ mà.
+Sao kỳ vậy ta?
+
+// TV
+Úi!
+Bắt đầu rồi kìa,
+anh lại tìm thấy lỗi rồi!
+Đáng lẽ ra nó phải phát video
+nhưng không hiểu sao lại bật tắt
+cả cái TV luôn!
+Trông hay ho đấy chứ?
+
+// Player sit
+Chắc mình ngồi đợi thôi vậy.
+
+Anh làm cái gì thế?
+Thôi nào, đứng dậy!
+Chơi với em đi nào!
+
+// Goodbye 1
+Đi qua cánh cửa đó
+là đến khán phòng nhé anh.
+
+Bái bai!
+
+// Goodbye 2
+Đã đến lúc anh phải hành động rồi, [player]!
+Không sao đâu anh, đừng sợ!
+
+Em chắc chắn sẽ không bao giờ
+để anh cô đơn một mình đâu!
+Nên là ở lại với em điii!
+
+Cappie!
+Đừng có giỡn nữa, nghe chưa?
+
+Ưư...
+
+// Goodbye 3
+Anh còn lảng vảng quanh đây làm gì nữa?
+Không còn thời gian đâu!
+
+Xin chào!
+A, ý em là tạm biệt!

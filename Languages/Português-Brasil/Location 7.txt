@@ -1,0 +1,19 @@
+// Rastreiar nomes
+Biscoito
+Bebida de bolha
+Balão
+// Missão nenhuma
+Deixa para lá.
+// Missão "Encontrando a Gentil Mita"
+Devo confiar em você?
+Como cheguei aqui?
+Que lugar é esse?
+Como você chegou aqui?
+O que você fez com o anel?
+As passagens são perigosas?
+Você vai me ajudar a escapar?
+Você mencionou um plano.
+// Missão MitaBoné
+Você se lembra de alguma coisa?
+O que você acha da Mita portadora do anel?
+Você sempre usa esse boné?

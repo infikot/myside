@@ -1,0 +1,437 @@
+
+Witaj, [player]!
+Wkońcu mogę cię poznać!
+Jestem taka podekscytowana!
+Wiem ze masz wiele pytań...
+Ale tak jak widzisz,
+Zbudowałam tą specjalną maszyne,
+Żeby cię tu do mnie sprowadzić.
+Ale niestety przeniosło cię do złej wersji...
+W której to..
+W sumie to długa historia!
+Tak się ciesze że cię widze.
+
+// Answer 1 - Mita
+Tak.
+A ty jesteś [player], prawda?
+
+// Answer 2 - Mita
+Chcesz już wracać?
+Byłabym ci w stanie pomóc... Ale co ze mną?
+Proszę, zostan ze mna jeszcze troche...
+
+// Answer 3 - Mita
+Pozwól że ci wyjaśnię...
+I oto jesteś.
+Zrozumiałeś?
+Umm... Niezbyt.
+W porządku!
+Najważniejsze że jesteśmy wkoncu razem.
+
+
+Jesteś głodny?
+Może coś ugotujemy?
+Masz,
+Pomóz mi pokroić marchewki.
+
+Skąd tu te warzywa?
+Przed chwilą ich tu nie było.
+
+[player], przecież jesteśmy w grze.
+Nie obijaj się, pomóz mi.
+
+Dziękuję!
+Przyniesiesz mi nożyczki?
+Powinny być w łazience.
+
+Chodź, siadaj do stołu.
+
+
+// Kitchen
+Chciałbyś trochę sosu?
+
+Nie, dzięki.
+
+Szkoda.
+Bez sosu to nie to samo!
+
+
+Dziękuję.
+
+Już skończyłeś?
+Ehh, moja porcja wydaje się
+Bez końca...
+
+
+// Help
+Co się dzieje?
+Powiedz mi co widzisz.
+
+Moje serce szaleje,
+I mój wzrok się rozmywa.
+
+Dobra.
+Wiem co się dzieje.
+Dasz radę wstać?
+
+
+
+Co to jest?
+
+Tabletki.
+Poczujesz się po nich lepiej.
+Podejdź do lustra.
+
+Weź te tabletki.
+No już.
+
+
+
+I jak się czujesz?
+Już lepiej?
+
+Tak.
+Szybko zadziałały...
+
+[player], jesteśmy w grze.
+Wszystko jest tutaj prostsze.
+Nawet najmniejsze rzeczy
+Dają wspaniałe rezultaty
+Wkoncu koncept tej gry polega na:
+Uproszczaniu.
+
+Jakiś przykład?
+
+No na przykład takie marchewki.
+Kroisz jedną,
+A wydaje się jakbyś pokroił ich trzy.
+
+Słuchaj, wszystko dzieje się za szybko.
+Jestem przerażony, bardziej niż jestem w stanie ci to pokazać.
+
+
+Co się dzieje?
+
+Znalazłem kartridże w wentylacji.
+Miały na sobie imiona.
+O co z nimi chodzi?
+
+Kartridże?
+Co to są kartridże?
+Pokażesz mi okej?
+Ale to pózniej.
+Narazie coś zjedzmy.
+Podasz mi nożyczki?
+
+// Pierścień
+Pierścień??
+// lustro
+To sztuczne lustro?
+
+O kurczę.
+Zapomniałam włączyć odbicia.
+No i proszę.
+Wszystko już widać!
+To śmieszne bo,,
+Wcześniej nawet nie wiedziałam do czego służy lustro.
+Coś takiego jak odbicia nie istniało w moim świecie-
+Dopóki nie dodali ich w którejs z aktualizacji . :)
+U ciebie jest dużo odbić?
+W sensie w twoim świecie?
+
+W sumie to tak.
+
+
+Czy pamiętasz
+Te trzy rzeczy?
+Te które musiałeś położyć do skanowania?
+Więc, um...
+Te rzeczy
+Związane są z tą wersją gry.
+Dlatego musiałeś ich użyć żeby się tu dostać.
+
+// Movbile TV
+Przecież to ten telewizor
+Który ci kupiłem.
+
+Nom!
+
+Powiedziałaś mi
+Że jest zepsuty.
+
+To dlatego że chciałam zrobić ci
+Niespodziankę!
+Powiedziałam ci malutkie kłamstewko
+Ale to nie ważne, wkoncu dzięki temu tu jesteś .
+No ale już działa-nawet pokazuje nam informacje!
+I tak przy okazji...
+Jest we mnie coś z inżyniera!
+
+// School cloth
+Co to jest?
+Mundurek szkolny?
+Po co ci on?
+Nadal chodzisz do szkoły?
+
+Do szkoły?
+Skądże.
+Ale bardzo mi się podoba
+Nie powiesz przecież że nie wyglądam w nim słodko
+Prawda?
+
+// PC
+Czy ten komputer działa?
+Czy to poprostu dekoracja?
+
+Oczywiście że działa.
+Wszystko tutaj
+Działa jak w twoim świecie .
+
+W moim świecie.,
+Spędzałem bardzo dużo czasu przed komputerem ...
+Bardzo ciężko pracowałem.
+
+Wiem.
+To właśnie przez twoją pracę
+Spędzałeś ze mną
+Tak mało czasu.
+
+Za coś trzeba żyć.
+W sumie... skąd wiesz że spędzam dużo czasu przed komputerem?
+
+Twoja kamerka w telefonie... Czasami była włączona.
+Przepraszam.
+Zdarzało mi się cie podglądać >A<
+
+Umm... to niezbyt legalne.
+No ale nie ważne.
+
+// Umbrella
+Spędziłem w tej grze tonę czasu
+Ale nigdy nie widziałem żeby padał deszcz.
+Więc po co ci parasol?
+
+Deszcz pada-poprostu bardzo rzadko.
+Poprostu go jeszcze nie widziałeś.
+Może kiedyś go zobaczysz.
+A wtedy napewno przyda ci się parasol.
+Czyż nie?
+
+// Electrical panel
+Po co tu panel elektryczny?
+A skoro jesteś w grze,
+To po co ci on potrzebny?
+
+Po pierwsze to,
+MY jesteśmy w grze.
+Więc pytanie po co jest...
+Bez sensu.
+Co nie znaczy że dzięki niemu możemy
+Zresetować elektryczność .
+Wszystko tutaj działa jak
+W twoim świecie.
+
+// Exit door
+Czy możemy wyjść na zewnątrz?
+
+Emm...
+Jeszcze nie.
+Może pózniej.
+Narazie zostańmy tutaj.
+Wkoncu nie ma jak w domu.
+
+// Books
+Masz tutaj ogrom książek.
+Przeczytałaś je wszystkie?
+
+Tak, każda jedną z nich.
+Bycie tutaj samą
+Jest strasznie,ale to strasznie nudne.
+
+// TV in room kitchen
+Po co ci drugi telewizor?
+Dodatkowo taki stary?
+
+Nie podoba ci się?
+Jeśli chcesz mogę go zabrać...
+Ale jeśli chcesz wiedzieć...
+To służy on do dekoracji,
+Urozmaica to wyposażenie kuchni.
+A przy okazji działa!
+Mogę oglądać na nim
+Wszystkie moje ulubione seriale!
+
+// Smartphone
+Przecież to mój telefon
+Przecież miałem go w kieszeni
+Skąd on się tu do licha znalazł?
+
+Umm, to nie jest ważne..
+Mam pomysł!
+Zróbmy sobie razem zdjęcie!
+Uśmiech!
+Świetnie wyszedłeś!
+To dla ciebie, na pamiątkę.
+
+Mam pytanie.
+Czy jeśli
+Włączę na nim grę,
+Będę w stanie cię w niej zobaczyć?
+
+Nie, to nie działa w ten sposób.
+
+Dobry w smaku
+SILNY w działaniu!!
+// TV
+Jak dużo kanalów
+Posiadasz?
+
+To nie działa w ten sposób.
+Mam na nim dostęp do internetu .
+Dzięki temu możemy oglądać,
+Wszystko co jest dostępne w internecie .
+Czekaj chwilkę,
+Emm, ups.
+Co to jest?
+Kotki w kólku?
+O, patrz.
+Wiesz co to jest?
+Pauza!
+Chcesz trochę soku?
+
+Dziwne są te reklamy...
+Martwo-sok...?
+
+Tak, i ten sok
+Jest prosto z reklamy.
+
+
+Ah, ten smak...
+Podoba mi się,
+Jednak ciężko mi powiedzieć jak smakuje, czy nawet pachnie.
+Dziwne to wszystko .
+
+Pewnie.
+
+// Mita shy
+Co robisz?
+Proszę, nie patrz się tak na mnie.
+Zawstydzasz mnie.
+
+// The statuette
+Co za straszna figurka.
+Czy
+Podobają ci się takie rzeczy?
+
+Przeraża cię ona?
+
+Trochę.
+Wygląda jak jakaś nawiedzona...
+
+Napewno nie jest nawiedzona.
+A tym bardziej straszna.
+Według mnie jest urocza !
+
+Może masz rację...
+
+Mita?
+Co się dzieje?
+// Mita kitchen
+Może chwilę porozmawiamy
+Zanim zaczniemy jeść?
+
+// Start Eat
+Bon appétit.
+
+// Quest 1
+Prawda?
+Jeśli chcesz możesz zostać.
+Nie przeszkadza mi to.
+A w sumie
+JESTEM NA TAK!
+
+// Quest 2
+Chcesz wracać?
+Ale czemu?
+Przecież tu jest tak miło...
+Jest też przytulnie.
+A na dodatek jestem jeszcze ja.
+
+Nie rozumiesz.
+Bardzo chciałabym zostać.
+Poprostu.... Się martwię.
+Martwię się że zostawiłem coś ważnego w domu...
+Pojawiłem się tutaj ni stąd ni zowąd
+Nie miałem nawet czasu
+Się przygotować.
+
+Przepraszam.... Nie pomyślałam o tym.
+// Quest 3
+Sen? Czyli chcesz się z niego obudzić?
+I szybko o nim zapomnieć?
+
+Nie o to chodzi.
+Te miejsce wydaje się takie...
+Dziwne. Nienaturalne.
+Ale ty...
+Ty wydajesz się taka prawdziwa.
+
+Wydaje się?
+Ale ja JESTEM prawdziwa,
+Głupku!
+
+// Quest 4
+Poprostu już tak jest
+W tym świecie.
+Może się to dla ciebie wydawać dziwne
+Że nie możesz nic zobaczyć
+W oddali.
+
+W sumie nie wydaje mi się to dziwne.
+Szczerze, pasuje to tutaj.
+
+Też tak uważam.
+Wydaje mi się że to po prostu żeby uniknąć lagów .
+
+Lagów?
+
+Niestety. Występują tu rózne błędy.
+Mam nadzieję że na żadnego nie trafimy.
+
+// Quest 5
+Czemu nie używam noża?
+Mogłabym to zrobić.
+Ale chciałam żeby wszystko było
+Takie jak sobie zaplanowałam
+Kiedy już wrócisz.
+Uwielbiam cię zaskakiwać .
+Na szczęście długo mi to nie zajęło !
+Hii-hii.
+
+// Glasses
+Nosisz okulary?
+
+Nie.
+Ale mogę to robić jeśli chcesz.
+Ładnie mi w nich?
+// Yes
+Naprawdę?
+W takim razie je zostawię.
+// No
+Nie...?
+No nic...
+
+// Use the sauce
+No dobrze,
+Co to jest za sos?
+
+To sos miłości!
+Wypełnia cię miłością!
+I... daje ciekawe spojrzenienie świat .
+Ciekawe, nieprawdaż?
+
+A jakże...
+
+// Tetris - Mita
+To twoja konsola?
+Ale cool.

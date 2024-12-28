@@ -1,0 +1,132 @@
+Presionar
+Hablar
+Ponerse el anillo
+Buscar botón
+Sujetar
+Levántate
+Tomar el anillo
+Eliminar juego
+Terminar
+Presionar
+Detener
+Correr
+Abrir mensaje
+Descargar app
+Ejecutar app
+Hablar
+
+Tomar batería
+
+Revisar
+Dejar
+Entregar las tijeras
+Rechazar
+Comer
+Levantarse
+Intentar levantarse
+Tomar pastillas
+Tomar la salsa
+Tomar cartas
+Mirar cartas
+Ocultar cartas
+Derecha
+Izquierda
+Jugar carta
+Quedarse
+Rechazar
+
+Cartuchos
+Abrir
+
+Beber jugo
+Rechazar
+
+Moverse a la derecha
+Moverse a la izquierda
+Saltar
+Agacharse
+Atacar
+
+Torcer a la derecha
+Torcer a la izquierda
+Dejar
+
+Liberar
+
+Despertar
+Sentarse
+Levantarse
+Encender ordenador
+Recoger ramen
+Terminar
+Dormir
+
+Encontrar más piezas
+
+Probar
+No debería
+
+Lo sé
+No lo sé
+Golpear débilmente
+Golpear fuerte
+¡Empujar!
+
+Izquierda
+Centro
+Derecha
+
+Derecha
+Seleccionar
+Izquierda
+
+Uno más
+Suficiente
+
+Interferir
+
+Tirar de la palanca
+
+Seleccionar derecha
+Seleccionar izquierda
+
+Girar a la derecha
+Girar a la izquierda
+Saltar
+Abrir puerta
+
+Seleccionar juego
+Terminar de jugar
+Continuar
+Jugar
+
+
+Cerrar puerta
+
+Derecha
+Izquierda
+Abajo
+Arriba
+
+Retroceder
+Presionar un botón
+
+Comer
+Beber
+Tomar la hamburguesa
+Tomar el pan plano
+Añadir leche
+Añadir azúcar
+Añadir harina
+Añadir aceite
+Añadir un huevo
+Mezclar
+Añadir la mezcla
+Dar vuelta
+Demasiado
+
+Te quedan bien
+Solo quítatelos
+
+Habla conmigo
+No hace falta

@@ -1,0 +1,19 @@
+// Nomes das faixas
+Cracker
+Bubble drink
+Balão
+// Missão nenhuma
+Deixa estar.
+// Missão "Ameet a Mita bondosa"
+Devo confiar em ti?
+Como eu vim parar aqui?
+O que é este lugar?
+Como vieste parar aqui?
+O que fizeste com o anel?
+As passagens são perigosas?
+Vais ajudar-me a escapar?
+Mencionaste um plano.
+// Missão MitaChapéu
+Lembraste-te de alguma coisa?
+O que achas da Mita com o anel?
+Usas sempre esse chapéu?

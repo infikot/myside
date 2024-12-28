@@ -1,0 +1,84 @@
+// The first meeting
+Quem é você?
+Qual o problema?
+Você não consegue falar?
+
+
+Espera...
+Você não vai, né?
+
+Sim...
+Preciso voltar
+para a versão anterior.
+
+Versão anterior?
+Por que você tem que ir
+para outro lugar?
+Por que não fica aqui
+para ser o meu
+segundo amigo?
+
+// Skipping all dialogs
+Okay...
+
+// Standing by the window (Random)
+Você não vai encontrar o seu caminho pelas portas.
+Você parece estar com pressa...
+Andar em circulos não vai ajudar
+Você...quer tanto assim escapar?
+Olha para fora das janelas...
+
+
+// Quest 1 (Aren't you Mita?)
+Você...É um jogador
+Nós podemos jogar juntos
+Se eu encontrar força
+Tudo que a gente tem que fazer é jogar.
+
+// Quest 2 (What happened to you?)
+Eu estou tão incerta, na verdade, eu não sei...
+Eu não sei se algo ruim aconteceu...
+Mas tudo que é bom, parece estar desaparecendo aos poucos...
+Ao menos, eu ainda tenho um amigo.
+Por que eles me deixaram?
+Eu não era suficiente?
+Eu estou com medo...
+
+// Quest 3 (Become a second friend?)
+Amigos...
+Eu tenho tão poucos agora...
+Apenas um restou...
+Eu estou tão triste, jogador.
+Você seria meu amigo?
+
+Eu adoraria,
+mas tenho que continuar...
+
+O meu coração doí tanto...
+
+// Quest 4 (Is this your house?) - MitaLittle
+Casa?
+Você...mudou bastante...
+Os seus braços estão menores e você não parece tão bravo...
+Você tá tão puro...e gentil...
+
+Não tenho certeza...
+Do que isso significa.
+
+Está tudo bem...
+porque não vai machucar mais, né?
+
+// Quest 5 (How do I leave this place?)
+Você realmente vai me deixar?
+Talvez esse seja o meu...
+destino?
+
+Eu...
+
+As portas não vão te ajudar.
+
+// Hold player (Random)
+Por que ir embora?
+Fique aqui...
+Brinque comigo...
+Jogador...

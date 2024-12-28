@@ -1,0 +1,35 @@
+Yêu cầu quét!
+Điều Kiện
+Phiên Bản
+Số Lượng Xương
+Không tìm thấy thực thể. Yêu cầu quét!
+Quét Hoàn Tất
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Whoo-hoo!
+Làm tốt lắm!
+
+// Tutorial
+Hửm? Sao tôi lại ở đây nhỉ?
+Tôi cần phải vào màn hình của cậu...
+Ngay bây giờ...
+Vậy thì!
+Cậu cần phải đảm bảo nguyên mẫu này là đúng.
+Trước tiên, hãy quét nó đi.
+Tiếp theo, kiểm tra phiên bản và số xương.
+Lấy dữ liệu của nguyên mẫu này và so sánh với phiên bản tiêu chuẩn.
+Khớp rồi! Bây giờ hãy kiểm tra cảm xúc.
+Mẫu vật đã thể hiện cảm xúc thành công! Đến lúc kiểm tra hành vi.
+Được rồi, tất cả đều khớp! Bây giờ kéo cần gạt lên.
+Tuyệt vời! Mặc xong lớp da rồi! Giờ đưa cho cô ấy hộp quần áo đi.
+Chuẩn rồi đó! Thấy mấy cái đèn ở trên kia không? Có một cái chuyển sang màu xanh, nghĩa là chúng ta làm đúng rồi đấy!
+Còn giờ đến lượt cậu! Tôi sẽ quay lại ngay khi tất cả đèn chuyển sang màu xanh. Chúc may mắn!

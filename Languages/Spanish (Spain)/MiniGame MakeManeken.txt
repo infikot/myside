@@ -1,0 +1,35 @@
+¡Escaneo requerido!
+Requisitos
+Versión
+Cantidad de huesos
+No se encontró entidad. ¡Escaneo requerido!
+Escaneo completo
+
+
+
+
+
+
+
+
+
+
+// Fin del tutorial
+¡Woo-hoo!
+¡Lo lograste!
+
+// Tutorial
+Entonces, ¿qué hago aquí?
+Necesito llegar a tu pantalla...
+Ahora...
+¡Así que!
+Necesitas asegurarte de que este prototipo sea el correcto.
+Primero, escanéalo.
+Ahora, verifica la versión y el esqueleto óseo.
+Toma los datos de este prototipo y compáralos con la versión estándar.
+¡Es una coincidencia perfecta! Ahora, vamos a verificar las emociones.
+¡El espécimen muestra emoción con éxito! Es hora de probar el comportamiento.
+Bien, hemos comprobado todo y ¡todo coincide! Ahora sube la palanca.
+¡Yay! Ahora se le ha puesto la piel. Pásale la caja de ropa.
+¡Eso es! ¿Ves esas luces en la parte superior? Una de ellas se volvió verde, ¡lo que significa que lo hicimos bien!
+¡Es tu turno! Volveré cuando todas las luces estén verdes. ¡Buena suerte!

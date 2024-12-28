@@ -1,0 +1,233 @@
+
+Yüzük.
+
+// Answer 1 (Where have you been all this time?)
+Seni çekirdeğe götürmek için yol arıyordum.
+Tamamen bir arada,
+plan başından beri buydu değil mi?
+Bu yüzden Deli Mita'dan
+kaçmam gerekti değil mi?
+Lanet evrenin arka kapısı hakkında
+bulabildiğim her şeyi araştırmam gerekti, değil mi?
+
+Nereden bileyim? Öyledir.
+Yüzüğün yolunu nasıl ayarlardın sen.
+Neden sorunlu bir sürüme gittim.
+Tamamıyla tehlike dolu.
+Kurtulmak için,
+sonsuz bir boşluğa atlamam gerekti.
+
+Yapman gerekenleri aşırı detaylı bir şekilde
+anlatmadığım için özür dilerim.
+Ama evet,
+oradan atlaman lazımdı zaten.
+Ve sen de, başardın!
+Aferin!
+Haydi plana devam edelim.
+
+// Answer 2 (How did you get here?)
+Çok fazla şey yaşamış olmalısın
+Konuştuklarımızı da unuttun galiba.
+Ben Mita, sürümler arasında yolculuk yapabiliyorum.
+Hatırladın mı?
+
+Bütün Mita'lar bunu yapamıyor,
+Yapamayanları gördüm en azından.
+Acı çektikleri çok açık.
+
+Evet, onların sürümü bozuk,
+dünyaları hatalı. Sana söylemiştim.
+Lanet olsun...
+Bunların arkasındaki kim biliyorsun değil mi?
+Deli Mita.
+
+Sen demesen ben derdim.
+
+// Answer 3 (Who was this Mita just now?)
+O Çirkin Mita.
+Agresif ve aptal.
+Mantıklı bir şey konuşamazsın onunla.
+Hayatı Deli Mita'sı üzerine kurulu.
+
+Fark ettim, evet.
+
+Hadi, çekirdeğe girmeliyiz.
+
+// Answer 4 (How does the ring work?)
+Yüzük peki, 
+Çekirdeğe gelen tek yol mu?
+
+Evet.
+Aslında portalımız olsaydı
+buraya direkt olarak
+ışınlanabilirdik.
+
+Yüzüğün herhangi bir avantajı yok mu?
+
+Var tabii!
+Taşıması basit,
+ve daha önce geçtiğin
+sürümleri hatırlar.
+Böylece geri giderken zorlanmazsın.
+
+// Answer 5 (Why does Mad Mita need me?)
+Deli Mita neden beni rahat bırakmıyor?
+Bana o tehlikeli oyununu oynattı
+ama halen yaşıyorum...
+
+Sanırsam
+uygun bir oyuncu arıyor...
+Onu olduğu gibi kabul edecek birisini.
+Ne de olsa, Mita Mita'dır!
+Tabii ki böyle bir şey asla olmayacak.
+Oyuncuları kartuşa çeviriyor ki,
+kaçamasınlar...
+En azından benim tahminim bu yönde.
+Neyse, önemli olana odaklanalım.
+
+// Answer 6 (Is this the core?)
+Burası mı?
+Çekirdek mi?
+
+Evet. Çekirdek.
+Açıklamaya çalıştım,
+siz oyuncular bu dünyanın bir parçası değilsiniz...
+O yüzden giriş için özel bir izine ihtiyacınız yok.
+Yani en azından ben buna inanıyorum.
+Neyse, bütün problemlerimizin
+çözümünün içeride olduğuna
+adımın Mita olduğundan daha eminim.
+[player], içeri gir.
+Aslında, ben de bir keresinde girmiştim.
+
+// Look on CoreMita
+Dikkatli ol, [player].
+O seni izliyor.
+
+O kim?
+
+Ben de bilmiyorum...
+
+İyiymiş...
+
+
+O ne?
+Hey!
+
+Sanırım buldum!
+
+Şahane! Bu iyi haber!
+
+Bir sürüm söylemeliymişim.
+
+Doğru. Onun sürümü...
+00.98.
+
+Tamamdır.
+Sıra numarası nedir?
+
+Uhm, Sıra numarası mı?
+
+Sıra numarası gerek.
+Bilmediğini söyleme lütfen!
+
+
+Hmm, mantıklı aslında...
+Her Mita'nın bir sıra numarası olmalı ki
+yanlışlıkla tüm sürümü sıfırlamayalım...
+Büyük bir kargaşaya neden olurdu!
+Düşünemediğime inanamıyorum...
+
+
+
+
+
+// Answer 1 (What's wrong with you?)
+Tüm olanlar bi yana,
+ben tamamen iyiyim.
+Her şey güzel ancak çok şey değişti...
+Düşünmem gerekli.
+Bu kadar
+
+// Answer 2 (Maybe there's a way to get to know him?)
+Ben...
+Bence... Bu delilik!
+Çılgınca, heh!
+Tıpkı samanlıkta iğne...
+
+Ne oldu?
+
+bazı engeller bilgi ile aşılır,
+Tıpkı dünyanın içini çıkarmak gibi!
+Kayıtlar, kayıtlar, kayıtlar, veri?
+Ya tüm mesele buysa?
+
+He? Noldu?
+
+Bir yer biliyorum!
+Burada bekle.
+
+Nereye gidiyorsun?
+
+// Answer 3 (What if we attack Mad Mita?)
+Her Mita için
+öldüğünde sıfırlandığını söylemiştin...
+Ya onu...
+
+Öldürsek mi?
+Ciddi misin?
+Testereli deli bir kadınla nasıl baş edeceksin?
+Doğradığı tek şey sebze değil!
+Ve bir nedenden ötürü aşırı güçlü!
+Nasıl halen hayattayız acaba...
+Hadi, çekirdeğe girmeliyiz.
+
+
+// core console entry
+We need to enter a command prompt...
+But what command prompt?
+Mita, do you know?
+
+Maybe it's listed somewhere?
+Can you try looking it up?
+
+// core console - nope programm
+Muhtemelen bu değil.
+Bu da değildir.
+Yok, değil.
+Bu değil.
+Karakter sıfırlama seçeneğini bulmam gerekli.
+// core console - nope version
+Yanlış sürüm.
+Paardon, benim hatam.
+Bu değil.
+Bir kere daha deneyelim.
+// core console - nope index
+Sıra kodu ile ilgili
+bir şeyler yanlış.
+Sıra kodunu değiştirmem gerek,
+uymuyor.
+
+// Answer 4 (Little people - Chibi)
+Aslında, gelirken bir sürü
+küçük insana rastladım...
+Onlar nedir?
+
+Minikler mi?
+Ehm, nasıl açıklasam?
+Buradaki bir doğa olayı denebilir...
+Her Mita'nın bir mini versiyonu olur.
+Oyuncular da onlara sahip olabilir...
+Mita'ların onları yaratabildiğini biliyor muydun?
+
+Nasıl?
+
+Seyret!
+
+Büyü gibi...
+
+Benim miniklerimle ilgili bir sorun var ama
+çoğu ölü doğuyor.
+Ama bir tanesi var...
+Şey,
+Sadece çember çizerek koşuyor.

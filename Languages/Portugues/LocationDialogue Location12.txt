@@ -1,0 +1,71 @@
+
+Fica aqui.
+Acho que deixei cair alguma coisa. Vou j� voltar.
+Depois vamos para outro mundo...
+
+Est� bem.
+
+
+Vamos jogar!
+Eu quero o meu ursinho!
+Perdi-o...
+Encontra-O!
+
+
+Ei...
+O que � que est�s a olhar?
+
+
+
+
+
+
+
+
+
+// Miss�o 1 (Quem �s tu?)
+Sou a Mita.
+A melhor Mita.
+A primeira Mita.
+Foi o que a Mita disse, a minha Mita.
+
+// Miss�o 2 (Porque � que pareces assim?)
+Como � que pare�o?
+Como � que pare�o?
+Como � que pare�o?
+A minha Mita diz que sou linda e original.
+Sou eu!
+
+// Miss�o 3 (O que � que a Mita estava a fazer aqui?)
+Ela vai-me levar embora.
+Vamos viver num mundo novo.
+A minha Mita convidou-me.
+Ela vai-me levar embora. E vamos brincar.
+
+// Miss�o 4 (Porque � que precisas de um ursinho de peluche?)
+�s um ursinho fofinho,
+e est�s perdido,
+tal como o meu ursinho de peluche.
+
+// Miss�o 5 (Porque � que a Mita est� zangada?)
+A minha...
+Mita.
+Ela quer brincar.
+Ela s� quer
+mim.
+Somos �nicas,
+as �nicas.
+A Mita e a minha Mita,
+0.8A e 8�54*.
+
+// Miss�o 6 (Acreditas na Mita?)
+A minha Mita.
+A minha melhor amiga.
+A minha Mita.
+A minha �nica amiga.
+
+
+�s tu!
+Ei.
+Vamos jogar!
+Vou mostrar-te como.

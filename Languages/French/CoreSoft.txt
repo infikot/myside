@@ -7,9 +7,9 @@ Retour
 
 Gestionnaires de Périphériques Virtuels
 Gestion de l'Unité Serveur [Choisir la version]
-Contrôle du Processeur Pricipal [Choisir la version]
+Contrôle du Processeur Principal [Choisir la version]
 Contrôle du Processeur Graphique [Choisir la version]
-Quad-liner
+Quadrangle
 Terminer le jeu
 
 

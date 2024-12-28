@@ -1,0 +1,87 @@
+
+Oye, ¡tú!
+¡Hola!
+¿Quieres salir de aquí?
+¡Entonces ayúdame a encontrar la llave!
+// Key Search
+¡No hay llave aquí!
+Nada aquí
+¡Absolutamente nada!
+¡La encontré!
+
+// The usual conversation
+Eh, ¡creí que serias mas bajo!
+Eres alto
+¡justo como mi hermana!
+
+¿Tu hermana?
+
+Si, mi hermana.
+¡No me digas que no la has conocido!
+
+He hecho mas que solo conocerla.
+
+¿Eres un tonto?
+
+Ehh...
+
+Resulta que si lo eres...
+Vamos, ¡solo ayúdame a encontrar la llave!
+
+// Next work
+Ven.
+¡Coloca el hierro sobre la tubería!
+¡Gracias!
+¡Ahora alcánzame esa madera!
+¡Gracias!
+Una ayudita mas, ¡Por favor!
+¡Todo listo! Ahora...
+¿No es hermoso?.
+Presiónalo, ¡vamos!
+Y ahora...
+Listo, ¡tómala!
+¡La llave es tuya!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+Soy MiniMita.fbx!
+Con un montón de diálogos,
+el modelo mas simple y...
+¡el mas hermoso de los peinados!
+
+// Quest 2 (Have we seen each other yet?)
+¡Tontuelo!
+Eres un poco lindo, sabes,
+haciendo preguntas tontas como esas.
+sin embargo,
+esta es la primera vez que nos vemos!
+Pero...
+Si alguien se robó mi maravillosa imagen,
+¡Haré que se arrepienta!
+
+// Quest 3 (Why are you here?)
+¿No lo entiendes?
+Este es un punto de control
+¡una prueba de tu ingenio!
+¡Ahora vamos!
+¡Estoy para guiar a aquellos perdidos sin esperanza!
+
+// Quest 4 (Why are you helping me?)
+¿Qué te hace tan especial?
+¿Por qué no habría de ayudarte de todas formas?
+
+¿Qué?
+
+Tan tonto...
+¡Tu apareciste de la nada!
+No deberías estar aquí,
+así que, ¡te estoy ayudando a salir!
+
+¡Adiós!, Tontito

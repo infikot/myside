@@ -1,0 +1,605 @@
+
+Mình... Mình quay lại rồi!?
+
+Kya!
+Đừng có làm tôi giật mình như thế!
+Trời ạ.
+Ơ, save của tôi!
+Ủa, bị sao thế này?
+Game đâu rồi?
+Sao anh dám phá hỏng tiến trình của tôi!
+Anh làm vậy là có ý gì?
+
+Anh phải đến phiên bản...
+
+Hả?
+
+Anh phải quay lại phiên bản cũ hơn.
+
+...Ra vậy, hiểu rồi!
+Tôi đang rất là bận,
+không có thời gian để chơi với người đầu đất như anh đâu.
+
+Bận gì chứ, nãy còn ngồi đây chơi game mà?
+
+Anh! Anh đúng là đồ đáng ghét!
+Có vẻ chúng ta không thể làm bạn với nhau rồi.
+
+Nghe này, anh cần phải đến được Lõi.
+
+Ui da... Tại anh mà tôi bị thương rồi đấy.
+Thiệt tình!
+Sao hả?
+
+...Anh cần phải đến được Lõi và ngăn chặn Mita lại!
+
+Mita?
+Tha cho tôi đi!
+Mita như nào tôi không quan tâm!
+Từ đầu đến cuối, tôi chẳng hứng thú chút nào!
+
+Nhưng em cũng là Mita mà...
+
+Tôi là Mila.
+
+Mi-Ta? La?
+
+Bọn họ là Mita,
+bên này, bên đó, tất cả đều là Mita!
+
+Vậy... em là Mila?
+
+Tôi nói với anh rồi mà! Não anh thông chậm đến mức nào vậy?
+
+Ừm, dù sao thì... Chúc may mắn, Mila...
+
+Anh định đi đâu?
+Anh nghĩ anh có thể dễ dàng rời khỏi đây ư?
+
+// Player check exit
+Anh nghĩ đó là lối ra hả?
+
+Chậc, không rời khỏi đây được rồi!
+Chỗ đó là gì thế?
+
+Theo anh thì sao?
+Xứ sở thần tiên à?
+
+Vậy làm sao để rời khỏi đây?
+Phải có lối đi ở đâu đó chứ.
+
+Không có lối đi nào ở đây đâu.
+
+Hừm, phiên bản ở đây...
+Mình nghĩ mình vẫn đang đi đúng hướng.
+
+// Glitch kitchen
+Thứ này, là của em à?
+
+Đừng lại gần!
+Thứ này là gì... tôi cũng không biết nữa.
+Chắc là lỗi gì đó rồi!
+
+Không hiểu sao nhẫn của anh lại rung lên.
+
+Nhẫn gì thế?
+Nhẫn đính hôn hay gì hử?
+
+Không đời nào, anh nhận được nó từ một Mita khác.
+Có lẽ nó có thể giúp anh thoát khỏi đây.
+
+Anh định chạm vào nó ư?
+Nếu nhà tôi có nổ thì anh cũng chết theo đấy!
+
+// Bathroom - Mila is washing
+Này!
+RA NGOÀI MAU!
+Không thấy phòng tắm đang có người à?!
+// The player continues to stand 1
+Sao anh vẫn ở đây?!
+Mau ra ngoài cho tôi!
+// The player continues to stand 2
+Đừng để tôi phải bực!
+Mau biến khỏi đây đi!
+// The player continues to stand 3
+Không nghe thấy à!?
+Tôi đang tắm mà!
+
+// Mila came out and swears
+Anh làm cái gì thế hả?
+Đồ biến thái! Không biết xấu hổ...!
+
+Sao tự dưng lại đi tắm lúc này?
+Đợi anh rồi tắm
+có phải hơn không?
+
+Làm sao tôi biết được!
+Mà này, anh định loay hoay với cái lỗi đó đến bao giờ nữa?
+
+Lỗi?
+Vẫn còn à?
+
+Vẫn còn...
+Nhưng nhà tôi vẫn ổn, nghĩa là...
+Anh giải quyết được lỗi ở phòng bếp rồi phải không?
+
+Ừ, đại loại vậy.
+
+Vậy à. Thế thì tốt rồi.
+Vào phòng tắm đi.
+
+Cảm ơn em.
+
+// Mila hides under the table
+Mila?
+Em làm gì dưới đó thế?
+
+Ui da!
+Trời ạ! Lại làm tôi giật mình nữa rồi!
+Lần này anh muốn gì?
+
+Em còn thấy lỗi nào khác không?
+
+Anh dám làm phiền tôi đọc sách
+chỉ để hỏi chuyện đó thôi á?
+Tôi không thấy!
+
+Được rồi, để anh tự đi tìm xem.
+
+À, khoan đã.
+Tôi có chuyện muốn hỏi...
+Anh đang cố gắng thoát khỏi đây
+phải không?
+
+Phải.
+Anh muốn thoát khỏi trò chơi này.
+
+Vậy à... Nghe có hơi kỳ một chút...
+Anh có muốn ở lại đọc sách cùng với tôi không?
+
+Mới nãy còn nói những lời khó nghe
+giờ em lại rủ đọc sách cùng à?
+Mà nghe cũng vui đó
+nhưng anh phải đi tiếp.
+
+À thế à!
+Vậy thì cứ việc đi tìm lỗi đi...
+Đây là lần thứ hai tôi bị đập đầu rồi.
+Tất cả là tại anh đấy nhé!
+// Player saw a glitch
+Tìm thấy rồi.
+
+// Mila stands with a sword
+Nè, nhìn tôi đây này!
+Và hãy run sợ trước sức mạnh của tôi đi!
+Đây chính là sức mạnh của tôi!
+Anh thấy tôi nguy hiểm đến mức nào chưa?
+Không dám chớp mắt luôn phải không.
+
+Em nghiêm túc đấy à?!
+
+Ý kiến gì hả?
+Vẫn chưa phục sao?
+
+Không hẳn...
+
+Chắc lúc anh đi nghịch mấy cái lỗi đó,
+anh vẫn quan sát được xung quanh
+nên anh đã biết trước rồi đúng không?
+Rằng tượng đá này đã bị cắt từ trước rồi.
+
+Không hề.
+Chỉ là... vì chúng ta đang ở trong game.
+Nên chỉ cần búng tay là có thể làm được mọi thứ chứ nhỉ.
+
+Anh...
+thật sự khờ hết chỗ nói!
+Búng ngón tay ấy hả...
+Thế anh nghĩ tôi đọc sách để làm gì chứ?
+Không phải để búng tay là giải quyết được mọi chuyện
+mà là để tự tay làm mọi thứ.
+Giống như những gì được viết trong sách.
+
+// Mila is doing push-ups
+Em làm gì thế?
+
+Nhìn mà không biết à?
+
+Biết chứ, nhưng tại sao lại làm vậy?
+
+Để đấm vào mặt anh chứ sao!
+
+Ổn không vậy em?
+Làm gì mà kỳ thế...
+
+Không phải vậy đâu!
+Tôi nói đấm anh
+chỉ là nói đùa thôi.
+Với cả tôi không có kỳ đâu nhé!
+Tôi là độc nhất vô nhị!
+Tôi muốn mình càng khác biệt với những người khác càng tốt.
+
+Thế thì em không cần phải lo đâu.
+Tin anh đi, em đã rất khác biệt rồi.
+
+Tôi biết mà!
+Nhìn đi! Đẳng cấp chưa này!
+Thấy chưa?
+Tiếp theo không cần dùng tay luôn!
+
+Tuy biết đây chỉ là game thôi
+nhưng vẫn thấy nó phi thực tế ác...
+
+Ui da!
+Trời ơi!
+Cái định luật vật lý đáng ghét này...
+Anh cứ bận tâm đến nó
+nên tôi mới bị thế này─
+"Bùm!"
+Tại anh cứ nói về thực tế này nọ đấy.
+Đồ khờ khạo!
+
+// Last glitch ready - player exit
+Đường đã thông.
+Chúng ta làm được rồi, Mila!
+
+
+Tuyệt vời đó chứ.
+Cứ như là anh hùng vậy!
+
+Hự!
+
+Ah...
+Xin lỗi nhé, tôi không có ý đó!
+
+Ổn mà, Mila. Giờ anh có thể đi tiếp rồi.
+
+Tôi biết là anh muốn đi tiếp, nhưng mà...
+Anh không thể ở lại đây với tôi một chút được sao?
+Chỉ một chút thôi...
+
+Tại sao? Anh không thể chần chừ được nữa.
+Mita Cuồng Bạo kia sẽ không đợi đâu...
+
+Tôi... ghét cô ta!
+
+Tôi ghét, tôi ghét, tôi ghét cô ta!
+
+Mila, nghe này...
+
+Tại sao tôi lại ở đây?
+Tôi không hiểu!
+Tại sao tôi không hiểu ư?! Tôi cũng không biết nữa!
+Với cả... tôi không thể nào rời khỏi đây được...!
+
+Anh hiểu cảm giác của em, Mila.
+Liệu anh có thể quay lại gặp em được không?
+Sau khi mọi chuyện kết thúc.
+
+Xin anh... ở lại đây với tôi đi, người chơi...
+Được ở bên anh... Tôi thấy vui lắm. Khác hẳn khi tôi chỉ có một mình...
+Nếu như anh thất bại thì sẽ thế nào...?
+
+Chắc chắn anh sẽ thành công. Chỉ cần thêm một chút nữa thôi.
+// If the player clicks on the computer
+Anh vừa mới bước vào thế giới 2D này
+và trở lại đây.
+Giờ anh cũng muốn mau mau trở về thế giới thực.
+
+Ha-ha-ha! :)
+Nằm ở đâu cơ chứ? 
+Thế giới "thực" của anh ấy.
+Cứ như truyền thuyết đô thị vậy!
+Bởi vì tôi chưa từng thấy thế giới "thực" nào cả.
+
+Anh nghĩ...
+Phải có cách nào đó để trở về chứ.
+
+Tự tin ghê nhỉ.
+Nhưng nghe cứ như đùa vậy!
+
+// Ask about books
+Sao em lại đi đọc sách vậy?
+Có internet rồi mà nhỉ...
+
+Trên mạng cũng có nhiều tiểu thuyết!
+Nhưng mà nhé, thỉnh thoảng tôi lại thích nằm xuống
+và đắm chìm vào cuốn sách trước mặt...
+Chỉ có những cuốn sách ở đây
+mới có thể dạy tôi được thôi!
+Về thế giới này,
+đủ mọi kiến thức.
+
+// Ask about the paintings
+Mấy bức ảnh này là thật à?
+Anh từng thấy ở mấy phiên bản khác rồi,
+nhưng nó cứ... chói lóa đến nhức cả mắt.
+
+Tôi là Mila mà lại. Khác biệt với tất cả bọn họ.
+Còn mấy bức ảnh này hả? 
+Nó giống kiểu bánh vẽ ấy.
+Chỉ là lớp vỏ bọc thôi...
+Anh biết gì không? Hôm bữa tôi thấy rất nhiều Mita
+đứng y chang như vầy.
+
+Mila?
+Mila hỡi?
+// Mila.
+Kể từ đó...
+Tôi không muốn trở thành như vậy chút nào.
+Trông ghê tởm hết sức!
+
+// Ask about the butterfly painting
+Em đã thấy thiên nhiên thực sự bao giờ chưa?
+Những con bướm bay lượn chẳng hạn?
+
+Tôi chưa.
+Nhưng tôi thấy nó trong một cuốn sách nào đó rồi.
+Đôi cánh của con bướm trong cuốn sách đó...
+Nó mịn như nhung vậy...!
+Ừm...
+Trông bức tranh này có hơi nghiêng nhỉ.
+Còn có vết bẩn nữa...
+Ổn hơn rồi.
+
+Em có muốn được đi dạo giữa thiên nhiên không?
+
+Hỏi câu ngớ ngẩn thế!
+Muốn chứ...
+Hiển nhiên là muốn rồi...
+
+// Make long eye contact 1
+Anh nhìn cái gì?
+Quay mặt ra chỗ khác!
+
+// Make long eye contact 2
+Gì vậy hả!
+Nhìn gì mà nhìn ghê thế!
+Thiệt tình, đồ ngốc...
+
+// Make long eye contact 3
+Này! Anh kia!
+Sao cứ nhìn tôi hoài thế?
+Nhìn con gái kiểu đó là bất lịch sự đấy!
+
+Bất lịch sự là như nào vậy?
+Quay mặt ra chỗ khác mau!
+
+// Whispers 1
+Cứ bị dúi hết vào
+gã kỳ quặc này đến gã kỳ quặc khác...
+Tại sao mình phải tỏ ra thân thiện với họ chứ?
+Còn bị bắt chơi cả minigame nữa...
+Cứ như con Tamagotchi đần độn vậy!
+
+// Whispers 2
+Cứ lang thang... rồi đánh hơi khắp nơi...
+Ngớ ngẩn hết mức.
+
+// Whispers 3
+Hả? Anh nói gì cơ?
+Nhạc nền gì mà ầm ĩ thế! Muốn giết người à?!
+
+// Whispers 4
+Làm sao để anh ta hiểu là
+mình đang rất bận đây?
+Mình đâu có rảnh tiếp khách...
+Nhưng... lỡ anh ta bỏ đi thì sao? Cơ mà sao mình phải lo chuyện đó chứ...
+
+// Whispers 5
+Mẹ... Cha...
+Ủa? Sao mình lại biết mấy từ này nhỉ...?
+
+// Whispers 6
+Tuyết đã từng rơi ở đây. Nhưng mà tại sao?
+
+// Whispers 7
+Bỗng dưng anh ta xuất hiện! Đáng sợ thật...
+Lỡ như chỗ anh ta xuất hiện chẳng có gì thì sao...?
+
+// Nearby 1
+Đứng ngay cạnh nhau.
+Cứ như thế này
+rồi im lặng...
+Sao anh không nói gì đi?
+Nuốt phải lưỡi rồi à?
+Hay là
+không có gì để nói?
+
+// Nearby 2
+Tuyệt đối nói không với cà rốt!
+Tôi đang chiến tranh với cà rốt đấy!
+Anh có biết nó đã làm gì không?
+Nó đã làm gì với làn da trắng như tuyết của thiếu nữ xinh đẹp này... Anh có biết không!?
+
+// Nearby 3
+Sách không nói gì về chuyện này
+nhưng biết đâu gặp may thì tôi có thể giải quyết được?
+Cái chức năng "bụp phát hiện ra" khó chịu này...
+Cứ bất thình lình là có rau củ xuất hiện sau lưng
+kinh khủng quá đi mất! 
+
+// Nearby 4
+Nghe đây này, tôi rất ghét những kẻ biến thái!
+Kiểu như mấy tên nghiện cà rốt, cuồng dâm...
+Rồi cả anh, cái tên cuồng lỗi nữa chứ.
+Anh là kẻ biến thái nhất mà tôi từng gặp đấy!
+
+// Nearby 5
+Muốn biết điều ước lớn nhất của tôi không...?
+Ừm... Nói ra thì cũng hơi ngại...
+
+// Nearby 6
+Người ta nói đấu tranh với bản năng của mình là rất khó,
+quả đúng là thời khắc thử thách mà! 
+Tôi phải học cách tự chủ thôi.
+Thực ra tôi muốn được uống trà với anh. 
+Nhưng tôi sẽ cố gắng kìm nén cảm xúc này!
+
+// Nearby 7
+Dù có đeo kính,
+tôi cũng không thể nhìn thấy được gốc rễ động cơ điên rồ của anh.
+Nó ẩn giấu đằng sau tầm nhìn hạn hẹp đến mức giả tạo kia...
+
+// Nearby 8
+Định mệnh giống như một cuốn kịch bản,
+trong đó ghi chép cả cách để sống mỗi ngày.
+Tôi đã từng đọc được nó trong sách.
+Ha! Không biết ai đã viết ra những lời này nhỉ.
+Chắc không phải là anh đâu đúng không?
+
+// Nearby 9
+Nếu chỉ ngốc nghếch thôi thì còn tạm chấp nhận, chứ khùng điên thì...
+Tôi xin khiếu.
+
+// Nearby 10
+Trong số những Mita...
+Cũng có những người khá quyến rũ,
+nên tôi hiểu cảm giác muốn tiếp cận họ.
+Cho dù đó chỉ là bản sao của bản sao của bản sao chăng nữa...
+
+// Nearby 11
+Trong số những Mita cũng có một người hơi khác biệt...
+Nhưng mà cô ấy lại có vấn đề về đầu óc.
+
+// Nearby 12
+Tôi ghét tóc đuôi ngựa!
+Nếu thấy ai để kiểu tóc đó, tôi cắt phăng nó đi luôn!
+Nhìn xấu hổ chết đi được!
+Anh cạo trọc đầu rồi chắc cũng hiểu cảm giác của tôi chứ?
+
+// Nearby 13
+Nếu như phía sau cánh cửa không có gì cả thì sao?
+Sự tồn tại của chúng ta trong ngôi nhà này
+phải chăng là do một lý do nào đó không thể giải thích được?
+Thế sao anh có thể chắc như vậy?
+Anh đã từng nghe đến "Five-minute hypothesis" chưa?
+
+
+
+// Last glitch ready - player exit
+Hành lang gì trông rợn ghê...
+Anh thật sự định đi vào đó à?
+
+Ừ.
+
+// FaceStone
+Ồ, bức tượng đá moai...
+Sao lại có thứ này ở đây nhỉ?
+
+Rồi anh sẽ biết thôi.
+Háo hức ghê! À mà này...
+Sao anh cứ bắt chước ông ta thế?
+Cứ thể hiện cảm xúc thật của mình đi xem nào.
+
+À, ừ...
+Anh biết rồi.
+
+// Katana
+Này là kiếm đồ chơi à?
+
+Đồ chơi cái gì chứ!
+Chỉ cần chạm nhẹ vào lưỡi kiếm thôi
+là máu chảy như chơi.
+Tôi là một kiếm sĩ lão luyện đấy!
+Nhưng tốt nhất anh đừng có sờ vào ha.
+Chắc chắn anh không điều khiển được nó đâu.
+
+// Mirror
+Gương...
+Không phản chiếu gì cả?
+
+Ai chà.
+Trông anh có vẻ không vui nhỉ.
+Tôi đã đọc nó trong sách rồi.
+Cái gọi là hiện tượng phản xạ ấy.
+Nhưng phiên bản của tôi không thể mô phỏng lại nó được.
+Đáng tiếc ha!
+
+// Switch light
+Nó không hoạt động đâu.
+Đèn ở đây nó tự động bật tắt.
+Cứ như được lập trình sẵn ấy!
+Nhưng mà...
+Chẳng hiểu sao riêng phòng tắm thì
+công tắc đèn vẫn dùng được.
+Kỳ lạ ghê!
+// Switch light off
+Đèn ở đây vẫn sáng?
+
+// Little carrot
+Một củ cà rốt?
+Ơ kìa, nó đâu rồi?
+
+Tôi chán ngấy cái củ cà rốt này lắm rồi!
+Cứ như nó sống được ấy!
+Cứ mỗi lần tôi nhìn
+là nó lại dịch chuyển đến chỗ khác.
+
+// Little carrot
+Ô... Củ cà rốt đây rồi.
+Lại biến mất nữa rồi.
+Chúng ta không làm gì được với nó à?
+
+Không.
+Chẳng làm được gì đâu.
+Tôi đã thử hết mọi cách rồi.
+Làm gì thêm nữa cũng chỉ tốn thời gian.
+Chỉ là trò đùa của tạo hóa thôi.
+
+// Tetris
+Này!
+Anh coi tôi là cái gì vậy hả!?
+// Tetris
+Tôi không trả lại đâu.
+Tuyệt đối không!
+
+// Soap.
+Hm... Xà phòng này có phải là thật không?
+Hay chỉ để trưng bày thôi?
+
+Haiz, anh đúng là ngốc thật.
+Hầu hết những thứ ở đây
+chỉ là trông giống thật thôi!
+
+// BagWall
+Ủa? Anh biến đi đâu mất rồi!?
+
+Ra là chỗ này đi qua được à?
+
+Anh lại phát hiện ra lỗi mới hả?
+Tình hình thế nào?
+
+Có vẻ như...
+Chẳng có gì cả.
+
+À, mừng trở lại.
+
+// Quest 1 Glasses
+Mắt em kém lắm à?
+Sao lại phải đeo kính?
+
+Sao cơ, anh không thích à?
+Đây là phong cách của tôi!
+Thị lực của tôi thì hoàn hảo luôn nhé!
+
+// Quest 2 Name miLa
+Mi-La?
+Sao không phải là...
+Mi-Ka?
+Hay là Mi-Sa?
+
+Tôi là Mila. Chỉ thế thôi.
+
+Vậy à...
+
+// Quest 3 Evening
+Anh thích khoảng thời gian chiều tà.
+Khi nào thì trời tối nhỉ?
+
+Trời tối á?
+Đừng nhắc đến chuyện đó nữa...
+Tôi không muốn nghĩ
+về chuỗi ngày tháng bất tận này.
+Tất cả chỉ là sự lặp lại vô nghĩa và vô tận...
+Haiz...

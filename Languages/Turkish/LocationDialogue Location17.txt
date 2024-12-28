@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+Birinin yardımı gerekecek burada
+Umarım buranın Mita'sı ısırmıyordur.
+
+Zamanımı neyle harcıyorum...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, Uyansana!
+Mita!
+
+Mita, Uyan!
+Yardımın gerek.
+
+Sen kimsiinnnn?
+
+Kapıyı açmamda yardım et.
+
+Ne kapısı?
+Bırak da uyuyayım...
+Ya da bana kahve getir...
+
+Kettle hemen orada.
+Mita?
+Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita,
+Kahveni getirdim.
+
+
+
+// MitaDreamer exercise
+Kapı diyorsun,
+Öyle mi?
+
+Evet.
+
+Nasıl oluyor da kapıdan haberin oluyor?
+Gerçi, neden soruyorum ki...
+Burada olduğuna göre
+fazlasıyla biliyorsun demektir...
+
+Bekle bi'.
+Oturmam lazım.
+
+Sonra?
+
+Ne diyeceğimi bilmiyorum...
+Ama devam etmem lazım,
+Yüzüğün yolunu takip etmeliyim.
+
+Yüzüğünü mü aldın?
+Burayı bulmana
+şaşmamalı.
+
+Doğru.
+Ee, yardımcı olabilir misin?
+Kapı hakkında?
+
+Tabii.
+Ederim.
+Kapı hakkında.
+
+
+Mita, Hadi.
+Gidelim artık.
+
+He?
+Tamam.
+Hadi.
+
+
+// MitaDreamer fall
+Kalksana.
+Bu kadar uykun olamaz.
+
+// MitaDreamer again sleep
+Uyan.
+Geldik sayılır.
+
+// Switches
+
+Tamam,
+hazırım.
+
+Ben de hazırım.
+
+Pekii.
+Geriye doğru
+saymaya başlıyorum.
+Ve kolu aynı anda çekiyoruz.
+Tamam mı?
+
+Sadece uyanık kal. Tamam!
+Hadi.
+
+
+3
+2
+1
+
+// Player lose 1
+Daldın mı?
+Hadi,
+bir daha deneyelim...
+
+// Player lose 2
+Bir daha deneyelim mi?
+Hadi,
+ben...
+ben uyuyakalmak üzereyim...
+
+// Player lose 3
+Uyumak üzereyim...
+
+
+
+Şahane.
+Teşekkürler, Mita.
+
+Mm-hmm.
+
+
+Kapı...
+Çok...
+Yavaş...
+
+
+Ben zıbaratto.
+
+// Why kitchen?
+Mutfakta n'apıyoruz?
+Soğukta uyuyakalırsam,
+senin suçun.
+
+// Why bathroom?
+Tam olarak anlayamadım.
+Hangi kapı hakkında yardım istedin?
+
+// Put button
+Hiçbir şey olmadı?
+Bu ne iş yapıyor o zaman?
+
+// Cofee
+Biraz daha kahve ister misin?
+Yoksa uyuya kalacaksın.
+
+Nee?
+Hayıırr...
+Bu kahvenin tadı berbat...
+Tamamen iyiyim...
+
+// Button
+Mita? Tuş çalışmıyor... Duyuyor musun?
+Merhaba?

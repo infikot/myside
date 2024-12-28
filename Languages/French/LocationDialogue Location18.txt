@@ -1,42 +1,42 @@
-
+// Description - [not]
 Une lumière aveuglante vint frapper mes yeux.
 J'étais incapable de me mouvoir jusqu'à ce que ma vision retourne à la normale.
 La vive lumière d'été traversait les fenêtres d'un salon familier.
 Ayant récupéré de la stupeur causée par cette vue éclatante, je pris alors la décision d'examiner les alentours.
 À peine m'étais-je levé de mon siège que mon ventre me fit un signe sous forme d'une brûlante sensation, suite à laquelle mon cœur se mit à battre douloureusement, le tout s'accompagnant de vibrations se propageant dans ma poitrine.
 
-
+// Player - [not]
 Quelque chose ne va pas... Moi ? En 2D ?! Je suis dans une version en 2D ?!
 ...
 
-
+// Description
 Ma tête commença à me paraître lourde et ma vision fut obscurcie, tandis que je mis les mains sur mes genoux, essayant de reprendre mon souffle.
 Ma poitrine se mit à se contracter encore davantage.
-Après quelques minutes, ma respiration semblait être revenue à la normale, et je décida finalement de chercher quoi faire.
+Après quelques minutes, ma respiration semblait être revenue à la normale, et je décidai finalement de chercher quoi faire.
 
-
+// Player - [not]
 Merde, qu'est-ce que je suis censé faire ?!
 
-
+// Description
 Essayant de reprendre mes esprits, je fis travailler ma tête jusqu'à ce qu'une idée inattendue y fit son apparition.
 
-
+// Player - [not]
 Bien, je devrais juste retourner dans la version 3D.
 Il fallait retourner hors des limites du jeu, ce que jusqu'ici tout le monde semblait être parvenu à faire, ignorant les règles du jeu.
 Je dois pouvoir le faire moi aussi !
 
-
-Je décida d'aller au delà du monde 2D pour atteindre celui en 3D.
+// Description
+Je décidai donc d'aller au-delà du monde 2D pour atteindre celui en 3D.
 Je fis une tentative de tendre la main dans le monde en trois dimensions.
 
-
+// Player - [not]
 Oh bon sang, je n'y parviens pas du tout !
 Attends, où est l'anneau ? Et merde...
 
-
-J'abandonna l'idée d'essayer de sortir, cela semblant tout à fait impossible.
+// Description
+J'abandonnai l'idée d'essayer de sortir, cela semblant tout à fait impossible.
 L'interface était intangible, comme de l'éther.
-Je dirigea à nouveau le regard en direction du salon.
+Je dirigeai à nouveau le regard en direction du salon.
 Il n'y avait pas d'autre option, je devais retrouver l'anneau, quoi qu'il en coûte.
 J'étais incapable de savoir à quel moment celui-ci avait disparu, ni même si l'anneau pouvait se trouver ici, quelque part dans ce monde plat.
 
@@ -52,52 +52,52 @@ Je ne m'étais pas encore habitué à leurs capacités paranormales, comme le fa
 La fille soupira lourdement et fit rouler ses yeux.
 Ce comportement venant d'elle me rendit quelque peu confus, et je pris la décision d'engager la conversation.
 
-
+// Player - [not]
 M...Mita ?
 
-
+// Description
 Elle plissa les yeux d'une manière provocante et sa voix se mit à résonner de façon telle qu'elle semblait me traverser de part en part.
 
-
+// Mita - [not]
 Et bien, qui d'autre sinon moi ?
 Tu as déjà vu D'AUTRES FILLES comme ça ?
 Et avec un nom comme le mien !?
 
-
+// Description
 Sa manière de parler laissait penser que j'avais fait quelque chose de mal ou que je lui étais redevable, mais que je ne l'avais pas traitée correctement en retour.
 
-
+// Player - [not]
 Tu ne me croirais pas si je te le disais...
 
-
+// Mita - [not]
 Je ne veux pas savoir avec qui tu traînes !
 Qu'est-ce que tu fais là ?
 Tu ne peux pas entrer ici !
 
-
+// Description
 Sa voix était encore plus forte cette fois-ci.
 Elle leva alors la main et commença à remuer son index vigoureusement.
 L'anneau qui avait mystérieusement disparu de mon doigt s'y trouvait désormais.
 Je restai bouche bée.
 La lueur dans ses yeux prenait le pas sur la noirceur de ses sourcils.
 
-
+// Mita - [not]
 N'est-ce pas là ce que tu as perdu ?
 
-
+// Description
 Je me mis à déglutir nerveusement tout en tirant sur le col de ma chemise, essayant de reprendre mon souffle.
 Pour une raison que j'ignorais, sa voix effrontée et son apparence prédatrice me rendaient mal à l'aise.
 Quelque chose me disait que ce n'était pas là une simple fille, mais un désastre qui n'attendait que le bon moment pour se produire.
 J'émis un soupir.
 
-
+// Player - [not]
 J'apprécierais que tu me donnes l'anneau avant de me montrer le chemin vers la sortie...
 
-
+// Mita - [not]
 Donc cette babiole est bien à toi ?
 Je me demandais ce que ça pouvait bien être !
 
-
+// Description
 Sa voix était soudainement devenue plus apaisée.
 Elle semblait désormais pleine de joie et de curiosité.
 Je ressentis comme si un lourd poids venait d'être ôté de mes épaules.
@@ -105,83 +105,83 @@ Et il semblait maintenant qu'elle ne souhaitait que flirter un peu.
 Comme une redoutable panthère s'étant changée en un docile chaton.
 Mais après avoir cligné des yeux, la Mita en deux dimensions disparut aussi soudainement qu'elle était apparue.
 
-
+// Player - [not]
 Hé !
-
+// Description
 Criais-je d'une voix irritée.
 Cuisine
 Chambre
 // Description kitchen:
 Il n'y avait rien d'autre à faire que d'aller chercher la Mita d'ici.
-Après tout, elle avait l'anneau en sa possession, et sans ce précieux artefact, je ne pouvais rien faire.
+Après tout, elle avait l'anneau en sa possession, et sans ce précieux artéfact, je ne pouvais rien faire.
 Ma première réaction fut de me diriger vers la cuisine.
 Me dépêchant de passer la porte, manquant de pratiquement la percuter avec ma tête, j'entrepris de jeter un rapide coup d'œil à l'intérieur.
 La cuisine était encore davantage baignée de lumière que la pièce précédente.
 Mon nez discerna une délicate odeur de carotte, celle-ci m'étant déjà familière.
 Cependant, aucune trace de la Mita 2D ici.
-Je me mis presque à courir au travers du salon, me frayant un chemin afin de contourner le canapé, ce dernier étant quelque peu un obstacle sur le chemin entre la cuisine et la chambre.
-J'enfonça la porte, faisant grincer ses gonds.
+Je me mis presque à courir au travers du salon, me frayant un chemin afin de contourner le canapé, ce dernier étant quelque peu un obstacle sur le trajet entre la cuisine et la chambre.
+J'enfonçai la porte, faisant grincer ses gonds.
 
 // Description bedroom:
 Mita était assise jambes croisées sur le lit dans la position du lotus, et semblait attendre que je me joigne à elle.
 Elle ouvrit les yeux et fixa d'un air satisfait ce qui se trouvait devant elle durant quelques secondes.
 L'instant d'après, Mita, avec une agilité digne d'un animal de cirque, s'approcha de moi.
 
-
+// Mita - [not]
 Je sais !
 Tu veux l'anneau, hein ?
 Alors bats-moi dans une partie de morpion !
 
-
+// Description
 Elle semblait respirer par la bouche, d'où elle faisait ressortir sa langue comme le ferait un chien.
 Son impertinente manière de s'exprimer était d’ores et déjà bien visible.
 Je la fis reculer en l'agrippant par les épaules.
 
-
+// Player - [not]
 Écoute, c'est un objet très important.
 Donne-le-moi simplement, beaucoup de choses en dépendent.
 
-
-Mon élocution était encore aussi claire et méthodique qu'à l'accoutumé.
+// Description
+Mon élocution était encore tout aussi claire et méthodique qu'à l'accoutumé.
 Je ne pouvais m'adresser à elle d'une quelconque autre manière.
 Elle semblait insouciante et insolente au point d'en paraître presque folle.
 Et cela commençait à prendre une drôle de tournure.
 
-
+// Mita - [not]
 Ne me touche pas !
 Qu'est-ce qu'il y a de si important au sujet de cet anneau ?
 Tu es fétichiste ou quoi ?
 Tu aimes mettre des anneaux à tes doigts ?!
 
-
+// Description
 Elle continuait de formuler des reproches inappropriés envers moi.
 
-
+// Player - [not]
 C'est un anneau magique, qu'est-ce que tu voudrais que je t'explique ? Contente-toi de le rendre à son propriétaire !
 
-
+// Mita - [not]
 Alors tu es vraiment un fétichiste !
 Un anneau magique !
 Ahahah !
 
-
+// Description
 Elle se mit à rire bruyamment.
 Je détournai le regard, me sentant mal à l'aise.
 Elle paraissait devenir de plus en plus amicale.
 
-
+// Mita - [not]
 Allez, viens !
 Jouons au morpion !
 Et ne perd pas ton temps en excuses !
 
-
+// Description
 > Elles aiment vraiment faire des jeux ! <
 Me dis-je.
 
-
+// Player - [not]
 Allez, c'est parti !
 
-
+// Mita - [not]
 Tu peux commencer, je suis de bonne humeur aujourd'hui !
 
 // The game of tic-tac-toe
@@ -195,18 +195,18 @@ Tandis qu'elle parlait bruyamment, je fis discrètement mon action.
 C'est symbolique ! C'est comme si tu évitais volontairement l'anneau, mais ça ne fonctionne pas comme tu l'aurais espéré. C'est vraiment malin, mec !
 Tu voulais cet anneau, hein ? Alors j'attends que tu le gagnes en bonne et due forme !
 Nous avons ainsi continué la partie pendant que mon amie en 2D continuait de parler bruyamment tout en riant abondement à chacune de ses actions. Mes oreilles semblaient s'habituer à sa nature bruyante.
-
+// Description
 Notre duel touchait à sa fin et le résultat commençait à paraître évident.
 Soudainement, les bavardages de mon amie furent interrompus par un violent coup contre la porte.
 Le fracas ne faisait que s'amplifier.
 Celui-ci me paraissait comme si chaque coup résonnait tel un violent tremblement de terre.
 Finalement, la porte vint à céder.
-La Mita Folle se mit à surgir dans la chambre, interrompant ainsi l'étrange atmosphère.
-Elle s'arrêta au milieu de la pièce, présentant ainsi son habituelle apparence volumétrique.
+La Mita Folle se mit à surgir dans la chambre, interrompant l'étrange atmosphère.
+Elle s'arrêta au milieu de la pièce, présentant son habituelle apparence volumétrique.
 Je me sentais devenir pâle de stupéfaction.
 La Mita en deux dimensions semblait être particulièrement effrayée.
 La Mita Folle nous lança un regard perçant et, d'un ton étrangement autoritaire, commença à parler :
-
+// Mita
 [player], comment t'es-tu retrouvé ici ?
 Combien d'autres Mitas vas-tu encore trouver avant de t'arrêter ?
 Qu'est-ce que c'est que ce bordel ?
@@ -214,46 +214,46 @@ Je hais ce monde plat.
 C'est d'un ennui.
 Merde !
 Où est-ce que tu vas ? Stop !
-
+// Description - [not]
 Je pris la main de mon amie terrifiée avant de foncer en direction de la sortie.
 La pièce changea soudainement, et nous nous retrouvions alors à courir en suivant un long couloir tout en sentant qu'une poursuite féroce s'était engagée dans notre dos.
 Je ne sais pas combien de temps j'ai couru.
 Le bruit dans mes oreilles causé par le stress à la fois physique et mental semblait me rendre complétement sourd.
 Mita 2D semblait essayer de me dire quelque chose, mais je n'y fis réellement attention qu'une fois qu'elle sépara sa main de la mienne.
-
+// Mita - [not]
 Hé ! Calme-toi ! Plus personne ne nous poursuit à présent.
-
+// Player - [not]
 Ah, hah. Hein ?
 
-
+// Description
 L'audace et l'excitation avaient complétement disparu de son visage, laissant place à une expression légèrement attristée, mélangée à un sentiment de culpabilité.
-Elle abaissa le regard, tout en dessinant des cercles au sol à l'aide de ses orteils.
+Elle abaissa le regard, tout en formant des cercles au sol à l'aide de ses orteils.
 
-
+// Mita - [not]
 [player], c'est bien cet anneau que tu voulais ?
 Tu m'as battue en bonne et due forme, alors prends-le.
 
-
+// Description
 Elle plaça l'anneau dans ma main.
 
-
+// Player - [not]
 Je te remercie. On y va ?
 
-
+// Description
 Elle leva les yeux vers moi et m'adressa un sourire.
 Tout en remuant légèrement ses doigts, elle s'exprima de manière incertaine :
 
-
+// Mita - [not]
 Où ça ?
 Je n'ai nulle part où aller...
 Merci d'avoir joué !
 Reviens une autre fois.
 
-
+// Description
 Tandis que Mita 2D prononçait ces mots, quelque chose se produisit.
 Toute l'interface fut transposée dans la maison.
 Et les phrases affichées par la boite de dialogue appartenant à Mita 2D furent remplacées par un contexte qui m'était inconnu.
 
-
-
+// Уже у очкастой в мониторе
+// Mita - [not]
 Des gâteaux ? J'ai horreur de ça ! Allons plutôt râper des carottes, d'accord ?

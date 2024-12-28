@@ -1,49 +1,49 @@
-
+// MitaShorthairs
 Attends, attends !
 Ne parle pas trop fort...
 C'est dangereux d'aller plus loin.
 Bref...
 Comment es-tu arrivé ici ?
-
+// Player
 Euh...
 L'anneau m'ouvre les bonnes portes
 Je ne sais pas vraiment comment ça fonctionne.
-
+// MitaShorthairs
 L'anneau ?
-
+// Player
 Qu'est-ce qui ne va pas avec cet endroit ?
 Pourquoi c'est aussi sombre ?
-
+// MitaShorthairs
 Je t'expliquerai plus tard,
 rends-toi vers la sortie,
 on se retrouve devant la borne d'arcade.
 
 
-
+// MitaShorthairs
 Allez, allez, ne traîne pas !
 
-
 // After mini-game
+// MitaShorthairs
 Alors ? Tu as compris ce que raconte ce jeu ?
-
+// Player
 Sous ma peau se trouvent des os tandis que sous la tienne se trouve un mannequin ?
-
+// MitaShorthairs
 Wouah !
 Ça a l'air inquiétant.
 Mais j'ai bien peur que ce soit tout à fait ça !
-
+// Player
 Je comprends, mais pourquoi j'aurais besoin de cette information ?
-
+// MitaShorthairs
 Je pense t'avoir déjà dit
 que c'était dangereux d'aller plus loin ?
 C'est là-bas que tu vas rencontrer ces mannequins...
 Ceux qui ont été éliminés, ceux qui ne correspondaient pas.
 Ceux-là sont plus agressifs que d'habitude. C'est ce que tu veux ?
-
+// Player
 Qu'est-ce que je suis censé faire ?
 Quelque soit là où mènent les portes,
 c'est là que j'irais.
-
+// MitaShorthairs
 Waouh !
 Alors ne leur tourne pas le dos.
 Et ne les quitte pas des yeux !
@@ -57,58 +57,58 @@ Je pense que ça devrait t'aider !
 
 
 
-// Quest 1 (Why are there other Mitas down there?)
+// quest 1 - MitaShorthairs
 Elles viennent juste de recevoir leur peau,
 maintenant elles ont besoin de temps
 pour prendre conscience d'elles-mêmes.
 Ensuite je dois conduire chacune d'elles
 jusqu'à sa maison.
 
-// Quest 2 (Why is it so dark downstairs?)
+// quest 2 - MitaShorthairs
 Les Mitas sont basiquement "nées" dans l'obscurité.
 Alors elles doivent commencer par se tenir un moment debout dans le noir...
 Est-ce que tu imagines
 à quel point c'est douloureux pour elles d'être directement exposées à la lumière ?
 
-// Quest 3 (What are you doing here?)
+// quest 3 - MitaShorthairs
 Tu n'as pas encore compris ?
 J'aide les pauvres petites Mitas à s'adapter !
 Qui d'autre va le faire sinon moi ?
 Toi ?
 
-// Quest 4 (Why do we need this conveyor?)
+// quest 4 - Player
 Pourquoi faut-il utiliser cette machine ?
 Il n'y a pas assez de place pour tout le monde ?
-
+// MitaShorthairs
 Attends, est-ce que tu comprends au moins
 comment ce monde fonctionne ?
 Et le fait qu'il est infini ?
-
+// Player
 Infini ?
 Hmm...
 Mais comment ?
 Si la dernière version est la 1.9,
 cela signifie qu'il n'y a que 19 mondes.
-
+// MitaShorthairs
 Oh, bon sang, on dirait bien
 que tu n'imagines pas ce monde correctement.
 Je peux te montrer sur ce tableau.
 Je peux tout t'expliquer.
 Ça te va ?
 
-// Quest 5 (What is your version?)
+// quest 5 - Player
 Je pense
 que je t'ai vue dans la dernière version.
 Ou du moins je pense t'avoir vue.
-
+// MitaShorthairs
 C'est possible !
 Ma version est la 1.5.
 Tu y es allé ?
-
+// Player
 Oui.
 La première fois que je suis arrivé ici.
 J'y étais !
-
+// MitaShorthairs
 Waouh !
 Mais comment...
 Je me demande quel était l'index de cette maison.
@@ -117,28 +117,28 @@ Il y a aussi une "moi" qui aime jouer tout le temps.
 Et il y a une "moi" qui persécute sans cesse puis passe à autre chose.
 Oh, la liste est longue...
 Tu te souviens de comment c'était ?
-
+// Player
 Il faisait sombre.
 Avec des inscriptions,
 quelque chose comme...
 "Tu veux jouer ?"
-
+// MitaShorthairs
 Oh.
 Pas de chance.
 C'est celle-la,
 celle qui persécute sans cesse puis passe à autre chose.
 
-// Mita wants to tell you [No]
+// MSHairs wants to tell you [No] - Player
 Je n'en ai pas besoin.
 Je peux me débrouiller sans.
-
+// MitaShorthairs
 Hmm, d'accord.
 
-// Mita wants to tell you [Yes].
+// MSHairs wants to tell you [Yes] - Player
 D'accord, dis-moi tout.
 J'espère que ça ne sera pas comme au lycée,
 où je m'endormais tellement je m'ennuyais.
-
+// MitaShorthairs
 Tu peux partir si tu le souhaites.
 Mais si tu es intéressé,
 alors écoute bien.
@@ -153,42 +153,42 @@ Sur ces lignes se trouvent les maisons.
 Tu as alors téléchargé le jeu en version 1.14.
 Et donc dans cette version est née
 une nouvelle Mita, ainsi que sa maison.
-
+// Player
 Wow.
-
+// MitaShorthairs
 Tu peux me demander au sujet de certaines choses
 qui sont dessinées ici.
 J'essaierais de t'expliquer.
 
-// He asks about the only circle
+// He asks about the only circle - Player
 Pourquoi il n'y a qu'un seul cercle ?
-
+// MitaShorthairs
 Cette version n'a été disponible qu'une seule fois.
 Elle n'est plus distribuée d'aucune manière,
 voilà pourquoi il n'y en a qu'un seul.
 De plus, la particularité des versions comme ça,
 est qu'il n'est pas possible de les contourner.
 La Mita Endormie vit dans cette version, la 1.1.
-
+// Player
 Endormie ?
 C'est parce que tout le monde passe par là,
 et que ça l'empêche de dormir ?
-
+// MitaShorthairs
 Non.
 Je peux juste passer devant sa porte,
 sans même la voir.
 
-// He asks about the shaded circle
+// He asks about the shaded circle - Player
 Pourquoi ce cercle est grisé ?
-
+// MitaShorthairs
 En fait, ce dessin là
 est dû à la Jolie Mita.
 Elle l'a dessiné.
 Elle et moi étions en train de débattre
 de comment aller plus vite en version 1.11.
-
+// Player
 Et qui a gagné le débat ?
-
+// MitaShorthairs
 MOI, bien sûr !
 Regarde, on est ici.
 Version 1.15.
@@ -206,41 +206,41 @@ Même si on dirait qu'une maison se trouve sur le chemin,
 ce qui empêcherait de passer.
 D'ailleurs, ton anneau fonctionne sur le même principe.
 Où est-ce qu'elles t'ont envoyé ?
-
-Je me dirige vers le noyau central.
-
-Le noyau ?
+// Player
+Je me dirige vers le Cœur.
+// MitaShorthairs
+Le Cœur ?
 Hmm...
-Si tu utilises un raccourci,
-alors tu devras aussi passer par la version 1.11.
-Donc tu trouveras certainement la Mita Endormie.
+Si on t'a fait prendre un raccourci,
+alors tu vas aussi passer par la version 1.11.
+Après quoi tu arriveras chez la Mita Endormie.
 Je pense que la Mita qui t'a envoyé
 a pris le même chemin.
 Ou alors elle ne l'a pas réalisé et tu passeras par une autre version.
 Ou alors c'est une génie,
 qui peut trouver un chemin encore plus court !
-
+// Player
 Je pense avoir compris, je crois.
 
-// He asks about the inscription
+// He asks about the inscription - Player
 Et ça ?
-
+// MitaShorthairs
 C'est pour la Mita Cool.
 Elle sera là dans quelques heures.
 Je lui ferais déplacer ces cartons ailleurs.
 Et mettre enfin le canapé ici !
 Mon derrière me fait mal !
-
+// Player
 Arf...
 Je peux t'aider ?
-
+// MitaShorthairs
 Non, laisse ça à la Mita Cool.
 Elle est forte.
 
-// He asks about the drawings
+// He asks about the drawings - Player
 C'est juste un dessin ?
 Ou
 ça signifie aussi quelque chose ?
-
+// MitaShorthairs
 Ouais.
 C'est juste un dessin.

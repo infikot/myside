@@ -1,0 +1,5 @@
+Trova una via d'uscita.
+Cerca di svegliare Mita.
+Prepara il caffè.
+Dai il caffè a Mita.
+Porta Mita agli interruttori.

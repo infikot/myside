@@ -87,9 +87,9 @@ Anyway, let's focus on what's important.
 
 // Answer 6 (Is this the core?)
 Is this it?
-The core?
+The Core?
 
-Indeed. The core.
+Indeed. The Core.
 I've tried to explain,
 you players aren't truly part of this world...
 Meaning, you don't need special permission to enter.
@@ -98,7 +98,7 @@ Anyway, I'm beyond certain
 that the solution to all our problems
 can be found inside!
 [player], head inside.
-Actually, I've been there once.
+You actually made it...
 
 // Look on CoreMita
 Careful, [player].
@@ -121,7 +121,7 @@ Amazing! That's great!
 But I need to specify a version.
 
 Right, her version is...
-0.98.
+00.98
 
 Bingo!
 Okay, and what index?
@@ -184,8 +184,8 @@ Come on, we've got to get to the Core.
 
 
 // core console entry
-We need to enter a command prompt...
-But what command prompt?
+We need to enter a code...
+But how do I know it?
 Mita, do you know?
 
 Maybe it's listed somewhere?

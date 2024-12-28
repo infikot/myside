@@ -1,22 +1,22 @@
-
+// Player
 Mila ! Non ! Tu es complétement malade !
-
+// Mita
 Ah ah ! MAIS QUE VOIS-JE ?
 Est-ce là une nouvelle expression sur ton visage ?
 Allez, encore, encore !
 J'en ai marre de juste observer !
 
-// Mita arena "Hello"
+// Mita arena "Hello" - Mita
 Comment ça va, monsieur je-ne-tiens-pas-en-place ?
 Toujours pas fatigué de courir partout ?
-
+// Player
 Qu'est-ce que tu as fait à Mila ?
-
+// Mita
 Je vois que tu as encore de l'énergie !
 Jouons encore ensemble !
-
+// Player
 Toi...
-
+// Mita
 Commençons par un petit test !
 Testons tes réflexes !
 Voyons-voir comment tu te comporte !
@@ -24,14 +24,14 @@ Que ferait-on si quelque chose n'allait pas avec toi !?
 Et si tu n'étais pas digne de cette PEAU,
 que tu portes fièrement ?
 
-// Show knifes
+// Show knifes - Mita
 Regarde,
 lequel tu préfères ?
 Droite
 ou
 gauche ?
 
-// Throw knifes
+// Throw knifes - Mita
 Tu es sérieux ?
 C'est quoi la différence ?
 Je plaisantais !
@@ -39,14 +39,14 @@ Oublions ça, poignarder les gens c'est dépassé...
 Allez
 J'ai de meilleures idées.
 Et pour commencer...
-// Show recorder
+// Show recorder - Mita
 Regarde ce que j'ai trouvé !
 Il nous faut un peu de musique !
 Qu'est-ce que tu penses de cette mélodie ?
 Elle me rend toute excitée !
 Mais d'abord,
 les règles !
-// Show rules
+// Show rule - Mita
 Tant que cette musique continue,
 tu peux te déplacer.
 Mais si elle s'arrête,
@@ -55,18 +55,18 @@ Sinon, tu meurs.
 Regarde, tu dois arriver jusqu'au bout.
 Tu vas y arriver.
 C'est parti pour la musique !
-Qu'est-ce que tu fais planté là ?
+Qu'est-ce que tu fais encore planté là ?
 Cours, mon garçon, cours !
 
-// Ready recorder
+// Ready recorder - Mita
 Oh !
 Tu es si obéissant !
 Un spécimen parfait !
 Je te veux pour moi toute seule !
 Mais c'était super facile, n'est-ce pas ?
-
+// Player
 Laisse-moi partir !
-
+// Mita
 Ne te relâche pas !
 On a encore plein de jeux à faire !
 Très bien !
@@ -76,17 +76,17 @@ tu dois avoir disparu de mon champ de vision !
 Tu as bien compris ?
 Si je te vois, tu seras puni !
 Allez, commençons !
-
+// Player
 C'est inutile.
 
-// Ready hide
+// Ready hide - Mita
 Tu as réussi !
 Tu t'en sors bien ! Comme c'est excitant !
 Ça va devenir plus difficile maintenant !
 Bien plus difficile.
 Cache-toi ! Cours ! Et tourne en rond !
-
+// Player
 Va au diable !
 
-// Player falls
+// Player fall - Player
 Je pense m'en être échappé.

@@ -1,0 +1,58 @@
+Iniciar a aplicação
+
+Confirmar o início da conexão
+Conexão incorreta
+Programas
+Voltar
+
+Gerenciador de dispositivos virtuais
+Contabilidade da unidade do servidor [Selecionar versão]
+Monitoramento do processador principal [Selecionar versão]
+Monitoramento do processo gráfico [Selecionar versão]
+Quadrilátero
+Fim do jogo
+
+
+Administração Avançada do Sistema
+Reiniciando Personagem [Selecionar Versão]
+Reiniciando Dispositivo [Selecionar Versão]
+Atualização de Versão [Selecionar Versão]
+Recalculando Geometria [Geral]
+
+
+
+
+Restauração do Sistema
+Solução de Problemas [Geral]
+Antivírus [Geral]
+Console de Comando [Geral]
+
+
+
+
+Funções avançadas
+Excluir objeto [Selecionar versão]
+Exibir câmera [Selecionar versão]
+Exibir gatilhos [Selecionar versão]
+Configurações do mecanismo Físico[Selecionar versão]
+Obter unidade flash
+
+
+
+Funções secundárias
+Editor de código binário [acesso especial]
+Editor de matriz de unidade [acesso especial]
+
+
+
+
+
+Especificar versão do personagem
+Especificar índice do personagem
+Confirmar reinicialização
+Usar alavanca
+Executar subprograma
+Reiniciar processo em execução!
+Preparando para reinicialização
+Reiniciando...
+Confirmar

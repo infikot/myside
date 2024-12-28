@@ -1,0 +1,58 @@
+Khởi động ứng dụng
+
+Xác nhận đăng nhập
+Đăng nhập thất bại
+Chương trình
+Quay lại
+
+Trình Quản Lý Thiết Bị Ảo
+Kế Toán Đơn Vị Máy Chủ [Chọn Phiên Bản]
+Giám Sát Bộ Xử Lý Chính [Chọn Phiên Bản]
+Giám Sát Quy Trình Đồ Họa [Chọn Phiên Bản]
+Tứ Chiến
+Kết thúc trò chơi
+
+
+Quản Trị Hệ Thống Nâng Cao
+Khởi Động Lại Nhân Vật [Chọn Phiên Bản]
+Khởi Động Lại Thiết Bị [Chọn Phiên Bản]
+Cập Nhật Phiên Bản [Chọn Phiên Bản]
+Tính Toán Lại Hình Học [Chung]
+
+
+
+
+Khôi Phục Hệ Thống
+Khắc Phục Sự Cố [Chung]
+Diệt Virus [Chung]
+Bảng Điều Khiển Lệnh [Chung]
+
+
+
+
+Chức Năng Nâng Cao
+Xóa Đối Tượng [Chọn Phiên Bản]
+Hiển Thị Camera [Chọn Phiên Bản]
+Hiển Thị Trigger [Chọn Phiên Bản]
+Cài Đặt Công Cụ Vật Lý [Chọn Phiên Bản]
+Lấy Ổ đĩa Flash
+
+
+
+Chức năng Phụ
+Trình Soạn Thảo Mã Nhị Phân [Truy Cập Đặc Biệt]
+Trình Soạn Thảo Ma Trận Đơn Vị [Truy Cập Đặc Biệt]
+
+
+
+
+
+Xác Nhận Phiên Bản Nhân Vật
+Xác Nhận Mã Số Nhân Vật
+Xác Nhận Khởi Động Lại
+Sử Dụng Cần Gạt
+Chạy Chương Trình Con
+Tiến Trình Khởi Động Lại Đang Chạy!
+Chuẩn Bị Khởi Động Lại
+Đang Khởi Động Lại...
+Xác Nhận

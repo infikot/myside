@@ -1,0 +1,132 @@
+Presionar
+Hablar
+Colocarse el anillo
+Buscar el botón
+Presionar
+Levantarse 
+Tomar anillo 
+Borrar App
+Salir
+Presionar
+Soltarse
+Correr
+Abrir mensaje
+Descargar app
+Ejecutar app
+Hablar
+
+Tomar Batería
+
+Revisar
+Soltar
+Dar tijeras
+Denegar
+Comer
+Levantarse
+Intentar levantarse
+Tomar píldoras 
+Tomar la salsa
+Tomar cartas
+Mirar cartas
+Esconder cartas
+Derecha
+Izquierda
+Jugar carta
+Quedarse
+Rechazar
+
+Cartuchos
+Abrir
+
+Tomar Jugo
+Denegar
+
+Moverse Derecha
+Moverse Izquierda
+Saltar
+Agacharse
+Atacar
+
+Giro antihorario
+Giro horario
+Soltar
+
+Soltarse
+
+Despertar
+Sentarse
+Levantarse
+Encender el computador
+Comer ramen
+Terminar
+Ir a dormir
+
+Buscar mas piezas
+
+Inténtalo
+No deberías
+
+Lo conozco
+No lo conozco
+Golpear suavemente
+Golpear con fuerza
+¡Presionar!
+
+Izquierda
+Medio
+Derecha
+
+Derecha
+Seleccionar
+Izquierda
+
+Una más
+Suficiente
+
+Interferir
+
+Jalar palanca
+
+Elegir derecha
+Elegir izquierda
+
+Girar a la derecha
+Girar a la izquierda
+Saltar
+Abrir puerta
+
+Selecciona juego
+Dejar de jugar
+Continuar
+Jugar
+
+
+Cerrar puerta
+
+Derecha
+Izquierda
+Abajo
+Arriba
+
+Regresar
+Presionar un botón
+
+Comer
+Beber
+Tomar empanadilla
+Tomar pan plano
+Agregar leche
+Agregar azúcar 
+Agregar harina
+Agregar aceite
+Agregar un huevo
+Mezclar
+Agregar la mezcla
+Voltear
+Demasiado
+
+Se ven bien en ti
+Solo quítatelos
+
+Explícamelo
+No hay necesidad

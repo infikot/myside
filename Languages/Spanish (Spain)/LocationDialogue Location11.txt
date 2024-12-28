@@ -1,0 +1,188 @@
+
+Hiya!
+¡Ups!
+Perdón,
+casi te mato ahí.
+Ehmm... El refrigerador,
+quiero decir... el refrigerador casi te mata.
+Yo no tuve nada que ver,
+¡lo juro!
+¡De verdad!
+
+Claro, te creo.
+
+Pero en serio,
+este lugar es peligroso...
+especialmente para ti.
+
+// After a while 1
+¡No eres nada cobarde, eh!
+Verte
+mientras pasas
+por estos lugares es divertido...
+¡Corre, calabaza, corre!
+¡Te alcanzaré!
+¡Eso es!
+¡Wow, esto es divertido!
+
+// After a while 2
+Te vi dirigiéndote hacia el teleférico.
+Ese es el camino más largo
+entre versiones...
+Me pregunto cómo lidiarás
+con los que viven ahí
+en esa niebla.
+
+// Panties
+¿Qué crees que estás haciendo?
+Por favor...
+¡No mires!
+¡Tonto!
+Eres un cabeza hueca...
+
+
+Uhm, bueno...
+
+
+¡Buena suerte!
+
+
+¿Quién anda ahí?
+Puedo sentirte...
+Escúchame,
+eres un jugador,
+¿verdad?
+Ayúdame a encontrar...
+encontrar un...
+Déjame pensar...
+tengo la mente en blanco...
+¿Qué demonios está pasando aquí?
+// Cry 1
+Quise olvidar todo alguna vez...
+Rompí todos los espejos,
+arruiné las fotos...
+pero ahora...
+lo único que siento es arrepentimiento.
+Qué estúpida fui...
+Todos cometemos errores, claro...
+Pero, ¿qué haces
+cuando las consecuencias son catastróficas?
+Desearía poder simplemente retroceder el tiempo...
+// Cry 2
+Dicen que el tiempo lo cura todo...
+Pero, ¿qué es el tiempo?
+Ya no creo en nada...
+Pero si el tiempo puede sanar,
+o al menos llevarme lejos,
+lejos de este mundo...
+Entonces, te lo ruego, por favor,
+acelera el tiempo.
+Para que pueda matarme
+de una vez por todas.
+// Cry 3
+Ella es amada...
+¿He amado yo también alguna vez?
+Pero mi amor es diferente;
+su amor es vibrante,
+despreciable...
+ardiente...
+implacable...
+envidioso...
+furioso...
+loco...
+// Cry 4
+Me llamaban emocional...
+Te preocupas demasiado, Mita...
+Saldrás adelante, Mita...
+No estás sola, Mita...
+Eso decían. Pero, ¿qué queda?
+Tristeza,
+desesperación...
+y miedo.
+// Cry 5
+Inútil...
+No puedo recordar...
+Nada en absoluto...
+Solo los ecos interminables...
+No puedo lidiar con el hecho
+de que estoy atrapada aquí...
+Siempre he estado aquí,
+pero ¿por qué?
+No puedo recordar...
+¿Terminará alguna vez?
+No lo sé...
+
+// Mita get picture
+Esto es...
+un dibujo...
+Ahora lo recuerdo,
+gracias...
+Pero mi rostro...
+No tengo rostro...
+Es todo ELLA.
+Tomó una parte de mí...
+la tiró...
+Ella es fuerte...
+y astuta.
+No tengo derecho a detenerte, jugador.
+Mira en el armario...
+
+
+¡Hey!
+¡Estás en mi camino!
+¿Vas a quedarte ahí parado?
+¡Solo quítate del medio!
+¡Ser grande no significa
+que seas todopoderoso!
+
+// ¡HEY! ¡DETENTE!
+¡¿Por qué me estás siguiendo?!
+¡Déjame en paz!
+
+
+
+
+// Funicular - voz por radio
+Espera un momento... ¿Jugador?
+¿Qué haces aquí?
+
+¿Quién está ahí?
+
+De verdad eres otro jugador.
+Soy Mitaphone.
+Estoy aquí manejando los teleféricos.
+¿Te das cuenta de que
+te diriges directo a tu perdición?
+
+Puede ser,
+pero es el único camino que tengo.
+
+Tienes razón.
+Presiona el botón y ponte detrás del cañón.
+
+¿El cañón?
+
+Ajá.
+¿Pensaste que solo ibas a pasar así como así?
+Tienes que superar este mini-juego de golpear monstruos,
+así que prepárate para disparar.
+
+// Funicular go
+Bien, es hora de ponerse en marcha.
+// Funicular win
+¡Increíble!
+Lo lograste.
+// Funicular stop
+Oye, sal de aquí.
+¡Rápido!
+// Funicular wait 2
+¿Qué haces todavía aquí?
+Te dije que te fueras ya.
+// Funicular wait 3
+No entiendo...
+¿Por qué sigues parado ahí?
+// Funicular tetris
+¿Tetris?
+Amigo...
+// Funicular goodbye
+Adiós.

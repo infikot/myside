@@ -1,0 +1,11 @@
+// Quest none
+Nie ważne.
+// Quest
+Jesteś Mita, prawda?
+Co ci się stało?
+Zostać twoim drugim przyjacielem?
+Czy to twój dom?
+Jak mogę opuścić to miejsce?
+
+// TV
+WOLNOŚĆ!

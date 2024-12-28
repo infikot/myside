@@ -1,0 +1,4 @@
+Encuentra una forma de salir.
+Lleva a las mini personas a la salida.
+Habla con Mita.
+Avanza.

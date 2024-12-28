@@ -1,0 +1,5 @@
+Encuentra una salida.
+Intenta despertar a Mita.
+Haz café.
+Dale a Mita el café.
+Trae a Mita a las palancas.

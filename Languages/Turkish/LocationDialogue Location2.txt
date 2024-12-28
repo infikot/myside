@@ -1,0 +1,9 @@
+// Player start
+Neredeyim ben?
+Burası tanıdık geliyor.
+Bekle... Ben oyunda mıyım?
+// Player try open the door
+Kilitli?
+// Player in dark
+Burası karanlık.
+Bi bok görmüyorum.

@@ -1,0 +1,246 @@
+
+Stój! Zaczekaj!
+Nie tak głośno...
+Droga przed nami jest niebezpieczna.
+Tak właściwie...
+jak się tu dostałeś?
+
+Emm...
+Pierścień otwiera właściwe drzwi.
+Szczerze mówiąc nie wiem jak działa.
+
+Pierścień?
+
+Co jest nie tak z tym miejscem?
+Jest tu okropnie ciemno.
+
+Później ci powiem.
+Na razie zmierzaj ku wyjściu.
+Spotkajmy się w maszynie do gier.
+
+
+
+Pośpiesz się!
+
+
+// After mini-gamę
+Więc, rozumiesz już sens gry?
+
+Że jestem zrobiony ze skóry i kości aa ty z modelu szkieleta?
+
+Whoa!
+To dość niepokojące, kiedy przedstawiasz to w ten sposób.
+Ale mniej więcej tak to wygląda.
+
+Dobra, ale po co mi ta wiedza?
+
+Myślisz że robiłam sobie jaja kiedy
+mówiłam że droga przed nami jest niebezpieczna?
+Natkniesz się na... zapomniane modele...
+Te, których się pozbyto, te "zepsute".
+Są agresywne i mogą cię nawet zabić.
+
+Nie mam wyboru...
+Poprostu pójdę
+gdziekolwiek poprowadzą mnie drzwi.
+
+Wow!
+W takim razie nie odwracaj się do nich plecami.
+Nie trać ich z zasięgu wzroku!
+Są nieśmiałe kiedy na nie patrzysz,
+na tyle że przestają się ruszać.
+Nie zapominaj!
+
+
+
+
+
+
+
+// Quest 1 (Dlaczego są tu inne Mity?)
+Są nowe. Prosto z fabryki.
+Potrzebują trochę czasu
+by zyskały "świadomość".
+A później już ja odprowadzam je
+Do ich domów.
+
+// Quest 2 (Dlaczego na dole jest tak ciemno?)
+My, Mity, jesteśmy tworzone w ciemności
+więc musimy w niej przez jakiś czas zostać.
+Wyobraź sobie ten ból
+kiedy z mroku zostały byśmy wrzucone wprost do światła...
+
+// Quest 3 (A co TY tu robisz?)
+Nadal nie ogarniasz?
+Pomagam nowym Mitom się zadomowić!
+W końcu kto im pomoże jak nie ja?
+No chyba nie ty?
+
+// Quest 4 (Do czego jest ten taśmociąg?)
+Do czego jest ten taśmociąg?
+Czy wystarczy miejsca dla wszystkich?
+
+Czekaj, nie gadaj że nie rozumiesz
+jak działa ten świat...
+Nie wiesz że jest nieskończony?
+
+Nieskończony?
+Uhm...
+Co masz na myśli?
+Skoro 1.9 jest najnowszą wersją,
+to musi być tylko 19 światów.
+
+Boziu... ty naprawdę nie ogarniasz
+jak działa ten świat.
+Spójrz, wytłumaczę ci to
+na tablicy.
+Chcesz posłuchać?
+
+// Quest 5 (Jaką jest twoją wersja?)
+Czekaj,
+czy my czasem nie spotkaliśmy się w ostatniej wersji gry?
+A może mi się tylko wydaje?
+
+Cóż... to możliwe.
+Jestem z wersji 1.5.
+Byłeś tam?
+
+Tak.
+To tam się pojawiłem
+kiedy wrzucono mnie do tego świata!
+
+Whoa!
+Ale jak...?
+Czekaj, w której wersji domu byłeś?
+Jest wersja, w której "ja" nie potrafię przestać się mazać,
+wersja, w której moje "ja" lubi się lenić,
+wersja, w której ma słabą pamięć i lubi zastraszać innych...
+Długo by wymieniać...
+Powiedz mi co pamiętasz.
+
+Było mrocznie.
+Na ścianach były napisy
+naprzyklad...
+"Pobaw się ze mną."
+
+Ah,
+szkoda...
+To moje "ja"
+które zastrasza innych i ma sklerozę.
+
+// Mita wants to tell you [No]
+Dzięki ale wolę nie wiedzieć.
+Dam sobie radę bez tego.
+
+W porządku, twój wybór.
+
+// Mita wants to tell you [Yes].
+Jasne, dawaj.
+Mam tylko nadzieję że nie będzie jak w szkole
+zawsze z nudów zasypiałem na lekcji.
+
+Wiesz, zawsze możesz wyjść,
+albo zostań i posłuchaj
+jeśli cię to ciekawi.
+Gracz pobiera MiSide
+I gra ile mu pasuje.
+Właśnie wtedy, tworzy nowy dom
+I nową Mite.
+To dwuwymiarowy wykres.
+To, są wersje gry,
+pokazane jako linie.
+Domy ustawione są na liniach.
+Powiedzmy że pobierasz wersję 1.14,
+więc tworzysz nowe życie,
+nową mite i nowy dom.
+
+Niebiosa...
+
+Jeśli czegoś nie rozumiesz
+pytaj śmiało,
+a postaram się wytłumaczyć .
+
+// He asks about the only circle
+Czemu tu jest pojedyncze kółko?
+
+Ta wersja została wydana tylko raz,
+nigdy jej nie powtórzono.
+To jedyna unikalna wersja gry.
+Tego typu wersje są specjalne
+i posiadają drogi do innych wersji.
+spiąca Mita przesiaduje w jednej z tych wersji, 1.1.
+
+Śpiąca Mita?
+Bo inni przechodzący przez jej wersje
+nie dają jej się wyspać?
+
+Nie, to nie tak.
+Możesz hałasować tuż obok niej
+ale nie da się jej dobudzić.
+
+// He asks about the shaded circle
+Dlaczego to kółko jest zamalowane?
+
+Umm to tutaj
+zrobiła Śliczna Mita.
+Ona to namalowała.
+Kłóciliśmy się
+kto dotrze szybciej do wersji 1.11.
+
+A więc? Kto wygrał?
+
+Oczywiście że JA!
+Spójrz, jestemy tu
+w wersji 1.15,
+wersja domu 809.
+Musimy dotrzeć do wersji 1.11,
+wersja domu 805.
+Więc, jej droga prowadziła tak.
+ALe próbowaliśmy ją skrócić,
+I śliczna Mita zasugerowała nową drogę.
+A ja narysowałam najprostszą drogę.
+Łatwizna, nieprawdaż?
+Spójrz tutaj.
+Właśnie stąd możesz dotrzeć do poprawnych wersji gry.
+Nawet jeśli wydaje nam się dom stoi nam na drodze,
+To tak nie jest!
+Wracając, twój pierścień działa w ten sam sposób.
+Dokąd zmierzasz?
+
+Do Rdzenia.
+
+Rdzenia?
+Hmm...
+Jeśli chcesz najkrótszą drogę,
+będziesz musiał przejść przez wersję 1.11.
+Na pewno spotkasz naszą śpiącą królewnę.
+Wydaje mi się że Mita która cię tam wysłała,
+Kroczyła tą samą ścieżką.
+A może po prostu nie ogarnęła że zmierzasz inną trasą.
+A może po porstu jest genialna
+I znalazła jeszcze krótszą drogę!
+
+Chyba rozumiem.
+
+// He asks about the inscription
+A to?
+
+Aa.. To jest dla fajnej Mity.
+Dotrze tu za kilka godzin.
+Przestawi te pudła
+i ustawi kanapę.
+Nogi wchodzą mi do d-
+
+Emm...
+Może pomóc?
+
+Nie. To zadanie fajnej Mity.
+Jest twarda.
+
+// He asks about the drawings
+To tylko rysunek,
+czy może
+ma to głębsze znaczenie?
+
+Coś ty,
+To tylko bazgroły.

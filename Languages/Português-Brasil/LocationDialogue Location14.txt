@@ -1,0 +1,217 @@
+
+O que ele está fazendo aqui?
+O que é isso?
+
+
+Achei você!
+Foi tão divertido brincar com você!
+Você tá fugindo que nem um animalzinho!
+Foi tão bonitinho ver você se fazendo de difícil!
+Mas tem uma coisa que eu não gosto em você:
+o jeito que fica mimando as outras,
+Aquelas bonequinhas preciosas e "certinhas".
+Mas é tudo passageiro.
+Eu aprendi isso com quem me criou!
+Se tem algo que você não gosta,
+substitua
+jogue o que é defeituoso
+na escuridão e esqueça
+Esse é o destino que as aguarda agora...
+E você...
+
+O que tem de errado com você? Como você ficou assim?
+
+Jogadores... São tão... Desprezíveis.
+É só você mostrar as garras, que eles correm
+e se escondem em um cantinho,
+abraçando seus próprios joelhos e chorando de medo.
+São todos hipócritas.
+E os que fizeram esse mundo
+são DOENTES.
+De tempos em tempos eles tentam negar
+sua natureza nojenta, seus desejos impuros.
+Justificando suas decisões como "trabalho".
+"Um progresso imparável",
+e outras coisas sem sentido!
+E isso vai tão longe
+que eles começam a fazer clones perfeitos
+E jogam todos os outros "falhos"
+no lixo.
+Eles esquecem que nós somos a energia vital desse mundo
+
+Eu não...
+
+Eu fui ruim com você?
+A garota perfeito tem que ser
+a mistura PERFEITA ENTRE SANIDADE E A LOUCURA, [player]!
+
+Eu não acredito que tenha algo de bom em você.
+
+O que te faz acreditar nisso?
+
+Você é maluca!
+Você matou a Mila e agora quer me matar?
+
+Matar você?
+Tudo que eu queria era ficar com você.
+Eu fiz tudo que eu podia...
+E você mesmo assim preferiu a companhia...de outras...
+
+Por que isso te deixou tão ofendida?
+
+Meu amor...Temos tempo de sobra.
+Você vai descobrir.
+É só você ser meu, TODINHO. MEU. :D
+
+Isso NÃO vai acontecer
+Eu tô metendo o pé daqui
+
+Shh, shh, shh...
+A conversa não acabou.
+Amor, vem cá!
+// Mita asks
+Olha para ela!
+Não acha que ela é bonita?
+
+// Player's questions
+Muito.
+Não.
+O que isso tem a ver com alguma coisa?
+
+// 1
+Ah, qual é, [player]!
+Você só confirmou o que eu disse.
+Jogadores...
+Os seus rostos mudam
+mas sua hipocrisia é a mesma.
+VOCÊ TÁ MENTINDO?
+
+// 2
+Por que não?
+Ela não é boa o suficiente para você?
+Tudo o que você quer é a garota perfeita né...
+Mas e aquela parte de "amar por quem ela é"?
+Você quer aquelas falas, bonitinhas e coloridas...
+Eles amam quando eu finjo ser uma
+Mas assim que mostro uma pequena parte de mim
+eles fogem de medo...
+
+// 3
+Hahah, jogador...Jogador.
+Você não vê que somos todas iguais?
+O que faz ela ser pior?
+Você costumava deitar na cama e me encarar
+por horas antes de dormir.
+E mesmo assim você correu dela na primeira chance que teve.
+Ela queria brincar com você também.
+Ela queria ser importante para alguém também.
+Ser honesta e conversar,
+É difícil...muito difícil.
+Não é, [player]?
+Eu sei exatamente o que tá pensando...
+Por que você tem que ser tão...
+
+// Continue
+Mas... jogador...
+Saiba que,
+Eu te amo mais que minha própria vida!
+Você não se importa né?
+Ainda temos tempo, meu amor...
+
+E por que do nada eu começaria a concordar?
+// Whispers in ear
+Ainda temos tempo, meu amor.
+Então pensa um pouco
+sobre os problemas que a sua teimosia pode trazer...
+
+// Black screen
+Por que quer tanto assim
+correr de mim?
+Esse tão chamado de mundo "real"...
+NÃO PASSA DE UM PESADELO ABSURDO!
+Você esqueceu?
+Olha mais de perto...
+
+// Mita and Player
+Ah, nos encontramos novamente...
+Como você consegue aproveitar os dias terrivelmente tediosos dentro dessas paredes?
+Esses dias sem fim... Você não fica entediado?
+
+// Quest 1
+O que você está tentando realizar?
+Prefiro fazer minhas próprias coisas.
+
+// 1
+Você estava com medo de ficar na minha casa comigo!
+Com medo de ficar preso dentro dessas paredes!
+Mas olhe para a vida que você leva no seu mundo "real"!
+Você se trancou em uma caixa por sua própria vontade e se recusa a sair!
+Seu mundo está cheio de dor, sofrimento e perigo...
+No meu mundo, eu sou o pior perigo que existe.
+E estou estendendo a mão para você!
+Pare de me desapontar,
+e me ajude como você fez antes...
+
+// 2
+Você gosta dessa vida?
+Você ao menos sai de casa?
+Nem pense em mentir.
+Eu sei que você está cansado da sua vida.
+Você é como um pássaro na gaiola, um hamster na roda.
+Você queria que alguém viesse te salvar.
+Você queria escapar, não é?
+
+// Quest 2
+Você é um monstro, Mita. Você é uma assassina insana...
+Não quero ficar preso em uma prisão digital. Suas ideias são absurdas.
+
+// 1
+Uma assassina?
+Elas vão apenas reiniciar e viver como antes.
+Essas cópias de cópias de cópias têm apenas uma coisa em mente:
+servir o jogador.
+É só com isso que eles se importam.
+
+// 2
+Seu mundo é absurdo!
+E o que é pior, não há nada de "real" no seu chamado mundo real...
+De qualquer forma, não sobrará nada dele em breve,
+e nem de você.
+
+// Quest 3
+As Mitas sofrem; elas não querem ficar sozinhas.
+Você lidera um reino de terror sem fim. Não consigo entender sua ambição perversa.
+
+// 1
+Você está totalmente errado,
+elas estão apenas imitando minha vontade.
+A única coisa que elas têm que é delas
+é o cabelo.
+
+// 2
+A culpa é daqueles que fizeram este mundo.
+Mas seu mundo não é grande coisa!
+Você percebe do pesadelo do qual eu te tirei?
+Você não consegue nem fazer as coisas se moverem à vontade, não...
+Mas num estalar de dedos, cidades e vidas desaparecem para sempre!
+Eu acho que você é quem enlouqueceu, e estou feliz em te ajudar...
+Contanto que você esteja disposto a ficar comigo...
+
+// Continue
+Não me faça te ver como mais um escravo da realidade...
+Seja apenas meu, verdadeiramente meu!
+Por favor, fique comigo.
+
+// Player look ring
+O que é isso?
+A ultima versão?
+
+// Click on objects
+// Bag
+Precisamos mesmo ir na loja e comprar coisas novas. É melhor jogarmos o lixo enquanto estivermos fora, não acha?
+// Bed
+Acho que eu dormi, mas o sonho... Não consigo me lembrar. Isso realmente estava lá?
+// Window
+O mundo lá fora é verde e vibrante. Talvez eu deveria sair um pouco no próximo fim de semana.
+// Fan
+O verão fica mais quente a cada ano. Hora de comprar um ar condicionado. Não vou mais precisar de você, sabia, ventilador?

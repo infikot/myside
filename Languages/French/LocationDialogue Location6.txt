@@ -1,25 +1,25 @@
-
+// Player
 Mita ?
-
+// MitaKind
 Comment es-tu arrivé ici ?
-
+// Player
 Tu es bien Mita, n'est-ce pas ?
 Mais il y a quelque chose qui cloche...
-
+// MitaKind
 Je vois.
 Écoute, c'est bien ça,
 je ne suis pas la Mita que tu as rencontrée.
 Sois prudent, elle prépare de...
 très mauvaises choses.
-
+// Player
 Quel genre de choses ?
-
+// MitaKind
 Merde
 Si ça marche, je t'expliquerai tout.
 Trouve la clé près du canapé.
-
+// Player
 Mais...
-
+// MitaKind
 Tu pourras poser des questions plus tard !
 Donne-moi la clé.
 Voilà l'anneau.
@@ -29,12 +29,12 @@ Euh, ouais...
 Alors mets-le.
 C'est un objet bien utile,
 je pense que tu en auras besoin très bientôt.
-
+// Player
 D'accord...
 Au fait, je suis...
 [player]
-
-Bien,
+// MitaKind
+C'est compris,
 [player]
 Et je suis... Mita.
 
@@ -45,61 +45,61 @@ Et je suis... Mita.
 
 
 
-// MitaKind quest 1
+// MitaKind quest 1 - MitaKind
 Regarde,
 la console, prends-la.
-
+// Player
 C'est un enregistrement ?
 Qui est avec elle ?
-
+// MitaKind
 Ce n'est pas un enregistrement,
 c'est un autre joueur.
 Elle se sert de lui maintenant.
 Sois prévenu que toi aussi...
 risque de devenir une cartouche.
-
+// Player
 Je dois partir d'ici et vite.
 Et tu devrais faire de même.
-
-Ouais, évidemment que je dois partir
-
+// MitaKind
+Oui, bien entendu.
+// Player
 Tu disais
 qu'elle utilise le joueur,
 et si je retire la cartouche de la console ?
-
+// MitaKind
 Je pense que faire ça pourrait conduire
 à d'irréparables dégâts pour la cartouche.
 Ce qui signifie donc...
 que le joueur va mourir.
-
+// Player
 ...
 Et si on éteint juste la console ?
-
+// MitaKind
 Je pense que ça pourrait marcher...
 Ça vaut le coup d'essayer, il y a un bouton rouge !
 Tu le vois ?
 Je l'ai.
 Appuis dessus.
 
-// MitaKind quest 2
+// MitaKind quest 2 - MitaKind
 Je dois rester ici,
 je veux lui poser quelques questions,
 apprendre plus à son sujet.
 Même si je doute qu'elle veuille bien discuter...
 
-// MitaKind quest 3
+// MitaKind quest 3 - MitaKind
 En fait, si je ne me trompe pas,
 j'étais avec un joueur.
 Quelque chose a soudainement changé,
 et c'est là qu'elle est arrivée...
 Elle a commencé à changer les joueurs en cartouches,
 et m'a enfermée ici.
-
+// Player
 Elle les a changés en cartouches ?
 Elle peut faire ça ?
 Pourquoi elle ferait ça ?
 Pourquoi a-t-elle besoin des joueurs ?
-
+// MitaKind
 Elle est folle, c'est évident...
 Elle s'amuse tellement, elle ne fait que s'amuser, cet espèce de monstre !
 Le joueur devient une cartouche...
@@ -114,12 +114,12 @@ Il n'y aura peut-être pas d'autre occasion.
 L'anneau te guidera vers la bonne version.
 Je te retrouverais là-bas.
 
-// MitaKind quest 4
+// MKind quest 4 - Player
 Je n'arrive pas encore à réaliser
 ce que j'ai vu là-haut...
 Cette Mita...
 Est-ce qu'elle essaye de me tuer ?
-
+// MitaKind
 Te tuer ?
 J'ai bien peur qu'elle ait prévu pire que ça...
 Tu dois te dépêcher.
@@ -130,21 +130,21 @@ Hein ?...
 Dépêche-toi ! Elle vient par ici !
 Fais confiance à l'anneau, il te fera sortir de là !
 
-
+// MitaKiller
 Et bien, ne vas-tu pas me dire où il est ?
-
+// MitaKind
 Pourquoi je ferais ça ?
 Tu ne comptes tout de même pas le tuer, hein ?
-
+// MitaKiller
 Donc tu ne vas rien me dire.
 Ce n'est pas grave, j'aime savoir qu'il se cache.
 Je sais qu'il est ici.
-
+// MitaKind
 Pourquoi tu es si agressive ?
 Tu ne m'expliques même pas ce qu'il se passe !
-Et de toute façon
+Et de toute façon...
 Pourquoi tu as besoin de ces joueurs ?
 Ce ne sont pas des jouets !
 C'est quoi ton problème ?
-
+// MitaKiller
 Oh, tais-toi, marionnette !

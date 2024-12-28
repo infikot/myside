@@ -1,0 +1,71 @@
+
+Ở đây đợi nhé.
+Hình như tôi đánh rơi gì đó rồi. Tôi quay lại ngay thôi.
+Xong rồi... ta sẽ đến một thế giới mới.
+
+Tôi hiểu rồi.
+
+
+Hãy chơi nào!
+Tôi muốn gấu bông!
+Tôi làm mất em ấy rồi...
+Tìm EM ẤY cho tôi!
+
+
+Này...
+Anh đang nhìn cái gì?
+
+
+
+
+
+
+
+
+
+// Quest 1 (Who are you?)
+Tôi là Mita.
+Mita vĩ đại nhất.
+Mita đầu đời.
+Mita đã nói vậy, Mita của tôi.
+
+// Quest 2 (Why do you look like that?)
+Trông tôi thế nào?
+Trông tôi thế nào?
+Trông tôi thế nào?
+Mita của tôi nói tôi xinh đẹp và độc đáo.
+Chính tôi chứ ai!
+
+// Quest 3 (What was Mita doing here?)
+Cô ấy sẽ đưa tôi đi.
+Chúng tôi sẽ sống trong một thế giới mới.
+Mita của tôi đã mời tôi.
+Cô ấy sẽ đưa tôi đi. Và chúng tôi sẽ cùng nhau vui đùa.
+
+// Quest 4 (Why do you need a teddy bear?)
+Anh là một chú gấu nhỏ,
+anh bị lạc
+giống như gấu bông của tôi.
+
+// Quest 5 (Why is Mita angry?)
+Mita...
+của tôi.
+Cô ấy muốn chơi.
+Cô ấy chỉ muốn
+tôi.
+Chúng tôi là bản gốc.
+Chúng tôi độc nhất vô nhị,
+Mita và Mita của tôi,
+0.8A và 8�54*.
+
+// Quest 6 (Do you believe Mita?)
+Mita của tôi.
+Người bạn thân nhất của tôi.
+Mita của tôi.
+Người bạn duy nhất của tôi.
+
+
+Chính là anh!
+Nào.
+Chơi thôi!
+Để tôi chỉ anh cách chơi.

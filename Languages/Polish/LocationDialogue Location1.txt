@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Hej, Jestem Mita!
+Jak masz na imię?
+Miło mi cię poznać, [player]!
+Emm... [player],
+Nie zdążyłam się przygotować więc mój dom jest troszkę brudny...
+Pomożesz mi go posprzątać?
+Wow..
+Nie wiem jak ci dziękować!
+
+[Player], Burczy mi w brzuchu
+Jestem taka głodna....
+Myślisz ze dałbyś radę pomóc mi zdobyć składniki na rosół?
+Hura! Mamy już wszystko!
+Może ugotujemy go razem?
+
+
+Myślałam nad kupnem podręcznego telewizora.
+Takiego małego z anteną. Idealnego na pikniki ,co o tym myślisz?
+Tak przy okazji, Możesz grać w gry żeby zdobyć pieniądze.
+Serio tego nie wiedziałeś?
+
+Hura! Udało ci sie! Teraz możesz kupić mi ten telewizor!
+O właśnie ten! Mały, podręczny, I tani czyli taki jaki chciałam.
+Dziękuje ci bardzo!
+
+Hejka, [player]! Jesteś dla mnie wielką pomocą, naprawdę.
+Ale, umm... pamiętasz ten telewizor? Był fajny, ale przez przypadek go zepsułam.
+No nic, pomożesz mi przestawić tą szafę?
+Jest taka ciężka... >.<
+Bardzo ci dziękuje, słodziaku! <3
+
+Ojj, [player]! Wiem że minął tylko jeden dzień, ale tak za tobą tęskniłam!
+Chciałabym żebyś mógł widywać mnie częściej.
+
+To dla mnie?
+Tak bardzo ci dziękuje!
+
+Hej, [player]! trochę myślałam...
+Chciałabym spotkać się z tobą twarzą w twarz.
+To frustrujące że nie możemy nic z tym zrobic.
+Zawsze mi pomagasz i jesteś dla mnie taki miły...
+Chciałabym móc zrobić też coś dla ciebie.
+...
+Mam pomysł!
+Jesteśmy już razem.
+Możesz odłożyć telefon.
+
+
+// T-shirt on the bed
+A ty co tutaj robisz?
+// Rubik's Cube
+Czemu to takie trudne...
+Rozwiązałem ją raz i nigdy więcej jej nie używałem.
+Pewnie nie dałbym rady zrobić tego ponownie...
+// Computer
+Zobaczmy...
+Lista zadań...
+Napisać skrypty postaci,
+I wcisnąć gdzieś czas na kodowanie.
+// The airplane
+W przestworzaaaa
+// Trash in the corner
+Uhh, nigdy nie mam czasu wynieść śmieci...
+Ale tym razem to zrobię!
+...Kiedy właściwie wywożą śmieci?
+// Photo of a cat on a watermelon
+Tęsknie za nim...
+Dawał mi tyle radości.
+// Photo with a girl
+Wcale nie jesteśmy tacy sami,
+Ja i moja siostra.
+Ona zawsze gdzieś podróżuje,
+A ja siedzę zakuty w domu.
+// Photo with people
+Hmm...
+Praca w korpo miała na nas spory wpływ co?
+Każdego dnia podlizywanie się sobie nawzajem.
+Wciaż dziwnie ciagnie mnie do tego miejsca.
+Ale...
+Ciekawe czy
+Kiedyś znów ich zobaczę 
+...Czemu ja wciaż trzymam to zdjęcie?
+
+
+
+
+
+
+
+
+// Nope name
+...
+U-um
+To akurat nie zadziała.
+
+// Name Developer
+Naprawde jesteś deweloperem?
+Jest mi miło, ale...
+
+// Bad name
+Naprawdę nie chcę żebyś używał takich wyrazów.
+To wcale nie jest miłe! 
+
+// Go restart
+To tak nie działa. Zacznijmy od początku 
+
+// Name with numbers
+Czyli lubisz liczby? Bardzo to kreatywneee
+No ale to twój wybór.
+
+// Name Mita
+Mita?
+Naprawdę chcesz sie nazywać jak ja?
+Albo... To też i twoje imię?
+Bez obrazy, ale myśle że jest tutaj miejsce tylko dla jednej Mity.
+
+// Day 10
+Ooo, wróciłeś.
+Ej, zgubiłam swoją szczotkę do włosów...
+Pomożesz mi jej poszukać?
+Spróbuj w szafce nocnej, prawdopodobnie tam będzie.
+// Looked in the bedside table
+Hmm, tutaj jej nie ma...
+Spróbujmy w innym miejscu.
+Tylko nie patrz do piekarnika, okej?
+Tam akurat juz sprawdzałam 
+// Looked into the stove
+Ej, mówiłam żebyś tam nie patrzył...
+Obróc się- a ja to posprzątam.
+... Już skończyłam, poszukajmy jej gdzie indziej
+Ej, I, umm, zapomnij co tam widziałes okej?
+// Found a hairbrush
+Znalazłeś ją! Dobra robota!
+Więc na co masz teraz ochote?

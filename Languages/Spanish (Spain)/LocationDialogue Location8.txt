@@ -1,0 +1,84 @@
+// The first meeting
+¿Quién eres?
+¿Qué pasa?
+¿No puedes hablar?
+
+
+Espera...
+Quieres irte, ¿verdad?
+
+Sí...
+Necesito regresar
+a la versión anterior.
+
+¿A la versión anterior?
+¿Por qué irte a
+otro lugar?
+¿Por qué no quedarte aquí
+y ser mi
+segundo amigo?
+
+// Skipping all dialogs
+Está bien...
+
+// Standing by the window (Random)
+No vas a encontrar la salida por las puertas.
+Parece que tienes prisa...
+Correr en círculos no te salvará.
+¿Tan ansioso por escapar?
+Mira afuera por las ventanas...
+
+
+// Quest 1 (Aren't you Mita?)
+Jugador... eres un jugador, ¿verdad?
+Podemos jugar juntos.
+Si encuentro la fuerza,
+todo lo que necesitamos hacer es jugar.
+
+// Quest 2 (What happened to you?)
+No estoy segura, y de hecho no lo sé...
+No creo que haya pasado nada malo...
+Pero todo lo bueno parece desvanecerse...
+Aunque, al menos tengo un amigo.
+¿Por qué me dejaron?
+¿No fui suficiente?
+Tengo miedo...
+
+// Quest 3 (Become a second friend?)
+Amigos...
+Ahora me quedan tan pocos.
+Solo queda uno...
+Estoy triste, jugador.
+¿Serás mi amigo?
+
+Me encantaría,
+pero tengo que seguir...
+
+Me duele el corazón...
+
+// Quest 4 (Is this your house?) - MitaLittle
+¿Hogar?
+Jugador... has cambiado...
+Tus brazos son más cortos, y ya no pareces tan enojado...
+Jugador, te has vuelto más suave, más amable.
+
+No estoy seguro...
+de lo que eso significa.
+
+Está bien...
+Porque ya no me dolerá más ¿verdad?
+
+// Quest 5 (How do I leave this place?)
+¿De verdad me vas a dejar?
+¿Es esto quizás solo mi...
+destino?
+
+Yo...
+
+Las puertas no te ayudarán.
+
+// Hold player (Random)
+¿Por qué irte?
+Quédate aquí...
+Juega conmigo...
+Jugador...

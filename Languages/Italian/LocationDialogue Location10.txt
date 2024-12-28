@@ -1,0 +1,246 @@
+
+Aspetta, fermati!
+Non così forte...
+Andare oltre è pericoloso.
+TRA L'ALTRO...
+come sei arrivato qui?
+
+Ehm...
+L'anello apre le porte giuste.
+Onestamente non so come funziona.
+
+L'anello?
+
+Che succede in questo posto?
+È molto buio.
+
+Te lo dirò più tardi.
+Per ora, vai verso l'uscita.
+Incontriamoci nella sala giochi.
+
+
+
+Sbrigati, non fare tardi!
+
+
+// After mini-game
+Allora, hai capito il senso del gioco?
+
+Che io sono fatto di carne e ossa e tu sei fatto di uno schema scheletrico?
+
+Wow!
+Sembra inquietante detto così.
+Ma il succo del discorso è questo.
+
+Giusto, ma perché devo capirlo?
+
+Pensavo di averti detto che andare oltre
+era pericoloso, non è uno scherzo.
+Ti imbatterai in... modelli abbandonati...
+Quelli abbandonati, quelli “difettosi”.
+Sono aggressivi e possono anche tentare di ucciderti.
+
+Quindi, cosa dovrei fare?
+Andrò
+ovunque si apra una porta.
+
+Wow!
+Allora non voltare loro le spalle.
+E non perderli di vista!
+Diventano timidi quando li fissi,
+così timidi da bloccarsi.
+Tienilo a mente!
+
+
+
+
+
+
+
+// Quest 1 (Why are there other Mitas down there?)
+Sono appena stati creati.
+Hanno bisogno di tempo
+per acquisire consapevolezza di sé.
+Poi guido ognuna
+nella propria casa.
+
+// Quest 2 (Why is it so dark downstairs?)
+Noi Mita siamo “create” nell'oscurità,
+quindi dobbiamo rimanere lì per un po'.
+Immagina
+il dolore di passare dall'oscurità direttamente alla luce...
+
+// Quest 3 (What are you doing here?)
+Non l'hai ancora capito?
+Sto aiutando le nuove Mita ad ambientarsi!
+Chi aiuterà loro se non lo faccio io?
+Tu?
+
+// Quest 4 (Why do we need this conveyor?)
+A cosa serve questo nastro trasportatore?
+C'è abbastanza spazio per tutti?
+
+Aspetta, non dirmi che non capisci
+ come funziona il mondo...
+E che è infinito?
+
+Infinito?
+Uhm...
+Cosa vuoi dire?
+Se la 1.9 è l'ultima versione,
+allora ci sono solo 19 mondi.
+
+Mio Dio, non capisci proprio
+come funziona questo mondo.
+Guarda, userò questa lavagna
+per spiegare tutto.
+Vuoi sapere come funziona?
+
+// Quest 5 (What is your version?)
+Aspetta,
+non ti ho incontrato nell'ultima versione?
+O forse è solo la mia immaginazione.
+
+Beh, è abbastanza possibile.
+Vengo dalla versione 1.5.
+Ci sei stato?
+
+Sì, l'ho fatto.
+È lì che sono arrivato
+quando sono stato gettato in questo mondo!
+
+Wow!
+Ma come...?
+Ma in quale indice di casa ti trovi?
+C'è una “me” che non riesce a smettere di lamentarsi,
+una “me” che ama divertirsi,
+una "me" con una pessima memoria e che ama fare la prepotente con gli altri...
+La lista è lunga...
+Dimmi cosa ricordi.
+
+Era buio.
+C'era una scritta
+come...
+“Gioca con me”.
+
+Ah,
+che peccato...
+Questo è la “me"
+che fa la prepotente e dimentica le cose.
+
+// Mita wants to tell you [No]
+Grazie di niente.
+Me la caverò anche senza saperne di più.
+
+Va bene, fai come vuoi.
+
+// Mita wants to tell you [Yes].
+Certo, vai pure.
+Spero solo che non sia come al liceo...
+dove mi addormentavo sempre per noia.
+
+Puoi andartene quando vuoi,
+o rimanere ad ascoltare
+se ti interessa.
+Un giocatore scarica MiSide
+e gioca quanto vuole.
+Lì, crea una nuova casa
+e una nuova Mita.
+Questa è una rappresentazione in 2D.
+Queste sono le versioni,
+mostrate come linee.
+Le case sono posizionate su queste linee.
+Supponiamo di scaricare la versione 1.14,
+che significa una nuova vita,
+una nuova Mita e una nuova casa.
+
+Cielo...
+
+Puoi chiedere informazioni sui dettagli
+in questo disegno,
+e farò del mio meglio per spiegarteli.
+
+// He asks about the only circle
+Perché c'è un solo cerchio?
+
+Quella versione è stata rilasciata una sola volta,
+per poi non essere mai più ripetuta.
+È l'unica versione veramente unica.
+Inoltre, queste versioni sono speciali
+e non hanno alcun percorso verso altre versioni.
+Sleepy Mita risiede in questa versione, la 1.1.
+
+Mita addormentata?
+Perché non riesce mai a dormire
+con tutti quelli che passano per la sua versione?
+
+No, non è così.
+È possibile passarle accanto e fare rumore,
+ma è impossibile svegliarla.
+
+// He asks about the shaded circle
+Perché questa sfera è tutta scura?
+
+Uhm, questa è qui
+per via della Pretty Mita.
+L'ha disegnata lei.
+Stavamo discutendo su
+chi riusciva a raggiungere la versione 1.11 più velocemente.
+
+Quindi, chi ha vinto?
+
+Io, ovviamente!
+Guarda, siamo qui
+nella versione 1.15,
+indice 809.
+Dobbiamo raggiungere la versione 1.11,
+indice 805.
+Quindi, il suo percorso è iniziato così.
+Abbiamo cercato di trovare un percorso più breve,
+così Pretty Mita ha suggerito questo percorso.
+E poi ho disegnato quello più semplice, qui.
+Facile, vero?
+Basta guardare qui.
+Da qui si arriva direttamente alla versione corretta.
+Anche se può sembrare che questa casa sia d'intralcio,
+che blocchi il tuo percorso...
+In ogni caso, il tuo anello funziona in base agli stessi principi.
+Dove sei diretto?
+
+Al nucleo.
+
+Il nucleo?
+Hmm...
+Se vuoi il percorso più breve,
+devi passare anche per la versione 1.11.
+Lì incontrerai sicuramente Sleepy Mita.
+Credo che la Mita che ti ha mandato,
+abbia seguito lo stesso percorso.
+O forse non si è resa conto che stai seguendo un percorso diverso.
+O forse è un genio
+e ha escogitato un percorso ancora più breve!
+
+Credo di aver capito.
+
+// He asks about the inscription
+Di cosa si tratta?
+
+È per Cool Mita.
+Sarà qui tra qualche ora.
+Sposterà quelle scatole
+e metterà un divano qui.
+Mi fa male il culo!
+
+Emm...
+Forse potrei aiutare?
+
+No, quello è il lavoro di Cool Mita.
+Lei è una dura.
+
+// He asks about the drawings
+È solo un disegno,
+o
+significa qualcosa?
+
+Sì, è solo uno scarabocchio,
+è solo uno scarabocchio.

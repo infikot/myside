@@ -1,0 +1,9 @@
+// Player start
+Dove mi trovo?
+Questo posto mi sembra familiare.
+Aspetta... Sono nel gioco?
+// Player try open the door
+Chiusa?
+// Player in dark
+È buio qui dentro.
+Non riesco a vedere nulla.

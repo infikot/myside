@@ -37,7 +37,7 @@ can find their way to the correct version.
 These passages
 connect the different versions.
 Yeah, it's kind of empty in here.
-And yikes! I heard about this one of a Mita
+And yikes! I heard about this one Mita
 who couldn't archive her version...
 Her house
 simply ceased to exist...
@@ -67,9 +67,9 @@ between versions.
 // Quest 6 (Are the passages dangerous?)
 I've seen all manner of strange things
 ever since I arrived
-into his game...
+into this game...
 Everything seems quiet here,
-but the passages feels...
+but the passages feel...
 anything but safe.
 
 You're right, and this place is getting
@@ -80,7 +80,7 @@ and we'll take the shortest
 and most well-trodden path!
 
 I certainly hope all goes well.
-But what live in these passages?
+But what lives in these passages?
 
 Well,
 glitches, bugs, anomalies.
@@ -134,7 +134,7 @@ I just call her
 Cappie.
 I've been going over the plan with her,
 the plan to stop Crazy Mita.
-This is, [player]!
+Let me introduce you, [player]!
 
 
 Salutations!
@@ -331,7 +331,7 @@ Want me to play a tune?
 Hah!
 Come here, my precious...
 All right!
-Well, I honestly had hoped you would play better than that.
+Well, could have played something more fun.
 Oh, well!
 // MitaCap Guitar No
 Eh, fine.
@@ -342,7 +342,7 @@ you're quite the energetic one!
 
 I AM!
 I certainly AM!
-Anywho...
+Anyhow...
 Let's go
 have some fun!
 
@@ -353,7 +353,7 @@ I really want to press it.
 Can I?
 
 Contain yourself, we'll get to that.
-If there's enough time, that is.
+If you make it in time!
 Now, have a seat!
 // Player sit
 Right.
@@ -799,7 +799,7 @@ Ugh!
 Way to go,
 you found a bug!
 That's supposed to start the video
-but instead, it the TV
+but instead, it turns the TV
 on and off!
 Pretty cool, don't you think?
 
@@ -812,7 +812,7 @@ Let's go have some fun!)
 
 // Goodbye 1
 Head out through that door
-to the auditorium.
+to the hall.
 
 Bye-bye!
 

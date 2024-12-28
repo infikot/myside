@@ -1,0 +1,19 @@
+// Track names
+Cracker
+Bubble drink
+Balloon
+// Quest none
+No es nada.
+// Quest "Meeting Kind Mita"
+¿Debería confiar en ti?
+¿Cómo llegué aquí?
+¿Qué es este lugar?
+¿Cómo llegaste aquí?
+¿Qué hiciste con el anillo?
+¿Los pasillos son peligrosos?
+¿Me ayudarás a escapar?
+Mencionaste un plan.
+// Quest MitaCap
+¿Recuerdas algo?
+¿Qué piensas de la Mita con el anillo?
+¿Siempre usas esa gorra?

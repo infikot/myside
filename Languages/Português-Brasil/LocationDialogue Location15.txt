@@ -1,0 +1,221 @@
+
+Ai está você!
+Por que saiu do núcleo?
+Eu te falei para me esperar!
+
+Eu pensei que você fosse demorar mais...
+
+Tá, tudo bem...
+Acho que encontrei algo...
+Talvez seja um index...
+Vamos ter que esperar para ver se funciona!
+Vamos sair daqui.
+Maluca...
+Acho que ela tá ocupada com um novo jogador.
+Talvez tão ocupada que não nos perceba...
+
+Mita?
+Espera por mim.
+
+
+Que foi? Perdeu alguma coisa?
+Opa! Achou!
+
+Mita...
+
+É toda sua!
+
+
+Por que...
+
+Quem é você?
+
+Você... Você está viva!
+Você não se lembra?
+
+Eu te conheço?
+
+O que tá acontecendo...
+O que eu deveria fazer agora?
+Eu não consigo ir embora...
+
+O que quer dizer com "ir embora"?
+
+Espera...
+Esse é o anel...
+E aquilo?
+
+Não tenho nem ideia do que é.
+
+É um index!
+Você encontrou ele!
+
+Eu não sei o que dizer.
+
+A gente precisa voltar para o núcleo.
+E você...
+Talvez devesse vir comigo...
+
+Uhm, o que?
+Claro...
+
+Espera aqui.
+
+Mm-hmm.
+Vou ficar aqui.
+
+
+Droga...
+Essa foi por pouco.
+Então... nós conseguimos?
+Ótimo.
+Estou na versão correta.
+
+
+Ola!
+Você é o novo jogador, não é?
+Qual o seu nome?
+
+Eu quero sair desse lugar...
+
+Por que quer ir embora?
+Como chegou aqui em primeiro lugar?
+Hmm...
+Tudo bem, pode ir...
+É só passar pela porta.
+Boa sorte!
+
+
+Uma parede?
+Hmm, tá errado.
+Talvez...
+Tem algo no porão que vai te ajudar.
+Eu descobri recentemente
+uma porta no guarda-roupa...
+E acabou que ela leva para um porão.
+Mas tá cheio de lixo,
+lixo e um monte de equipamento chique.
+Tem que colocar algum tipo de codigo
+Eu não entendo.
+E não dou a minima.
+É meio desconfortável...Quero dizer...muito desconfortável
+Você pode dar uma olhada?
+
+Uhm, tá bom.
+
+// Player thinks
+Ela não parece
+se lembrar de algo...
+A gente fez isso mesmo?
+A gente realmente reiniciou ela?
+Então tudo que eu preciso fazer
+é sair desse jogo maldito...
+
+
+Espera.
+Eu queria te dar um abraço.
+
+Huh?
+// Hugs
+foi tão bom te ver.
+
+Ahh...
+É uma pena
+que eu e você
+passamos tão pouco tempo juntos.
+
+Err...
+Do que você está falando?
+
+Quer dizer,
+você podia ter ficado comigo...
+É minha culpa...
+O guarda-roupa...os barulhos
+Eu deveria ter MATADO ELA ANTES!
+
+Espera um pouco,
+Você não...?
+Como você consegue se lembrar de algo assim?
+
+haha!
+Achou mesmo que ia ser facil?
+Você é tão bobinho...
+Assim como todos os outros...
+Mas deu certo, olha!
+A sua
+versão real
+não é mais necessaria.
+Desculpinha, tee-hee :P
+
+Eu não acredito...
+Então a gente falhou...?
+Não... Eu reiniciei você, tenho certeza que...
+
+Você ainda não entendeu...
+Ha-ha-ha!
+Haha! Eu sou uma atriz tão boa!
+Você devia ter visto seu rosto, meu amor!
+isso é tão divertido!
+
+Por que você tá assim?!
+O que tem de errado com você?!
+
+Verdade...
+Qual é o meu problema?
+Eu também não sei...
+Por que você não me fala porque eu estou assim?
+Eu nunca vou ser a Mita real?
+A minha versão
+nunca sequer existiu de verdade!
+Eu só tenho esfolado cada um deles,
+para me esconder debaixo das suas peles...
+Você nunca vai conseguir
+ME RESETAR!
+
+Inacreditável...
+Você...
+Eles não eram o problema!
+É você quem não deveria existir!
+
+Você também...
+machuca ouvir você falar isso.
+E agora!
+Hora de você ir!
+Eu te vejo em breve!
+Tá todo mundo pronto!
+É hora
+de te tirar daqui!
+Te vejo depois!
+Você vai ser meu cartucho preferido...
+Que tem um nome tão interessante.
+
+// core console - nope programm
+Provavelmente não é isso.
+Isso também não está certo.
+Não, errado.
+Não é isso.
+Preciso encontrar a opção de redefinição de personagem.
+
+// core console - nope version
+Essa é a versão errada.
+Opa, erro meu.
+Não é isso.
+Vou precisar de outra.
+
+// core console - nope index
+Tem algo de errado
+com o index.
+Preciso mudar o index,
+ele não está correto.
+
+// Why kitchen
+Você está com fome?
+Eu sou muito boa cortando cenouras. :)
+
+// Why bathroom
+Ah, Eu acho
+que queria ir sozinho
+
+// Why bedroom back
+Por que estamos andando em circulos?
+Por que voltar aqui?

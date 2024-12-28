@@ -1,0 +1,4 @@
+Trova una via d'uscita.
+Rincorri i minipersonaggi fino all'uscita.
+Parla con Mita.
+Prosegui.

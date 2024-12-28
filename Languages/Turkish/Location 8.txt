@@ -1,0 +1,11 @@
+// Quest none
+Boş ver.
+// Quest
+Sen Mita'sın değil mi?
+Sana ne oldu?
+İkinci arkadaşın mı?
+Evin burası mı?
+Burayı nasıl terk ederim?
+
+// TV
+SALINDI!

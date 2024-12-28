@@ -1,0 +1,35 @@
+Tarama gerekli!
+Gereksinimler
+Sürüm
+Kemik Miktarı
+Varlık bulunamadı. Tarama gerekli!
+Tarama tamamlandı
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Tebrikler!
+Başardın!
+
+// Tutorial
+Ehm, burada ne işim var benim?
+Senin ekranına geçmem lazım...
+Şimdi...
+Evet!
+Prototipin doğru olduğuna emin olman gerek.
+Önce tarat.
+Şimdi sürümünü ve kemik miktarını kontrol et.
+Protipin verisini al ve standart olanla karşılaştır.
+Birebir uyuyor! Şimdi de duygularımı kontrol et.
+Denek başarılı bir şekilde duygu gösteriyor! Davranışlarını kontrol et şimdi.
+Tamamdır, her şeyi kontrol ettik ve her şey yolunda. Şimdi kolu çek.
+Bravo! Derisi üzerinde. Şimdi kıyafetlerini ver.
+Bu kadar! Şu ışıkları gördün mü? Biri yeşile döndü, bu da işi doğru yaptığımız anlamına geliyor!
+Sıra sende! Işıkların hepsi yanınca geri geleceğim.

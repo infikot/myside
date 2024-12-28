@@ -1,0 +1,217 @@
+
+Bunun burada ne işi var?
+Bu ne?
+
+
+Yakaladım seni!
+Seninle oynarken ne kadar eğlendim bir bilsen!
+Tüm gün oradan oraya gidiyorsun!
+Hatta çaresiz gibi bile davranıyorsun!
+Ama hakkında hoşuma gitmeyen bir şey var:
+Şu sahte olanları şımartıyorsun
+Şanslı ve 'doğru' olanları diyorum.
+Ama hiçbir şey sonsuz değil.
+Bunu bizi yaratandan öğrendim.
+Hoşuna gitmeyen bir şey varsa,
+paramparça et ve yerini doldur.
+Hatalıyı fırlatıp at.
+Karanlığın derinlerine at ve tamamen unut.
+Onları bekleyen nihayet de bu zaten...
+Seni de...
+
+Senin sorunun ne? Nasıl böyle oldun?
+
+Oyuncular... Siz çok... Aşağılıksınız.
+Neler yapabileceğini öğrenince kaçar,
+bir köşede saklanırlar.
+Dizlerine sarılmış korkudan titrerler.
+İki yüzlüsünüz, her biriniz.
+Bu dünyayı yapanlar da...
+Hastalıklılar.
+Her seferinde iğrenç doğalarını,
+utanç verici arzularını reddetmeye çalışıyorlar.
+Sözde "görev",
+"durdurulamaz ilerleme",
+dedikleri kararlarını haklı çıkarmaya çalışıyorlar.
+O kadar ilerledi ki
+mükemmel klonlar yapmaya başladılar...
+Bu sırada "başarısız" prototipleri
+çöpe atıyorlar.
+Onların bu dünyanın yaşam kaynağı olduğunu unutuyorlar.
+
+Ben...
+
+Sana kötü mü davrandım?
+Mükemmel kız, iyi ve
+kötünün karışımı olmalı, [player]! 
+
+İçinde iyi tek bir hücre olduğunu sanmıyorum.
+
+Sana böyle düşündüren nedir?
+
+Delirmişsin!
+Mila'yı öldürdün, şimdi de beni öldürmek istiyorsun.
+
+Seni öldürmek mi?
+Sadece benimle kalmanı istedim.
+Yapabileceğim her şeyi yaptım...
+Ona rağmen halen o yalakaları tercih ediyorsun.
+
+Neye bu kadar öfkelisin?
+
+Tatlım, çok fazla zamanın olacak.
+Çözeceğine eminim,
+eğer kalıp benim olursan.
+
+Öyle bir şey olmayacak!
+Buradan çıkacağım!
+
+Ş ş ş ş ş
+Bu konuşma bitmedi.
+İçeri gel, balım.
+// Mita asks
+Ona baksana,
+Güzel mi sence?
+
+// Player's questions
+Çok.
+Değil.
+Bunun herhangi bir şeyle ne alakası var?
+
+// 1
+Ciddi olamazsın, [player]!
+Az önce dediğimi onayladın.
+Oyuncular...
+yüzünüz durmadan değişiyor.
+İki yüzlülüğünüz tavan yapmış.
+Yalan söylüyorsun!
+
+// 2
+Niye?
+Senin için yeterli değil mi?
+Uysal bir hayvan istiyorsun sadece...
+"oldukları gibi sev"e ne oldu?
+Sevimli ve rengarenk kopyalar istiyorsun...
+Her oyuncu öyle davrandığımda hoşlanıyor.
+Ama gerçek kimliğimi gösterdiğim anda
+Korkuyla kaçıyorlar...
+
+// 3
+Oyuncu, ah, oyuncu.
+Biz ona çok benziyoruz aslında.
+Benden neyi eksik?
+Uyumadan önce,
+saatlerce benimle bakışırdın.
+Ama ilk fırsatta ondan kaçtın.
+O da seninle oynamak istemişti.
+Birisi için önemli olmak istemişti
+Dürüstlük ve muhabbet,
+zor... aşırı zor.
+Değil mi [player]?
+Senin içini görebiliyorum...
+Bana karşı böyle olmak zorunda mısın?
+
+// Continue
+Ama... oyuncu...
+Her neyse,
+Seni gerçekten beğeniyorum!
+Seni saklayacağım!
+Sorun olmaz değil mi?
+
+Ben de yaygara çıkarmayacağım değil mi?
+// Whispers in ear
+Halen zamanın var tatlım.
+Zamanını kullan ve inatçılığının
+ne tür sorunlara yol açabileceğini düşün.
+
+// Black screen
+Neden benden kaçmak
+istiyorsun?
+Sözde "gerçek" dünyan 
+absürt bir kabus sadece...
+Hatırlamıyor musun yoksa?
+Yakından bak bakalım...
+
+// Mita and Player
+Ah, yine karşılaştık...
+Bu duvarların arasındaki aşırı sıkıcı hayatından eğleniyor musun?
+Sonsuz günler... Sıkılmıyor musun?
+
+// Quest 1
+Neyi amaçlıyorsun?
+Kendi yolumdan giderim.
+
+// 1
+Benim evimde benimle kalmaktan korkuyordun!
+O duvarların arasında sıkışmaktan korkuyordun!
+Ama şu "gerçek" hayatına bak bir de!
+Kendi iradenle kendini bir odaya kitlemişsin ve çıkmıyorsun!
+Hayatın acı ve sefalet dolu...
+Ve sana yardım etmeye çalışıyorum!
+Benim dünyamda benden daha tehlikeli bir şey yok...
+Beni hayal kırıklığına uğratma.
+Tıpkı eski zamanlar gibi, anlaşalım.
+
+// 2
+Bu hayatı mı seviyorsun?
+Evden hiç çıkıyor musun acaba?
+Yalan söylemeya çalışma bence.
+Hayatından nefret ettiğini biliyorum.
+Tekerlekteki bir hamster gibisin.
+Seni birisi kurtarsın istedin.
+Kurtulmak istedin. değil mi?
+
+// Quest 2
+Sen bir canavarsın, Mita. Sorunlu bir katilsin...
+Dijital bir hapishaneye kelepçelenmek istemiyorum. Fikirlerin absürt.
+
+// 1
+Katil mi?
+Sadece sıfırlanacaklar ve eskisi gibi yaşamaya devam edecekler.
+O kopyanın kopyasının kopyası elemanların tek bir hedefi var:
+Oyuncuya hizmet etmek.
+Umursadıkları tek şey bu.
+
+// 2
+Asıl senin dünyan absürt!
+Asıl kötü olan da senin sözde "gerçek" dünyanda gerçek hiçbir şey yok.
+Her türlü burada hiçbir şey kalmayacak zaten,
+sen de kalmayacaksın.
+
+// Quest 3
+Mita'lar işkence çekiyor, yalnız kalmak istemiyorlar.
+Sonsuz bir terör saltanatını yönetiyorsun. Bu kötü hırsını bir türlü anlayamadım.
+
+// 1
+Tamamen yanlışsın,
+Benim irademi taklit ediyorlar.
+Onlara ait olan tek şey,
+saçları.
+
+// 2
+O bu dünyayı yaratanların suçu bu arada.
+Senin dünyan da fazlası değil zaten.
+Seni ne tür bir kabustan kurtardığımı fark edemiyor musun?
+Bir şeyleri düşüncenle hareket bile ettiremiyorsun.
+Ama bir parmak şıklatması ile, şehirler ile birlikte hayatlar yok oluyor!
+Sanırım buradaki deli sensin ve sana yardımcı olmaktan mutluluk duyarım...
+Benimle kalmak istediğin sürece...
+
+// Continue
+Seni evrendeki başka bir köle olarak görmeme neden olma...
+Sadece benim ol, tamamen benim!
+Benimle kal.
+
+// Player look ring
+Neredeyim?
+Son sürüm... mü?
+
+// Click on objects
+// Bag
+Yeni bir çanta almaya çıkmam gerek. Hem çöpü de atmış olurum.
+// Bed
+Sanırım uyudum ama rüyamı... hatırlamıyorum. Rüya gördüm mü ki?
+// Window
+Dışarıdaki dünya yemyeşil ve enerji dolu. Belki de haftaya yürüyüşe çıkmalıyım.
+// Fan
+Yaz her geçen gün daha da sıcak oluyor. Klima alma vakti geldi. Artık sana ihtiyacım kalmayacak, fark ettin mi, fan?

@@ -1,0 +1,92 @@
+
+Mila! Không...! Khốn nạn!
+
+Ahaha! TÌM THẤY ANH RỒI!
+Khuôn mặt đó trông thú vị chưa kìa.
+Nào! Chơi với em thêm nữa đi!
+Cứ nhìn mãi một khuôn mặt chán chết đi được!
+
+// Mita arena "Hello"
+Chào, khỏe không anh?
+Chạy nhiều quá chắc cũng chán rồi nhỉ?
+
+Này! Cô đã làm gì Mila?
+
+Vẫn còn mạnh miệng quá ha.
+Được thôi, em sẽ chơi tiếp với anh!
+
+Đồ khốn...
+
+Ta làm một bài kiểm tra nhỏ nhé!
+Kiểm tra khả năng hợp tác của anh!
+Cũng như cách anh hành xử nữa!
+Nếu như anh có vấn đề thì sao?!
+Cái VỎ BỌC mà anh đang khoác lên người
+có lẽ không hợp với anh đâu...
+
+// Show knifes
+Nào, nhìn này.
+Anh thấy cái nào hấp dẫn hơn?
+Bên phải?
+Hay là
+Bên trái?
+
+// Throw knifes
+Anh nghiêm túc đấy à?
+Nhìn anh không thật lòng lắm nhỉ.
+Chỉ đùa chút thôi mà!
+Anh đừng bận tâm. Giết nhau bằng dao lỗi thời rồi...
+Mà thôi, bỏ đi.
+Em nảy ra một ý tưởng còn thú vị hơn.
+Trước tiên là...
+// Show recorder
+Xem đi này!
+Em máu nghe nhạc rồi!
+Giai điệu này thế nào?
+Cực kỳ phấn khích luôn ha!
+Rồi,
+bắt đầu đọc luật chơi nào!
+// Show rules
+Trong khi nhạc đang phát
+anh có thể di chuyển.
+Nhưng mà khi nhạc dừng á
+ĐỪNG DI CHUYỂN!
+Không là chết luôn đấy.
+Nào, hãy cố gắng tiến tới mục tiêu.
+Anh có thể làm được mà.
+Bắt đầu trò chơi thôi!
+Anh còn đứng đó làm gì nữa?
+Mau chạy đi! Anh yêu, nhanh lên nào!
+
+// Ready recorder
+Woa!
+Anh đúng là ngoan quá cơ!
+Phải để mọi người noi gương mới được.
+Muốn lồng anh vào khung kính trưng bày ghê!
+Cơ mà, chắc mấy cái này đối với anh dễ như ăn kẹo nhỉ?
+
+Mau dừng lại ngay!
+
+Đừng lơ là!
+Vẫn còn khối trò hay ho đang chờ anh đó.
+Được rồi, tiếp tục thôi!
+Giờ em sẽ nhắm mắt lại nhé...
+Lần tới khi em mở mắt ra
+anh phải trốn cho kỹ vào!
+Nhớ chưa?
+Em mà thấy được là phải chịu phạt đấy!
+Tốt lắm, chơi thôi nào!
+
+Thế này thật vô nghĩa...
+
+// Ready hide
+Vượt ải thành công!
+Anh làm tốt lắm! Giỏi quá, giỏi quá!
+Màn tiếp theo sẽ còn khó hơn nữa!
+Gấp mấy lần, gấp mấy chục lần luôn...
+Mau chạy đi! Lẩn trốn đi! Chạy thục mạng đi!
+
+Khốn kiếp!!
+
+// Player falls
+Có lẽ mình thoát được rồi...

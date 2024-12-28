@@ -1,0 +1,71 @@
+
+Quédate aquí.
+Creo que dejé algo. Vuelvo enseguida.
+Luego iremos a otro mundo...
+
+Está bien.
+
+
+¡Juguemos!
+¡Quiero mi osito!
+Lo perdí...
+¡Encuéntralo!
+
+
+Oye...
+¿qué estas mirando?
+
+
+
+
+
+
+
+
+
+// Quest 1 (¿Quién eres?)
+Soy Mita.
+La mejor Mita.
+La primera Mita.
+Eso es lo que dijo Mita, mi Mita.
+
+// Quest 2 (¿Por qué te ves así?)
+¿Cómo me veo?
+¿Cómo me veo?
+¿Cómo me veo?
+Mi Mita dice que soy hermosa y original.
+¡Esa soy yo!
+
+// Quest 3 (¿Qué hacía Mita aquí?)
+Ella me llevará.
+Viviremos en un mundo nuevo.
+Mi Mita me invitó.
+Ella me llevará. Y jugaremos.
+
+// Quest 4 (¿Por qué necesitas un osito?)
+Eres un osito abrazable,
+y estás perdido,
+justo como mi osito abrazable.
+
+// Quest 5 (¿Por qué está enojada Mita?)
+Mi...
+Mita.
+Ella quiere jugar.
+Ella solo quiere
+a mí.
+Somos únicas,
+las únicas.
+Mita y mi Mita,
+0.8A y 8�54*.
+
+// Quest 6 (¿Crees en Mita?)
+Mi Mita.
+Mi mejor amiga.
+Mi Mita.
+Mi única amiga.
+
+
+¡Eres tú!
+Oye.
+¡Juguemos!
+Te mostraré cómo.

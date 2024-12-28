@@ -48,6 +48,7 @@ Einfaltspinsel
 Schwuchtel
 Behindert
 Schwachmat
+Schwachkopf
 Schwächling
 Opfer
 Maul
@@ -55,3 +56,6 @@ Fress
 Neger
 Spaten
 Kacke
+Dumpfbacke
+Standgebläse
+Nutte

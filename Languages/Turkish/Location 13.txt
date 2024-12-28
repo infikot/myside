@@ -1,0 +1,14 @@
+// Quest none
+Boş ver.
+// Quest "First"
+Neredeydin?
+Buraya nasıl geldin?
+O Mita kimdi?
+Yüzük nasıl çalışıyor?
+Deli Mita benden ne istiyor?
+Çekirdek bu mu?
+// Quest "Second"
+Sorun ne?
+Öğrenmenin bir yolu yok mu?
+Deli Mita'ya saldırsak ya?
+Mini insanlar
