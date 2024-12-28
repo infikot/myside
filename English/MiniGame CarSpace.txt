@@ -1,8 +1,0 @@
-Race finished!
-Position
-Coins collected
-Invasion
-Defeat the boss
-Boss defeated!
-Nitro
-Press any button to start the race.
