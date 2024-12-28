@@ -1,5 +1,0 @@
-Schalte das Radio aus.
-Finde heraus, was sich in der Küche befindet.
-Finde Mita.
-Folge dem Körper.
-Gehe in den Keller.

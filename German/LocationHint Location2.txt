@@ -1,6 +1,0 @@
-Sieh dich um.
-Finde die Sachen und lege sie auf den Scanner.
-Scanne die Sachen und starte den Mechanismus.
-Schalte den Strom an der Haustür neu ein.
-Finde die Serverbatterien und setze sie in den Mechanismus ein.
-Starte den Mechanismus.
