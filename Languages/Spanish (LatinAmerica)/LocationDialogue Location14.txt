@@ -1,72 +1,72 @@
 
-¿Qué esta haciendo esto aquí?
+¿Qué hace esto aquí?
 ¿Qué es eso?
 
 
 ¡Te tengo!
 ¡Me divertí mucho jugando contigo!
-¡Como movías de aquí a  allá!
-¡Incluso fingiste ser pesimista y sombrío!
-Aunque, hay una cosa que no me gusta de ti:
+¡Como te movías de aquí a allá!
+¡Incluso fingiste ser pesimista y lúgubre!
+Aunque, hay una cosa que no me gusta de tí:
 la forma en la que te mezclas con esas falsas,
-esas 'Buenas' y 'Correctas" muñecas.
-Pero todos cambia de opinión.
-¡Lo aprendí por parte de aquellos que nos crearon!
+esas muñecas 'correctas' y afortunadas.
+Pero todos son hipócritas.
+¡Lo aprendí de quienes nos crearon!
 Si hay algo que no te gusta,
 destrúyelo y reemplázalo.
 Desecha a los defectuosos,
 lánzalos a la oscuridad y olvídate de ellos.
-ese es el destino que les espera ahora...
-y tu...
+Ese es el destino que les espera ahora...
+Y tú...
 
 ¿Qué pasa contigo? ¿Por qué te volviste de esa forma?
 
-Jugadores... Todos ustedes son tan... despreciables.
-Apenas muestras tus colmillos, ellos corren
-y se esconden en un rincón,
-abrazando sus piernas y llorando en terror.
+Jugadores... todos ustedes son tan... despreciables.
+Les muestras tus colmillos, y se van corriendo
+a esconderse en un rincón,
+abrazando sus piernas y llorando del miedo.
 Hipócritas, todos y cada uno.
-y los que crearon este mundo...
+Y los que crearon este mundo...
 están enfermos.
 Una y otra vez intentan negar
 su sucia naturaleza, sus deseos vergonzosos.
-Justificando sus decisiones y nombrándolo como 'deber',
-'progreso imparable'
-¡y demás tonterías!
+Justificando sus decisiones en nombre del 'deber',
+del 'progreso imparable',
+¡y demás sinsentidos!
 Están tan perdidos en su locura
 que comenzaron a hacer clones perfectos...
-Y todos los prototipos 'fallidos',
+y todos los prototipos 'fallidos',
 fueron tirados a la basura.
-Olvidando que están tan vivos como cualquiera de aquí.
+Olvidando que son lo que mantiene vivo a este mundo.
 
 Yo no...
 
-¿He sido mala para ti?
-La chica perfecta debería de ser
-la combinación perfecta del bien y el mal, [player]!
+¿He sido mala contigo?
+La chica perfecta debería ser
+¡la combinación perfecta del bien y el mal, [player]!
 
-Dudo que haya una pizca de bien en ti.
+Dudo que haya una pizca de bien en tí.
 
 ¿Qué te hace pensar eso?
 
-¡Estas demente!
-Mataste a Mila y ¿ahora quieres matarme?
+¡Estás demente!
+Mataste a Mila, ¿y ahora quieres matarme?
 
 ¿Matarte?
-Todo lo que pedí era que te quedaras conmigo.
+Lo único que pedí era que te quedaras conmigo.
 Hice todo lo que pude...
 Pero prefieres la compañía de esas farsantes...
 
 ¿Por qué les tienes tanto rencor?
 
-Cariño, tenemos suficiente tiempo.
+Cariño, nos queda mucho tiempo.
 Ya lo entenderás.
 Solo quédate y se mío, todo mío.
 
 ¡Eso no va a pasar!
 ¡Me largo de aquí!
 
-Fuuu...
+Shh, shh, shh...
 Esta conversación no ha terminado.
 ¡Entra!
 // Mita asks
@@ -74,12 +74,12 @@ Esta conversación no ha terminado.
 ¿Crees que es hermosa?
 
 // Player's questions
-Mucho.
+Muy.
 No.
-¿Eso que tiene que ver con esto?
+¿Eso qué tiene que ver con esto?
 
 // 1
-Ah, vamos, [player]!
+Ah, ¡vamos, [player]!
 Acabas de confirmar lo que dije.
 Jugadores...
 Sus caras cambian
@@ -88,78 +88,78 @@ pero su hipocresía no tiene fin.
 
 // 2
 ¿Por qué no?
-¿Ella no es suficiente buena para ti?
+¿No es suficiente buena para ti?
 Bah, todo lo que quieres es una mascota dócil...
 ¿Pero que hay de 'amarlos por quien son'?
 Quieres a las lindas y coloridas farsantes...
 Todos los jugadores aman cuando finjo ser una.
-pero, en el instante que revelo mi verdadero yo,
-huyen en horror...
+Pero, en el instante en que revelo mi verdadero yo,
+huyen horrorizados...
 
 // 3
 Jugador, ah, jugador.
 Sabes, nos parecemos mucho a ella.
 ¿Qué tiene ella de malo?
-Tu solías recostarte en cama y mirarme
+Tu solías recostarte en la cama y mirarme
 por horas antes de irte a dormir.
 Pero, huiste de ella a la primera oportunidad.
 Ella también quería jugar contigo.
 Ella también quería ser importante para alguien...
-Es complicado, ¿No?
-ser así de honesto.
-¿No es así?, [player]
-Puedo ver a través de ti...
-Estoy haciendo esto por ti...
+Ser honesto y dialogar,
+es difícil... terriblemente difícil.
+¿No es así, [player]?
+Puedo ver a través de tí...
+Estoy haciendo esto por tí...
 
 // Continue
-Pero... jugador...
+Pero... [player]...
 de cualquier modo,
 ¡de verdad me gustas!
-¡Te tendré conmigo!
+¡Me quedaré contigo!
 No te importa, ¿verdad?
 
-¿Por que habría de aceptar de repente?
+¿Por qué habría de aceptar de repente?
 // Whispers in ear
-Aún hay tiempo, querido.
-Tomate un tiempo y piensa
-Que problemas pueden causar tu necedad...
+Aún hay tiempo, mi buen chico.
+Tomate un tiempo y piensa,
+que problemas pueden causar tu terquedad...
 
 // Black screen
-¿Por que huyes
-de mi?
-El supuesto mundo 'real'...
-¡solo es una pesadilla!
+¿Por qué huyes
+de mí?
+Ese supuesto mundo 'real'...
+¡Solo es una pesadilla!
 ¿Ya te olvidaste?
 Entonces mira de cerca...
 
 // Mita and Player
 Ah, nos vemos de nuevo...
-¿puedes disfrutar los días tan tediosos dentro de estas paredes?
-Estos días interminables... ¿No te aburres?
+¿Cómo puedes disfrutar los días tan tediosos dentro de estas paredes?
+Estos días interminables... ¿no te aburres?
 
 // Quest 1
 ¿Qué intentas lograr?
 Prefiero hacer lo mío.
 
 // 1
-¡Tu temías quedarte en mi casa junto a mi!
+¡Tenías miedo de quedarte en mi casa conmigo!
 ¡Temías estar atrapado dentro de esas paredes!
 ¡Pero mira la vida que tienes en tu mundo 'real'!
-¡Te encerraste en una caja por tu propia decisión, y te niegas a salir!
+¡Te encerraste en una caja por decisión propia, y te niegas a salir!
 Tu mundo esta lleno de dolor, sufrimiento, peligro...
 En mi mundo, yo soy el mayor peligro.
-y estoy intentando ayudarte!
+¡Y estoy intentando ayudarte!
 Deja de decepcionarme,
-y ayúdame justo como hiciste antes...
+y ayúdame como hiciste antes...
 
 // 2
 ¿Te gusta esta vida?
 ¿Siquiera dejas tu casa?
 No pienses en mentir.
-Se que estas cansado de tu vida.
+Sé que estás cansado de tu vida.
 Eres como un ave en una jaula, un hámster en una rueda.
-Tu querías que alguien viniera a tu rescate.
-Tu querías escapar, ¿no es así?
+Querías que alguien viniera a tu rescate.
+Querías escapar, ¿verdad?
 
 // Quest 2
 Eres un monstruo, Mita. Eres una asesina despiadada...
@@ -167,7 +167,7 @@ No quiero estar encadenado en tu prisión digital. Tus ideales son absurdos.
 
 // 1
 ¿Una asesina?
-Ellas solo se reinician y viven justo como siempre.
+Ellas solo se reinician y siguen viviendo como antes.
 Esas copias de las copias solo tienen una cosa en mente:
 servir al jugador.
 Eso es todo lo que les importa.
@@ -176,25 +176,25 @@ Eso es todo lo que les importa.
 ¡Tu mundo es absurdo!
 Y lo que es peor, no hay nada de 'real' en ese supuesto mundo tuyo...
 De cualquier forma, pronto no quedará nada de tu mundo,
-no tendrás nada que esperar o perder de ahí.
+ni tampoco de tí.
 
 // Quest 3
-Las Mitas sufren, ellas no quieren ser abandonadas.
-Tu solo traes desesperación sin fin. Nunca entenderé tu ambición perversa.
+Las Mitas sufren; no quieren ser abandonadas.
+Tú solo traes desesperación sin fin. Nunca entenderé tu ambición perversa.
 
 // 1
-Estas equivocado,
+Estás equivocado,
 ellas solo imitan mi voluntad.
 Lo único que es realmente suyo
 es su cabello.
 
 // 2
-Eso es culpa de aquellos quienes hicieron este mundo.
+Eso es culpa de quienes hicieron este mundo.
 ¡Pero tu mundo no es mejor!
 ¿Te das cuenta de que pesadilla te rescaté?
 En tu mundo no puedes hacer que se mueva un objeto con un chasquido de dedos, no...
-pero con ese mismo chasquido, vidas y ciudades pueden desaparecer para siempre!
-Creo que eres tu quien se ha vuelto loco, y estaré feliz de ayudarte...
+Pero con ese mismo chasquido, ¡vidas y ciudades pueden desaparecer para siempre!
+Creo que eres tú quien se ha vuelto loco, y estaré feliz de ayudarte...
 siempre y cuando estés dispuesto a quedarte conmigo...
 
 // Continue
@@ -204,14 +204,14 @@ Quédate conmigo.
 
 // Player look ring
 ¿Qué es esto?
-¿La ultima versión?
+¿La última versión?
 
 // Click on objects
 // Bag
-Pronto necesitaré ir a la tienda a comprar mas ramen. Bien podría sacar la basura mientras estoy en ello, ¿no?
+Pronto necesitaré ir a la tienda a comprar mas ramen. Ya que estoy podría sacar la basura, ¿no?
 // Bed
-Creo que dormí, pero el sueño... No lo recuerdo. ¿Estaba ahí?
+Creo que dormí, pero el sueño... no lo recuerdo. ¿Estaba ahí?
 // Window
-Afuera esta verde y vibrante. Quizás salga a caminar el siguiente fin de semana.
+Afuera esta verde y vibrante. Quizás salga a caminar el próximo fin de semana.
 // Fan
-El verano se hace mas caliente cada año. Es hora de usar aire acondicionado. Ya no voy a necesitarte, ¿lo entiendes, ventilador?
+El verano se pone mas caliente cada año. Es hora de comprar un aire acondicionado. Ya no voy a necesitarte, ¿lo entiendes, ventilador?

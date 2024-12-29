@@ -1,0 +1,5 @@
+// Snaker
+Vesztettél!
+Nyertél!
+// DontWork
+Állj!

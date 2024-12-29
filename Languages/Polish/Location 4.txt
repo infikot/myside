@@ -1,6 +1,6 @@
-Wymagania: Ukoncz glówną grę.
+Wymagania: Ukończ główną grę.
 Zagraj na konsoli.
 Spróbuj sosu.
-Zignoruj wentylacje .
+Zignoruj wentylację.
 Podnieś magnesy z lodówki.
-Powstrzymaj się od spojrzenia w piekarnik.
+Nie zaglądaj do piekarnika.

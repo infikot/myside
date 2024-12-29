@@ -10,7 +10,7 @@
 ¡Hola, soy Mita!
 ¿Cuál es tu nombre?
 ¡Mucho gusto, [player]!
-Eh... [player],
+Um... [player],
 me fui un poco rápido antes, y ahora este lugar está hecho un desastre...
 ¿Podrías ayudarme a ordenar un poco?
 ¡Guau!
@@ -28,7 +28,7 @@ una pequeña con antena. Perfecta para paseos, ¿no crees?
 Por cierto, puedes jugar mini-juegos para ganar dinero.
 ¿Podrías jugar un mini-juego para comprarme el televisor?
 
-¡Yay! ¡Lo lograste! ¡Tienes suficiente para comprarme esa televisión!
+¡Yay! ¡Lo lograste! ¡Tienes suficiente para comprarme la televisión!
 ¡Esa es! Pequeña, portátil y barata, justo lo que quería.
 ¡Gracias!
 
@@ -60,7 +60,7 @@ Deja el teléfono.
 // Cubo Rubik
 Bueno, no puedo decir que le haya sacado mucho provecho...
 Lo resolví una vez y nunca más lo toqué.
-Supongo que pensé que no podría hacerlo una segunda vez. 
+Supongo que pensé que no podría hacerlo una segunda vez.
 // Computadora
 Veamos...
 Hacer una lista de tareas...
@@ -69,9 +69,9 @@ Y tal vez hacer algo de código.
 // El avión
 ¡Hecho para volar! 
 // Basura en la esquina
-Ugh, siempre demasiado ocupado para sacar la basura...
-Pero esta vez sí lo haré, ¡seguro!
-…Ahora, ¿cuándo exactamente es el día de recogida? 
+Ugh, siempre estoy demasiado ocupado para sacar la basura...
+¡Pero esta vez sí lo haré, lo prometo!
+...Aunque, espera, ¿cuándo es el día de recogida?
 // Foto de un gato sobre una sandía
 Ella era la mejor...
 Un gato, descansando sobre una sandía.
@@ -79,16 +79,16 @@ Un gato, descansando sobre una sandía.
 No nos parecemos en nada,
 mi hermana y yo.
 Ella siempre está fuera de casa,
-Y yo solo estoy atrapado en casa.
+Y yo siempre estoy encerrado aquí.
 // Foto con personas
 Hmm...
-La vida de oficina realmente nos metió
+La vida de oficina realmente nos inculcó
 su etiqueta en la cabeza, ¿verdad?
-Todavía me siento raramente atado,
+Todavía me siento extrañamente atado,
 Pero
-¿alguna vez
-los veré de nuevo?
-…Espera, ¿por qué puse esta foto aquí?
+¿podré alguna vez
+verlos de nuevo?
+...Espera, ¿por qué puse esta foto aquí?
 
 
 
@@ -104,7 +104,7 @@ Oh no, eso no va a funcionar.
 
 // Nombre de desarrollador
 ¿Estás seguro de que quieres usar el nombre del desarrollador?
-Me siento halagada, pero…
+Me siento halagada, pero...
 
 // Mal nombre
 Realmente preferiría que no te llames así.
@@ -120,8 +120,8 @@ Bueno, ¡es tu elección!
 // Nombre Mita
 ¿Mita?
 ¿De verdad te nombraste así por mí?
-¿O… ese es tu nombre también?
-Sin ofender, pero creo que debería ser la única Mita por aquí ♪ 
+¿O... ese es tu nombre también?
+Sin ofender, pero creo que debería ser la única Mita por aquí ♪
 
 // Día 10
 ¡Oh, has vuelto!

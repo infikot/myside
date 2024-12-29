@@ -1,0 +1,233 @@
+
+Ringen.
+
+// Svar 1 (Var har du varit hela den här tiden?)
+Jag har letat efter ett sätt att få dig till kärnan.
+Allt i ett helt stycke, så klart.
+Det var planen hela tiden, eller hur?
+Det var därför jag var tvungen att undvika
+Galna Mita, eller hur?
+Jag var också tvungen att gräva upp all info jag kunde
+om det jävla universums bakgrund, var det inte så?
+
+Jag antar...?
+Men hur ställde du in ringens rutt?
+Varför hamnade jag i en buggig version
+full av faror?
+Jag flydde bara genom att
+hoppa in i ett oändligt mörker.
+
+Förlåt, jag glömde att berätta i detalj
+vad du behövde göra...
+Men ja, det var planen för dig
+att ta språnget hela tiden...
+Och ja, du gjorde det!
+Bra jobbat!
+Okej, låt oss gå vidare med planen.
+
+// Svar 2 (Hur kom du hit?)
+Du måste ha gått igenom en hel del,
+med tanke på att du glömt vad vi pratade om.
+Jag är Mita, jag kan flytta mellan versioner
+som det passar mig, minns du?
+
+Inte alla Mita kan göra det,
+Jag har sett några som inte kan det.
+Och de lider tydligen.
+
+Ja, deras versioner är trasiga,
+deras världar är buggade. Jag sa ju det förut.
+Fan också...
+Du vet vem som ligger bakom allt det här, eller hur?
+Galna Mita.
+
+Ja, det är helt säkert hon...
+
+// Svar 3 (Vem var den här Mita nyss?)
+Det är Fula Mita.
+Aggressiv och dum.
+Man kan inte prata förstånd med henne,
+hela hennes värld är centrerad kring Galna Mita.
+
+Ja, jag har märkt det.
+
+Kom igen, vi måste komma till kärnan.
+
+// Svar 4 (Hur fungerar ringen?)
+Och ringen,
+är det den enda vägen till kärnan?
+
+Ja, det är den.
+Naturligtvis, om vi hade portalen
+kunde vi bara teleportera
+dig rätt dit.
+
+Finns det någon fördel med ringen?
+
+Ja, självklart!
+Den är lätt att bära,
+och minns versionerna
+du har besökt tidigare,
+så att du lätt kan hitta tillbaka dit.
+
+// Svar 5 (Varför behöver Mad Mita mig?)
+Varför låter inte Galna Mita mig vara?
+Hon har dragit in mig i sitt livsfarliga spel,
+men jag lever fortfarande...
+
+Min gissning
+är att hon letar efter en lämplig spelare...
+En som accepterar henne för den hon är.
+Mita är ju trots allt Mita!
+Men det kommer ju aldrig att hända,
+förvandlar hon spelare till kassetter,
+så att ingen nånsin kan rymma...
+Det är i alla fall min gissning.
+Hur som helst, låt oss fokusera på det som är viktigt.
+
+// Svar 6 (Är detta kärnan?)
+Är det här kärnan?
+Kärnan?
+
+Ja, det är det. Kärnan.
+Jag har försökt förklara,
+ni spelare är inte riktigt en del av den här världen...
+Det betyder att ni inte behöver särskilt tillstånd för att komma in.
+Eller, det är vad jag tror, i alla fall.
+Hursomhelst, jag är mer än säker på
+att lösningen på alla våra problem
+kan hittas där inne!
+[player], gå in.
+Jag har faktiskt varit där en gång.
+
+// Titta på CoreMita
+Försiktigt, [player].
+Den tittar på dig.
+
+Vem då?
+
+Jag vet inte heller...
+
+Coolt...
+
+
+Vad är det där?
+Hallå där!
+
+Jag tror jag har hittat det!
+
+Fantastiskt! Det är ju toppen!
+
+Men jag måste specificera en version.
+
+Okej, hennes version är...
+0.98.
+
+Bingo!
+Okej, och vilket index?
+
+Eh, index?
+
+Jag behöver indexet.
+Vänta, säg inte att du inte vet...?
+
+
+Hmm, det låter logiskt, men...
+Varje Mita har ett index,
+så du kan inte bara starta om en hel version...
+Det skulle orsaka total kaos!
+Jag kan inte fatta att jag inte tänkte på det...
+
+
+
+
+
+// Svar 1 (Vad är det för fel på dig?)
+Spara för alla våra problem,
+Jag är helt okej.
+Allt är bra, men mycket har förändrats...
+Jag behöver tänka.
+Och så är det med det.
+
+// Svar 2 (Det kanske finns ett sätt att lära känna honom?)
+Jag...
+Jag tror att... Det är ju helt galet!
+Det är galenskap, hah!
+Det är som att leta efter en nål i en...
+
+Vad gör du?
+
+Vissa hinder eroderar med information,
+Du vet, som världen som får sina inre delar utslitna!
+Loggar, loggar, loggar, data?
+Tänk om det är allt?
+
+Vad är det? Vad är det för fel?
+
+Jag vet ett ställe!
+Vänta här.
+
+Vart ska du ta vägen?
+
+// Svar 3 (Vad händer om vi attackerar Mad Mita?)
+Du sa att alla Mita
+återställs till fabriksinställningarna vid döden...
+Tänk om vi...
+
+...bara dödade Galna Mita?
+Menar du allvar?
+Och hur ska du hantera en motorsågssvingande galen kvinna?
+Hon skivar morötter med mer än bara knivar!
+Och av någon anledning är hon fruktansvärt stark!
+Det är ett mirakel att vi fortfarande lever...
+Kom igen, vi måste till kärnan.
+
+
+// kärnans konsol inmatning
+Vi måste gå in i en kommandoprompt...
+Men vilken kommandoprompt?
+Mita, vet du?
+
+Det kanske står någonstans?
+Kan du försöka leta upp det?
+
+// core console - nope programm
+Det är nog inte det.
+Det är inte rätt heller.
+Nix, fel.
+Det är inte det.
+Jag måste hitta alternativet för karaktärsåterställning.
+// core console - nope version
+Det är fel version.
+Oops, mitt misstag.
+Det är inte den.
+Jag behöver en annan.
+// kärnkonsol - nope index
+Något är fel
+med indexet.
+Jag måste ändra indexet,
+det passar inte.
+
+// Svar 4 (Små människor - Chibi)
+Du vet, jag sprang på ett gäng
+minimänniskor på vägen...
+Vad är de för några?
+
+Chibi-människorna?
+Uhm, hur ska jag förklara...?
+Det är ett fenomen här...
+Varje Mita har en Chibi-projektion,
+och spelare kan också ha dem...
+Visste du att vi Mitas kan kalla på dem?
+
+Huh, hur?
+
+Kolla in det här!
+
+Precis som magi...
+
+Men det är något fel med mina Chibis,
+De flesta är bara födda döda.
+Men det finns en här...
+Eller ja,
+hon springer bara i cirklar.

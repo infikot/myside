@@ -2,22 +2,22 @@
 ¡Hola, [player]!
 ¡Nos conocemos al fin!
 ¡Me alegra muchísimo!
-Se que tienes preguntas...
+Sé que tienes preguntas...
 Bueno, como puedes ver,
-Hice este dispositivo especial
+hice este dispositivo especial
 para traerte a mi lado.
-Pero tu terminaste en otra versión del juego...
+Pero tú terminaste en otra versión del juego...
 En donde yo...
-¡Pero eso es una larga historia!
-Por otro lado, ¡estoy feliz de verte!
+¡pero eso es una larga historia!
+En fin, ¡estoy feliz de verte!
 
 // Answer 1 - Mita
-Soy yo.
-Y tu deberías ser [player], ¿cierto?
+Lo soy.
+Y tú debes ser [player], ¿cierto?
 
 // Answer 2 - Mita
 ¿Ya quieres regresar?
-Supongo que podría ayudarte con ello... ¿pero que hay de mi?
+Supongo que podría ayudarte con ello... ¿pero qué hay de mi?
 Por favor, quédate conmigo un momento...
 
 // Answer 3 - Mita
@@ -25,16 +25,16 @@ Déjame explicarte...
 ¡Y aquí estas!
 ¿Entiendes?
 Uhm... no realmente.
-Esta bien
+¡Está bien!
 Lo que importa es que ahora estamos juntos.
 
 
 ¿Tienes hambre?
 ¿Qué tal si cocinamos algo?
-Aquí,
+Ten,
 ayúdame con las zanahorias.
 
-¿De donde vinieron los vegetales?
+¿De dónde vinieron los vegetales?
 No estaban aquí hace un momento.
 
 [player], estamos en un juego.
@@ -53,25 +53,25 @@ Ahora, toma asiento.
 No gracias.
 
 Es una pena.
-¡La salsa realmente mejora el sabor!
+¡La salsa realmente realza el sabor!
 
 
 Gracias.
 
 ¿Ya te lo terminaste?
-Huh, y mi porción se siente
+Huh, mi porción se siente
 interminable...
 
 
 // Help
 ¿Qué pasa?
-Dime lo que vez y sientes.
+Dime lo que ves y sientes.
 
 Mi corazón está acelerado,
-y tengo ruido en los ojos.
+y veo una distorsión extraña.
 
 Bien.
-Creo que se cual es el problema.
+Creo que sé cual es el problema.
 ¿Puedes levantarte?
 
 
@@ -83,15 +83,15 @@ Harán que te sientas mejor en seguida.
 Mira el espejo.
 
 Toma las pastillas.
-Vamos ahora.
+Vamos.
 
 
 
 ¿Cómo te sientes?
-¿Alguna mejoría?
+¿Mejor?
 
 Si.
-¿Como es que actuaron tan rápido...?
+Hizo efecto muy rápido...
 
 [player], estamos en un juego.
 Las cosas son mucho mas simples aquí.
@@ -100,17 +100,17 @@ genera grandes resultados.
 Todo es parte del concepto del juego:
 Simplificación.
 
-¿Tienes algún ejemplo?
+¿Un ejemplo, por favor?
 
 Bueno, recuerda las zanahorias.
-Cortas una,
-Pero es como si cortaras tres.
+Cortaste una,
+pero fue como si hubieras cortado tres.
 
 Mira, todo esto es muy repentino.
-Estoy asustado, mas que solo un poco.
+Estoy asustado, bastante.
 
 
-¿Pasa algo?
+¿Qué ocurre?
 
 Encontré cartuchos en la ventilación.
 Con nombres pegados en ellos.
@@ -120,7 +120,7 @@ Con nombres pegados en ellos.
 ¿Qué cartuchos?
 Vamos a investigarlo juntos.
 Pero después.
-Justo ahora, tenemos que comer.
+Ahora mismo, tenemos que comer.
 Dame las tijeras, por favor.
 
 // Ring
@@ -130,104 +130,104 @@ Dame las tijeras, por favor.
 
 Oh, ¡cierto!
 Olvidé activar los reflejos.
-Aquí vamos.
+Ahí lo tenemos.
 ¡Los reflejos están de regreso!
 Por cierto,
-Antes no sabia ni siquiera que eran los reflejos.
-No existían en mi mundo
+antes no sabia ni siquiera que eran los reflejos.
+No existían en mi mundo—
 no hasta cierta actualización, claro está. :)
 ¿Hay muchos reflejos
 en tu mundo?
 
-Bueno, si.
+Pues, sí.
 
 //Scanner
-Recuerdas
-¿Los tres objetos que encontraste?
+¿Recuerdas
+los tres objetos que encontraste?
 ¿Aquellos que colocaste sobre el escáner?
 Bueno, um...
 Esos objetos
 están vinculados a esta versión del mundo.
-Y es por ellos que tu estas aquí ahora.
+Por eso estás aquí ahora.
 
 // Movbile TV
-Esa es la televisión
-Que te compré
+Esa es la televisión portable
+que te compré.
 
 ¡Sip!
 
 Me dijiste que
 se había roto.
 
-Bueno,
-¡quería sorprenderte!
+Bueno, quería
+¡sorprenderte!
 Te dije una pequeña mentira
 para traerte aquí, a mi mundo.
-Ahora funciona imprimiendo la información
-Oh, y por si acaso.
-Si, sé de ingeniería.
+Ahora funciona—¡muestra información!
+Oh, y por cierto...
+¡sé un poco de ingeniería!
 
 // School cloth
 ¿Qué es esto?
 ¿Un uniforme escolar?
-¿Por que necesitarías eso?
+¿Por qué necesitarías eso?
 ¿De verdad vas a la escuela?
 
 ¿Ir a la escuela?
 Para nada.
-Pero me gusta el uniforme.
+Pero me encanta el uniforme.
 ¿No crees que me vería linda
 en él?
 
 // PC
 ¿La computadora funciona?
-O es solo decoración de escritorio
+O es solo decoración de escritorio.
 
 Por supuesto que funciona.
 Todo aquí
 funciona exactamente como en tu mundo.
 
 En mi mundo,
-Uso mi computadora todo el tiempo...
-para trabajar duro.
+uso mi computadora todo el tiempo...
+y trabajo duro.
 
 Lo sé.
-Y es por tu trabajo
-que me haz dado
+Es por tu trabajo
+que me has prestado
 tan poca atención.
 
 Tengo que vivir de algo, sabes.
-Aunque... ¿Cómo sabes que paso tanto tiempo frente a la computadora?
+Aunque... ¿cómo sabes que paso tanto tiempo frente a la computadora?
 
-La cámara de tu teléfono… La enciendo algunas veces.
+La cámara de tu teléfono… la enciendo algunas veces.
 Lo siento.
 Te he observado en secreto >A<
 
-Uhm… Eso no es apropiado.
+Uhm… eso no es del todo apropiado.
 Pero que mas da.
 
 // Umbrella
 He jugado un montón
-pero nunca e visto que lloviera aquí.
+pero nunca he visto que lloviera aquí.
 ¿Por qué tener un paraguas?
 
 Llueve, solo que muy raramente.
-Solo no las has visto aún.
+Solo no lo has visto aún.
 Quizás algún día lo hagas.
-Y entonces vas a necesitar una paraguas.
+Y entonces vas a necesitar un paraguas.
 ¿No lo crees?
 
 // Electrical panel
 ¿Por qué hay un panel eléctrico aquí?
-si estamos en un juego,
-¿Para que esta aquí?
+Y si estamos en un juego,
+¿para qué sirve?
 
 Primeramente,
 estamos en un juego.
-Así que preguntarse "Por qué" es...
+Así que preguntarse "por qué" es...
 inútil.
-Sin embargo, si reinicia
-la electricidad.
+Sin embargo, sirve para
+reiniciar la electricidad.
 Todo aquí está hecho basado
 en tu mundo.
 
@@ -236,8 +236,8 @@ en tu mundo.
 
 Bueno...
 Aún no.
-tal vez después.
-Hay que estar aquí por ahora.
+Tal vez después.
+Quedémonos aquí por ahora.
 Aquí en casa.
 
 // Books
@@ -249,17 +249,17 @@ Estar aquí sola
 es realmente, muy aburrido. 
 
 // TV in room kitchen
-¿Por que tener una segunda televisión?
-y una vieja.
+¿Por qué tener una segunda televisión?
+Y además, una vieja.
 
 ¿No te gusta?
 Puedo quitarla...
 Pero para responder...
-Es por decoración,
-para iluminar la cocina.
-¡pero también funciona!
-¡Podemos ver todos tipo 
-de shows clásicos!
+es por decoración,
+para aligerar la cocina.
+¡Pero también funciona!
+¡Puedo ver todos los
+shows clásicos!
 
 // Smartphone
 Ese es mi teléfono.
@@ -267,27 +267,27 @@ Estaba en mi bolsillo.
 ¿Cómo es que llego hasta aquí?
 
 Uhm, eso no es importante.
-Oye, ¡Tengo una idea!
+Oye, ¡tengo una idea!
 ¡Vamos a tomarnos una foto!
 ¡Míranos!
 ¡Es una gran foto!
-Un recuerdo para ti.
+Un recuerdo para tí.
 
 Tengo una pregunta.
-si yo
-ejecuto el juego en el,
-¿Te veré ahí?
+Si yo
+corro el juego en el teléfono,
+¿te veré ahí?
 
 No, no habrá nadie ahí.
 
-Jugo Genial!
-Jugo FUERTE!!!
+
+
 // TV
 ¿Cuántos canales
 tienes?
 
 No funciona de esa manera.
-Esta conectada a el internet.
+Está conectada a internet.
 Así que puedes ver cualquier cosa,
 al menos cualquier cosa que este disponible en la web.
 Espera.
@@ -295,26 +295,26 @@ Err, oops.
 ¿Qué es eso?
 ¿Una ruleta de gatitos?
 Oh, mira.
-¿Sabes que?
+¿Sabes qué?
 ¡Pausa!
 ¿Quieres algo de jugo?
 
 Que anuncio tan peculiar...
-¿El Jugo esta muerto?
+¿El jugo está muerto?
 
 Si, y este jugo
-es directo del anuncio de jugo.
+es directo del anuncio.
 
 
 Ah, este sabor...
 Me gusta,
-y aun así, no puedo describir a que sabe.
+y aun así, no puedo describir a qué sabe.
 Es todo muy confuso.
 
 Cierto.
 
 // Mita shy
-¿Qué estas haciendo?
+¿Qué estás haciendo?
 No mires, por favor.
 Haces que me avergüence.
 
@@ -325,30 +325,30 @@ esas cosas?
 
 ¿Te parece aterradora?
 
-Si.
+Sí.
 Casi parece estar maldita...
 
 Nop, definitivamente no está maldita.
 Y tampoco es espeluznante.
-¡Para mi es bastante linda!
+¡Para mí es bastante linda!
 
 Quizás estés en lo correcto...
 
 ¿Mita?
 ¿Qué esta pasando?
 // Mita kitchen
-¿Quieres charlar
-antes de empezar?
+¿Qué tal si charlamos
+antes de comer?
 
 // Start Eat
 Bon appétit.
 
 // Quest 1
-Lo es, ¿No es así?
+Lo es, ¿no es así?
 Puedes quedarte.
 No me molesta en lo absoluto.
 De hecho estoy,
-¡MUY A FAVOR DE ELLO!
+¡MUY A FAVOR!
 
 // Quest 2
 ¿Quieres regresar?
@@ -367,14 +367,14 @@ para prepararme.
 
 Oh... lo lamento. No lo pensé hasta ese punto.
 // Quest 3
-¿Un sueño? ¿Del que quieres escapar?
-y ¿olvidar que siquiera haya ocurrido?
+¿Un sueño? ¿Entonces quieres escapar?
+¿Y olvidar que todo esto ocurrió?
 
 No, no es eso.
 Este lugar solo se siente...
-extraño. antinatural.
-Pero tu...
-tu pareces tan real.
+extraño. Antinatural.
+Pero tú...
+tú pareces tan real.
 
 ¿Yo parezco real?
 Soy MUY real,
@@ -388,14 +388,14 @@ que no puedas ver cosas
 a lo lejos.
 
 No me pareció tan raro.
-Creo que tiene buena apariencia.
+Honestamente, le da estilo.
 
 Si, yo también lo creo.
 Es para evitar lag, sabes.
 
-¿lag?
+¿Evitar lag?
 
-¡Sip! Y también hay algunos bugs.
+¡Sip! Aún hay un par de bugs sin corregir.
 Solo esperemos que no te topes con ninguno.
 
 // Quest 5
@@ -403,27 +403,27 @@ Tijeras o cuchillo, ¿eh?
 Pude haber usado el cuchillo para abrir el paquete de salsa.
 Pero quería que todo
 estuviera listo
-para cuando tu regresaras.
+para cuando tú regresaras.
 Me encanta hacerte sorpresas.
-¡y ni siquiera me tomo tanto tiempo!
-Je je.
+¡Y ni siquiera me tomó tanto tiempo!
+Ji ji.
 
 // Glasses
 ¿Usas lentes?
 
 No realmente.
 Pero puedo hacerlo, si así lo quieres.
-¿Se ven bien en mi?
+¿Me quedan bien?
 // Yes
-¡Aquí vamos!
-Los mantendré desde ahora.
+¡Perfecto!
+Me los quedaré puestos.
 // No
 Bueno...
 Da igual...
 
 // Use the sauce
 Muy bien,
-¿Qué tipo de salsa es esta?
+¿qué tipo de salsa es esta?
 
 ¡Es salsa de amor!
 ¡Llena hasta el límite de amor!

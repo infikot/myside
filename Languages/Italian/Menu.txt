@@ -56,7 +56,7 @@ Il tuo tempo:
 Sottotitoli
 Luminosità
 Sincronizzazione verticale
-Salvati
+Salvato
 Personaggi
 Personaggi - Mita
 Personaggi - Cartucce
@@ -107,16 +107,16 @@ Il Loop
 Mini Mita
 Manichini e puzzle dimenticati
 Vuole solo dormire
-Light novel
-Leggere libri, distruggere glitch
+Light Novel
+Leggere libri, distruggere i problemi
 Corri e nasconditi!
 Vecchia versione
-Il mondo reale?
-Riavviare
-
-
-
-
+Sii candido
+Riavvio
+Cappie
+Mita Fantasma
+Il mondo reale
+Lascia il nucleo!
 Giocatore 1
 Giocatore 2
 Giocatore 3
@@ -143,3 +143,23 @@ Partner editoriale
 Marketing del gioco
 Tester
 Gioca e trova ogni sorta di bug.
+Questa traduzione è stata realizzata da appassionati della comunità dei fan e aggiunta al gioco su loro richiesta.
+Attenzione! Questo gioco include jump scares, suoni improvvisi e acuti e occasionali sfarfallii dello schermo. Si consiglia ai giocatori affetti da epilessia fotosensibile, disturbi cardiaci o problemi di salute simili di non giocare.
+Modalità pacifica ora disponibile!
+
+Modalità foto
+Modalità foto: Eliminazione delle restrizioni di volo della fotocamera. È possibile esplorare aree normalmente inaccessibili.
+Esci dalla modalità Foto
+Nascondi interfaccia
+Tenere premuto per muovere la fotocamera
+Movimento rapido
+Movimento fluido
+Velocità
+Effetti
+Controllo del tempo di gioco
+Luminosità
+Contrasto
+Vignetta
+Screenshot effettuato!
+Accedere alla cartella degli screenshot
+Angolo della fotocamera

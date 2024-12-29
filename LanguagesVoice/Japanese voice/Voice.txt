@@ -1,10 +1,14 @@
-Localization support ＆Voice recording
+Localization Support & Voice Recording
 SHOCHIKU CO., LTD. Game Business Department
 
+Translating the game's text into Japanese
+TAMAKI
+StoryBerry.LLC
 
-Coordination
+Translation Support Team ( Demo version )
+hinamega, HouraijiN
+
+Coordination for Voice Recording & Localization
 Game Bridge Ltd.
 
-
-
-Mita's voice: <b>花岩  香奈 - Kana Hanaiwa</b>
+All Mita's Voice: <b>花岩  香奈 - Kana Hanaiwa</b>

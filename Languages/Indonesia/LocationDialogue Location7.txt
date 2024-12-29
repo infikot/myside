@@ -1,0 +1,837 @@
+
+Kamu berhasil!
+
+Tempat apa ini?
+
+Tunjukkan padaku cincinnya.
+Yap...
+Nah ini dia!
+Saatnya membereskan beberapa hal, bukankah begitu?
+// Jika pemain tidak mendekati Mita yang baik hati dan memutuskan untuk bermain balapan - Mita Kind
+Aku di sini menunggumu selama ini
+dan kamu malah bermain game balap?!
+Pokoknya, kemarilah...
+// Jika pemain berbicara dengan Mita terlebih dahulu, dan menyelesaikan permainan sampai akhir - Mita Kind
+Selamat, kamu menang!
+Aku sudah memainkannya juga!
+Aku bahkan mencoba mengumpulkan setiap koin dan mendapatkan posisi pertama
+untuk mendapatkan prestasi!
+Dan wah, itu sungguh sulit!
+Butuh waktu lama bagi aku untuk terbiasa dengan kontrolnya.
+
+// Quest 1 (Haruskah aku mempercayaimu?)
+Yah, setidaknya aku waras...
+tidak seperti beberapa orang lain...
+Selain itu,
+Aku orang paling baik yang bisa kamu temukan di sini, sayangku.
+Kamu tidak ingin menyerah begitu saja, iyakan?
+Dia seorang pembunuh berdarah dingin. Kita harus menghentikannya.
+
+// Quest 2 (Bagaimana aku bisa sampai di sini?)
+Cincin itu, membawamu ke sini.
+Ini adalah penemuan yang hebat.
+Hanya pemain yang memilikinya
+dapat menemukan jalan ke versi yang benar.
+
+// Quest 3 (Tempat apa ini?)
+jalan-jalan ini
+menghubungkan versi yang berbeda.
+Ya, agak kosong di sini.
+Dan yikes! aku pernah mendengar tentang Mita yang satu ini
+mereka yang tidak bisa mengarsipkan versinya...
+Rumahnya
+tidak ada lagi...
+Dan dia seharusnya berkeliaran
+lorong-lorong ini.
+Kasihan...
+
+// Quest 4 (Bagaimana kamu bisa sampai di sini?)
+Kamu tahu,
+sudah lama sejak terakhir kali kita bertemu.
+Dan terima kasih padamu,
+Aku keluar dari sangkar terkutuk itu,
+dan melarikan diri dari cegil itu.
+Dan informasi untukmu,
+Aku dapat dengan mudah beralih di antara versi yang berbeda,
+tidak seperti kamu, sayangku.
+
+// Quest 5 (Apa yang kamu lakukan dengan cincin itu?)
+Aku mengubah rute
+ke rute yang kita butuhkan.
+Aku mengatur yang sesingkat mungkin,
+mengisinya dengan semua yang kita butuhkan...
+Cara kerjanya seperti ini: kamu membuka pintu,
+dan cincin itu membuka batasnya
+antar versi.
+
+// Quest 6 (Apakah jalurnya berbahaya?)
+Aku telah melihat segala macam hal aneh
+sejak aku tiba
+ke dalam permainannya...
+Semuanya tampak sepi di sini,
+tapi bagiannya terasa...
+apa pun kecuali rasa aman.
+
+Kamu benar, dan tempat ini semakin berkembang
+semakin tidak terduga dari hari ke hari.
+Tapi bergembiralah!
+Kami telah memikirkan segalanya,
+dan kita akan mengambil yang terpendek
+dan jalan yang paling sering dilalui!
+
+Aku tentu berharap semuanya berjalan baik.
+Namun apa yang terdapat dalam bagian-bagian ini?
+
+Seperti,
+kesalahan, bug, anomali.
+Yang hidup.
+Bahkan yang berbahaya yang mungkin menyerang kamu saat melihatnya...
+
+Emm...
+Dan mungkin para Mita lain yang bermusuhan.
+Lebih gila lagi, yang tidak pantas?
+
+Aku tahu setidaknya satu...
+Mita yang jelek.
+Dan asal tahu saja, bukan aku yang menamainya!
+Hanya saja...
+dia adalah versi awal Mita.
+Masalah utama dengannya
+adalah dia menyebabkan kesalahan terburuk...
+Dan aku khawatir kita akan bertemu dengannya.
+Lagipula, dia paling dekat dengan versi nol...
+
+// Quest 7 (Maukah kamu membantuku keluar?)
+Aku tidak punya rencana sungguhan...
+Tapi bagaimanapun juga,
+kamu berhasil sampai di sini, bukan?
+Selain itu,
+apa lagi yang bisa kamu lakukan
+selain mengandalkanku, Mita yang baik hati!
+Bukankah itu faktanya...
+
+// Quest 8 (Kamu sedang membicarakan suatu rencana...)
+Benar, kita perlu mencapai Inti.
+Intuisiku memberitahuku di situlah kita akan menemukannya
+solusi untuk semua permasalahan kita.
+
+Tapi kenapa tidak pergi ke sana sendiri? Mengapa kamu membutuhkan pemain?
+
+Untuk beberapa alasan, kami para Mita tidak bisa
+memasuki Ruang Inti.
+Aku hanya melihatnya dari luar.
+Tapi kalian para pemain berbeda.
+Aku yakin itu kamu
+bisa menuju ke dalam.
+Ingin mendiskusikan rencananya?
+Oke.
+Bagus.
+Baiklah...
+Sudah saatnya aku memperkenalkan Anda
+ke Mita yang keren!
+Melihat dia punya topi yang keren,
+Aku memanggilnya
+Cappie.
+Aku sudah membicarakan rencana itu dengannya,
+rencana untuk menghentikan Mita Cegil.
+Lewat sini, [player]!
+
+
+Salam!
+Kamu adalah... pemain baruku?
+Aku memanggilmu apa?
+Namaku...
+
+Tunggu sebentar!
+Cappie... Kamu...
+...tidak ingat aku?
+
+Hah?
+Siapa kamu?
+
+Sialan!
+[player]...
+Kupikir DIA ada di sini,
+si Mita Cegil...
+Dengarkan!
+Coba ingat-ingat, demi kita semua!
+
+Ingat apa?
+Coba kupikirkan. Mengapa kita mirip?
+
+Uhm, sepertinya ini tidak membantu...
+Dengar, [player],
+semuanya tidak persis seperti itu
+berjalan sesuai rencana...!
+Kita seharusnya menggunakan portal
+untuk membuat perjalanan kita jutaan kali lebih mudah dan lebih cepat.
+Tapi kita tidak bisa menyelesaikannya tanpa bantuan Cappie.
+Dan kita kehilangan beberapa bagian...
+Dia mungkin cerewet, tapi pikirannya bekerja dengan cepat...
+Baiklah, jadi apa yang kita harus lakukan?
+Aku akan memikirkan sesuatu.
+Apa yang dilakukan Mita Cegil padanya?
+
+emm... menurutku...
+dia membunuhnya.
+Membunuhnya?!
+
+Dan setelah mati...
+Mita yang Keren hanya akan memulai ulang.
+Dan reset ke pengaturan pabrik
+dan melupakan segala sesuatu yang penting.
+Yang artinya...
+rencana kita tidak akan berhasil.
+
+Nah, sekarang itu mengerikan...
+Lebih baik daripada menghilang selamanya, kurasa...
+Tapi siapa yang bisa memastikannya?
+Dan bagaimana dengan nasib kami para pemain?
+Akankah membunuh kita akan mengatur ulang ingatan kita juga?
+
+Ingatan kamu pasti bisa diatur ulang.
+Setidaknya setelah kamu diubah menjadi kartrid.
+Tapi aku pun tidak tahu
+apa yang terjadi pada kalian yang terbunuh.
+
+Selalu kartrid... Jadi, bagaimana aku tahu
+jika aku katrid atau bukan?
+
+Kemarilah, aku akan
+memeriksamu...
+// Cek MitaKind
+Fiuh,
+kamu belum menjadi seorang katrid.
+Kamu adalah pemain yang masih hidup dan bernapas.
+
+Itu kabar bagus...
+
+Tentu, tapi apa yang harus kita lakukan sekarang...
+Biarkan aku berpikir...
+Kita harus mengubah seluruh rencana kita.
+Hmm...
+Tunggu sebentar...
+Oh, sepertinya aku punya ide!
+Beri aku cincinnya!
+
+Oke.
+Aku perlu mengubah rute.
+
+Sudah memikirkan rutenya?
+
+Dengar, sayang,
+Kamu harus melewati versi lain
+untuk mencapai Inti.
+Semangat penuh, kamu dengar aku?
+
+Dan aku harus pergi sendiri?
+Tapi aku tidak tahu jalannya, atau bahkan bagaimana aku bisa sampai ke sana?
+
+Aku akan membantumu semampuku,
+selama situasinya memungkinkan.
+Aku akan memberimu petunjuk dan,
+Aku akan melakukan yang terbaik.
+Lalu kita akan bicara...
+Pertama, bermainlah dengan Cappie sebentar.
+Aku mungkin butuh 10 menit...
+
+// MitaKind siap, jika pemain dekat
+OKE.
+Semuanya selesai!
+// MitaKind siap
+[player],
+Kemarilah.
+// Dering MitaKind
+Ambil ini.
+Sayangnya itu benar, [player].
+Kamu harus pergi sendiri untuk saat ini,
+Aku perlu memahami apa yang terjadi di sini.
+Rencanaku sempurna...
+Tapi keadaan kita lebih buruk dari sebelumnya.
+Aku harus mencari tahu apa yang salah,
+dan di mana bagian-bagiannya...
+Aku akan mencoba menemukannya.
+Mungkin kita masih bisa memperbaiki portalnya.
+Tapi waktu adalah hal yang paling penting.
+Mita Cegil tahu tentang tempat ini,
+dan tinggal di sini berarti mempertaruhkan segalanya.
+Semoga beruntung, [player]! Sampai berjumpa lagi!
+
+Baik...
+Aku hanya berharap aku akan hidup cukup lama untuk bertemu denganmu lagi...
+
+
+
+
+
+
+
+
+
+
+// Pemain Chibi
+Mengapa?
+Siapa saya?
+Aku ingin pulang!
+Bagaimana?
+Mengapa?
+
+Apa...?
+
+// Orang Pincang
+Kamu adalah...
+orang sungguhan?
+
+Hai!
+Kamu baru di sini?
+Baru?
+Kamu dari dunia nyata, bukan?
+
+Saya...
+Uhm, kamu baik-baik saja?
+
+hanya luka ringan, jangan khawatir.
+Aku sudah di sini sekitar satu tahun,
+dan aku baik-baik saja.
+Baiklah... Nah, tempat apa ini?
+Ini semacam ruang antar versi.
+Apakah kamu tahu caranya keluar dari sini?
+
+Tidak bisa mengatakan bahwa aku mengerti caranya.
+Selain itu, aku tidak ingin pergi.
+Aku tidak perlu melakukannya.
+Eh, kenapa tidak?
+Cukup ngobrol. aku sedang terburu-buru.
+Mita kesayanganku sedang menungguku.
+aku harus menemukannya...
+Selamat tinggal.
+Tunggu...!
+Enyahlah!
+
+
+Aku mendengar semuanya!
+Aku tidak tahu apa yang terjadi,
+tapi semuanya sangat menarik!
+Aku percaya
+kamu sudah tahu siapa aku, iyakan?
+Aku Mita!
+Tapi yang jelas tidak sama dengan yang itu!
+Kamu tahu apa yang aku maksud, bukan?
+Karena aku punya ini
+DI SINI
+TOPI keren!
+Dan BOOOM!
+Sarung tangan luar biasa!
+Tapi bukan itu saja!
+Gitar elektrik yang lucu juga!
+Aku sangat menyukainyaaaaaaaaa!
+Ingin aku memainkan sebuah lagu?
+
+// Gitar MitaCap Ya
+Hah!
+Kemarilah, cintaku...
+Woke!
+Yah, sejujurnya aku berharap kamu akan bermain lebih baik dari itu.
+Oh baiklah!
+// Gitar MitaCap No
+Eh, baiklah.
+
+
+Hei,
+kamu merupakan orang yang energik!
+
+SAYA!
+Aku tentu saja!
+Siapapun...
+Ayo pergi
+bersenang-senanglah!
+
+// PERMAINAN PULAU
+
+Tombol besar yang bagus.
+Aku sangat ingin menekannya.
+Bisakah aku?
+
+Tahan dirimu, kita akan membahasnya nanti.
+Jika ada cukup waktu, itu saja.
+Sekarang, silakan duduk!
+// Pemain duduk
+Baiklah.
+Jadi bagaimana sekarang?
+Bisakah aku menekan tombolnya?
+
+Ha ha!
+Aku suka permainan ini!
+Tapi kita kekurangan sesuatu.
+Itu ada di suatu tempat di inventarisku!
+Tunggu sebentar...
+Ehhh!
+Emm...
+Kamu tahu...
+Bahwa ini adalah permainan dewasa, bukan?
+
+Apa itu tadi?
+
+Lambat sekali dalam penyerapannya ya?
+Itu untuk memancing berang-berang keluar dari persembunyiannya...
+
+Seriusan?
+Aku belum melihat berang-berang di sekitar sini...
+
+Hah? Berang-berang?
+Bah, sudah cukup,
+ayo bermain, oke?!
+
+Meh.
+
+Ayo!
+Kamu bahkan tahu permainan apa yang kami mainkan?
+
+
+// Cara bermain permainan palu
+Lihat angkanya?
+Itu penghitung waktunya!
+Ketika waktu habis,
+benda itu akan memberitahumu
+kapan harus menekan tombol.
+Jika kamu terlalu lambat,
+atau salah tekan,
+Aku akan memukul kepalamu dengan palu!
+
+Tunggu, kamu akan memukulku?
+
+Bagaimanapun,
+Kamu akan lebih mengerti setelah kita mulai bermain!
+
+// Tendangan pemain 1
+Aduh!
+Tidak bisakah kamu menahan diri?
+Apakah itu sakit?
+O-ohh nggak kok.
+Kalau begitu ayo lanjutkan!
+
+// Tendangan pemain 2
+Oke,
+Aku mulai terbiasa dengan ini.
+Lihat aku!
+Kamu akan menyukainya!
+
+// Tendangan pemain 3
+Menurutku ini bukan untukku.
+Ha ha!
+Aku luar biasa!
+Aku hebat!
+Dan aku imut!
+
+// Tendangan MitaCap 1
+Oh kamu!
+Oke,
+Aku akan menendang pantatmu!
+
+// Tendangan MitaCap 2
+Gah, kalah lagi!
+Tidakkah itu menyakitkan?
+Tentu saja tidak! Itu boneka mainan!
+Kamu menang.
+
+// Tendangan MitaCap 3
+Game ini tidak terlalu buruk, heh.
+Menyenangkan, bukan?
+Aku juga menyukainya!
+Dan sekarang kamu adalah musuhku!
+
+// GameHammer Berakhir
+Itu saja?
+Ya, itu saja!
+Ayo pergi.
+
+// Nama trek
+Cracker
+Bubble
+Balloon
+
+
+// PERMAINAN TARI
+Apakah itu lantai dansa?
+Ini sangat kecil...
+
+
+Whoo-hoo!
+Bagaimana kalau kita berdansa?
+Sebagai permulaan,
+pilih trek!
+
+Ayo pilih yang ini.
+
+Okeydokey!
+Biarkan aku pergi dulu!
+Aku akan menunjukkan cara melakukannya!
+
+// MitaCap StopDance 1
+Fiuh!
+Jadi,
+kamu pikir dirimu bisa memecahkan rekorku?
+Ayo, giliranmu!
+
+// MitaCap StopDance 2
+Ah!
+Bagaimana?
+Giliranmu!
+
+// MitaCap StopDance 3
+Ck, ck, ck, ck!
+Oke,
+mainkan lantai dansanya!
+
+// MitaCap = Kalah 1
+Ha ha!
+Siapa bosnya? senggol dong!
+
+// MitaCap = Kalah 2
+Pew!
+Tiga tombol,
+dan tanganku yang lincah!
+
+// MitaCap = Kalah 3
+Mungkin duduk di pantatmu
+di atas tombol-tombol itu
+akan memberimu skor lebih tinggi. Ha ha!
+
+// MitaCap = Menang 1
+Luar biasa!
+Sejujurnya, aku tidak berpikir
+kamu bisa melakukannya!
+
+// MitaCap = Menang 2
+Wow!
+Itu adalah beberapa gerakan yang bagus!
+Kerja bagus! Sip!
+
+// MitaCap = Menang 3
+Bam!
+Kamu bisa merasakan ritmenya!
+Penari alami!
+
+// MitaCap = Gambar 1
+Kamu!
+Aku!
+Kita timnya!
+
+// MitaCap = Gambar 2
+Benang takdir menghubungkan kita!
+Duet yang sempurna!
+
+// MitaCap = Gambar 3
+Hanya
+satu kesalahan!
+Dan kamu akan kalah...
+
+// MitaCap Selanjutnya? 1
+Jadi,
+bagaimana kalau ronde berikutnya?
+
+// MitaCap Selanjutnya? 2
+Bagus, yang terakhir.
+Bagaimana kalau berdansa?
+
+// Permainan Akhir MitaCap
+Ayo ayo!
+Kita sudah cukup menari!
+
+// Bicara saja
+// Foto
+Ini adalah beberapa foto yang cukup mengagumkan.
+Kamu pasti suka tertawa, ya?
+
+Ya, aku adalah AKU!
+Tunjukkan pada mereka bagaimana hal itu dilakukan di lubang sialan ini! Boom!
+
+Um... menunjukkan siapa, tepatnya?
+
+Sungguh, kamu menanyakan itu padaku?
+Siapa yang peduli! aku yakin mereka semua buta!
+
+// Papan Potong
+Wah,
+Ada, um... banyak sekali.
+Untuk apa?
+
+Bagaimana menurutmu?
+Ini tentang melakukan hal-hal luar biasa!
+Seperti...
+Memotong wortel,
+dan juga
+memotong wortel,
+dan juga...
+
+Baik, aku mengerti.
+
+Oke, agar adil,
+talenan berbunyi ka-cha-cha! Apa pun artinya...
+Dan hanya itu yang dia tulis!
+
+// Buku
+Membaca ulang semuanya, ya?
+Karena kamu bosan?
+
+Ugh, aku tidak suka buku!
+Aku suka melakukan sesuatu!
+
+Itu salah satu cara untuk melihat sesuatu.
+Tapi tanpa teori...
+
+Boom - gerakan, keterampilan motorik, sentuhan, kamu ngerti?
+Buku hanyalah kertas, aku suka berada di saat ini!
+Kalau saja kamu mau tinggal di sini bersamaku,
+kita bisa melakukannya, lebih banyak lagi!
+Aku yakin kita bisa...
+
+// Buah-buahan
+Apakah buahnya asli?
+Mereka tampak luar biasa.
+Apakah mereka pernah menjadi busuk?
+
+Apelnya, maksudmu?
+Mereka tidak punya waktu untuk menjadi busuk,
+karena aku memakan semuanya!
+Dan kemudian mereka muncul kembali...
+
+// Foto dan kucing
+Kucing kucing yang lucu.
+
+Apakah dia enak?
+
+Tunggu, apa?
+Kamu tidak makan kucing.
+
+Hah, bodoh!
+Aku tahu itu!
+maksudku
+bahwa aku belum pernah melihatnya!
+Benar sekali.
+Hanya foto di Internet.
+Mereka lucu, iyakan?
+
+Ya, mereka sangat lucu.
+Aku suka kucing.
+
+// Mita Baik hati dengan cincin
+Apa itu?
+
+Itu antarmuka cincinnya,
+dan aku mengubah rutenya.
+
+Uhm, tapi kamu hanya berputar-putar saja?
+
+Ya, kamu mungkin berpikir begitu.
+Bagi saya, aku sedang mentransfer data.
+
+Apakah akan memakan waktu lama?
+
+Diam! Jangan ganggu aku,
+dan itu akan jadi lebih cepat.
+
+Benar,
+jadi jika aku terus mengganggumu,
+itu akan memakan waktu lebih lama?
+
+Oh, Cappie,
+Kuharap kami bisa memulihkan ingatanmu...
+
+Semuanya akan baik-baik saja segera...
+
+Luar biasa!
+
+Kita tidak punya waktu untuk disia-siakan.
+Kita harus mencapai Inti.
+
+Bolehkah aku ikut denganmu?
+
+Yah, aku tidak tahu...
+
+Jadi, aku tidak bisa?
+
+Takutnya tidak.
+
+// PemainChibi
+Aku terlambat... sangat terlambat!
+Dan aku sudah makan terlalu banyak...
+Gah, kerja lagi?
+Tanggal berapa besok?
+Dimana komputernya?
+Mereka akan memecatku jika aku tidak menyelesaikannya tepat waktu!
+Apakah aku sudah menyimpan semuanya?
+Tidak adakah yang mencintaiku?
+Kemana kita akan pergi?
+Hei!
+aku kehabisan kesabaran...
+aku harus bekerja lebih keras...
+Aku tidak bisa menyelesaikan apa pun!
+Dimana ponselku?
+Uhm...
+apa yang terjadi kemarin?
+Hari ini tidak ada habisnya!
+Hiya?
+Punya kasur bebas?
+Apa yang harus aku lakukan?
+Aku tidak akan bisa menyelesaikannya tepat waktu...
+Aku tidak tahu apa masalahnya...
+Ada dinding?
+Istirahat 20 menit seharusnya baik-baik saja...
+Tidur hanya untuk orang yang lemah!
+Saatnya mandi dan mulai bekerja!
+Aku lapar!
+Ini buruk, sangat buruk.
+
+// Pemain hilang 1
+eh...
+
+Ahahaha.
+
+Ya...
+Dia mengerti,
+dan langsung pergi.
+
+Aneh sekali!
+Dan lucu :D
+
+Ayolah.
+[player], apa yang kamu lakukan?
+
+// Pemain hilang 2
+Ada apa?
+
+Kamu berangkat lagi?
+
+Baiklah!
+Baiklah, aku akan memaafkanmu.
+
+[player], kembalilah kepada kami!
+
+// Jangan perhatikan
+Dia bahkan tidak menatapku!
+Membosankan...
+
+// misi Cap 1
+Apa rencanamu?
+
+Rencanaku?
+Rencana apa?
+
+Oh, iya.
+Kamu telah kehilangan ingatanmu.
+
+Kalian benar-benar sesuatu, teman-teman!
+Aku benar-benar harus mengingat sesuatu!
+Apakah kamu mengolokku?
+Tapi melihat ekspresimu itu...
+Aku tidak bisa bedakan!
+
+// pencarian Cap 2
+Bagaimana melihat an
+replika persis dari perasaan Anda?
+Kamu tahu, yang punya cincin itu.
+
+Ya, aku akan berteriak padanya.
+Kamu tahu, untuk mengejutkannya.
+Astaga! Lihat, itu tiruanku!
+Padahal, aku jauh lebih menyenangkan.
+Jadi aku lebih keren, heh :)
+Lihat kerutan itu...
+
+aku di sini.
+Aku bisa mendengar semua yang kamu katakan.
+
+// pencarian Cap 3
+Apakah kamu tidak bosan memakai topi itu?
+Dan bukankah sarung tangan itu menjadi hangat?
+Mengapa tidak melepasnya?
+
+Berbuat salah...
+Kamu benar-benar pelawak!
+Atau, haruskah aku melepas yang lain? ;)
+
+Aku serius di sini.
+Oh baiklah.
+
+// Wortel
+Ups.
+banyak sekali wortelnya!
+Bug yang lucu!
+Ha-ha-ha!
+
+// Pintu Keluar
+Tunggu, tunggu!
+Sebaiknya kamu tidak melihat apa yang ada di sana...
+Biarkan itu menjadi rahasia :).
+
+Apa yang ada di sana?
+
+Rahasia itu rahasia,
+dan rahasia dimaksudkan untuk disimpan.
+
+Uh-huh.
+Mengapa kamu membuat dirimu sendiri menarik?
+
+// Tetris
+Wah!
+Apa itu?
+Sebuah konsol!?
+Biarkan aku mencobanya!
+
+Uh-oh.
+
+Apa yang kamu lakukan dalam hal ini?
+
+Kamu cukup mengumpulkan koin,
+dan hindari katak.
+
+Gah, kedengarannya sangat membosankan.
+Serius, kamu menyebut ini permainan?
+
+// Tetris lagi
+Dimana kamu mendapatkannya?
+Aku bahkan tidak mengembalikannya padamu.
+Aneh, bukan begitu?
+
+// TV
+Ugh!
+Bagus sekali,
+Kamu menemukan bug!
+Itu seharusnya memulai videonya
+tapi malah TV itu,
+menjadi ada dan tiada!
+Cukup keren, bukan begitu?
+
+// Pemain duduk
+Menurutku, aku akan menunggu saja.
+
+Sedang apa?
+Bangun-bangun!
+Ayo bersenang-senang!-
+
+// Selamat tinggal 1
+Keluar melalui pintu itu
+ke auditorium.
+
+Sampai jumpa!
+
+// Selamat tinggal 2
+Sudah waktunya kamu pergi, [player]!
+Ayo, jangan takut!
+
+Aku tidak akan pernah
+meninggalkanmu sendirian!
+Jadi tetaplah bersamaku!
+
+Cappie!
+Jangan bercanda, oke?
+
+Bah!
+
+// Selamat tinggal 3
+Untuk apa kamu berdiri di sana?
+Kita kehabisan waktu!
+
+Hai!
+Eh, maksudku sampai jumpa!

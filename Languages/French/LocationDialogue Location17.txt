@@ -1,5 +1,5 @@
 // Player
-Il semble que je ne puisse pas faire ça seul.
+On dirait que je ne peux pas faire ça seul.
 J'espère que la Mita d'ici ne mord pas...
 // Coffee - Player
 Pourquoi je perds mon temps à faire ça...
@@ -158,4 +158,4 @@ Ce café est dégoutant...
 
 // Button - Player
 Mita ? Est-ce que tu m'entends ? Le bouton ne fonctionne pas.
-Il y a quelqu'un ?
+Toujours là ?

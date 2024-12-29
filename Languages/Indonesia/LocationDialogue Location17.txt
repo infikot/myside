@@ -1,0 +1,161 @@
+// Pemain berpikir + Membuat kopi
+Aku butuh bantuan seseorang di sini.
+Kuharap Mita di sini tidak menggigit...
+
+Untuk apa aku membuang-buang waktuku...
+
+
+
+
+// Pemain mencoba membangunkan Mita Tukang Tidur
+Mita?
+Mita, bangun!
+Mita!
+
+Mita, bangun! Bangun!
+aku butuh bantuanmu.
+
+Siapa kamuuuuu?
+
+Bantu aku menarik saklarnya.
+
+Sakelar apa?
+Biarkan aku tidur...
+Atau berikan aku kopi.
+
+Pembuat kopinya ada di sana.
+Mita?
+Mi-ita!
+
+
+
+// Pemain membagikan kopinya
+Mita,
+ini kopimu.
+
+
+
+// Latihan MitaDreamer
+Saklar,
+katamu?
+
+Ya.
+
+Kenapa kamu tahu tentang hal itu?
+Tapi, ngapain aku bertanya...
+Mengingat kamu di sini,
+kamu seharusnya sudah tahu banyak...
+
+Tunggu sebentar,
+aku perlu duduk.
+
+Dan?
+
+aku tidak tahu harus berkata apa...
+Tapi aku harus terus berjalan,
+terus ikuti panduan cincin itu.
+
+kamu memiliki cincinnya?
+Tidak heran
+kamu menemukan tempat ini.
+
+Itu benar.
+Jadi, bisakah kamu membantuku?
+Dengan saklarnya?
+
+Tentu.
+aku akan.
+Dengan sakelar...
+
+
+Mita, ayolah..
+Ayo berangkat.
+
+Eh?
+Baiklah.
+Ayo pergi.
+
+
+// MitaDreamer terjatuh
+Bangun.
+Apakah kamu begitu mengantuk?
+
+// MitaDreamer lagi tidur
+Bangun.
+Kita sudah sampai.
+
+
+// Beralih
+Oke,
+aku siap.
+
+aku juga siap.
+
+Baiklah.
+Aku akan mulai
+hitungan mundur.
+Dan kita akan menarik saklarnya bersama-sama.
+Oke?
+
+Tetaplah terjaga, ya!
+Sekarang.
+
+
+3
+2
+1
+
+// Pemain kalah 1
+Apakah kamu melamun?
+Ayolah,
+mari mulai lagi...
+
+// Pemain kalah 2
+Coba sekali lagi?
+Ayo,
+Aku...
+Aku akan tertidur di sini...
+
+// Pemain kalah 3
+Aku hampir tertidur...
+
+
+
+Luar biasa,
+terima kasih, Mita.
+
+Mm-hmm.
+
+
+Pintunya...
+sangat...
+lambat...
+
+
+aku akan kembali tidur...
+
+// Kenapa dapur?
+Mengapa pergi ke dapur?
+Jika aku tertidur di lantai yang dingin,
+itu salahmu.
+
+// Kenapa kamar mandi?
+aku tidak mengerti...
+sakelar apa yang kamu perlukan bantuan aku di sini?
+
+// Tombol Masukan
+Tidak terjadi apa-apa?
+Lalu apa fungsi tombol ini di sini?
+
+// Kopi
+Kopi lagi?
+Atau kamu akan tertidur lagi.
+
+Apa?
+Tidaaaak...
+Kopi ini rasanya tidak enak...
+aku baik-baik saja...
+
+// Tombol
+Mita? Tombolnya tidak berfungsi... Bisakah kamu mendengarku?
+Halo?

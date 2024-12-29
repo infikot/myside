@@ -26,7 +26,7 @@ Pośpiesz się!
 // After mini-gamę
 Więc, rozumiesz już sens gry?
 
-Że jestem zrobiony ze skóry i kości aa ty z modelu szkieleta?
+Że jestem zrobiony ze skóry i kości a ty z modelu szkieleta?
 
 Whoa!
 To dość niepokojące, kiedy przedstawiasz to w ten sposób.
@@ -41,7 +41,7 @@ Te, których się pozbyto, te "zepsute".
 Są agresywne i mogą cię nawet zabić.
 
 Nie mam wyboru...
-Poprostu pójdę
+Po prostu pójdę
 gdziekolwiek poprowadzą mnie drzwi.
 
 Wow!
@@ -120,7 +120,7 @@ Powiedz mi co pamiętasz.
 
 Było mrocznie.
 Na ścianach były napisy
-naprzyklad...
+na przykład...
 "Pobaw się ze mną."
 
 Ah,
@@ -168,7 +168,7 @@ nigdy jej nie powtórzono.
 To jedyna unikalna wersja gry.
 Tego typu wersje są specjalne
 i posiadają drogi do innych wersji.
-spiąca Mita przesiaduje w jednej z tych wersji, 1.1.
+śpiąca Mita przesiaduje w jednej z tych wersji, 1.1.
 
 Śpiąca Mita?
 Bo inni przechodzący przez jej wersje
@@ -190,7 +190,7 @@ kto dotrze szybciej do wersji 1.11.
 A więc? Kto wygrał?
 
 Oczywiście że JA!
-Spójrz, jestemy tu
+Spójrz, jesteśmy tu
 w wersji 1.15,
 wersja domu 809.
 Musimy dotrzeć do wersji 1.11,
@@ -217,7 +217,7 @@ Na pewno spotkasz naszą śpiącą królewnę.
 Wydaje mi się że Mita która cię tam wysłała,
 Kroczyła tą samą ścieżką.
 A może po prostu nie ogarnęła że zmierzasz inną trasą.
-A może po porstu jest genialna
+A może po prostu jest genialna
 I znalazła jeszcze krótszą drogę!
 
 Chyba rozumiem.

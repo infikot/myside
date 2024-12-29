@@ -1,0 +1,16 @@
+﻿// Quest none
+Mindegy.
+// Quest "First Mita"
+Te vagy Mita?
+És ha vissza akarok menni?
+Hogy kerültem a játékba?
+// Quest "Kitchen eat"
+Otthonos a hely.
+Mikor mehetek haza?
+Mintha álmodnék...
+Miért csak fehér fényt látok az ablakokban?
+Miért ollóval bontottad ki a szószt? Ott a kés.
+Jó étvágyat!
+// TV
+Narancslé!
+ERŐSLÉ!!!

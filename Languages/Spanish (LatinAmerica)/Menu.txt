@@ -1,6 +1,6 @@
-Nuevo Juego
+Nuevo juego
 Continuar
-Menú Principal
+Menú principal
 Salir
 Configuración
 Logros
@@ -11,7 +11,7 @@ Idioma
 Cargando...
 Gráficos 
 Sonido 
-Teclado y Ratón
+Teclado y mouse
 Mando
 Resolución
 Modo ventana
@@ -30,61 +30,61 @@ Música
 Partículas
 Texturas
 Modelos 3D (98%)
-Guion
+Guión
 Reiniciar
 Adelante
 Atrás
 Izquierda
 Derecha
 Interactuar
-Sensibilidad del Ratón
-¿Salir del Juego?
+Sensibilidad del mouse
+¿Salir del juego?
 Si
 No
 Regresar al menú principal
 Giros suaves
-Configuración del Juego
+Configuración del juego
 Estilo de sombras
 Atuendos
 Interfaz
 Modelos 3D (2%)
-Volumen Voces
+Volumen voces
 Pausa
 Menú
 ¡Felicidades! ¡Terminaste el juego!
 Tu tiempo:
 Subtítulos
 Brillo
-Sincronización Vertical
+Sincronización vertical
 Guardado
 Personajes
 Personajes - Mitas
 Personajes - Cartuchos
 Cartuchos
 Mitas
-Empezar desde Cero
-¿Estas seguro que quieres borrar todo tu progreso y empezar desde cero?
-Compilando Shaders, tiempo de espera estimado: 2 horas.
-¡¿Compilación de 2 horas?! Mejor nos saltamos la espera.
+Empezar desde cero
+¿Estás seguro que quieres borrar todo tu progreso y empezar desde cero?
+Compilando shaders, tiempo de espera estimado: 2 horas.
+¡¿Compilación de 2 horas?! De ningún modo. ¡Mejor nos saltamos la espera!
 Creando trazo realista de sombras, tiempo de espera estimado: 10 minutos.
-Solo bromeaba, no usamos esas cosas tan elegantes aquí.
+Es broma, aquí no usamos esas cosas tan elegantes.
 Umm...
-Oh, ¡Ya esta listo!
+Oh, ¡ya está listo!
 Ladear mientras caminas
 Mostrar pistas
-Voz del Jugador
+Voz del jugador
 Discord
 Perfil de personaje agregado
-Angulo de visión
+Campo de visión
 Voz
 Desactivado
 Extender mano hacia la puerta
 Animación
 Habilitar voz del jugador
 Mita
-Mita de Cabello corto
+Mita de cabello corto
 Mita amable
-Mita con Gorra
+Mita con gorra
 Pequeña Mita
 Mita Dormilona
 Mita 2D
@@ -92,7 +92,7 @@ Mila
 Mita Horrible
 Mita Central
 Mita Fantasmal
-Mini Mita
+Chibi Mita
 Mita Maniquí
 
 
@@ -104,7 +104,7 @@ Las cosas se ponen raras
 El sótano
 Mas allá del mundo 
 El Bucle
-Mini Mita
+Chibi Mita
 Maniquíes y rompecabezas olvidados
 Ella solo quiere dormir
 Novelas Visuales
@@ -113,8 +113,8 @@ Leyendo libros, destruyendo glitches
 Versión antigua
 Charla sincera
 Reinicio
-Gorrita
-Retazos Olvidados
+Cappie
+Fantasmas
 ¿El mundo real?
 ¡Fuera del núcleo!
 Jugador 1
@@ -129,8 +129,8 @@ Jugador 9
 Jugador 10
 
 Modo Pacifico
-¡Este modo aún se encuentra en desarrollo! Es tan extenso que los desarrolladores aún no han logrado terminarlo. Pero no te preocupes, lo prometido será incluido en una actualización mayor próximamente. Y mírate, ¡ya tienes la ventaja al desbloquear el acceso! ahora todo lo que falta es esperar...
-Entonces, ¿Qué es este Modo pacifico? Es tu oportunidad para reconectar con Mita en una manera completamente diferente! Ella estará mas que Feliz por pasar tiempo contigo, de mañana a noche, en un mundo rebosante de diversión y sorpresas. Puedes esperar conversaciones sinceras uno a uno, compartir galletas, jugar juegos, y muchos momentos divertidos juntos.
+¡Este modo aún se encuentra en desarrollo! Es tan extenso que los desarrolladores aún no han logrado terminarlo. Pero no te preocupes, lo prometido será incluido en una actualización mayor próximamente. Y mírate, ¡ya tienes la ventaja al desbloquear el acceso! Ahora solo queda esperar...
+Entonces, ¿qué es el Modo Pacifico? ¡Es tu oportunidad para reconectar con Mita de una manera completamente diferente! Ella estará mas que feliz de pasar tiempo contigo, de la mañana a la noche, en un mundo rebosante de diversión y sorpresas. Puedes esperar conversaciones sinceras uno a uno, compartir galletas, jugar juegos, y muchos momentos divertidos juntos.
 
 
 Censura
@@ -139,13 +139,13 @@ Agradecimientos especiales:
 Fotografías: Nineko Hori
 Traductores
 Quienes convirtieron el texto del juego a otro idioma.
-Socios de Publicacion
+Socios de publicación
 Marketing de juego
 Testers
 Quienes jugaron y encontraron todo tipo de bugs.
 Esta traducción fue hecha por miembros apasionados de la comunidad y fue agregada al juego bajo su petición.
-Este juego contiene sustos, sonidos intensos y luces parpadeantes. Que pueden resultar peligrosos para personas con problemas cardiacos o ataques epilépticos. Se recomienda tomar precaución.
-¡Modo Pacifico Desbloqueado!
+Este juego contiene sustos, sonidos intensos y luces parpadeantes que pueden resultar peligrosos para personas con problemas cardiacos o ataques epilépticos. Se recomienda tomar precaución.
+¡Modo Pacifico desbloqueado!
 
 Modo Foto
 El modo foto te permite desplazar la cámara a lugares que por otro lado serian inaccesibles 
@@ -159,7 +159,7 @@ Efectos
 Control del tiempo
 Brillo
 Contraste
-Viñetas
+Viñeta
 Tomar Foto
-Abrir carpeta de Fotos
-Ángulo de cámara
+Abrir carpeta de fotos
+Ángulo de la cámara

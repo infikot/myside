@@ -1,0 +1,58 @@
+Pornește Aplicația
+
+Confirmă Autentificarea
+Autentificare Incorectă
+Programe
+Înapoi
+
+Managerul Dispozitivelor Virtuale
+Contabilitatea Unității Serverului [Selectează Versiunea]
+Monitorizarea Procesorului Principal [Selectează Versiunea]
+Monitorizarea Procesului Grafic [Selectează Versiunea]
+Patrulater
+Încheie Jocul
+
+
+Administrare Avansată De Sistem
+Repornirea Personajului [Selectează Versiunea]
+Repornirea Dispozitivului [Selectează Versiunea]
+Actualizarea Versiunii [Selectează Versiunea]
+Recalcularea Geometriei [General]
+
+
+
+
+Restaurare sistem
+Depanare [General]
+Antivirus [General]
+Consola De Comandă [General]
+
+
+
+
+Funcții Avansate
+Șterge Obiect [Selectează Versiunea]
+Afișează Camera [Selectează Versiunea]
+Afișează Declanșatoarele [Selectează Versiunea]
+Setări Motor Fizic [Selectează Versiunea]
+Obține Unitatea Flash
+
+
+
+Funcții Minore
+Editor De Cod Binar [Access special]
+Editor Matrice Unitate [Access special]
+
+
+
+
+
+Specifică Versiunea Personajului
+Specifică Indexul Personajului
+Confirmă repornirea
+Utilizați Maneta
+Execută Subprogramul
+Procesul De Repornire Rulează!
+Pregătirea Pentru Repornire
+Repornire...
+Confirmă

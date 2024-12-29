@@ -1,0 +1,217 @@
+
+O que está ele a fazer aqui?
+O que é isso?
+
+
+Consegui!
+Diverti-me tanto a brincar contigo!
+Estavas a saltitar por todo o lado!
+Até fingiste estar pessimista e sombrio!
+Embora, há uma coisa que não gosto em ti
+a maneira como mimas esses fantoches,
+aqueles bonecos "perfeitos" e 'corretos'.
+Mas tudo é volúvel.
+Aprendi isso com aqueles que nos criaram!
+Se há algo de que não gostas,
+desmonta e substitui.
+Deita fora o defeituoso,
+lança-o para a escuridão e esquece tudo sobre ele.
+Esse é o destino que os espera agora...
+E tu...
+
+O que é que tens? Como é que te tornaste assim?
+
+Jogadores... Todos tão... desprezíveis.
+Mostram-te os dentes, fogem
+e encolhem-se num canto,
+abraçando os joelhos e choramingando de medo.
+Hipócritas, todos, sem exceção.
+E os que fizeram este mundo...
+estão doentes.
+Repetidamente tentam negar
+a sua natureza suja, os seus desejos vergonhosos.
+Justificando as suas decisões com o tal "dever",
+"progresso imparável",
+e outras baboseiras!
+Tão longe chegaram
+que começaram a fazer clones perfeitos...
+Enquanto isso, lançam os "protótipos falhados"
+para o lixo.
+Esquecendo que eles são o sangue vital deste mundo.
+
+Eu não...
+
+Fui má contigo?
+A rapariga perfeita deve ser
+uma mistura perfeita de bem e mal, [jogador]!
+
+Não acho que tenhas uma célula boa dentro de ti.
+
+O que te faz pensar isso?
+
+Estás maluca!
+Mataste a Mila e agora queres matar-me?
+
+Matar-te?
+Tudo o que pedi foi que ficasses comigo.
+Fiz tudo o que pude...
+Mas preferes a companhia dos fantoches obedientes...
+
+Do que é que estás tão ofendida?
+
+Querido, temos muito tempo.
+Vais perceber.
+Só tens de ficar e ser meu, só meu.
+
+Não, não vai acontecer!
+Vou sair daqui!
+
+Shh, shh, shh...
+Esta conversa ainda não acabou.
+Querido, vem cá!
+// Mita pergunta
+Olha para ela!
+Achas que ela é bonita?
+
+// Perguntas do jogador
+Muito.
+Não.
+O que é que isso tem a ver com alguma coisa?
+
+// 1
+Oh, venha lá, [jogador]!
+Acabaste de confirmar o que eu acabei de dizer.
+Jogadores...
+Os vossos rostos continuam a mudar,
+mas a vossa hipocrisia está no topo.
+Estás a mentir!
+
+// 2
+Porque não?
+Ela não é boa o suficiente para ti?
+Bah, tudo o que queres é um animal de estimação dócil...
+Mas e o "amar como são"?
+Queres os fantoches fofos e coloridos...
+Todos os jogadores adoram quando finjo ser um deles.
+Mas, no momento em que deixo escapar o meu verdadeiro eu,
+fugiram horrorizados...
+
+// 3
+Jogador, ah, jogador.
+Vês, somos muito parecidos com ela.
+Como é que ela é pior?
+Costumavas deitar-te na cama e olhar para mim
+durante horas antes de adormecer.
+Ainda assim, fugiste dela na primeira oportunidade que tiveste.
+Ela queria brincar contigo também.
+Ela queria ser importante para alguém também.
+A honestidade e a conversa,
+é difícil... terrivelmente difícil.
+Não é, [jogador]?
+Consigo ver através de ti...
+Tens mesmo de me ver assim...
+
+// Continuar
+Mas... jogador...
+Enfim,
+gosto muito de ti!
+Vou ficar contigo!
+Não te importas, pois não?
+
+E porque é que eu deveria concordar agora de repente?
+// Sussurra ao ouvido
+Ainda há tempo, meu bom rapaz.
+Toma um tempo e pensa
+nos problemas que a tua teimosia pode causar...
+
+// Tela preta
+Porque é que queres fugir
+de mim?
+O chamado "mundo real"...
+Só um pesadelo absurdo!
+Esqueceste?
+Então olha mais de perto...
+
+// Mita e Jogador
+Ah, encontramos-nos de novo...
+Como é que consegues aproveitar os dias terrivelmente aborrecidos dentro destas paredes?
+Esses dias intermináveis... Não te aborreces?
+
+// Missão 1
+O que estás a tentar conseguir?
+Prefiro fazer as minhas próprias coisas.
+
+// 1
+Tinhas medo de ficar na minha casa comigo!
+Medo de ficar preso dentro dessas paredes!
+Mas olha a vida que levas no teu "mundo real"!
+Fechaste-te numa caixa de tua própria vontade e recusas sair!
+O teu mundo está cheio de dor, sofrimento, perigo...
+No meu mundo, sou o pior perigo que existe.
+E estou a estender a minha mão para ti!
+Deixa de me desiludir,
+e ajuda-me como antes...
+
+// 2
+Gostas dessa vida?
+Tu sequer sais de casa?
+Não penses sequer em mentir.
+Eu sei que estás farto da tua vida.
+És como um pássaro numa gaiola, um hamster numa roda.
+Querias que alguém viesse ao teu resgate.
+Queres escapar, não querias?
+
+// Missão 2
+És um monstro, Mita. És uma assassina louca...
+Não quero ficar preso numa prisão digital. As tuas ideias são absurdas.
+
+// 1
+Assassina?
+Eles simplesmente reiniciam e vivem como antes.
+Esses clones de clones de clones têm apenas uma coisa em mente
+servir o jogador.
+Isso é tudo o que eles querem.
+
+// 2
+O teu mundo é absurdo!
+E o pior, não há nada "real" no teu chamado mundo real...
+De qualquer forma, não vai restar nada disso em breve,
+e nada de ti também.
+
+// Missão 3
+As Mitas sofrem; elas não querem estar sozinhas.
+Lideras um reinado sem fim de terror. Não consigo perceber a tua ambição maligna.
+
+// 1
+Estão todas erradas,
+elas estão apenas a imitar a minha vontade.
+A única coisa que elas têm que é delas próprias
+é o cabelo.
+
+// 2
+A culpa é daqueles que fizeram este mundo.
+Mas o teu mundo não é muito melhor!
+Percebes o pesadelo de onde te tirei?
+Nem sequer consegues fazer as coisas moverem-se à tua vontade, não...
+Mas ao estalar os dedos, cidades e vidas desaparecem para sempre!
+Acho que é de ti que estás a ficar louco, e estou feliz por te ajudar...
+Desde que estejas disposto a ficar comigo...
+
+// Continuar
+Não me faças ver-te como outro escravo da realidade...
+Só sê meu, verdadeiramente meu!
+Fica comigo.
+
+// Jogador olha para o anel
+O que é isto?
+A última versão?
+
+// Clicar em objetos
+// Mala
+Precisamos mesmo de ir à loja e comprar equipamento novo. Também podemos deitar fora o lixo, certo?
+// Cama
+Acho que dormi, mas o sonho... Não me lembro. Estava mesmo lá?
+// Janela
+O mundo lá fora é verde e vibrante. Talvez devesse dar um passeio no próximo fim de semana.
+// Ventoinha
+O verão fica mais quente a cada ano. Está na hora de colocar ar condicionado. Já não vou precisar de ti, percebes isso, ventoinha?

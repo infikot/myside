@@ -1,0 +1,19 @@
+﻿// Track names
+Zamat
+Bíborbubi
+Felleg
+// Quest none
+Mindegy.
+// Quest "Meeting Kind Mita"
+Megbizzak benned?
+Hogy kerültem ide?
+Hol vagyok?
+Te hogy kerültél ide?
+Mit csináltál a gyűrűvel?
+Milyen veszélyesek az átjárók?
+Segítesz megmenekülni?
+Említettél egy tervet.
+// Quest MitaCap
+Semmire sem emlékszel?
+Mit gondolsz a másik Mitáról?
+Mindig hordod a sapid?

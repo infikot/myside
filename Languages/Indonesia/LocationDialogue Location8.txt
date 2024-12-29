@@ -1,0 +1,84 @@
+// Pertemuan pertama
+Siapa kamu?
+Ada apa?
+Bisakah kamu berbicara?
+
+
+Tunggu...
+kamu ingin pergi, kan?
+
+Ya...
+aku harus kembali
+ke versi sebelumnya.
+
+Versi sebelumnya?
+Mengapa pergi dan pergi
+ke tempat lain?
+Mengapa tidak tinggal di sini
+dan jadilah milikku
+teman kedua?
+
+// Melewatkan semua dialog
+Oke...
+
+// Berdiri di dekat jendela (Acak)
+kamu tidak akan menemukan jalan keluar melalui pintu.
+Sepertinya kamu sedang terburu-buru...
+Berlari berputar-putar tidak akan menyelamatkan Anda.
+Sangat ingin melarikan diri?
+Lihatlah ke luar jendela...
+
+
+// Quest 1 (Bukankah kamu Mita?)
+Pemain... kamu seorang pemain, bukan?
+Kita bisa bermain bersama.
+Jika aku bisa kuat,
+yang perlu kita lakukan hanyalah bermain.
+
+// Quest 2 (Apa yang terjadi padamu?)
+Aku tidak yakin, dan sebenarnya aku tidak tahu...
+Menurutku tidak ada hal buruk yang terjadi...
+Tapi segala sesuatu yang baik sepertinya hilang begitu saja...
+Tapi, setidaknya aku punya teman.
+Mengapa mereka meninggalkanku?
+Apakah aku tidak cukup?
+aku takut...
+
+// Quest 3 (Menjadi teman kedua?)
+Teman-teman...
+aku cuman punya sedikit yang tersisa sekarang.
+Hanya satu yang tersisa...
+aku sedih, pemain.
+Maukah kamu menjadi temanku?
+
+aku sebenarnya ingin,
+tapi aku harus melanjutkan...
+
+Hatiku sakit...
+
+// Quest 4 (Apakah ini rumahmu?) - MitaLittle
+Rumah?
+Pemain...kamu telah berubah...
+Lenganmu lebih pendek, dan kamu tidak terlihat begitu marah...
+Player, kamu menjadi lebih lembut, lebih baik hati.
+
+aku tidak yakin...
+apa artinya itu.
+
+Tidak apa-apa...
+karena aku tidak akan terluka lagi, kan?
+
+// Quest 5 (Bagaimana cara meninggalkan tempat ini?)
+Apakah kamu benar-benar meninggalkanku?
+Mungkinkah ini hanya milikku...
+takdir?
+
+Aku...
+
+Pintunya tidak akan membantumu.
+
+// Tahan pemain (Acak)
+Mengapa pergi?
+Tetap di sini...
+Bermainlah denganku...
+Pemain...

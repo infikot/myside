@@ -1,0 +1,217 @@
+
+Ce caută asta aici?
+Ce e aia?
+
+
+Te-am prins!
+M-am distrat atât de mult jucandu-mă cu tine!
+Săreai peste tot!
+Chiar te-ai prefăcut că ești mohorât și trist!
+Deși, e un lucru care nu-mi place la tine:
+felul în care îi îmbunezi pe cei falși,
+acele păpuși norocoase și „corecte”.
+Dar timpul continuă să curgă.
+Am învățat asta de la cei care ne-au creat!
+Dacă există ceva ce nu îți place,
+demontează-l și înlocuiește-l.
+Aruncă ce e defect,
+aruncă-l în întuneric și uită de el.
+Asta e soarta care le așteaptă acum...
+Și ție...
+
+Ce este în neregulă cu tine? Cum ai ajuns așa?
+
+Jucătorii... Sunteți toți atât de... dezgustători.
+Le arăți colții, și ei fug
+și se ghemuiesc într-un colț,
+îmbrățișându-și genunchii și plângând de frică.
+Ipocriți, absolut toți.
+Și cei care au creat această lume...
+sunt bolnavi.
+Mereu și mereu încearcă să nege
+natura lor murdară, dorințele lor rușinoase.
+Justificându-și deciziile prin așa-numita „datorie”.
+„progresul de neoprit,”
+și alte prostii!
+Au ajuns atât de departe
+încât încep să facă clone perfecte...
+în timp ce aruncă prototipurile „eșuate”
+la gunoi.
+Uitând că ele fac parte „sângele” acestei lumi.
+
+Eu nu...
+
+Am fost rea cu tine?
+Fata perfectă ar trebui să fie
+un amestec perfect de bine și rău, [player]!
+
+Nu există o picătură de bine în tine.
+
+Ce te face să crezi asta?
+
+Ești nebună!
+Ai ucis-o pe Mila, iar acum vrei să mă ucizi pe mine?
+
+Să te omor?
+Tot ce ți-am cerut a fost să rămâi cu mine.
+Am făcut tot ce am putut...
+Și totuși preferi compania imitațiilor...
+
+De ce ești atât de ofensată?
+
+Dragă, avem destul timp.
+O să-ți dai seama.
+Doar stai și fii al meu, numai al meu.
+
+Nu voi lasa asta să se întâmple!
+Eu plec de aici!
+
+șșș, șșș, șșș...
+Conversația asta nu s-a terminat.
+Dragă, intră!
+// Mita asks
+Uită-te la ea!
+Crezi că este frumoasă?
+
+// Player's questions
+Foarte.
+Nu.
+Ce legătură are?
+
+// 1
+Of, haide, [player]!
+Tocmai ai confirmat ceea ce tocmai am spus.
+Jucători...
+Fețele voastre se tot schimbă
+dar ipocrizia voastră este imensă.
+Ai mințit!
+
+// 2
+De ce nu?
+Nu e destul de bună pentru tine?
+Ah, tot ce vrei este un animal de companie docil...
+Nu știi vorba „iubește-i așa cum sunt”?
+Tu vrei falsuri drăguțe și colorate...
+Fiecare jucător adoră când mă prefac că sunt unul dintre ei.
+Totuși, în secunda în care îmi scapă adevăratul eu,
+ei fug îngroziți...
+
+// 3
+Of, jucătorule.
+Vezi tu, noi semănăm mult cu ea.
+Cum e ea mai rea?
+Obișnuiai să stai în pat și să te holbezi la mine
+ore întregi înainte să adormi.
+Cu toate acestea, ai fugit de ea cu prima ocazie.
+Și ea voia să se joace cu tine.
+Și ea voia să fie importantă pentru cineva.
+Sinceritate și socializare,
+e greu... îngrozitor de greu.
+Nu-i așa, [player]?
+Pot să văd prin tine...
+Trebuie să mă faci să fiu atât de...
+
+// Continue
+Dar... jucător...
+Oricum,
+Chiar îmi place de tine!
+O să te păstrez!
+Nu te superi, nu-i așa?
+
+Și de ce aș fi de acord acum dintr-o dată?
+// Whispers in ear
+Încă mai este timp, băiatul meu cuminte.
+Stai puțin și gândește-te
+ce probleme poate cauza încăpățânarea ta...
+
+// Black screen
+De ce vrei să fugi
+de mine?
+Așa-zisa lume „reală”...
+E doar un coșmar absurd!
+Ai uitat?
+Atunci uită-te mai bine...
+
+// Mita and Player
+Ah, ne întâlnim din nou...
+Cum te simți în legătură cu aceste zile teribil de plictisitoare între acești patru pereți?
+Aceste zile nesfârșite... Nu te plictisești?
+
+// Quest 1
+Ce încercerci să realizezi?
+Prefer să fac ce vreau eu.
+
+// 1
+Ți-a fost frică să stai cu mine în casa mea!
+Ți-a fost frică să rămâi blocat între acei pereți!
+Dar uită-te la viața pe care o trăiești în lumea ta „reală”!
+Te-ai închis într-o cutie de bună voie și refuzi să ieși!
+Lumea ta este plină de durere, suferință, pericol...
+În lumea mea, eu sunt cel mai mare pericol care există.
+Și eu mă apropii de tine!
+Nu mă mai dezamăgi,
+și ajută-mă așa cum ai făcut-o înainte...
+
+// 2
+Îți place măcar această viață?
+Ieși măcar din casă?
+Nici să nu te gândești să minți.
+Știu că te-ai săturat de viața ta.
+Ești ca o pasăre în cușcă, un hamster pe roată.
+Ai vrut ca cineva să vină să te salveze.
+Ai vrut să scapi, nu-i așa?
+
+// Quest 2
+Ești un monstru, Mita. Ești un ucigaș nebun...
+Nu vreau să fiu încătușat într-o închisoare digitală. Ideile tale sunt absurde.
+
+// 1
+Un ucigaș?
+Se vor reporni și vor continua să trăiască ca înainte.
+Aceste copii ale unor copii ale unor copii au un singur lucru în minte:
+să servească jucătorul.
+Asta e tot ce le interesează.
+
+// 2
+Lumea ta e absurdă!
+Și ce e mai rău, nu e nimic „real” cu așa-zisa voastră lume reală...
+Oricum, nu va mai fi nimic din ea în curând,
+și nici din tine nu va mai fi.
+
+// Quest 3
+Mitele suferă; ele nu vor să fie singure.
+Tu ai o domnie bazată pe teroare fără sfârșit. Nu-mi pot imagina ambiția ta ticăloasă.
+
+// 1
+Te înșeli,
+ele doar imită voința mea.
+Singurul lucru pe care îl au care este al lor
+este părul lor.
+
+// 2
+Este vina celor care au creat această lume.
+Dar lumea ta nu e mare lucru!
+Îți dai seama din ce coșmar te-am scos?
+Nici măcar nu poți face lucrurile să se miște în voia ta, nu...
+Dar la o pocnitură de deget, orașe și vieți dispar pentru totdeauna!
+Cred că tu ești cel care a înnebunit, iar eu sunt bucuroasă să te ajut...
+Atâta timp cât ești dispus să rămâi cu mine...
+
+// Continue
+Nu mă face să te văd ca pe un alt sclav al realității...
+Doar fii al meu, cu adevărat al meu!
+Rămâi cu mine.
+
+// Player look ring
+Ce e asta?
+Ultima versiune?
+
+// Click on objects
+// Bag
+Chiar trebuie să mergem la magazin și să ne luăm echipament nou. Ar fi bine să aruncăm gunoiul dacă tot suntem acolo, nu?
+// Bed
+Cred că am dormit, dar visul... Nu-mi pot aminti. A fost într-adevăr acolo?
+// Window
+Lumea de afară este plină de culori. Poate ar trebui să merg la o plimbare weekendul viitor.
+// Fan
+Vara devine tot mai caldă în fiecare an. E timpul să ne luăm un aer condiționat. Nu voi mai avea nevoie de tine, îți dai seama de asta, ventilatorule?

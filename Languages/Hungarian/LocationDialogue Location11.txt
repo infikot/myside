@@ -1,0 +1,188 @@
+﻿
+Szióka!
+Hoppá!
+Bocsi,
+majdnem megöltelek.
+Akarom mondani...
+A hűtő... a hűtő ölt meg téged majdnem.
+Így igaz, nem csináltam semmit.
+Semmi közöm sincs
+a hűtőhöz!
+
+Aham, persze.
+
+De tényleg,
+veszélyes ez a hely.
+Főleg a magadfajtáknak.
+
+// After a while 1
+Te aztán tényleg vakmerő vagy!
+Olyan jó nézni,
+ahogy pályáról pályára
+szenveded magad át...
+Szállj, kismadár
+Nézd meg, hogy merre jár
+Ne aggódj,
+ott leszek, de nem most!
+
+// After a while 2
+Látom, a vonatok felé vetted az irányt.
+Az az egyik leghosszabb
+út a verziók között...
+Kíváncsi vagyok, túl fogod-e
+élni azt a vonatutat...
+Ki tudja, mi bújik meg a ködben...
+
+// Panties
+Hol van a szemed?
+De most komolyan!
+Ez nem vicces!
+Hagyd abba!
+Te kéjenc butus...!
+
+
+Hát jó...
+
+
+Kéz és lábtörést!
+
+
+Ki vagy?
+Érzem az aurád...
+Hallgass ide...
+egy játékos vagy,
+nem igaz?
+Segíts nekem...
+Keresek egy...
+egy... nem tudom...
+Üres az elmém...
+Nem tudom, mi folyik itt!
+// Cry 1
+Mindent el akartam felejteni...
+A tükröket is tönkretettem,
+a képeket is széttéptem,
+de a végére...
+nagyon megbántam...
+Olyan hülye vagyok...
+„Mindenki követ el hibákat,” való igaz...
+de mihez kezdjek,
+ha a következmény visszafordíthatatlan?
+Bárcsak visszamehetnék az időben...
+// Cry 2
+Azt mondják, hogy idővel minden rendben lesz...
+Mennyi az az idő?
+Nem hiszek többé ilyenekben...
+De ha tényleg igaz,
+Ha tényleg csak időre
+lenne szükségem...
+Akkor könyörgök,
+hadd gyorsuljon fel az idő...
+Így gyorsabban megöregedhetnék,
+és végre meghalhatok...
+// Cry 3
+Őt szerették..
+Én kit szerettem?
+Az övé más volt;
+Élénk,
+megvetendő...
+égő...
+könyörtelen...
+irigyelhető...
+dühös...
+tébolyult...
+// Cry 4
+Azt mondták sokat sírok...
+„Ne aggódj, Mita...”
+„Minden rendben lesz, Mita...”
+„Nem vagy egyedül, Mita...”
+De mi maradt meg?
+A bánat...
+letörtség...
+és a félelem...
+// Cry 5
+Mihaszna...
+Nem megy...
+Nem emlékszek semmire sem...
+Mihaszna vagyok...
+Örökre itt ragadtam,
+és ezt muszáj elfogadnom...
+Mindig is itt voltam,
+de miért?
+Nem emlékszem...
+Mikor lesz ennek vége?
+Nem bírom tovább...
+
+// Mita get picture
+Ez egy...
+rajz?
+Most már emlékszem...
+köszönöm...
+De az arcom...
+Nincs arcom...
+Mind miatta van...
+Elvett egy darabot előlem...
+és azt eldobta...
+Ő erős,
+és okos...
+Én nem állíthatlak meg téged, játékos.
+Kérlek, nézz bele a szekrénybe.
+
+
+Hé!
+El az útból!
+Nem mozdulsz el innét?
+Tünés innen!
+Félre!
+Attól még hogy magas vagy, nem jelenti azt, hogy erős is.
+
+// HEY! STOP!
+Ne kövess már!
+Kopj le!
+
+
+
+
+// Funicular - radio voice
+Egy pillanat... Egy játékos?
+Mit keresel itt, játékos?
+
+Ki van ott?
+
+Üdv, játékos.
+Mitafon vagyok.
+Én irányítom az itteni kocsit.
+Ugye tudod,
+hogy ez a vonat a halálodhoz vezet?
+
+De sajnos
+nincs más választásom.
+
+Ahogy mondod.
+Nyomd meg a gombot, és nyomás az ágyú mögé.
+
+Ágyú?
+
+Pff, persze!
+Azt hitted, hogy csak úgy hátradölhetsz?
+Tele van a pálya szörnyekkel.
+Szóval készülj fel, kisapám!
+
+// Funicular go
+Akkor guruljunk!
+// Funicular win
+Szép volt, pajti!
+Megcsináltad!
+// Funicular stop
+Na, most szedd a lábad,
+és tünés innen!
+// Funicular wait 2
+Mit ácsorogsz még itt?
+Azt mondtam, hogy húzás!
+// Funicular wait 3
+Még mindig itt vagy?
+Nem megmondtam, hogy ne is lássalak?
+// Funicular tetris
+Most... komolyan Tetriszezel?
+Balfék...
+// Funicular goodbye
+Legyen szép napja.

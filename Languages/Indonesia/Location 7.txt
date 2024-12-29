@@ -1,0 +1,19 @@
+// Nama trek
+Cracker
+Bubble
+Balloon
+// Tanpa Misi
+Gak jadi.
+// Quest "Bertemu Mita yang Baik Hati"
+Haruskah aku mempercayaimu?
+Bagaimana aku bisa sampai di sini?
+Tempat apa ini?
+Bagaimana kamu bisa sampai di sini?
+Apa yang kamu lakukan dengan cincin itu?
+Apakah jalannya berbahaya?
+Maukah kamu membantuku melarikan diri?
+Kamu bilang sebuah rencana.
+// Pencarian MitaCap
+Apakah kamu ingat sesuatu?
+Apa pendapatmu tentang Mita yang membawa cincin?
+Apakah kamu selalu memakai topi itu?

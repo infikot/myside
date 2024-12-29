@@ -1,6 +1,6 @@
 
 ¡Espera, espera!
-No tan fuerte...
+No hagas ruido...
 Seguir adelante es peligroso.
 Por cierto...
 ¿Cómo llegaste aquí?
@@ -26,7 +26,7 @@ Date prisa, ¡no llegues tarde!
 // After mini-game
 Entonces, ¿entendiste el punto del juego?
 
-¿Que estoy hecho de carne y hueso, y tú estás hecho de un modelo de esqueleto?
+¿Que estoy hecho de carne y hueso, y tú estás hecha de un maniquí?
 
 ¡Vaya!
 Suena aterrador cuando lo dices así.
@@ -114,19 +114,19 @@ cuando me arrojaron a este mundo!
 ¿Pero en qué índice de casa estabas?
 Hay una 'yo' que no puede dejar de quejarse,
 una 'yo' que ama hacer el tonto,
-una 'yo' con mala memoria y que le gusta intimidar a los demás...
+una 'yo' con mala memoria y le gusta asustar a los demás...
 Es una larga lista...
 Dime lo que recuerdas.
 
 Estaba oscuro.
-Había escritura
+Había una escritura
 como...
 "Juega conmigo."
 
 Ah,
 qué pena...
-Ese es el 'yo'
-que intimida y olvida las cosas.
+Esa es la 'yo'
+que asusta y olvida las cosas.
 
 // Mita wants to tell you [No]
 Gracias, pero no gracias.
@@ -225,7 +225,7 @@ Creo que empiezo a entenderlo.
 // He asks about the inscription
 ¿Qué significa esto?
 
-Eso es para Mita genial.
+Eso es para Mita Molona.
 Ella estará aquí en unas horas.
 Moverá esas cajas
 y pondrá un sofá aquí.
@@ -234,13 +234,13 @@ y pondrá un sofá aquí.
 Emm...
 ¿Tal vez podría ayudar?
 
-No, ese es trabajo de Mita genial.
+No, ese es trabajo de Mita Molona.
 Ella es fuerte.
 
 // He asks about the drawings
-¿Eso es solo un dibujo,
+¿Eso es solo un dibujo?
 o
-significa algo?
+¿significa algo?
 
 Sí,
 es solo un garabato.

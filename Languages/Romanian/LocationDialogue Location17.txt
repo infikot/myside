@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+Am nevoie de ajutor.
+Sper că Mita asta nu mușcă...
+
+Pe ce imi irosesc timpul...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, trezește-te!
+Mita!
+
+Mita, neațaaa!
+Am nevoie de ajutorul tău.
+
+Cine eștiiii?
+
+Ajută-mă cu manetele.
+
+Ce manete?
+Lasă-mă să dorm...
+Sau fă-mi o cafea.
+
+Mașina de cafea e chiar acolo.
+Mita?
+Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita,
+uite-ți cafeaua.
+
+
+
+// MitaDreamer exercise
+Manete
+zici?
+
+Da.
+
+De unde știi de ele?
+Totuși, de ce întreb măcar...
+Considerând că ești deja aici,
+știi deja destule...
+
+O secundă,
+Trebuie să stau jos.
+
+Și?
+
+Nu știu ce să zic...
+Dar trebuie să continui,
+să urmăresc în continuare instrucțiunile inelului.
+
+Îi ai inelul?
+Nu mă miră
+că ai găsit locul asta.
+
+Dap.
+Deci, mă poți ajuta cu manetele?
+Cu manetele?
+
+Sigur.
+Te ajut.
+Cu manetele...
+
+
+Mita, haide o dată...
+Să mergem odată.
+
+Uh?
+În regulă.
+Hai.
+
+
+// MitaDreamer fall
+Ridică-te.
+Îți e chiar atât de somn?
+
+// MitaDreamer again sleep
+Trezește-te.
+Am ajuns.
+
+
+// Switches
+Ok,
+Sunt gata.
+
+Și eu.
+
+Ei bine.
+Voi începe
+numărătoarea.
+Și vom trage în același timp.
+Ok?
+
+Doar rămâi trează, OK!
+Hai.
+
+
+3
+2
+1
+
+// Player lose 1
+Ești cu capul în nori?
+Haide,
+mai încercăm o dată...
+
+// Player lose 2
+Încă o încercare?
+Haide,
+Eu...
+Eu cred că adorm aici...
+
+// Player lose 3
+Aproape că am adormit...
+
+
+
+Minunat,
+mulțumesc, Mita.
+
+Mm-hmm.
+
+
+Ușile...
+așa...
+încete...
+
+
+Eu mă culc...
+
+// Why kitchen?
+De ce am mers la bucătărie?
+Dacă adorm pe podeaua rece,
+e doar vina ta.
+
+// Why bathroom?
+Nu înțeleg...
+Cu ce manete ai nevoide de ajutor aici?
+
+// Put button
+Nu s-a întâmplat nimic?
+Atunci ce caută butonul ăsta aici?
+
+// Cofee
+Mai multă cafea?
+Sau vei adormi iar.
+
+Ce?
+Nuuu...
+Cafeaua asta e oribilă...
+Sunt ok...
+
+// Button
+Mita? Butonul nu funcționează... mă auzi?
+Alo?

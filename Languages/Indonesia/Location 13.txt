@@ -1,0 +1,14 @@
+// Quest none
+Gak Jadi.
+// Quest "First"
+Kamu dari mana saja?
+Bagaimana kamu bisa sampai sini?
+Siapa Mita yang barusan tadi?
+Bagaimana cara kerja cincinnya?
+mengapa Mita Gila membutuhkanku?
+Apakah itu Core nya?
+// Quest "Second"
+Ada apa?
+Apakah ada cara untuk mengetahuinya?
+bagaimana kalau kita menyerang Mita Gila?
+Orang mini

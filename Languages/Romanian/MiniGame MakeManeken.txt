@@ -1,0 +1,35 @@
+Scanare necesară!
+Cerințe
+Versiune
+Cantitate oase
+Nicio entitate găsită. Scanare necesară!
+Scanare completă
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Whoo-hoo!
+Ai reușit!
+
+// Tutorial
+Deci, ce caut aici?
+Trebuie să ajung la ecranul tău...
+Acum...
+Deci!
+Trebuie să te asiguri că prototipul asta este corespunzător.
+Întâi, scanează-l.
+Acum, verifica versiunea și numărul de oase.
+Acum ia datele acestui prototip și compară-le cu standardul.
+Este perfect! Acum, hai să verificăm sentimentele.
+Specimenul arată emoțiile corect! Timpul să testăm comportamentul.
+Ok, am verificat totul și totul e conform! Acum trage de manetă în sus.
+Yay! Acum pielea e pusă! Dă-i cutia cu haine.
+Asta e tot! Vezi luminile alea de sus? Una dintre ele este verde, deci am făcut corect!
+Rândul tău! Mă întorc când toate becurile devin verzi. Mult noroc!

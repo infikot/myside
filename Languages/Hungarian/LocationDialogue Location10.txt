@@ -1,0 +1,246 @@
+﻿
+Ácsi, ácsi.
+Ne olyan hangosan...
+Nagyon veszélyes továbbmenned.
+Amúgy...
+te hogy kerülsz ide?
+
+Nos...
+A gyűrű vezetett ide.
+Nem tudom pontosan hogyan.
+
+Gyűrű?
+
+Mi lelte ezt a helyet?
+Az orromig sem látok.
+
+Majd elmondok mindent.
+Most menj a kijáraton át a játékgéphez. 
+Ott találkozunk.
+
+
+
+Szedd a lábad, ne maradj le!
+
+
+// After mini-game
+Most már érted?
+
+Azt, hogy én hús-vér ember vagyok, a Miták meg csontvázmodellekből vannak összeszerelve?
+
+Jesszus...!
+Olyan rémisztően hangzik, ha így rakod össze...
+de igen, kábé így van.
+
+És ezt miért jó tudnom?
+
+Nem hiába mondtam,
+hogy innentől nagy veszély vár rád.
+Azok az elhagyatott modellek...
+azok, amelyek „hibás” jelzővel vannak ellátva...
+veszélyesek, és meg is ölhetnek téged.
+
+Most mit csináljak?
+Inkább megyek,
+és az ajtókra bízom magam.
+
+Hát.
+A lényeg, hogy ne fordíts hátat nekik.
+Mindig a szemed előtt tartsd őket.
+Ha őket bámulod, nem fognak elmozdulni.
+Nagyon szégyellősek.
+Ezt jól jegyezd meg.
+
+
+
+
+
+
+
+// Quest 1 (Why are there other Mitas down there?)
+Ezek új prototípusok.
+Még időre van szükségük,
+hogy tudatra ébredjenek.
+Miután az megvan,
+elvezetem őket az új otthonukba.
+
+// Quest 2 (Why is it so dark downstairs?)
+Minket a sötétben „alkottak,”
+és így időre van szükségünk átszokni a világosságra.
+Nem jó érzés,
+ha a sötétség hirtelen szemvakító világosságra vált, érted?
+
+// Quest 3 (What are you doing here?)
+Még mindig nem érted?
+Az új Mitákat segítem ki.
+Nélkülem nem jutnának sokra.
+De veled sem.
+
+// Quest 4 (Why do we need this conveyor?)
+Mire való az a futószalag?
+És minden Mita számára jut hely?
+
+Ne mondd, hogy nem tudod
+hogy működik ez a világ...
+Azt sem tudod, hogy az végtelen?
+
+Végtelen?
+Ő...
+Hogy érted, hogy végtelen?
+Ha az 1.9-es verzió a legfrissebb,
+nem azt jelenti, hogy csak 19 világ van?
+
+Ó, jesszumpepi,
+neked tényleg fogalmad sincs semmiről.
+Ha szeretnéd,
+elmagyarázok mindent
+ezen a táblán.
+
+// Quest 5 (What is your version?)
+Várj,
+olyan ismerős vagy nekem...
+Nem találkoztunk már?
+
+Lehetséges.
+Én az 1.5-ös verzióból származom.
+Jártál már ott?
+
+Igen.
+Abba a verzióba érkeztem,
+amikor ebbe a világba teleportáltak!
+
+Nohát!
+Hogy lehetséges?
+Melyik házindexben voltál?
+Létezik egy olyan „én,” amelyik folyton nyafog...
+meg amelyik szeret viccelődni...
+olyan is van, amelyik sokat felejt, és szeret zaklatni másokat...
+Hosszú a lista.
+Mondd, ő melyik volt?
+
+Sötét volt.
+A falakon... írások voltak.
+Olyanok, mint
+„Játszunk?”
+
+Jaj,
+ez nem jó...
+Pont azzal az „énnel” találkoztál
+amelyik másokat szeret zaklatni.
+
+// Mita wants to tell you [No]
+Köszi, de nem kell.
+Szerintem jobb, hogy nem tudok semmit.
+
+Ahogy akarod.
+
+// Mita wants to tell you [Yes].
+Felőlem, mondd.
+De ez ugye nem olyan, mint a suliban?
+Annyira unatkoztam ott, hogy elaludtam.
+
+Nem kényszerítelek,
+de ha érdekel,
+akkor elmagyarázom.
+Egy játékos letölti a MiSide-ot,
+és elkezd játszani vele.
+Amint megnyitja az alkalmazást,
+egy új ház jön létre egy új Mitával.
+A táblán lévő elemek ezt jól reprezentálják.
+A vonalak mutatják
+a különböző verziókat.
+A vonalakon házakat találsz.
+Mondjuk letöltöd az 1.14-es verziót.
+Ekkor egy új élet jön létre,
+azaz egy új Mita, és egy új ház.
+
+Magasságos egek...
+
+Kérdezz bármit
+amit a táblán látsz,
+és megpróbálom elmagyarázni.
+
+// He asks about the only circle
+Itt miért csak egy nagy kör van?
+
+Azt a verziót csak egyetlen egyszer
+adták ki.
+Ez a legkülönlegesebb verziója az egész játéknak.
+Azért is különleges,
+mert nincs átjárója más verziókhoz.
+Hétalvó-Mita él ott, az 1.11-es verzióban.
+
+Hétalvó-Mita?
+Vagyis annyira unalmas,
+hogy minden odatévedőt azonnal elaltat?
+
+Nem pontosan.
+Akármilyen hangos zajt csapsz a füle mellett,
+lehetetlen felkelteni őt.
+
+// He asks about the shaded circle
+Ez a kör miért van besatírozva?
+
+Azért, mert
+Ari-Mitával versenyeztünk.
+Ő satírozta be.
+Azon ment a verseny,
+hogy ki tud az 1.11-es verzióba érni gyorsabban.
+
+És ki nyert?
+
+Én, ki más?
+Ezt nézd...
+az 1.15-ös verzióban vagyunk,
+a 809-es házindexben.
+onnan az 1.11-es verzióba,
+a 805-ös házindexbe kellene érni.
+Általában így tudunk átmenni a másik verzióba.
+De azt megpróbáltuk lerövidíteni.
+Ari-Mita ezt az utat vetette fel.
+Én meg előálltam
+a legrövidebb úttal.
+Mégpedig ezzel, itt ni.
+Ez az út közvetlenül az 1.11-hez vezet.
+Egy hajszálon múlt,
+hogy az a ház blokkolja az utat.
+A gyűrűd hasonlóképpen működik.
+Hová tartasz?
+
+A Maghoz.
+
+A Maghoz, mi?
+Hmm...
+Ha a legrövidebb utat keresed,
+Neked is az 1.11-es verzión keresztül kell menned.
+Biztosan találkozni fogsz Hétalvó-Mitával.
+Szerintem az a Mita, aki ideküldött,
+ő is azon az úton ment.
+Egyáltalán tudja, te melyik úton mész?
+Vagy lehet, hogy ő előre gondolt,
+és tud egy ennél rövidebb utat!
+
+Hát, lehet.
+
+// He asks about the inscription
+Ez meg mi?
+
+Ez Vagány-Mitának van.
+Pár óra múlva itt lesz.
+Az ő feladata, a dobozokat elvinni,
+és a kanapét a dobozok helyére teszi.
+Én nem bírom el!
+
+Hát...
+Segíthetek?
+
+Bocsi, ez Vagány-Mita feladata.
+Ő nagyon erős.
+
+// He asks about the drawings
+Ennek van valami fontos jelentősége?
+vagy
+ez csak egy sima rajz?
+
+Hát...
+ez csak egy kis irka-firka.

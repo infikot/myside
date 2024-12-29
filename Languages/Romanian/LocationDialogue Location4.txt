@@ -1,0 +1,400 @@
+Mita?
+Te-ai trezit deja?
+Cum ai ajuns aici?
+Doar ce erai lângă mine.
+
+Nu, nu eram.
+Ai înghețat în fața oglinzii.
+Așa că am plecat.
+De ce s-au schimbat camerele?
+
+Am rearanjat locul
+ca să te simți ca și cum ai fi acasă 
+Aici,
+putem schimba camerele 
+cum vrem noi.
+
+Nu trebuia.
+Începusem să mă obișnuiesc cu aranjamentul.
+În orice caz, cred că te vei simți mai în largul tâu așa.
+// Mita card game
+Bun,
+putem începe?
+Astea sunt regulile jocului:
+Acest jeton indică un tip,
+de exemplu viața.
+Amândoi jucăm o carte,
+dacă cartea ta
+are mai multă viață 
+decât cartea mea,
+câstigi. 
+Trage-ți carțile. 
+E rându meu acum. 
+Uau!
+Ce mână bună am!
+Eu sunt prima!
+
+
+
+
+
+
+
+
+
+OK!
+Rândul tău!
+Aha.
+Rândul tău!
+
+Cea mai mare viață câstigă!
+Numai atacul conteaza!
+Focusează-te pe defensivă!
+
+
+Ai câstigat!
+Ai câstigat!
+M-ai luat.
+Tu...
+
+Am câstigat!
+Eu sunt câstigătoarea!
+Am câstigat!
+Ha, te-am luat!
+
+E o remiză.
+Suntem egali!
+Aia e o remiză!
+Aceeași valoare...
+
+
+
+
+
+
+
+
+
+
+
+// The card game is interrupted
+Ce e sunetul ăla?
+Vine dinspre dulap.
+
+Sunet?
+Ce sunet?
+Nu am auzit nimic.
+Ce crezi ca ai auzit?
+
+Ca și cum cineva ciocăne.
+
+Dar...
+Nu e nimeni acolo...
+
+Aș dori să verific.
+Sunt un pic speriat.
+
+Dar de ce...?
+Din nou asta...
+
+
+
+
+
+
+
+Ce e cu tine!?
+E un simplu dulap...
+Am lenjerie acolo...!
+
+Ascunzi ceva de mine?
+
+De ce nu mă crezi? 
+Ce fac greșit?
+Tot ce vreau...
+este ca tu să fi cu mine.
+
+Și eu vreau asta, dar totuși...?
+
+De ce ești așa de obsedat de dulapul ăsta?!
+
+Vreau șă aflu ce naiba a fost acel ciocănit!
+
+E cumva din cauza că
+lumea aceasta
+are doar patru camere?
+Nu e destul pentru tine? 
+De ce nu poti rămâne cu mine?
+
+
+// Don't stay with Mita
+Înțeleg.
+Asta din nou...
+Dacă vrei sa verifici ce e în dulap,
+atunci fă-o,
+si află ce e înâuntru!
+
+
+
+
+Ce naiba...
+
+Se mai întâmplă din când în când.
+Camera s-a blocat încărcânduse.
+Doar așteaptă un pic.
+
+Asta e așa de ciudat.
+Suntem in telefonul cuiva?
+Poate unul mai slab cu încărcări mai lungi?
+
+Deloc.
+Dar nu totul e perfect
+în lumea asta...
+Suntem încărcați 
+împreună cu nucleul lumii.
+
+Nucleul lumii?
+
+Tipic, nu crezi?
+
+
+
+În fine,
+putem să ne jucăm pe consolă
+sau cărți.
+Tu alegi.
+
+
+
+// Mita play fight
+Vrei să ne batem?
+Trebuie să căstigi 
+de patru ori. 
+Hai să începem.
+Nu îți face griji,
+o voi lăsa mai ușor la început.
+
+
+Ce băiat bun ești.
+Ai face bine să te concentrezi!
+
+Ua!
+Ok, bun.
+Voi deveni serioasă acum.
+
+Uau!
+Hai să vedem 
+dacă mă poți învinge acum!
+
+Ești
+pur și simplu
+incredibil! Ești un talent înnăscut!
+
+
+Ce s-a întâmplat?
+Huh, asta e plictisitor.
+
+Păi,
+asta e. Crezi în soartă?
+
+Atunci,
+revino-ți sau vei fi un pierzător pentru totdeauna!
+
+Ce ai pățit astăzi?
+Am spălat pe jos cu tine. 
+Nu ți-ai dat deloc silința-
+de aceea am câștigat!
+
+
+Bun, atunci.
+Ce-ar fi să jucăm niște cărți?
+Sunt în dormitor.
+
+
+
+// Door > [ERROR]
+Huh, ce se întâmplă?
+Unde e...
+
+Uh-oh.
+Scuze...
+Am descărcat 
+ceva de pe net.
+Am vrut să
+înfrumusețez umpic exteriorul.
+Dar se pare că, 
+ceva era în neregulă cu fișierul. 
+Îl voi repara mai târziu.
+
+De aia nu putem ieși din casă? 
+Exact.
+// Mita shy
+Hei...
+Ce se întâmplă cu tine?
+Vrei ceva?
+
+
+
+// Wall Clock
+Ăsta aici ceas,
+ce oră arată?
+Ora actuală din joc?
+Sau este sincronizată cu telefonul meu?
+
+Păi, uhh...
+Sincer habar n-am.
+Dar timpul nu are rost aici...
+Fie că este târziu sau devreme,
+o fată puternică ca și mine 
+este mereu plină de energie—
+nu obosesc niciodată!
+Putem avea o primăvară eternă,
+sau o după-amiază nesfârșită!
+
+Interesant...
+dar și umpic înspâimântător.
+Blocat in același moment, pentru totdeauna...
+
+
+
+// Photos of Mita
+Faine poze.
+Presupun ca tu ești in ele?
+
+Dap.
+Și mie îmi plac.
+
+Cine le-a făcut?
+Sunt și alții în lumea asta?
+
+Ai putea spune asta.
+O să faci cunoștiință și cu ele eventual.
+Dar nu acum.
+Momentan, aș vrea să fi doar cu mine.
+
+
+
+
+// Portal
+Unde a dispărut portalul?
+Sau cum l-ai numit tu?
+
+Am folosit
+umpic de magie
+și l-am mutat
+altundeva.
+Nu mai avem nevoie de el.
+Doar ne-ar încurca.
+
+
+// Mirror in the bedroom
+Uitându-mă într-o oglindă 
+fără să mă pot vedea—e dubios.
+
+Putem să activăm reflecțtile, 
+dacă vrei neapărat.
+Dar, chiar avem nevoie de ele?
+
+Normal că avem nevoie de ele.
+Sau... pornirea lor va aduce consecințe?
+
+Da.
+Ne vom întrerupe și ne vom mișca mai încet.
+Ai văzut vreodată un desen animat în puține cadre pe secundă?
+Așa va fi pentru noi, constant.
+
+Am înțeles.
+Atunci am face bine să ținem reflecțile dezactivate...
+
+Hei, [player], 
+chiar iți plac oglinzile, nu-i așa?
+Ție frică să zâmbești?
+
+Huh? Nu chiar...
+Sunt doar obosit
+după toată munca de azi.
+
+
+
+// Blue sneakers
+Ăstia sunt ai tăi?
+
+Nup, sunt ai tăi.
+Nu îți amintești?
+
+Nu-mi amintesc să fi avut astfel de adidași.
+
+Acum ai.
+Îi poți purta 
+când mergem afară.
+
+Cum rămâne cu hainele?
+Tot ce am în lumea asta
+sunt hainele pe care le port.
+Este vreo metodă prin care pot face rost de unele noi?
+
+Normal că există.
+Totuși, am văzut ce tip de haine porți—
+și să fiu sinceră, gusturile tale nu sunt prea grozave.
+Oricum, te voi ajuta să îți găsesti niște haine.
+Nu acum totuși.
+Promit.
+
+Ok.
+
+
+// Games on TV
+Ce vrei să ne jucăm?
+// Game milk
+Acesta este un joc de luptă!
+Hai să vedem cine se va acri primul!
+Ce mai joc!
+Am băut destul lapte momentan, hai să facem altceva.
+// Game penguins
+În jocul ăsta, ești un pinguin,
+care alunecă.
+Mda, ăla e jocul.
+
+// Stay with Mita
+Huh, ce?
+Pe bune? Credeam că vei...
+Sunt plină de fericire!
+Și umpic confuză...
+Dar...
+Te rog rămâi cu mine—
+pentru totdeauna.
+
+
+
+
+
+
+
+
+
+
+
+
+// A game about penguins
+E foarte simplu:
+doar adună bulgării.
+Cel care adună cei mai mulți, câștigă!
+Hai să jucăm două runde, ok?
+// The first map
+Uau, cum ai strâns așa de multe?
+Hihi! Am strâns cei mai mulți bulgări!
+Ai face bine să mă prinzi din urmă!
+Ha, 1:1!
+// The second map
+Ești un pinguin înnâscut!
+Ar trebui să te ducem pe gheață adevărată!
+Pfft, ești așa de lent.
+Încă te mai gândești la ultima rundă?
+Uau, o remiză! Aia e rară!
+// The game is over
+Bun, vrei să ne jucăm altceva?
+Sau te-ai săturat?
+
+// Tetris - Mita
+La ce îți trebuie aia?
+Atăt de gamer ești?

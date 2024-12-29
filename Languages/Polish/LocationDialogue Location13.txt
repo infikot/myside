@@ -53,7 +53,7 @@ Ta... Zauważyłem.
 
 Dawaj, musimy dostać się do rdzenia.
 
-// Answer 4 (Jak działa pieścień?)
+// Answer 4 (Jak działa pierścień?)
 Ten pierścień...
 to jedyna droga do rdzenia?
 
@@ -62,7 +62,7 @@ Oczywiście, gdybyśmy mieli portal
 mogli byśmy cie tam teleportować
 ale cóż, dobre i to.
 
-Jakie są zalety pieścienia?
+Jakie są zalety pierścienia?
 
 Jest ich wiele!
 Łatwo się go nosi,
@@ -196,12 +196,12 @@ To chyba nie to.
 Ani to.
 Pudło.
 Nie, to nie to.
-Muszę znaleźc okienko resetu postaci.
+Muszę znaleźć okienko resetu postaci.
 // core console - nope version
 To błędna wersja.
 Oj, mój błąd.
 To nie to.
-Będe potrzebować kolejnej.
+Będę potrzebować kolejnej.
 // core console - nope index
 Coś jest nie tak
 z wersją świata.

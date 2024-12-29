@@ -5,7 +5,7 @@ Buscar el botón
 Presionar
 Levantarse 
 Tomar anillo 
-Borrar App
+Borrar app
 Salir
 Presionar
 Soltarse
@@ -20,7 +20,7 @@ Tomar Batería
 Revisar
 Soltar
 Dar tijeras
-Denegar
+Negarse
 Comer
 Levantarse
 Intentar levantarse
@@ -39,7 +39,7 @@ Cartuchos
 Abrir
 
 Tomar Jugo
-Denegar
+Negarse
 
 Moverse Derecha
 Moverse Izquierda
@@ -95,7 +95,7 @@ Girar a la izquierda
 Saltar
 Abrir puerta
 
-Selecciona juego
+Seleccionar juego
 Dejar de jugar
 Continuar
 Jugar
@@ -125,7 +125,7 @@ Agregar la mezcla
 Voltear
 Demasiado
 
-Se ven bien en ti
+Se ven bien en tí
 Solo quítatelos
 
 Explícamelo

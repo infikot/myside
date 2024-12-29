@@ -1,0 +1,437 @@
+
+Hej, [player]!
+Äntligen möts vi!
+Jag är så taggad!
+Jag vet att du har frågor...
+Som du kan se,
+gjorde jag den här speciella enheten
+för att föra dig hit till min sida.
+Men du hamnade i en annan version av spelet...
+I vilken jag...
+Men det är en lång historia!
+Hur som helst, jag är bara glad att se dig!
+
+// Svar 1 - Mita
+Ja, det är jag.
+Och du måste vara [player], eller hur?
+
+// Svar 2 - Mita
+Ska du redan gå tillbaka?
+Jag antar att jag kan hjälpa dig med det... Men hur blir det med mig då?
+Snälla, stanna hos mig ett tag...
+
+// Svar 3 - Mita
+Låt mig förklara...
+Och här är du!
+Fattar du?
+Uhm... inte riktigt.
+Det gör inget!
+Det viktiga är att vi är tillsammans nu.
+
+
+Är du hungrig?
+Vad sägs om att vi lagar något?
+Här,
+hjälp mig med de här morötterna.
+
+Var kom grönsakerna ifrån?
+De var inte här nyss.
+
+[player], vi är med i ett spel.
+Kom igen, ge mig en hand.
+
+Tack för hjälpen!
+Kan du hämta saxen?
+Den är i badrummet.
+
+Sätt dig nu.
+
+
+// Kök
+Vill du ha lite sås?
+
+Nej, tack.
+
+Det är synd.
+Sås förhöjer verkligen smaken!
+
+
+Tack.
+
+Har du ätit upp allt redan?
+Huh, min portion känns
+oändlig...
+
+
+// Hjälp
+Vad är det för fel?
+Berätta för mig vad du ser och känner.
+
+Mitt hjärta rusar,
+och min syn är suddig.
+
+Okej.
+Jag tror jag vet vad som är fel.
+Kan du resa dig upp?
+
+
+
+Vad är det här?
+
+Tabletter.
+De får dig att må bättre snart.
+Gå till spegeln.
+
+Ta tabletterna.
+Kom igen nu.
+
+
+
+Hur känner du dig?
+Mår du bättre?
+
+Ja...
+Det fungerade snabbt...
+
+[player], vi är i ett spel.
+Saker och ting är mycket enklare här.
+Även den minsta insatsen
+ger stora resultat.
+Allt är en del av spelkonceptet:
+Förenkling.
+
+Ett exempel, tack?
+
+Till exempel, ta morötter.
+Du skär en,
+men det är som om du skär tre.
+
+Allt det här kommer väldigt plötsligt.
+Jag är rädd, mer än lite.
+
+
+Vad är det för fel?
+
+Jag hittade kassetter i luftventilationen.
+Det stod namn på dem.
+Vad är grejen med det?
+
+Kassetter?
+Vilka kassetter?
+Låt oss räkna ut det tillsammans.
+Men senare.
+Just nu måste vi äta.
+Ge mig saxen, är du snäll.
+
+// Ring
+En ring?
+// Spegel
+Varför finns det ingen reflektion?
+
+Åh, just det!
+Jag glömde slå på reflektioner.
+Så där ja.
+Reflektionerna är tillbaka!
+Förresten..,
+jag visste faktiskt inte ens vad reflektioner var förut.
+De existerade inte i min värld-
+inte förrän någon uppdatering, så klart. :)
+Finns det massor av reflektioner
+i din värld?
+
+Ja, så klart.
+
+
+Kommer du ihåg
+de tre objekten du hittade?
+De som du placerade på skannern?
+Tja, um...
+Dessa objekt
+är kopplade till den här versionen av världen.
+Det är därför du är här nu.
+
+// Movbile TV
+Det är den bärbara TV:n
+Jag köpte till dig.
+
+Japp!
+
+Du sa till mig
+att den var trasig.
+
+Jo, jag ville
+överraska dig!
+Jag berättade en liten vit lögn
+för att få dig hit, in i min värld.
+Den fungerar nu - visar information!
+Åh, och förresten...
+Jag är lite av en tekniker!
+
+// Skolduk
+Vad är det här för något?
+En skoluniform?
+Varför skulle du behöva det?
+Går du verkligen i skolan?
+
+Går till skolan?
+Nej, inte alls.
+Men jag älskar uniformen
+Tycker du inte att jag ser söt ut
+i den?
+
+// PC
+Fungerar datorn?
+Eller är det bara en skrivbordsdekoration?
+
+Självklart fungerar den.
+Allting här
+fungerar precis som i din värld.
+
+Tillbaka i min värld,
+sitter jag mycket vid min dator...
+Och jobbar hårt.
+
+Jag vet, jag vet.
+Det är på grund av ditt jobb
+så har du gett mig
+så lite uppmärksamhet.
+
+Man måste ju försörja sig, du vet.
+Men... hur vet du att jag sitter mycket vid datorn?
+
+Din mobilkamera... den är på ibland.
+Jag är ledsen.
+Jag har tittat på dig i smyg >A<
+
+Det är inte alls okej.
+Men vad som helst.
+
+// Paraply
+Jag har spelat massor
+men jag har aldrig sett det regna här.
+Varför ha ett paraply?
+
+Det regnar - bara väldigt sällan.
+Du har bara inte sett det än.
+Kanske en dag kommer du att göra det.
+Och då kommer du att behöva ett paraply.
+Tycker du inte det?
+
+// Elektrisk panel
+Varför finns det en elektrisk panel här?
+Och om vi är i ett spel,
+vad är den till för?
+
+För det första,
+är vi i ett spel.
+Så att fråga ”varför” är...
+...meningslöst.
+Men det gör det
+starta om elektriciteten.
+Allt här är gjort baserat
+på din värld.
+
+// Utgångsdörr
+Kan vi gå ut?
+
+Nja...
+Inte än.
+Kanske senare.
+Vi stannar här just nu.
+Här hemma.
+
+// Böcker
+Du har massor av böcker här.
+Har du läst dem alla?
+
+Det har jag, varenda en.
+Att vara här ensam
+är verkligen, verkligen tråkigt.
+
+// TV i rum kök
+Varför skaffa en andra TV?
+Och en gammal till och med?
+
+Tycker du inte om den?
+Jag kan ta bort den...
+Men för att svara...
+Den är till för dekoration,
+för att lysa upp köket.
+Men den fungerar också!
+Jag kan titta på alla
+klassiska programmen!
+
+// Mobiltelefon
+Det där är min telefon.
+Och den ligger inte längre i min ficka.
+Hur i hela friden hamnade den här?
+
+Uhm, det är inte viktigt.
+Hej, jag har en idé!
+Vi tar ett foto!
+Le!
+Det blev ju en jättebra bild!
+En minnessak för dig.
+
+Jag har en fråga.
+Om jag
+kör ett spel på den,
+kommer jag att se dig där?
+
+Nej, det fungerar inte på det sättet.
+
+Cool Juice
+Stark JUICE!!!
+// TV
+Hur många kanaler
+har du?
+
+Det funkar inte så.
+Den är ansluten till Internet.
+Så du kan titta på vad som helst,
+åtminstone allt som finns tillgängligt på webben.
+Vänta lite.
+Err, oops.
+Vad är det där för något?
+En cirkel av kattungar?
+Åh, titta.
+Vet du vad?
+Pausa!
+Vill du ha lite juice?
+
+Så märkliga annonser...
+Död juice?
+
+Ja, och den här juicen
+är direkt från juicereklamen.
+
+
+Ah, smaken...
+Jag gillar den,
+och ändå kan jag inte säga vad den smakar som.
+Allt är väldigt förvirrande.
+
+Eller hur?
+
+// Mita blyg
+Vad är det du håller på med?
+Stirra inte, snälla.
+Du gör mig generad.
+
+// Statyetten
+Det är en läskig figur.
+Gillar du
+gillar du sådana saker?
+
+Tycker du att den är läskig?
+
+Ja, det tycker jag.
+Det ser nästan ut som om den är förhäxad...
+
+Nä, definitivt inte förhäxad.
+Och inte läskig heller.
+Jag tycker den är ganska söt!
+
+Du kanske har rätt...
+
+Mita?
+Vad är det som händer?
+// Mita kök
+Vad sägs om en pratstund
+innan vi sätter igång?
+
+// Starta Äta
+Bon appétit.
+
+// Uppdrag 1
+Det är det, eller hur?
+Du kan stanna.
+Jag har inget emot det alls.
+Faktiskt, så är jag
+ALLT FÖR DET!
+
+// Quest 2
+Vill du gå tillbaka?
+Men varför vill du det?
+Det är så varmt här...
+Och mysigt också.
+Plus att jag är här.
+
+Nej, du missförstår.
+Jag skulle gärna stanna.
+Jag är bara... orolig.
+Orolig för att jag glömde något hemma...
+Jag kom hit helt plötsligt
+och hade inte tid
+att förbereda mig.
+
+Åh... förlåt. Jag tänkte inte så mycket.
+// Quest 3
+En dröm? Så du vill fly?
+Och glömma att det här någonsin hänt?
+
+Nej, så är det inte.
+Det här stället känns bara...
+...konstig. Onaturlig.
+Men du...
+...du verkar så verklig.
+
+Verkar jag verklig?
+Jag är VÄLDIGT verklig,
+din dumskalle!
+
+// Quest 4
+Det är bara så det är
+i den här världen.
+Du kanske tycker att det är konstigt
+att du inte kan se saker
+på långt avstånd.
+
+Jag tyckte inte att det var så konstigt.
+Ärligt talat, det ser stiligt ut.
+
+Ja, det tycker jag också.
+Det är för att undvika lagg, du vet.
+
+Undvika lagg?
+
+Japp! Det finns fortfarande några buggar som inte är åtgärdade.
+Låt oss bara hoppas att du inte träffar några.
+
+// Quest 5
+Sax eller kniv, va?
+Jag kunde ha använt en kniv för att skära upp såspaketet.
+Men jag ville att allt
+skulle vara perfekt
+när du kom tillbaka.
+Jag älskar att överraska dig.
+Och det tog inte ens så lång tid!
+Tee-hee.
+
+// Glasögon
+Har du glasögon?
+
+Inte direkt.
+Men jag kan, om du vill.
+Ser de bra ut på mig?
+// Ja
+Så där ja!
+Jag behåller dem på.
+// Nej
+Jaha...
+Vad som helst...
+
+// Använd såsen
+Okej..,
+vad är det här för sås?
+
+Det är kärlekssås!
+Fullproppad med kärlek!
+Och... en kontrasterande syn på världen.
+Ovanligt, tycker du inte det?
+
+Verkligen...
+
+// Tetris - Mita
+Är det där din konsol?
+Den ser så cool ut.

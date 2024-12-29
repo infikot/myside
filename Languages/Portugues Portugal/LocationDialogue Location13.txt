@@ -1,0 +1,233 @@
+
+O anel.
+
+// Resposta 1 (Onde estiveste todo este tempo?)
+Andei à procura de uma forma de te levar até ao Núcleo.
+Tudo em uma peça, claro.
+Esse era o plano desde o início, não?
+Foi por isso que tive de evitar
+a Mita Louca, não foi?
+Também tive de descobrir tudo o que pude
+sobre o maldito backend do universo, não foi?
+
+Hum... Acho que sim...?
+Mas como configuraste a rota do anel?
+Porque é que acabei numa versão com falhas,
+cheia de perigos?
+Escapei apenas
+saltando para uma escuridão infinita.
+
+Desculpa, esqueci-me de te contar em detalhe
+o que precisavas de fazer...
+Mas sim, o plano era que tu
+fizesse o salto desde o início...
+E bem, fizeste-o!
+Bom trabalho!
+Agora, vamos continuar com o plano.
+
+// Resposta 2 (Como chegaste aqui?)
+Deves ter passado por muita coisa,
+com a tua memória a falhar no que falámos.
+Sou a Mita, posso mover-me entre versões
+como eu quiser, lembras-te?
+
+Nem todas as Mitas conseguem fazer isso,
+já vi algumas que não conseguem.
+E elas estão claramente a sofrer.
+
+Sim, as versões delas estão partidas,
+os mundos delas têm falhas. Já te disse isto antes.
+Maldição...
+Sabes quem está por trás disto, não sabes?
+A Mita Louca.
+
+Sim, com certeza, é ela...
+
+// Resposta 3 (Quem era esta Mita agora?)
+Essa é a Mita Feia.
+Agresiva e estúpida.
+Não podes falar com ela,
+o mundo dela gira à volta da Mita Louca.
+
+Sim, reparei.
+
+Vamos, temos de chegar ao Núcleo.
+
+// Resposta 4 (Como é que o anel funciona?)
+E o anel,
+é o único caminho para o Núcleo?
+
+Sim.
+Naturalmente, se tivéssemos o portal
+podíamos teletransportar-te
+diretamente para lá.
+
+Há alguma vantagem no anel?
+
+Claro!
+É fácil de usar,
+e lembra-te das versões
+que já visitaste,
+por isso consegues facilmente voltar lá.
+
+// Resposta 5 (Porque é que a Mita Louca precisa de mim?)
+Porque é que a Mita Louca não me deixa em paz?
+Ela puxou-me para o seu jogo perigoso,
+mas eu ainda estou vivo...
+
+A minha suposição
+é que ela está à procura de um jogador adequado...
+Alguém que a aceite como ela é.
+No fim de contas, a Mita é a Mita!
+Como isso obviamente nunca vai acontecer,
+ela transforma jogadores em cassetes,
+para que ninguém consiga fugir...
+Pelo menos é o que eu acho.
+Enfim, vamos focar no que é importante.
+
+// Resposta 6 (Este é o Núcleo?)
+É isto?
+O Núcleo?
+
+Sim. O Núcleo.
+Tentei explicar,
+vocês, jogadores, não fazem realmente parte deste mundo...
+Ou seja, não precisam de uma permissão especial para entrar.
+Ou, bem, é o que eu acredito, pelo menos.
+Enfim, estou completamente certa
+de que a solução para todos os nossos problemas
+pode ser encontrada lá dentro!
+[Jogador], entra lá.
+Na verdade, já estive lá uma vez.
+
+// Olhar para a Mita do Núcleo
+Cuidado, [jogador].
+Ela está a observar-te.
+
+Quem?
+
+Não sei também...
+
+Fixe...
+
+
+O que é aquilo?
+Ei!
+
+Acho que encontrei!
+
+Incrível! Isso é ótimo!
+
+Mas preciso de especificar uma versão.
+
+Certo, a versão dela é...
+0.98.
+
+Bingo!
+Ok, e qual é o índice?
+
+Uhm, índice?
+
+Preciso do índice.
+Espera, não me digas que não sabes...?
+
+Hmm, isso faz sentido...
+Cada Mita tem um índice,
+por isso não podes apenas reiniciar toda uma versão...
+Isso causaria um caos completo!
+Não acredito que não tinha pensado nisso...
+
+
+
+
+
+
+// Resposta 1 (O que está a acontecer contigo?)
+Tirando todos os nossos problemas,
+estou perfeitamente bem.
+Está tudo ótimo, mas muita coisa mudou...
+Preciso de pensar.
+E é isso.
+
+// Resposta 2 (Talvez haja uma forma de o conhecer?)
+Eu...
+Acho que... Isto é loucura!
+É uma loucura, ahah!
+É como procurar uma agulha num...
+
+O que estás a fazer?
+
+Alguns obstáculos desaparecem com informação,
+sabes, como o mundo ter as suas entranhas arrancadas!
+Registos, registos, registos, dados?
+E se for isso?
+
+Hã? O que se passa?
+
+Eu sei de um sítio!
+Espera aqui.
+
+Para onde vais?
+
+// Resposta 3 (E se atacássemos a Mita Louca?)
+Disseste que qualquer Mita
+reseta para as definições de fábrica quando morre...
+E se nós...
+
+simplesmente matássemos a Mita Louca?
+Estás a falar a sério?
+E como é que vais lidar com uma mulher louca com uma motosserra?
+Ela corta cenouras com mais do que apenas facas!
+E por alguma razão, ela é assustadoramente forte!
+É um milagre estarmos vivos...
+Vamos lá, temos de chegar ao Núcleo.
+
+
+// Entrada no console do Núcleo
+Precisamos de entrar num prompt de comando...
+Mas qual prompt de comando?
+Mita, sabes?
+
+Talvez esteja listado em algum lado?
+Podes tentar procurar?
+
+// Console do Núcleo - programa errado
+Provavelmente não é isso.
+Também não está certo.
+Não, errado.
+Não é isso.
+Preciso de encontrar a opção de reiniciar o personagem.
+// Console do Núcleo - versão errada
+Essa é a versão errada.
+Opa, foi erro meu.
+Não é isso.
+Vou precisar de outra.
+// Console do Núcleo - índice errado
+Algo está errado
+com o índice.
+Preciso de mudar o índice,
+não serve.
+
+// Resposta 4 (Pequenas pessoas - Chibi)
+Sabes, encontrei um monte de
+mini-pessoas pelo caminho...
+O que são elas?
+
+As Chibi?
+Hum, como explicar...?
+É um fenómeno aqui...
+Cada Mita tem uma projeção Chibi,
+e os jogadores também podem tê-las...
+Sabias que nós, Mitas, podemos convocá-las?
+
+Hã, como?
+
+Olha isto!
+
+Como por magia...
+
+Mas há algo errado com os meus Chibis,
+a maioria nasce morta.
+Mas há uma, no entanto...
+Ou bem,
+ela continua a correr em círculos.

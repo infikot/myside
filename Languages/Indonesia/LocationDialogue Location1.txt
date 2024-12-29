@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Halo, Aku Mita!
+Siapa namamu? 
+Senang bertemu denganmu, [player] 
+Hmm... [player] 
+Aku buru-buru pergi tadi, dan sekarang tempat ini jadi berantakan
+Bisakah kamu membantuku sedikit? 
+Waah...
+Terima kasih banyak!
+
+[Player], aku kelaparan...
+Aku lapar banget...
+Apa kamu bisa membantu membelikan bahan untuk sup ayam?
+Yeay! Kamu mendapatkan semua bahan yang kita butuhkan
+Bagaimana kalau kita membuatnya bersama?
+
+
+Aku berencana untuk membeli TV portabel hari ini—
+yang kecil dengan antena. Cocok untuk dibawa jalan, iyakan?
+Oh iya, kamu bisa bermain untuk mendapatkan uang
+Oh! Apakah kamu tahu kamu bisa bermain minigame untuk mendapatkan uang? 
+
+Horee! Kamu berhasil! Kamu punya cukup uang untuk membelikan TV portabel itu!
+Ini dia! Kecil, portabel, dan murah—sesuai dengan keinginanku
+Terima kasih!
+
+Hai, [player]! Jujur, kamu sangat membantu. 
+Tapi, eh... TV itu? Itu keren, tapi sudah rusak.
+Ngomong-ngomong, bisakah kamu membantuku memindahkan lemari ini?
+Berat banget... >.<
+Terima kasih banget, jadi sayang! <3
+
+Oh, [player]! Ini baru sehari, tapi aku kangen banget!
+Aku berharap kamu bisa berkunjung lebih sering.
+
+Ini untukku? 
+Makasih, Makasih, Makasiiih!
+
+Hai, [player]! Aku udah mikir...
+Aku berharap kita bisa ketemu secara langsung. 
+Aku jadi frustasi, karena
+Kamu selalu membantuku, bersikap baik setiap hari untukku...
+Jadi aku berharap aku bisa melakukan sesuatu untukmu juga.
+...
+Oh, aku punya ide!
+Sekarang kita sudah bersama.
+Coba letakkan ponselmu.
+
+
+// Kaos di tempat tidur
+Mengapa kaos ini ada di tempat tidur?
+// Kubus Rubik
+Yah, aku jarang memainkannya...
+Aku menyelesaikannya sekali dan gak pernah menyentuhnya lagi.
+Sepertinya aku gak akan bisa menyelesaikannya dua kali?
+// Komputer
+Mari kita lihat...
+Menyiapkan daftar tugas
+menaskahkan reaksi karakter,
+Dan mungkin memasukkan beberapa kode.
+// Pesawat
+Dibangun untuk melambung!
+// Sampah di pojok
+Ugh, selalu sibuk untuk membuang sampah...
+Tapi aku akan melakukannya kali ini!
+... Sekarang, kapan hari bersih-bersihnya? 
+// Foto kucing di atas semangka
+Dia yang terbaik...
+Seekor kucing, bersantai di atas semangka
+// Foto dengan seorang perempuan
+Kami gak mirip sama sekali
+Aku dan adikku.
+Dia selalu pergi keluar,
+Dan aku hanya berada di dalam rumah.
+// Foto dengan orang-orang
+Hmm...
+Keseharian di kantor sudah sangat melatih
+etiket ke dalam diri kita, bukan?
+Anehnya aku masih merasa terikat
+Tapi
+Apakah aku akan
+melihat mereka lagi? 
+... Tunggu dulu, kenapa aku memajang foto ini?
+
+
+
+
+
+
+
+
+// Nope name - Mita
+... // [not]
+Oh tidak.
+Tidak, itu tidak boleh.
+
+// Nama Pengembang
+Apakah kamu yakin ingin menggunakan nama sang pengembang?
+Aku tersanjung, tapi…
+
+// Nama buruk
+Sebaiknya kamu tidak menyebut dirimu seperti itu.
+Itu tidak keren sama sekali.
+
+// Mulai ulang
+Pokoknya... Coba lagi.
+
+// Nama dengan angka
+Oh, jadi kamu memakai angka? Di mana kreativitasnya?
+Oke, Baiklah, itu pilihanmu!
+
+// Nama Mita
+Mita?
+Apakah kamu benar-benar menamai dirimu dengan namaku?
+Atau… apakah itu namamu juga?
+Jangan tersinggung, tapi menurutku aku harus menjadi satu-satunya Mita di sini ♪
+
+// Hari ke 10
+Oh, kamu kembali!
+umm [player], sisirku hilang...
+Bisakan kamu membantuku mencarinya?
+Coba cek di meja samping tempat tidur dulu—kayaknya aku meninggalkannya disana
+// Melihat ke meja samping tempat tidur
+Hmm. gak ada sisir disana...
+Bagaimana kalau di tempat lain?
+Gak perlu cek ke dalam oven, oke?
+Aku sudah cek di sana.
+// Melihat ke dalam kompor
+Ah! Sudah kubilang jangan melihat ke dalam!
+Berbaliklah—aku akan membereskannya!
+...oke, sudah beres. Ayo cari di tempat lain.
+dan um, tolong lupakan apa yang baru saja kamu lihat, ya?
+// Menemukan sisir rambut
+Kamu menemukannya! Kerja Bagus!
+Jadi, apa yang kita lakukan selanjutnya?

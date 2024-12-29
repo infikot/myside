@@ -1,0 +1,150 @@
+
+Mita?
+
+Hur i hela världen kom du hit?
+
+Du är Mita, eller hur?
+Men det är något annorlunda med dig...
+
+Observant, ser jag.
+Och du har rätt.
+Jag är inte den Mita du träffade förut.
+Var försiktig, hon håller på med något
+skumt.
+
+Huh, något skumt?
+
+Det finns ingen tid att förklara:
+Om det här funkar, berättar jag allt för dig.
+Hämta nyckeln. Den ligger bredvid soffan.
+
+Men...
+
+Spara dina frågor till senare!
+Ge mig nyckeln.
+Ta den här ringen.
+Va?
+Du vill komma ut härifrån, eller hur?
+Uhm, ja...
+Sätt på dig den då.
+Det är en praktisk artifakt,
+du kommer sannolikt att behöva det snart.
+
+Okej...
+Förresten, jag är
+[player].
+
+Mmm,
+[player].
+Jag är... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Ser du den där
+konsolen? Plocka upp den.
+
+Tittar vi på en inspelning?
+Vem är det som är med henne?
+
+Det händer just nu.
+Det är en annan spelare.
+Hon använder honom.
+Hon kanske försöker
+förvandla dig till en kassett också.
+
+Jag måste ut härifrån så fort som möjligt.
+Och du också.
+
+Ja, det gör vi.
+
+Så, du säger
+att hon använder honom.
+Om jag drar ut kassetten, vad händer då?
+
+Det kan mycket väl
+oåterkalleligt skada kassetten.
+Vilket betyder att...
+spelaren skulle dö.
+
+...
+Tänk om jag bara stänger av den?
+
+Det skulle kunna fungera...
+Det är värt ett försök. Det finns en röd strömknapp!
+Ser du den?
+Hittade den.
+Tryck på den.
+
+// MitaKind quest 2
+Jag måste stanna.
+Det finns frågor jag måste ställa till henne
+för att få reda på mer om henne.
+Men det är inte säkert att hon är med på spelet...
+
+// MitaKind uppdrag 3
+Sanningen att säga är det här min version.
+Jag höll en spelare sällskap,
+när något plötsligt förändrades.
+Sen dök hon upp...
+och förvandlade spelaren till en kassett
+och låste in mig.
+
+Vänta, förvandlade hon honom till en kassett?
+Kan hon ens göra det?
+Men varför?
+Vad behöver hon spelarna till?
+
+Hon är uppenbarligen galen...
+Hon leker bara med oss, och använder oss för sina egna intriger!
+Förvandlar spelare till kassetter...
+Vissa insåg inte ens vad som hände med dem...
+Och några som gjorde det, kämpade inte ens emot... Gah!
+Nu är det en mörk twist...
+Du måste hjälpa oss!
+Mig? Men hur?
+Jag behöver dig!
+Om du hjälper oss, så hjälper jag dig!
+Det här kan vara vår enda chans.
+Ringen kommer att leda dig till rätt version.
+Jag möter dig där.
+
+// MitaKind uppdrag 4
+Jag förstår fortfarande inte riktigt
+vad jag såg där uppe...
+Den där Mita...
+Försökte hon döda mig?
+
+Döda?
+Hon har ett värre öde än så i åtanke för dig...
+Du måste skynda dig.
+
+// Göm dig!
+Åh, jävlar! Göm dig!
+Vänta, vad...?
+Skynda, hon kommer!
+Följ ringen, den leder dig i säkerhet!
+
+
+Tänker du berätta var han är?
+
+Varför skulle jag göra det?
+Du kommer inte att döda honom, eller hur?
+
+Ah, så du vägrar att berätta för mig.
+Hah, jag gillar en utmaning.
+Jag vet att han är någonstans häromkring.
+
+Varför är du så elak mot oss?
+Du vill inte ens berätta vad som händer!
+Förresten...
+vad behöver du spelare till?
+De är inga leksaker!
+Vad har det hänt med dig?!
+
+Nu räcker det! Håll käften, dockan!

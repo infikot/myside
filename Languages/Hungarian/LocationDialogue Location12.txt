@@ -1,0 +1,71 @@
+﻿
+Te itt maradsz!
+Szerintem elvesztettem valamit. Mindjárt jövök.
+Aztán majd visszajövök érted...
+
+Oké.
+
+
+Játsszunk!
+Plüssmacit akarom!
+Elvesztettem...
+KERESD MEG!
+
+
+Hé...
+mit bámulsz?
+
+
+
+
+
+
+
+
+
+// Quest 1 (Who are you?)
+Mita vagyok.
+A legjobb Mita.
+A legelső Mita.
+Ezt mondta az én Mitám.
+
+// Quest 2 (Why do you look like that?)
+Miért?
+Miért?
+Miért?
+Mitám azt mondta, hogy gyönyörű vagyok, és eredeti.
+Én gyönyörű vagyok.
+
+// Quest 3 (What was Mita doing here?)
+Elvisz engem...
+Elvisz engem egy új világba.
+Mitám meghívott az új világba.
+Ott fogunk élni, és játszani az új világban.
+
+// Quest 4 (Why do you need a teddy bear?)
+Olyan vagy,
+mint a plüssmacim.
+Te is elvesztél, akárcsak a plüssmacim.
+
+// Quest 5 (Why is Mita angry?)
+A...
+Mitám.
+Játszani akar.
+Csak velem akar
+játszani...
+Egyediek vagyunk,
+és nincs más.
+Mita és Mitám...,
+0.8A és 8Ě54*.
+
+// Quest 6 (Do you believe Mita?)
+Mitám.
+Legjobb barátom.
+Mitám.
+Nála nincs jobb barát.
+
+
+Te...
+Te...
+Játsszunk!
+Megmutatom, hogy.

@@ -1,11 +1,11 @@
 // Quest none
 No es nada.
 // Quest
-¿Eres Mita?
+¿Eres Mita, verdad?
 ¿Qué te pasó?
 ¿Ser tu segundo amigo?
-¿Es este tu hogar?
+¿Este es tu hogar?
 ¿Cómo dejo este lugar?
 
 // TV
-¡VERSION LIBERADA!
+¡LIBERADA!

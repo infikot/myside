@@ -1,0 +1,221 @@
+
+Aí estás tu!
+Porque é que saíste do Núcleo?
+Disse-te para me esperares!
+
+Pensava que ias demorar mais...
+
+Bem, tudo bem...
+Acho que encontrei algo...
+Acho que é um índice...
+Vamos ver se funciona!
+Vamos sair daqui.
+A Mita louca...
+Acho que ela está ocupada com um novo jogador.
+Então, espero que esteja demasiado ocupada para nos incomodar...
+
+Mita?
+Espera por mim.
+
+
+Deixaste cair alguma coisa?
+Espera, encontraste-a outra vez!
+
+Mita...
+
+Apanha!
+
+
+Como é que...
+
+Quem és tu?
+
+Tu... tu estás viva!
+Não te lembras de mim?
+
+Eu conheço-te?
+
+O que está a acontecer...
+O que é que eu devo fazer agora?
+Não consigo sair...
+
+O que queres dizer com "sair"?
+
+Espera...
+Esse é o anel...
+E aquilo?
+
+Não faço ideia do que seja.
+
+É um índice!
+Encontraste-o!
+
+Não sei o que dizer.
+
+Temos de voltar ao Núcleo.
+E tu...
+Talvez devesses vir comigo...
+
+Hã, o quê?
+Claro...
+
+Espera aqui.
+
+Mm-hmm.
+Vou ficar bem aqui.
+
+
+Merda...
+Foi por pouco.
+Então... conseguimos?
+Bom.
+Estou na versão correta.
+
+
+Olá!
+És um jogador, não és?
+Qual é o teu nome?
+
+Quero sair deste lugar...
+
+Queres sair assim tão depressa?
+Como é que vieste parar aqui, afinal?
+Ah bem...
+Está bem, podes sair...
+Tenta a porta.
+Boa sorte com isso!
+
+
+Uma parede?
+Hmm, isso está tudo errado.
+Talvez...
+haja algo no porão que te ajude.
+Descobri recentemente
+uma porta no meu guarda-roupa...
+Acontece que leva a um porão.
+Mas está cheio de lixo,
+lixo e uma tonelada de equipamentos chiques.
+Tens de introduzir algum tipo de código ou algo assim.
+Não percebo bem.
+E não me importo.
+Também é um pouco desconfortável, quero dizer, muito desconfortável.
+Vais dar uma olhada?
+
+Uhm, ok.
+
+// Pensamento do jogador
+Não acho
+que ela se lembre de nada...
+Fizemos isso?
+Reiniciámos ela?
+Então tudo o que tenho de fazer é
+sair deste maldito jogo...
+
+
+Não tão rápido.
+Gostava de te abraçar.
+
+Hã?
+// Abraços
+Foi bom ver-te..
+
+Ahh...
+É uma pena
+que tu e eu
+tenhamos passado tão pouco tempo juntos.
+
+Err...
+Do que é que estás a falar?
+
+Quero dizer,
+podias ter ficado comigo...
+Tudo é minha culpa...
+Aquele guarda-roupa e os... os sons.
+Eu devia ter MATADO ela mais cedo!
+
+Espera aí,
+Tu não...?
+Como é que te lembras de tudo isso?
+
+HA!
+Achaste mesmo que ia ser assim tão fácil?
+És só um tolo...
+Tal como todos os outros jogadores...
+Fizemos tudo bem, olha!
+O VERDADEIRO
+tu não es
+mais necessário.
+Desculpa, tee-hee.
+
+Não posso acreditar...
+Ouve alguma falha...?
+Não... Reiniciei-te, tenho a certeza...
+
+Ainda não percebes...
+Ha-ha-ha!
+Sou uma grande atriz!
+Devias ter visto a tua cara, querido!
+Isto é tão divertido!
+
+Porque é que és assim?!
+O que é que tens de errado?!
+
+Sim...
+O que é que tenho de errado?
+Não faço ideia...
+Porque não me dizes tu porque é que sou assim?
+Porque nunca serei uma Mita real?
+A minha versão, ela nunca
+existiu em primeiro lugar!
+Estou só a despir estes tolos ingénuos,
+a esconder-me sob as suas peles...
+Não há maneira de me
+reiniciares!
+
+Inacreditável...
+Tu...
+Eles não são o problema!
+És tu que não devias existir!
+
+Agora tu também...
+Dói ouvir-te dizer isso.
+E ainda assim!
+Está na hora de ires!
+Vejo-te em breve!
+Todos estão prontos!
+Está
+na hora de te tirar da consola!
+Até já!
+Serás a minha cassete favorita...
+Um jogador com um nome interessante.
+
+// consola do núcleo - nope programa
+Provavelmente não é isso.
+Também não está certo.
+Não, está errado.
+Isso não é.
+Preciso encontrar a opção de reinício do personagem.
+
+// consola do núcleo - nope versão
+Essa é a versão errada.
+Opa, enganei-me.
+Isso não é.
+Vou precisar de outra.
+
+// consola do núcleo - nope índice
+Há algo de errado
+com o índice.
+Preciso trocar o índice,
+não se encaixa.
+
+// Porquê cozinha
+Tens fome?
+Sou ótima a cortar cenouras. :)
+
+// Porquê casa de banho
+Ah, acho
+que querias ir sozinha?
+
+// Porquê quarto de volta
+Porque é que estamos a dar voltas?
+Porque voltar aqui?

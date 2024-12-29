@@ -3,25 +3,25 @@
 
 ¿Cómo llegaste aquí?
 
-Eres Mita, ¿no es así?
-Pero hay algo diferente en ti...
+Eres Mita, ¿verdad?
+Pero hay algo diferente en tí...
 
 Ya veo, eres observador.
-estas en lo correcto.
-No soy la mita que conociste antes.
-Ten cuidado, ella esta tramando
-algo siniestro.
+Y estás en lo correcto.
+No soy la Mita que conociste antes.
+Ten cuidado, ella está tramando algo 
+siniestro.
 
-Eh, ¿Qué quieres decir?
+Eh, ¿qué quieres decir?
 
 No hay tiempo para explicar:
 si esto funciona, te diré todo.
-Trae la llave, esta al lado del sofá.
+Trae la llave, está al lado del sofá.
 
 Pero...
 
 ¡Guárdate tus preguntas para después!
-Dame la llave
+Dame la llave.
 Toma este anillo.
 ¿Eh?
 Quieres salir de aquí, ¿no es así?
@@ -30,8 +30,8 @@ Entonces póntelo.
 Es un artefacto útil,
 probablemente vayas a necesitarlo pronto.
 
-Esta bien...
-Por cierto, Soy
+Está bien...
+Por cierto, soy
 [player].
 
 Un nombre interesante,
@@ -52,37 +52,37 @@ Tómala.
 ¿Estamos viendo una grabación?
 ¿Quién es ese con ella?
 
-Eso esa ocurriendo en este mismo instante.
+Eso está ocurriendo en este mismo instante.
 Es otro jugador.
-Ella lo esta usando.
+Está usándolo.
 Ella quizás intente
 convertirte en un cartucho también.
 
 Necesito salir de aquí ahora.
-Y tu también.
+Y tú también.
 
-Si, tenemos que.
+Sí, es verdad.
 
-Entonces, estas diciendo
-que ella lo esta utilizando.
-Si saco el cartucho, ¿Qué pasa? 
+Entonces, estás diciendo
+que ella lo está utilizando.
+Si saco el cartucho, ¿qué pasa? 
 
 Eso podría dañar de manera
 irreversible al cartucho.
 Lo que significa que...
-El jugador moriría.
+el jugador moriría.
 
 ...
 ¿Qué pasaría si solo lo apago?
 
 Eso podría funcionar...
-Vale la pena intentarlo. Debe de haber un botón rojo de encendido
+vale la pena intentarlo. Hay un botón rojo en la consola.
 ¿Puedes verlo?
 Lo encontré.
 Presiónalo.
 
 // MitaKind quest 2
-Debo de quedarme.
+Debo quedarme.
 Tengo preguntas que hacerle
 para saber mas sobre ella.
 Aunque, es poco probable que me responda...
@@ -90,61 +90,61 @@ Aunque, es poco probable que me responda...
 // MitaKind quest 3
 Para decirte la verdad, esta es mi versión.
 Estaba haciéndole compañía a un jugador,
-cuando algo cambio de repente.
+cuando algo cambió de repente.
 Entonces ella apareció...
-y convirtió al jugador en un cartucho
+convirtió al jugador en un cartucho
 y me encerró aquí.
 
-Espera, ¿ella lo convirtió en un cartucho?
+Espera, ¿lo convirtió en un cartucho?
 ¿Cómo puede hacer eso?
 ¿Por qué?
-¿Para que necesita a los jugadores?
+¿Para qué necesita a los jugadores?
 
-Ella claramente esta loca...
-Solo esta jugando con nosotros, usándonos para sus propias intenciones
+Claramente está loca...
+Solo está jugando con nosotros, usándonos para sus propias intenciones.
 Convirtiendo a jugadores en cartuchos...
 Algunos ni siquiera se dieron cuenta de lo que les estaba ocurriendo...
-y algunos que lo sabían, ni siquiera se opusieron... Gah!
+y algunos que lo sabían, ni siquiera se opusieron... ¡Gah!
 Esto se tornó oscuro...
 ¡Tienes que ayudarnos!
-¿Yo? ¿Pero como?
+¿Yo? ¿Pero cómo?
 ¡Te necesito!
-Si nos ayudas, yo te ayudaré a ti!
+¡Si nos ayudas, yo te ayudaré a tí!
 Esta posiblemente sea nuestra única oportunidad.
 El anillo te guiará a la versión correcta.
 Te veré ahí.
 
 // MitaKind quest 4
-Aun no logro entenderlo
-lo que vi allá arriba...
+Aún no logro entenderlo
+lo que ví allá arriba...
 Esa Mita...
-¿Estaba intentando matarme?
+¿estaba intentando matarme?
 
 ¿Matarte?
-Ella tiene en mente un destino peor que ese para ti...
+Ella tiene en mente un destino peor que ese para tí...
 Debes darte prisa.
 
 // Hide!
-Oh, ¡Mierda! ¡Escóndete!
-Espera, ¿que...?
+Oh, ¡mierda! ¡escóndete!
+Espera, ¿qué...?
 Deprisa, ¡aquí viene!
-¡Sigue el anillo! Te mantendrá seguro
+¡Sigue el anillo! Te mantendrá seguro.
 
 
-Bien entonces, ¿vas a decirme donde esta?
+Bien entonces, ¿vas a decirme donde está?
 
-¿Por que debería?
-No vas a matarlo, ¿no es así?
+¿Por qué debería?
+No vas a matarlo, ¿verdad?
 
 Ah, entonces no vas a decirme.
-esta bien, me gustan los desafíos.
-Se que él esta en alguna parte de aquí.
+Está bien, me gustan los desafíos.
+Se que está en alguna parte de aquí.
 
-¿Por que eres tan cruel con nosotras?
-¡Al menos dime por que estas haciendo esto!
-además...
-¿Para que necesitas a los jugadores?
+¿Por qué eres tan cruel con nosotras?
+¡Al menos dime por que estás haciendo esto!
+Además...
+¿Para qué necesitas a los jugadores?
 ¡No son juguetes!
-¡¿Que es lo que te pasó?!
+¡¿Qué es lo que te pasó?!
 
-¡Suficiente! cierra la boca, muñeca!
+¡Suficiente! ¡Cierra la boca, muñeca!

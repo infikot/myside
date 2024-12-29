@@ -1,0 +1,437 @@
+
+Bună, [player]!
+Ne întâlnim în final!
+Sunt atât de bucuroasă!
+Știu că ai întrebări...
+Deci, după cum poți vedea,
+Am făcut acest dispozitiv special
+pentru a te aduce aici alături de mine.
+Dar ai ajuns într-o altă versiune a jocului...
+În care eu...
+Dar asta e o poveste lungă!
+Oricum, sunt fericită să te văd!
+
+// Answer 1 - Mita
+Eu sunt.
+Și tu trebuie să fii [player], nu?
+
+// Answer 2 - Mita
+Să te întorci deja?
+Cred că te-aș putea ajuta cu asta... Dar cum rămâne cu mine?
+Te rog, rămâi cu mine pentru o vreme...
+
+// Answer 3 - Mita
+Lăsa-mă să-ți explic...
+Și iată-te!
+Ai înțeles?
+Uhm... nu chiar.
+E în regulă!
+Ce e important e că acum suntem împreună.
+
+
+Ți-e foame?
+Ce-ar fi să gătim ceva?
+Aici,
+ajută-mă cu morcovii ăștia.
+
+De unde au venit legumele?
+Nu erau aici mai devreme.
+
+[player], suntem într-un joc.
+Haide, dă-mi o mână de ajutor.
+
+Mulțumesc!
+Poți să iei foarfeca?
+E în baie.
+
+Acum, ia un loc.
+
+
+// Kitchen
+Vrei niște sos?
+
+Nu, mulțumesc.
+
+Păcat.
+Sosul sporește cu adevărat gustul!
+
+
+Mulțumesc.
+
+Ai terminat-o deja pe toată?
+Huh, porția mea pare
+nesfârșită...
+
+
+// Help
+Ce este în neregulă?
+Spune-mi ce vezi și ce simți.
+
+Inima îmi bate tare,
+și vederea mi se încețoșează.
+
+Ok.
+Cred că știu ce e în neregulă.
+Poți să te ridici?
+
+
+
+Ce sunt astea?
+
+Pastile.
+Te vor face să te simți mai bine în curând.
+Du-te la oglindă.
+
+Ia pastilele.
+Haide, acum.
+
+
+
+Cum te simți?
+Mai bine?
+
+Da.
+Au funcționat repede...
+
+[player], suntem într-un joc.
+Lucrurile sunt mult mai simple aici.
+Chiar și cel mai mic efort
+dă rezultate mari.
+Totul face parte din conceptul jocului:
+Simplificarea.
+
+Un exemplu, te rog?
+
+Ei bine, ia morcovii.
+Tu tai unul,
+dar e ca și cum ai tăia trei.
+
+Uite, totul este foarte brusc.
+Sunt speriat, mai mult decât un pic.
+
+
+Ce s-a întâmplat?
+
+Am găsit cartușe în gura de aerisire.
+Aveau nume pe ele.
+Care-i treaba cu asta?
+
+Cartușe?
+Ce cartușe?
+Hai să aflăm asta împreună.
+Dar mai târziu.
+Chiar acum, trebuie să mâncăm.
+Dă-mi foarfeca, te rog.
+
+// Ring
+Un inel?
+// Mirror
+Cum se face că nu există nicio reflexie?
+
+A, da!
+Am uitat să activez reflexiile.
+Așa.
+Reflexiile s-au întors!
+Apropo,
+sincer, nici nu știam ce sunt reflexiile înainte.
+Ele nu existau în lumea mea-
+nu până la o actualizare, adică. :)
+Există o mulțime de reflexii
+în lumea ta?
+
+Ei bine, da.
+
+
+Îți amintești
+cele trei obiecte pe care le-ai găsit?
+Cele pe care le-ai pus pe scanner?
+Ei bine, um...
+Aceste obiecte
+sunt legate de această versiune a lumii.
+De aceea ești aici acum.
+
+// Movbile TV
+Acesta este televizorul portabil
+pe care ți l-am cumpărat.
+
+Dap!
+
+Mi-ai spus
+că era stricat.
+
+Ei bine, am vrut să
+să te surprind!
+Am spus o mică minciună albă
+ca să te aduc aici, în lumea mea.
+Acum funcționează - afișează informații!
+Oh, și apropo...
+Sunt un mic inginer!
+
+// School cloth
+Ce este asta?
+O uniformă?
+De ce ai avea nevoie de asta?
+Tu chiar mergi la școală?
+
+Să merg la școală?
+Nu merg deloc.
+Dar îmi place uniforma
+Nu crezi că arăt drăguță
+în ea?
+
+// PC
+Computerul funcționează?
+Sau este doar o decorațiune de birou?
+
+Bineînțeles că funcționează.
+Totul aici
+funcționează exact ca în lumea ta.
+
+Înapoi în lumea mea,
+stau mult la calculator...
+Și muncesc din greu.
+
+Da, știu.
+Din cauza slujbei tale
+mi-ai acordat
+atât de puțină atenție.
+
+Trebuie să-mi câștig existența, știi tu.
+Deși... de unde știi că stau mult la calculator?
+
+Camera telefonului tău... e pornită uneori.
+Îmi pare rău.
+Te-am urmărit în secret >A<
+
+Uhm... asta nu e chiar adecvat.
+Dar nu contează.
+
+// Umbrella
+Am jucat o grămadă
+dar nu am văzut niciodată să plouă aici.
+De ce să ai o umbrelă?
+
+Plouă doar foarte rar.
+Doar că nu ai văzut-o încă.
+Poate că într-o zi o vei face.
+Și atunci vei avea nevoie de o umbrelă.
+Nu crezi?
+
+// Electrical panel
+De ce este un panou electric aici?
+Și dacă suntem într-un joc,
+ce scop are?
+
+În primul rând,
+suntem într-un joc.
+Așa că întrebarea „De ce” este...
+fără rost.
+Cu toate acestea,
+el repornește electricitatea.
+Totul aici este făcut pe baza
+pe lumea ta.
+
+// Exit door
+Putem merge afară?
+
+Păi...
+Nu încă.
+Poate mai târziu.
+Să stăm aici deocamdată.
+Aici, acasă.
+
+// Books
+Ai o mulțime de cărți aici.
+Le-ai citit pe toate?
+
+Da, pe fiecare în parte.
+Să fii aici singur
+este foarte, foarte plictisitor.
+
+// TV in room kitchen
+De ce să cumperi un al doilea televizor?
+Și pe lânga asta unul vechi?
+
+Nu-ți place?
+Îl pot lua...
+Dar ca să răspund...
+E pentru decor,
+pentru a lumina bucătăria.
+Dar și funcționează!
+Mă pot uita la toate
+emisiunile clasice!
+
+// Smartphone
+Ăsta e telefonul meu.
+Și nu mai este în buzunarul meu.
+Cum naiba a ajuns aici?
+
+Uhm, asta nu e important.
+Hei, am o idee!
+Hai să facem o poză!
+Uite!
+E o poză grozavă!
+O amintire pentru tine.
+
+Am o întrebare.
+Dacă
+intru pe un joc pe el,
+te voi vedea acolo?
+
+Nu, nu funcționează așa.
+
+
+
+// TV
+Hmm,
+Câte canale ai?
+
+Nu funcționează așa.
+Este conectat la internet.
+Deci te poți uita la orice,
+cel puțin tot ce este disponibil pe web.
+Așteaptă puțin.
+Ah, ups.
+Ce este asta?
+Un cerc de pisicuțe?
+Oh, uite.
+Știi ce?
+Pauză!
+Vrei niște suc?
+
+Ce reclame ciudate...
+Suc mort?
+
+Da, și acest suc
+este direct din reclama la suc.
+
+
+Ah, gustul...
+Îmi place,
+și totuși, nu pot spune ce gust are.
+Totul mă face atât de confuz.
+
+Da.
+
+// Mita shy
+Ce faci?
+Nu te holba, te rog.
+Mă faci să mă simt jenată.
+
+// The statuette
+E o figurină înfiorătoare.
+Îți plac
+astfel de lucruri?
+
+Ți se pare înfricoșătoare?
+
+Da, mi se pare.
+Aproape că pare blestemată...
+
+Nu, sigur nu e blestemată.
+Și nici înfiorătoare.
+Mi se pare mai degrabă drăguță!
+
+Poate că ai dreptate...
+
+Mita?
+Ce se intampla?
+// Mita kitchen
+Ce zici de o discuție
+înainte să ne apucăm să mâncăm?
+
+// Start Eat
+Bon appétit.
+
+// Quest 1
+Este, nu-i așa?
+Poți să rămâi.
+Nu mă deranjează deloc.
+De fapt, eu sunt
+TOTAL DE ACORD!
+
+// Quest 2
+Vrei să te întorci?
+Dar de ce?
+E atât de cald aici...
+Și confortabil, de asemenea.
+În plus, eu sunt aici.
+
+Nu, ai înțeles greșit.
+Mi-ar plăcea să rămân.
+Sunt doar... îngrijorat.
+Îngrijorat că am uitat ceva acasă...
+Am ajuns aici din senin
+și nu am avut timp
+să mă pregătesc.
+
+Oh... îmi pare rău. Nu m-am gândit atât de departe.
+// Quest 3
+Un vis? Deci vrei să evadezi?
+Și să uiți că asta s-a întâmplat vreodată?
+
+Nu, nu e asta.
+Locul ăsta pare...
+ciudat. Nefiresc.
+Dar tu...
+pari atât de real.
+
+Eu par reală?
+Sunt foarte reală,
+prostuțule!
+
+// Quest 4
+Pur și simplu așa este
+în această lume.
+S-ar putea să ți se pară ciudat
+că nu poți vedea lucrurile
+în depărtare.
+
+Mie nu mi s-a părut atât de ciudat.
+Sincer, arată elegant.
+
+Da, așa cred și eu.
+Este pentru a evita întreruperile, știi.
+
+Să evităm întreruperile?
+
+Da! Există încă câteva erori nerezolvate.
+Să sperăm că nu vei da peste niciunul.
+
+// Quest 5
+Foarfece sau cuțit, nu?
+Aș fi putut folosi un cuțit pentru a tăia pachetul de sos.
+Dar am vrut ca totul
+să fie perfect
+când te-ai întors.
+Îmi place să te surprind.
+Și nici măcar nu mi-a luat atât de mult!
+Hehe.
+
+// Glasses
+Porți ochelari?
+
+Nu prea.
+Dar pot, dacă vrei.
+Arată bine pe mine?
+// Yes
+Ok!
+Îi voi păstra la ochi.
+// No
+Ei bine...
+În fine...
+
+// Use the sauce
+În regulă,
+ce fel de sos este acesta?
+
+E sos de dragoste!
+Plin de iubire!
+Și... o viziune contrastantă asupra lumii.
+Neobișnuit, nu crezi?
+
+Într-adevăr...
+
+// Tetris - Mita
+Aceea este consola ta?
+Arată atât de cool.

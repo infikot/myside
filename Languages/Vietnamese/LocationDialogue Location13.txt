@@ -12,7 +12,7 @@ về mặt trái của thế giới dị thường này... phải không anh?
 
 Hm, phải vậy không ta...?
 Anh không biết em thiết lập tuyến đường như nào,
-nhưng anh bị đưa đến một phiên bản toàn lỗi
+nhưng anh bị đưa đến các phiên bản toàn lỗi
 và nguy hiểm.
 Anh chỉ có thể thoát ra
 bằng cách nhảy vào bóng tối vô tận.
@@ -47,7 +47,7 @@ Mita Cuồng Bạo.
 Là Mita Xấu Xí đó anh.
 Hung hăng và ngốc nghếch.
 Chẳng thể nào nói chuyện được với cô ấy đâu.
-Trong đầu cô ấy chỉ nghĩ đến "Mita Cuồng Bạo" thôi.
+Trong đầu cô ấy chỉ nghĩ về "Mita Cuồng Bạo" thôi.
 
 À, hiểu rồi.
 
@@ -121,7 +121,7 @@ Tuyệt quá! Không hổ danh!
 Nhưng anh phải chỉ định phiên bản nữa.
 
 Ừm... Phiên bản của cô ấy là...
-0.98.
+00.98
 
 Bingo!
 Vậy, mã số là gì?
@@ -177,7 +177,7 @@ Vậy nếu như chúng ta...
 Chỉ cần giết Mita Cuồng Bạo thì sao ư?
 Anh nghiêm túc chứ...?
 Anh định đối mặt với một mụ điên cầm cưa máy kiểu gì?
-Cái này không như thái cà rốt đâu!
+Cái này không đơn giản như thái cà rốt đâu!
 Em không hiểu sao cô ấy lại khỏe kinh khủng.
 Thật kỳ diệu khi chúng ta vẫn còn sống...
 Đi thôi anh. Chỉ còn cách xử lý Lõi thôi.

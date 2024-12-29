@@ -1,0 +1,5 @@
+Encontra uma saída.
+Tenta acordar a Mita.
+Faz café.
+Dá o café à Mita.
+Leva a Mita aos interruptores.

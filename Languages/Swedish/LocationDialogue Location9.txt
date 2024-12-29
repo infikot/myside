@@ -1,0 +1,87 @@
+
+Hej, du där!
+Hej, du!
+Vill du gå ut?
+Hjälp mig då att hitta nyckeln!
+// Nyckelsökning
+Skit också! Nyckeln är borta!
+Ingenting här...
+noll, zip, nada!
+Hittade den!
+
+// Den vanliga konversationen
+Jag trodde att du skulle vara kortare!
+Du är lång...
+precis som min syster!
+
+Din syster? Vad är det med henne?
+
+Ja, min syster.
+Säg inte att du aldrig har träffat henne!
+
+Eh... Jag har träffat henne... Tror jag?
+
+Är du en idiot?
+
+Erm...
+
+Det visar sig att du är det...
+Kom igen, hjälp mig bara att hitta nyckeln!
+
+// Nästa arbete
+Kom igen nu.
+Sätt järnet i röret!
+Tack så mycket!
+Ge mig nu träet!
+Tack så mycket!
+Lite mer hjälp, tack!
+Allt är klart! Nu...
+Wow, det är vackert.
+Tryck på den, kom igen!
+Gör dig redo...
+Där, ta den!
+Nyckeln är din!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Är du Mita?)
+Jag är ChibiMita.fbx!
+Massor av linjer,
+enklaste modellerna, och-
+bäst av allt - underbart hår!
+
+// Quest 2 (Har vi sett varandra än?)
+Dumskalle!
+Du är ganska söt, vet du,
+ställer såna dumma frågor.
+Fast..,
+det här är första gången jag träffar dig!
+Men lyssna...
+Om du snor min underbara look,
+ska jag få dig att ångra det!
+
+// Quest 3 (Varför är du här?)
+Fattar du inte?
+Det här är en checkpoint-
+ett test av ditt förstånd!
+Kom igen nu!
+Jag är här för att vägleda de hopplöst vilsna!
+
+// Quest 4 (Varför hjälper du mig?)
+Vad är det som gör dig så speciell?
+Varför inte hjälpa dig i alla fall?
+
+Va?
+
+Så dumt...
+Du dök bara upp från ingenstans!
+Du borde inte vara här,
+så jag hjälper dig!
+
+Hej då, dumskalle!

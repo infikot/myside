@@ -134,15 +134,15 @@ Discord
 
 
 不显示血腥画面
-
-
-
-
-
-
-
-
-
+Special Thanks:
+Achievement Icon: Iceсloud
+Photograph: Nineko Hori
+Translator
+Converts the game's text into another language.
+Publishing Partner
+Game marketing
+Tester
+Played and found all manner of bugs.
 此语言翻译由社区爱好者提供，并根据其要求添加到游戏中。
 请注意！该游戏包含一些跳脸要素，尖锐音效，以及画面闪烁效果。光敏性癫痫、心脏病等患者不建议游玩。
 和平模式现已开放！
@@ -159,7 +159,7 @@ Discord
 控制游戏内时间
 亮度
 对比度
-片段
-已截屏！
+暗角
+截屏！
 打开包含屏幕截图的文件夹
 镜头角度

@@ -68,7 +68,7 @@ alors ce sera son problème !
 
 // quest 3 - MitaChibi - [not]
 Tu n'as pas encore compris ?
-C'est un point de contrôle !
+C'est un test de tes compétences !
 Réfléchis un peu !
 Tu peux y arriver !
 Je guide les idiots perdus !
@@ -81,7 +81,7 @@ Hein ?
 // MitaChibi - [not]
 Idiot
 Tu débarques de nulle part !
-Tu ne devrais pas être ici.
-Alors je te viens en aide !
+Tu ne devrais pas être ici,
+alors je te viens en aide !
 
 Bye bye, bécasse !

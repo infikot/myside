@@ -1,0 +1,132 @@
+﻿Nyomd
+Beszélj
+Vedd fel a gyűrűt
+Gomb keresése
+Tartsd nyomva
+Állj fel
+Vedd a gyűrűt
+Töröld ki
+Vége
+Nyomd
+Befejezés
+FUSS
+Üzenet megnyitása
+Alkalmazás letöltése
+Alkalmazás megnyitása
+Beszélj
+
+Szedd fel
+
+Nézd meg
+Tedd le
+Add neki az ollót
+Nem, köszönöm
+Egyél
+Állj fel
+Próbálj meg felállni
+Vedd be
+Kérek szószt
+Szedd fel
+Kártyák megjelenítése
+Kártyák elrejtése
+Jobb
+Bal
+Ezt tedd le
+Maradj
+Ne maradj
+
+Kazetták
+Nyisd ki
+
+Idd meg
+Ne idd meg
+
+Jobb
+Bal
+Ugrás
+Lopakodás
+Támadás
+
+Tekerd jobbra
+Tekerd balra
+Tedd vissza
+
+Engedd el
+
+Ébredj
+Ülj fel
+Állj fel
+Számítógép bekapcsolása
+Rámen előkészítése
+Vége
+Irány az ágy
+
+További darabok keresése
+
+Játssz!
+Kérlek ne
+
+Ismerem
+Nem ismerem
+Gyengéden
+Erősen
+Most!
+
+Bal
+Közép
+Jobb
+
+Jobb
+Kiválasztás
+Bal
+
+Következő menet
+Elég volt
+
+Közbeavatkozás
+
+Húzd meg
+
+Szerintem a jobb
+Szerintem a bal
+
+Jobbra
+Balra
+Ugrás
+Kinyit
+
+Kiválasztás
+Kilépés
+Folytatás
+Játssz!
+
+
+Csukd be
+
+Jobb
+Bal
+Le
+Fel
+
+Vissza
+Gépelj
+
+Étel elfogyasztása
+Ital ivása
+Húspogácsa
+Zsemle
+Adj hozzá tejet
+Adj hozzá cukrot
+Adj hozzá lisztet
+Adj hozzá olajat
+Adj hozzá tojást
+Keverd meg
+Öntsd ki a keveréket
+Forgatás
+Túl sok
+
+Aranyos vagy benne!
+Vedd le
+
+Magyarázd el
+Inkább ne

@@ -63,7 +63,7 @@ Bueno, entonces, buena suerte, Mi-la...
 ¿Qué es esto?
 
 ¿Qué esperabas,
-¿el País de las Maravillas?
+el País de las Maravillas?
 
 ¿Cómo salgo de aquí?
 Se supone que hay una salida aquí.
@@ -78,7 +78,7 @@ Se supone que estoy en el camino correcto.
 
 ¡No te acerques!
 No sé qué es...
-¡algún tipo de error!
+¡algún tipo de glitch!
 
 Mi anillo está temblando por alguna razón.
 
@@ -107,21 +107,21 @@ La que podría sacarme de aquí.
 
 // Mila came out and swears
 ¿Qué fue eso?
-Pervertido, sin decencia...
+Pervertido, indecente...
 
 ¿Por qué entraste de repente al baño?
 ¡Podrías haber esperado
 a que saliera!
 
 No sabía cuánto tiempo tomarías.
-¿Hasta cuándo seguirás lidiando con estos errores, de todos modos?
+¿Hasta cuándo seguirás lidiando con estos glitches, de todos modos?
 
-¿Errores?
+¿Glitches?
 ¿Hay más?
 
 Sí...
 bueno, si mi casa sigue en pie,
-asumo que arreglaste el error en la cocina.
+asumo que arreglaste el glitch en la cocina.
 
 Más o menos.
 
@@ -138,7 +138,7 @@ Gracias.
 ¡Me volviste a asustar!
 ¿Qué quieres?
 
-¿Has visto más errores?
+¿Has visto más glitches?
 
 ¡Oh, así que tus problemas
 se supone que son una excusa para detenerme de terminar mi libro?
@@ -163,7 +163,7 @@ Quizás lo haría,
 pero tengo que seguir avanzando.
 
 ¡Bien!
-Ve y busca tus errores tontos...
+Ve y busca tus tontos glitches...
 Es la segunda vez que me lastimo
 por tu culpa.
 // Player saw a glitch
@@ -183,7 +183,7 @@ Y aun así... ni siquiera parpadeaste.
 
 No, no mucho...
 
-Entonces, has visto todo mientras resolvías esos fallos,  
+Entonces, has visto todo mientras resolvías esos fallos,
 ¿no es así?  
 Ya sabías que la piedra estaba precortada,  
 ¿verdad?
@@ -243,7 +243,7 @@ y luego,
 Ahí está el pasaje.
 Lo logramos, Mila.
 
-
+¡Оh! ¿Qué? // Deleted [not]
 ¡Bien hecho,
 héroe!
 
@@ -334,8 +334,8 @@ No quiero ser así.
 ¿Mariposas reales como esa?
 
 No,  
-pero tengo un libro aquí en alguna parte.  
-Incluso tiene pequeñas alas prensadas en él...  
+pero tengo un libro aquí en alguna parte.
+Incluso tiene pequeñas alas prensadas en él...
 Este cuadro,  
 sin embargo...  
 está un poco torcido.  
@@ -422,7 +422,7 @@ poniendo los pelos de punta.
 // Nearby 4
 Sabes... ¡No soporto a los pervertidos!
 Adictos a las zanahorias, obsesionados con el sexo...
-Y luego estás tú, que adoras los tontos errores.
+Y luego estás tú, que adoras los tontos glitches.
 ¡Eres, sin duda, el pervertido más extraño que he conocido!
 
 // Nearby 5
@@ -432,7 +432,7 @@ Y luego estás tú, que adoras los tontos errores.
 // Nearby 6
 Dicen que luchar  
 contra tu naturaleza es un DESAFÍO.  
-Estoy trabajando en la disciplina, pero no tienes idea  
+Estoy trabajando en la disciplina, pero no tienes idea
 de cómo me pican las manos por simplemente  
 sentarme y tomar el té contigo.
 
@@ -442,10 +442,10 @@ no puedo ver a través de las capas de tu extraña,
 obstinada determinación.
 
 // Nearby 8
-He leído que el destino es como algo escrito,  
+He leído que el destino es como algo escrito,
 que incluso detalla  
 cómo pasarás el día.  
-¡Ja! ¿Quién escribió esa tontería?  
+¡Ja! ¿Quién escribió esa tontería?
 ¿Fuiste tú?
 
 // Nearby 9
@@ -510,10 +510,10 @@ Será mejor que tengas cuidado
 y sin reflejo?
 
 Tu
-Te ves tan disgustado.  
-¡Mira! Leí todo sobre los reflejos  
+Te ves tan disgustado.
+¡Mira! Leí todo sobre los reflejos
 en libros.  
-¡Pero en mi versión, no puedo hacerlos!  
+¡Pero en mi versión, no puedo hacerlos!
 No puedo hacerlo, ¿de acuerdo?
 
 // Switch light
@@ -559,15 +559,15 @@ Entonces, eh... ¿este jabón es real?
 ¿O solo otra decoración?
 
 ¿Estás bromeando?
-¡La mayoría de las cosas aquí son realmente
-auténticas! Honestamente...
+¡La mayoría de las cosas aquí
+son realmente auténticas!
 
 // BagWall
 ¿A dónde fuiste?
 
 ¿Puedo pasar por aquí?
 
-¿Encontraste un nuevo error o algo así?
+¿Encontraste un nuevo glitch o algo así?
 ¿Qué es?
 
 Parece...
@@ -579,7 +579,7 @@ Ah, de vuelta otra vez.
 ¿Tu vista es mala?
 ¿Por qué necesitas gafas?
 
-Qué! ¿no te gustan?
+¡Qué! ¿no te gustan?
 ¡Se llama estilo!
 Y mi vista es perfecta, gracias.
 

@@ -2,43 +2,43 @@
 ¡Hola!
 ¡Oops!
 Lo siento,
-Casi te mato ahí.
+casi te mato.
 Uhm... quiero decir
-El refrigerador... el refrigerador casi te mata.
-Yo no tuve nada que ver con ello,
+el refrigerador... el refrigerador casi te mata.
+Yo no tuve nada que ver con eso.
 ¡Lo juro!
 ¡De verdad!
 
 Si claro, ¡te creo!
 
-Pero hablando enserio,
+Pero hablando en serio,
 este lugar es peligroso...
-especialmente para ti.
+especialmente para tí.
 
 // After a while 1
-Tu no eres como los demás, ¡eh!
-Es interesante ver
+Tú sí que eres valiente, ¡eh!
+Es divertido ver
 como te las arreglas
-en esos lugares...
-Corre, querido, corre!
+en estos lugares...
+¡Corre, querido, corre!
 ¡Voy a alcanzarte!
 ¡Vamos esfuérzate!
-Woah, ¡esto es muy divertido!
+Wow, ¡esto es muy divertido!
 
 // After a while 2
 Veo que te diriges hacia el teleférico.
 Ese es el camino mas largo
 entre versiones...
-Me pregunto como vas a lidiar
-con aquellos que viven ahí
-dentro de esa niebla.
+Me pregunto
+¿cómo vas a lidiar con aquellos 
+que habitan dentro de la niebla?
 
 // Panties
-¿Qué crees que estas haciendo?
+¿Qué crees que estás haciendo?
 Por favor...
 ¡No mires!
 ¡Tonto!
-Tonto de verdad...!
+¡Eres un tonto...!
 
 
 Ah, muy bien...
@@ -47,16 +47,16 @@ Ah, muy bien...
 ¡Buena suerte!
 
 
-¡Quien esta ahí?
+¿Quién esta ahí?
 Puedo sentirte...
 Escúchame,
 eres un jugador,
 ¿no es así?
 Ayúdame a encontrar...
-Encontrar un...
+encontrar un...
 Déjame pensar...
-mi mente esta en blanco...
-¿Qué esta pasando aquí?
+no puedo recordar...
+¿Qué está pasando aquí?
 // Cry 1
 Quise olvidar todo una vez...
 Rompí todos los espejos,
@@ -65,24 +65,24 @@ pero ahora...
 todo lo que siento es arrepentimiento.
 Que tonta fui...
 Todo el mundo comete errores, claro...
-Pero que puedes hacer
+Pero ¿qué puedes hacer
 cuando las consecuencias son catastróficas?
-Desearía regresar en el tiempo...
+Ojalá pudiera volver el tiempo atrás...
 // Cry 2
 Dicen que el tiempo cura todas las heridas...
-¿Pero que es el tiempo?
+¿Pero qué es el tiempo?
 Ya no creo en nada...
 Pero si el tiempo puede curar,
-o al menos llevarme con el,
+o al menos llevarme con él,
 lejos de este mundo...
 Entonces, te lo ruego, por favor
-apresura el tiempo.
+acelera el tiempo.
 Para que pueda matarme
 de una vez por todas.
 // Cry 3
 Ella puede amar...
-¿Podría amar yo también?
-Pero no como ella
+¿He amado yo también alguna vez?
+Pero mi amor es diferente;
 Su amor es intenso,
 despreciable...
 ardiente...
@@ -95,22 +95,22 @@ Me llamaron emocional...
 Te preocupas demasiado, Mita...
 Ya se te pasará, Mita...
 No estas sola, Mita...
-Ellas dijeron. ¿Pero que me queda?
+Eso dijeron. ¿Pero qué me queda?
 Tristeza,
 desesperación...
-miedo.
+y miedo.
 // Cry 5
 Es inútil...
 no puedo recordar...
-sin duda...
-Este es un eco interminable...
+absolutamente nada...
+Salvo el eco interminable...
 No puedo soportar el pensamiento
 de que estoy atrapada aquí...
-siempre he estado aquí,
-¿Por qué?
+Siempre he estado aquí,
+¿pero por qué?
 No puedo recordar...
 ¿Terminará alguna vez?
-No lo se...
+No lo sé...
 
 // Mita get picture
 Esto es...
@@ -120,23 +120,23 @@ gracias...
 Pero mi cara...
 No tengo una cara...
 Todo es SU culpa.
-Ella se llevo una parte de mi...
-La desechó...
+Ella se llevó una parte de mí...
+la desechó...
 Ella es fuerte...
-e ingeniosa.
+e inteligente.
 No tengo derecho a detenerte, jugador.
 Mira en el armario...
 
 
 ¡Oye!
-¡Estas en mi camino!
+¡Estás en mi camino!
 ¿Vas a quedarte ahí parado?
 ¡Solo quítate de en medio!
-¡Déjame  pasar!
+¡Déjame pasar!
 ¡Solo por que seas grande no significa que seas todopoderoso!
 
 // HEY! STOP!
-¿¡Por que me estas siguiendo!?
+¿¡Por qué me estás siguiendo!?
 ¡Lárgate! 
 
 
@@ -149,7 +149,7 @@ Espera un momento... ¿un jugador?
 ¿Quién esta ahí?
 
 De verdad eres otro jugador.
-Soy MitaFon.
+Soy MitaPhone.
 Soy quien controla los teleféricos.
 ¿Te das cuenta
 de que te diriges a tu propia perdición?
@@ -157,32 +157,32 @@ de que te diriges a tu propia perdición?
 Tal vez,
 pero es el único camino que tengo.
 
-Si tu lo dices.
+Si tú lo dices.
 Presiona el botón y colócate detrás del cañón.
 
 ¿El cañón?
 
-Si.
-¿Pensabas que simplemente podrías pasar?
-Debes de abrirte paso a través de los monstruos,
+Ajam.
+¿Creíste que pasarías sin más?
+Tienes que superar este minijuego de monstruos,
 así que prepárate para disparar.
 
 // Funicular go
-Bien, En marcha.
+Bien, en marcha.
 // Funicular win
 ¡Increíble!
 Lo lograste.
 // Funicular stop
-ahora, sal de aquí.
-¡rápido!
+Ahora, sal de aquí.
+¡Rápido!
 // Funicular wait 2
-¿Qué haces aquí?
-Te dije que podías salir.
+¿Por qué sigues aquí?
+Te dije que te fueras.
 // Funicular wait 3
 No lo entiendo...
-¿Por qué sigues ahí parado?
+¿por qué sigues ahí parado?
 // Funicular tetris
-¿De verdad estas jugando?
+¿De verdad estás jugando?
 Hombre...
 // Funicular goodbye
 Nos vemos.

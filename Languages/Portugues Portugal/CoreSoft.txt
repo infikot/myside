@@ -1,0 +1,59 @@
+Iniciar a aplicação
+
+
+Confirmar login
+Login incorreto
+Programas
+Voltar
+
+Gestor de Dispositivo Virtual
+Contabilidade da Unidade do Servidor [Selecionar Versão]
+Monitorização do Processador Principal [Selecionar Versão]
+Monitorização Gráfica de Processos [Selecionar Versão]
+Quadrângulo
+Terminar jogo
+
+
+Administração Avançada do Sistema
+Reiniciar Personagem [Selecionar Versão]
+Reiniciar Dispositivo [Selecionar Versão]
+Atualizar Versão [Selecionar Versão]
+Recalcular Geometria [Geral]
+
+
+
+
+Restauro do Sistema
+Resolução de Problemas [Geral]
+Antivírus [Geral]
+Consola de Comando [Geral]
+
+
+
+
+Funções Avançadas
+Eliminar Objeto [Selecionar Versão]
+Exibir Câmara [Selecionar Versão]
+Exibir Disparadores [Selecionar Versão]
+Configurações do Motor de Física [Selecionar Versão]
+Obter Pen USB
+
+
+
+Funções Menores
+Editor de Código Binário [Acesso Especial]
+Editor de Matriz de Unidade [Acesso Especial]
+
+
+
+
+
+Especificar Versão do Personagem
+Especificar Índice do Personagem
+Confirmar Reinício
+Usar Alavanca
+Executar Subprograma
+Reiniciar processo em execução!
+Preparar Para Reinício
+A reiniciar...
+Confirmar

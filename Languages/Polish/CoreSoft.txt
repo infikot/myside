@@ -47,12 +47,12 @@ Edytor Macierzy Jednostkowych [Dostęp Specjalny]
 
 
 
-Wprowadz Wersję Postaci
+Wprowadź Wersję Postaci
 Wprowadź Indeks Postaci
-Potwierdz Reset
+Potwierdź Reset
 Użyj dźwigni
 Odpal Program
 Zresetuj Działanie Programu
 Przygotowanie do Restartu
 Reset...
-Potwierdz
+Potwierdź

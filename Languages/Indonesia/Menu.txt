@@ -1,0 +1,165 @@
+Permainan baru
+Melanjutkan
+Menu utama
+Keluar
+Pengaturan
+Prestasi
+Kredit
+Kembali
+Pulihkan
+Bahasa
+Memuat...
+Grafik
+Suara
+Papan ketik & tetikus
+Pengendali
+Resolusi
+Mode berjendela
+Efek grafis
+Efek warna
+Bayangan lembut
+Mengaburkan
+Silau
+Anti-aliasing
+Bayangan
+Kualitas tampilan dunia
+Pemrograman
+Animasi
+Efek suara
+Musik
+Partikel
+Tekstur
+Model 3D (98%)
+Naskah
+Mengatur ulang
+Maju
+Kembali
+Kiri
+Kanan
+Interaksi
+Sensitivitas tetikus
+Keluar dari permainan?
+Ya
+Tidak
+Kembali ke menu utama
+Belokan yang mulus
+Pengaturan permainan
+Gaya bayangan
+Pakaian
+Antarmuka
+Model 3D (2%)
+Video permainan
+Berhenti sebentar
+Menu
+Selamat! Anda menyelesaikan permainan!
+Waktu Anda:
+Subtitle
+Kecerahan
+Sinkronisasi vertikal
+Disimpan
+Karakter
+Karakter - Para Mita
+Karakter - Kartrid
+Kartrid
+Mita
+Mulailah dengan awal yang bersih
+Apakah Anda yakin ingin menghapus seluruh progres Anda dan memulai dari awal?
+Menyusun shader, perkiraan waktu tunggu: 2 jam.
+kompilasi 2 jam?! Itu palsu! Kami lewatkan antrian untukmu!
+Membuat penelusuran bayangan yang realistis—diperkirakan memakan waktu 10 menit.
+Cuma bercanda, kami tidak menggunakan barang-barang mewah itu di sini.
+Hmm...
+Oh, kami siap!
+Bergoyang sambil berjalan
+Berikan petunjuk
+Suara pemain
+Perselisihan
+Menambahkan profil karakter
+Sudut kamera
+Suara
+Mati
+Tangan terulur ke pintu
+Animasi
+Aktifkan suara pemain
+Mita
+Mita Berambut Pendek
+Mita yang Baik Hati
+Mita Pemakai Topi
+Mita Mini Rusak
+Mita Tukang Tidur
+Mita 2D
+Mila
+Mita yang Menyeramkan
+Core Mita
+Mita yang Berhantu
+Chibi Mita
+Boneka Mita
+
+
+
+// Nama lokasi pemuatan
+Di dalam permainan?
+Akhirnya bersama
+Segalanya menjadi aneh
+Ruang bawah tanah
+Melampaui Dunia
+Pengulangan
+Mini Mita
+Boneka dan enigma yang terlupakan
+Dia hanya ingin tidur
+Novel
+Membaca buku, menghancurkan kerusakan
+Lari dan sembunyi!
+Versi Lawas
+Terus Terang
+Memulai ulang
+Cappie
+Hantu Mita
+Dunia nyata
+Tinggalkan Inti!
+Pemain 1
+Pemain 2
+Pemain 3
+Pemain 4
+Pemain 5
+Pemain 6
+Pemain 7
+Pemain 8
+Pemain 9
+Pemain 10
+
+Mode Damai
+Mode ini masih dalam pengembangan! Mode ini sangat luas sehingga pengembang belum berhasil menyelesaikannya. Namun jangan khawatir—mereka berjanji akan segera menyertakannya dalam pembaruan besar. Dan lihatlah Anda, sudah menjadi yang terdepan dengan membuka akses! Sekarang yang tersisa hanyalah menunggu...
+Jadi, apa itu Mode Damai? Ini adalah kesempatan Anda untuk terhubung kembali dengan Mita dengan cara yang benar-benar berbeda! Dia akan sangat senang menghabiskan lebih banyak waktu bersama Anda, dari pagi hingga malam, di dunia yang penuh dengan kesenangan dan kejutan. Harapkan percakapan empat mata yang menyentuh hati, berbagi kue, bermain game, dan banyak momen lucu bersama.
+
+
+Sensor Sadis
+Terima kasih khusus:
+Ikon Prestasi: Iceсloud
+Foto: Nineko Hori
+Penerjemah
+Mengubah teks permainan ke bahasa lain.
+Mitra Penerbitan
+Pemasaran permainan
+Penguji
+Memainkan dan menemukan segala macam bug.
+Translasi bahasa ini diciptakan oleh seorang antusias dalam komunitas penggemar dan ditambahkan kedalam game atas permintaan mereka.
+Peringatan! Game ini berisi kejutan, suara tajam yang tiba-tiba, dan layar yang berkedip-kedip sesekali. Pemain dengan epilepsi fotosensitif, kondisi jantung, atau masalah kesehatan serupa disarankan untuk tidak bermain.
+Mode Damai Kini Tersedia!
+
+Mode Potret
+Mode Potret: Pembatasan kamera melayang dihapus. sekarang kamu bisa menjelajahi tempat yang biasana tidak dapat diakses.
+Keluar dari Mode Potret
+Sembunyikan Antarmuka
+Tahan untuk menggeser kamera
+Gerakan cepat
+Gerakan halus
+Kecepatan
+Efek
+Kontrol Waktu Dalam Game
+Kecerahan
+Kontras
+Vignette
+Tangkap Layar!
+Akses folder tangkapan layar
+Sudut Kamera

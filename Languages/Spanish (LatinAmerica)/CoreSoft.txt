@@ -1,22 +1,22 @@
 Iniciando Aplicación
 
-Confirmar Registro
-Registro Incorrecto
+Confirmar inicio de sesión
+Credenciales incorrectas
 Programas
 Regresar
 
 Gestor de Dispositivo Virtual
-Contador de Unidad de Servidor [Selecciona Versión]
-Monitoreo de Procesador Principal [Selecciona Versión]
-Monitoreo de Procesador Gráfico [Selecciona Versión]
+Conteo de Unidades de Servidor [Seleccionar Versión]
+Monitoreo de Procesador Principal [Seleccionar Versión]
+Monitoreo de Procesador Gráfico [Seleccionar Versión]
 Cuadra-Line
-Salir del Juego
+Salir del juego
 
 
 Administración Avanzada del Sistema
-Reiniciar Personaje [Selecciona Versión]
-Reiniciar Dispositivo [Selecciona Versión]
-Actualizar Versión [Selecciona Versión]
+Reiniciar Personaje [Seleccionar Versión]
+Reiniciar Dispositivo [Seleccionar Versión]
+Actualizar Versión [Seleccionar Versión]
 Recalcular Geometría [General]
 
 
@@ -47,12 +47,12 @@ Editor de Unidad de Matriz [Acceso Especial]
 
 
 
-Especifica Versión de Personaje
-Especifica Índice de Personaje
-Confirma Reestablecer
+Especificar Versión de Personaje
+Especificar Índice de Personaje
+Confirmar Reestablecer
 Usa la Palanca
 Ejecutar Subprograma
-¡Ejecutando Proceso de Reinicio!
+¡Ejecutando proceso de reinicio!
 Preparando para Reinicio
 Reiniciando...
 Confirmar

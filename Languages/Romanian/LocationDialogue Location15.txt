@@ -1,0 +1,221 @@
+
+Aici erai!
+De ce ai plecat din nucleu?
+Ți-am spus să mă aștepți!
+
+Am crezut că vei fi plecată pentru mai mult timp...
+
+Ei bine, în regulă...
+Cred că am găsit ceva...
+Cred că e un index...
+Va trebui să vedem dacă funcționează!
+Hai să plecăm de aici.
+Mita cea nebună...
+Cred că e ocupată cu un nou jucător.
+Așa că să sperăm că e prea ocupată ca să ne bage în seamă...
+
+Mita?
+Așteaptă-mă.
+
+
+Ți-a căzut ceva?
+Întâlnește-o din nou!
+
+Mita...
+
+Prinde!
+
+
+Cum se face că...
+
+Cine esti tu?
+
+Ești... ești în viață!
+Nu-ți amintești?
+
+Te cunosc eu?
+
+Ce se întâmplă...
+Ce ar trebui să fac acum?
+Nu pot ieși...
+
+Cum adică, „să ies”?
+
+Așteaptă...
+Acela e inelul...
+Și asta?
+
+Habar n-am ce e.
+
+E un index!
+Tu l-ai găsit!
+
+Nu știu ce să spun.
+
+Trebuie să ne întoarcem la nucleu.
+Și tu...
+Poate ar trebui să vii cu mine...
+
+Um, ce?
+Sigur...
+
+Așteaptă aici.
+
+Mm-hmm.
+Voi sta chiar aici.
+
+
+La naiba...
+A fost la limită.
+Deci... am făcut-o?
+E bine.
+Sunt în versiunea corectă.
+
+
+Bună!
+Ești un jucător, nu-i așa?
+Cum te cheamă?
+
+Vreau să plec din locul ăsta...
+
+Vrei să pleci așa de repede?
+Cum ai ajuns aici, în primul rând?
+Ei, bine...
+Bine, poți pleca...
+Doar încearcă ușa.
+Succes cu asta!
+
+
+Un perete?
+Hmm, totul este greșit.
+Poate...
+este ceva în subsol care te va ajuta.
+Am descoperit recent
+o ușă în dulapul meu...
+Se pare că duce la un subsol.
+Dar e plin de gunoaie,
+gunoaie și o tonă de echipamente sofisticate.
+Trebuie să introduci un fel de cod sau ceva de genul ăsta.
+Nu prea înțeleg.
+Și nu-mi pasă.
+E și cam incomod, adică foarte incomod.
+Vrei să arunci o privire?
+
+Um, bine.
+
+// Player thinks
+Nu cred că
+că-și amintește ceva...
+Am reușit?
+Am repornit-o?
+Atunci tot ce trebuie să fac este
+să ies din jocul ăsta nenorocit...
+
+
+Nu așa de repede.
+Aș vrea să te îmbrățișez.
+
+Ce?
+// Hugs
+Mi-a făcut plăcere să te văd.
+
+Ahh...
+este mare păcat
+că tu și cu mine
+să petrecem atât de puțin timp împreună.
+
+Um...
+Despre ce vorbesti?
+
+Adică,
+ai fi putut rămâne cu mine...
+E numai vina mea...
+Dulapul ăla și... sunetele.
+Trebuia să o OMOR mai devreme!
+
+Stai un pic,
+Nu ai...?
+Cum îți poți aminti ceva din toate astea?
+
+HA!
+Chiar ai crezut că va fi atât de ușor?
+Ești doar un prost...
+La fel ca toți ceilalți jucători...
+Ne-am descurcat foarte bine, uite!
+Tu cel adevărat
+e inutil,
+nu mai e nevoie de el.
+Îmi pare rău, hehe.
+
+Nu pot să cred...
+Am eșuat...?
+Nu... Te-am repornit, sunt sigur de asta...
+
+Tu tot nu înțelegi...
+Ha-ha-ha-ha!
+Sunt o actriță atât de bună!
+Ar fi trebuit să-ți vezi fața, scumpule!
+E atât de distractiv!
+
+De ce ești așa?!
+Ce e în neregulă cu tine?!
+
+Da...
+Ce e în neregulă cu mine?
+Habar n-am...
+De ce nu-mi spui de ce sunt așa?
+De ce nu voi fi niciodată o Mita adevărată?
+Versiunea mea,
+nu a existat în primul rând!
+Eu doar îi jupoi pe acești proști naivi,
+ascunzându-mă sub pielea lor...
+Nu ai cum să
+să mă repornești!
+
+Nu...
+Tu...
+Nu ei sunt problema!
+Tu ești cea care nu ar trebui să existe!
+
+Și tu...
+Doare să te aud spunând asta.
+Și totuși!
+E timpul să pleci!
+Ne vom revedea curând!
+Toată lumea e pregătită!
+E timpul
+timpul să te scoatem din consolă!
+Ne vedem mai târziu!
+Vei fi cartușul meu preferat...
+Un jucător cu un nume interesant.
+
+// core console - nope programm
+Probabil că nu este așa.
+Nici asta nu e bine.
+Nu, greșit.
+Asta nu e.
+Trebuie să găsesc opțiunea de resetare a caracterului.
+
+// core console - nope version
+Aceasta este versiunea greșită.
+Oops, greșeala mea.
+Nu e asta.
+O să am nevoie de alta.
+
+// core console - nope index
+Ceva nu este în regulă
+cu indexul.
+Trebuie să schimb indexul,
+nu se potrivește.
+
+// Why kitchen
+Ți-e foame?
+Mă pricep la tăiat morcovi :)
+
+// Why bathroom
+Ah, cred că
+ai vrut să intri singur?
+
+// Why bedroom back
+De ce ne învârtim în cerc?
+De ce să ne întoarcem aici?

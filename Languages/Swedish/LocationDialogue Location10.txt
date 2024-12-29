@@ -1,0 +1,246 @@
+
+Vänta, vänta!
+Inte så högt...
+Att gå vidare är farligt.
+FÖRRESTEN...
+hur kom du hit?
+
+Eh...
+Ringen öppnar rätt dörrar.
+Jag vet ärligt talat inte hur den fungerar.
+
+Ringen?
+
+Vad är det med det här stället?
+Det är supermörkt.
+
+Jag berättar senare.
+För tillfället, gå mot utgången.
+Möt mig i arkadmaskinen.
+
+
+
+Skynda dig, var inte sen!
+
+
+// Efter minispelet
+Så, fattar du poängen med spelet?
+
+Att jag är gjord av kött och ben, och du är gjord av en skelettmodell?
+
+Oj, oj!
+Låter läskigt när du säger det så.
+Men det är grejen med det.
+
+Okej, men varför måste jag förstå det?
+
+Tror du jag sa åt dig att det var farligt att gå längre
+bara för skojs skull?
+Du kommer att stöta på... övergivna modeller...
+De som man har gett upp, de ”felaktiga”.
+De är aggressiva och kan till och med försöka döda dig.
+
+Så vad ska jag göra?
+Jag ska bara gå
+vart än en dörr öppnas.
+
+Wow!
+Vänd inte ryggen åt dem då.
+Och släpp dem inte ur sikte!
+De blir blyga när man stirrar på dem,
+så blyga att de fryser.
+Ha det i åtanke!
+
+
+
+
+
+
+
+// Quest 1 (Varför finns det andra Mitas där nere?)
+De är nytillverkade.
+Dom behöver tid
+för att få självinsikt.
+Sedan guidar jag var och en
+till sitt eget hem.
+
+// Quest 2 (Varför är det så mörkt på nedervåningen?)
+Vi Mitas är ”skapade” i mörkret,
+så vi behöver stanna där ett tag.
+Föreställ dig
+smärtan av att gå från mörker rakt in i ljuset...
+
+// Quest 3 (Vad gör du här?)
+Fattar du fortfarande inte?
+Jag hjälper nya Mitas att finna sig tillrätta!
+Vem ska hjälpa dem om inte jag gör det?
+Du?
+
+// Quest 4 (Varför behöver vi det här transportbandet?)
+Vad är det här transportbandet till för?
+Finns det tillräckligt med plats för alla?
+
+Vänta, säg inte att du inte
+förstår hur världen fungerar...
+Och att den är oändlig?
+
+Ändlös?
+Uhm...
+Vad menar du med det?
+Om 1.9 är den senaste versionen,
+så finns det bara 19 världar.
+
+Herregud, du förstår verkligen inte
+hur den här världen fungerar överhuvudtaget.
+Titta, jag ska använda den här svarta tavlan
+för att förklara allt.
+Vill du höra om det?
+
+// Quest 5 (Vad är din version?)
+Vänta lite nu,
+träffade jag inte dig i den senaste versionen?
+Eller så är det bara min fantasi.
+
+Jo, det är mycket möjligt.
+Jag är från version 1.5.
+Har du varit i den?
+
+Ja, det har jag.
+Det var där jag kom fram
+när jag kastades in i den här världen!
+
+Whoa!
+Men hur...?
+Men vilket husindex var du i?
+Det finns en ”mig” som inte kan sluta gnälla,
+en ”jag” som älskar att busa,
+en ”jag” med dåligt minne och som gillar att mobba andra...
+Det är en lång lista...
+Berätta för mig vad du minns.
+
+Det var mörkt.
+Det var skrivet
+...som...
+”Lek med mig.”
+
+Ah,
+vad tråkigt...
+Det där är "jag"
+som mobbar och glömmer saker.
+
+// Mita vill säga dig [Nej]
+Tack men nej tack.
+Jag klarar mig bra utan att veta mer.
+
+Okej, som du vill.
+
+// Mita vill berätta för dig [Ja].
+Visst, gör det.
+Jag hoppas bara att det inte blir som i gymnasiet
+där jag alltid somnade av uttråkning.
+
+Du kan gå när som helst,
+eller stanna och lyssna
+om du är intresserad.
+En spelare laddar ner MiSide
+och spelar så mycket som de vill.
+Där skapar han ett nytt hem
+och en ny Mita.
+Detta är en 2D-representation.
+Det här är versionerna,
+som visas som linjer.
+Husen är placerade på dessa linjer.
+Säg att du laddar ner version 1.14,
+vilket betyder ett nytt liv,
+en ny Mita, och ett nytt hus.
+
+Himmel och hav...
+
+Du kan fråga om detaljerna
+i den här ritningen,
+så ska jag göra mitt bästa för att förklara.
+
+// Han frågar om den enda cirkeln
+Varför finns det bara en enda cirkel?
+
+Den versionen släpptes bara en gång,
+och kommer aldrig att upprepas.
+Det är den enda genuint unika versionen.
+Plus, dessa versioner är speciella
+och har inte några vägar till andra versioner.
+Sömniga Mita finns i den här versionen, 1.1.
+
+Sömniga Mita?
+För att hon aldrig får sova
+med alla som passerar genom hennes version?
+
+Nej, så är det inte.
+Du kan passera henne och göra ljud,
+men det är omöjligt att väcka henne.
+
+// Han frågar om den skuggade cirkeln
+Varför är den här runda helt mörk?
+
+Uhm, den där är här
+på grund av Fina Mita.
+Hon ritade den.
+Vi bråkade om
+vem som kunde nå version 1.11 snabbast.
+
+Så, vem vann?
+
+Jag, så klart!
+Titta, vi är här
+i version 1.15,
+husindex 809.
+Vi måste nå version 1.11,
+husindex 805.
+Så hennes väg började så här.
+Vi försökte komma på en kortare väg,
+så Pretty Mita föreslog den här vägen.
+Och sen ritade jag den enklaste, här.
+Lätt, eller hur?
+Titta bara här.
+Härifrån kommer man direkt till den rätta versionen.
+Även om det kan verka som om huset är i vägen,
+att det blockerar din väg...
+Hur som helst, din ring fungerar enligt samma principer.
+Vart är du på väg?
+
+Till kärnan.
+
+Kärnan?
+Hmm...
+Om du vill ha den kortaste vägen,
+måste du gå igenom version 1.11 också.
+Du kommer definitivt att stöta på Sömniga Mita där.
+Jag tror att den Mita som skickade dig,
+tog samma väg.
+Eller så har hon inte insett att du är på en annan väg.
+Eller så är hon ett geni
+och har kommit på en ännu kortare väg!
+
+Jag tror att jag kan förstå det.
+
+// Han frågar om inskriptionen
+Vad är det här för något?
+
+Det är till Coola Mita.
+Hon kommer hit om några timmar.
+Hon kommer att flytta de där lådorna
+och placera en soffa här.
+Min röv gör ont!
+
+Emm...
+Jag kanske kan hjälpa till?
+
+Nej, det är Cool Mitas jobb.
+Hon är tuff.
+
+// Han frågar om teckningarna
+Är det bara en teckning,
+eller
+betyder den något?
+
+Ja, det är det,
+det är bara en teckning.

@@ -1,0 +1,221 @@
+﻿
+Hát itt vagy.
+Miért hagytad el a Magot?
+Mondtam, hogy várj meg!
+
+Aggódtam, mert túl sokáig tartott.
+
+Na mindegy.
+Találtam valamit!
+Szerintem az index lesz az.
+Reméljük, hogy működni fog.
+Most kiengedlek.
+Reméljük Téboly-Mita
+nem ér rá velünk foglalkozni...
+Most épp egy új játékosról gondoskodik...
+
+Mita?
+Várj meg!
+
+
+Csak nem ezt keresed?
+Nem voltam világos az imént??
+
+Mita...
+
+Aki kapja, marja!
+
+
+Miért...
+
+Ki vagy te?
+
+Te... te még élsz?
+Nem emlékszel?
+
+Ismernem kéne téged?
+
+Miért van ez...
+Most mihez kezdjek?
+Most hogy jussak ki?
+
+Mit értesz az alatt hogy „ki?”
+
+Várj...
+az ott a gyűrű?
+És az ott?
+
+Fogalmam sincs, mi ez.
+
+Ez az index!
+Hát megtaláltad!
+
+Nem tudom, erre mit válaszoljak.
+
+Vissza kell mennem a Maghoz...
+Te meg...
+Te is jöhetnél.
+
+Hogyan?
+Hát jó.
+
+Itt várj.
+
+Rendben,
+ide leülök.
+
+
+A rosseb...
+Egy hajszálon múlt.
+Vajon sikerült?
+Ezaz.
+A jó verzióban vagyok.
+
+
+Szióka!
+Te egy új játékos vagy?
+Hogy hívnak?
+
+Le akarok innen lépni...
+
+Máris elmész?
+Honnan jöttél?
+Nem fontos.
+Rendben, elengedlek.
+Az ajtón át kijuthatsz innen.
+Sok sikert!
+
+
+Egy fal?
+Ez furcsa.
+Lehet,
+van valami a pincében ami segíthet.
+Nemrég találtam egy pincét
+a szekrényemben.
+Ott fura kacatok,
+és ketyerék vannak.
+Elég bizarr.
+Azt hiszem valami kódot kell beütni...
+Nem igazán értem,
+és nem is szeretném.
+Nagyon ijesztő a hely, nem túlzok.
+Odamész?
+
+Hát, jó.
+
+// Player thinks
+Szerintem
+mindent elfelejtett.
+Vajon tényleg sikerült
+visszaállítani őt?
+Most már csak egyenes út
+ebből az istenverte világból!
+
+
+Kérlek várj.
+Hadd öleljelek át.
+
+Hogy mi?
+// Hugs
+Köszönöm, hogy itt voltál.
+
+Aww,
+olyan szomorú,
+hogy mi ketten
+nem töltöttünk olyan sok időt...
+
+Hogy...
+micsoda?
+
+Hát hogy...
+velem maradhattál volna.
+Én rontottam el az egészet
+a szekrénnyel, meg a rejtélyes zajjal...
+Már előbb megölhettem volna őt...
+
+Várj egy percet...
+Te mind
+emlékszel ezekre??
+
+Te
+komolyan azt hitted, ilyen könnyű megszabadulni tőlem?
+Te félnótás...
+Nem különbözöl a többi játékostól, tudod?
+Ezt nézd!
+Ez a te
+drágaságos kazettád!
+Felőlem mehetsz, már elértem a célom.
+Bocsika, hihi!
+
+Nem hiszem el!
+Egész biztos vagyok,
+hogy visszaállítottalak téged!
+
+Még mindig nem érted...
+HAHAHAHAHAHAHAHA!
+Olyan jól tudok színészkedni!
+Láttad volna a meglepett arcod, drágám!
+Ez annyira izgi!
+
+Mi ütött beléd?
+Miért vagy ilyen?!
+
+Na igen...
+Mi üthetett belém?
+Ki tudja.
+Te mondd meg mi ütött belém?
+Miért nem viselkedek úgy, mint egy Mita?
+Tudod...
+nekem sosem volt se verzióm, se indexszámom...
+Én más Mitákat nyúztam szét, és bújtam meg bennük.
+átvettem a helyüket...
+Ezért nem tudsz engem sosem
+visszaállítani!
+
+Ezt nem hiszem el!
+Te...
+Te vagy a probléma forrása!
+Neked nem szabadna létezned!
+
+Te is ezt mondod?
+Annyira fáj, hogy ezt hallom tőled...
+Sebaj!
+Itt az idő, hogy végre eltűnj innen!
+Majd még találkozunk!
+Már minden készen áll!
+Ideje
+kidobni téged a konzolból!
+Viszontlátásra!
+Máris te vagy a kedvenc kazettám!
+Olyan érdekes neved van, játékos!
+
+// core console - nope programm
+Szerintem nem ez lesz az.
+Ez sem az.
+Rossz helyen keresem...
+Nem ez az.
+Olyat kell találnom, ami azt írja, hogy karakter-visszaállítás.
+
+// core console - nope version
+Nem ez a verzió.
+Hoppá, nem ezt akartam.
+Nem, nem ez az.
+Nem.
+
+// core console - nope index
+Nem jó,
+rossz az index.
+Nem jó,
+nem fér ki.
+
+// Why kitchen
+Nem vagy éhes?
+Szívesen szeletelek neked répát! :)
+
+// Why bathroom
+Szerintem
+ezt egyedül is el tudod intézni.
+
+// Why bedroom back
+Most ugyanoda értünk ahonnan indultunk.
+Hová megyünk pontosan?

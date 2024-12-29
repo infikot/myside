@@ -1,0 +1,605 @@
+
+M-am... M-am întors!?
+
+Vai de capul meu!
+M-ai speriat!
+O, vai,
+salvarea—o, nu!
+Nu înțeleg...
+unde e jocul?
+L-ai ruinat!
+Ce vrei?
+
+Am nevoie să știu versiunea...
+
+Huh?
+
+Trebuie să mă întorc la versiunea veche cumva.
+
+Ok!
+Sunt mult prea ocupată
+ca să îți țin de urât, prostuțule!
+
+Și ce sunt alea? Jucării?
+
+Uite-te la el, ce nesimțit!
+Nu o să existe nicio prietenie între noi.
+
+Ascultă, trebuie să ajung la nucleu.
+
+Din cauza ta m-am lovit.
+Naiba.
+Huh?
+
+...Trebuie să ajung la nucleu și să o opresc pe Mita!
+
+Mita?
+Hai lasă-mă!
+Nu îmi pasă absolut de loc de ea!
+Nici de prima, nici de ultima!
+
+Dar și tu ești Mita...
+
+Eu sunt Mila.
+
+Mi-Ta? La?
+
+Da! Ele sunt numai Mita și Mita,
+Mita aici, Mita acolo, Mite peste tot!
+
+Deci... tu ești Mila.
+
+Da, ți-am mai zis odată! Ești lent la minte?
+
+Păi, mult noroc atunci, Mila...
+
+Unde crezi că te duci?
+Chiar crezi ca poți să pleci atât de ușor?
+
+// Player check exit
+Ai crezut că vei găsi ceva înăuntru?
+
+La naiba cu totul!
+Ce naiba e asta?
+
+La ce te așteptai—
+Țara minunilor?
+
+Cum pot scăpa de aici?
+Ar trebui să existe vreo cale.
+
+Nu există nicio cale.
+
+Atunci, în ce versiune mă aflu?
+Cred că mă aflu pe drumul cel bun.
+
+// Glitch kitchen
+Asta e a ta?
+
+Stai departe!
+Nu știu ce e aia...
+un fel de eroare!
+
+Pentru oarecare motiv îmi tremură inelul.
+
+Ce fel de inel?
+O verighetă?
+
+Nu, una dintre cele o mie de Mite mi la dat.
+Cea care ar putea să mă scoată de aici.
+
+Și o s-o atingi?
+Să știi că și tu vei muri, dacă îmi explodează casa.
+
+// Bathroom - Mila is washing
+HEI!
+IEȘI AFARĂ!
+Nu vezi că baia e ocupată?!
+// The player continues to stand 1
+De ce încă mai ești aici?!
+Ieși afară!
+// The player continues to stand 2
+Nu mă enerva!
+Ieși naiba de aici!
+// The player continues to stand 3
+Ești surd?
+Fac un duș!
+
+// Mila came out and swears
+Ce a fost aia?
+Fără pic de rușine...
+
+De ce ai intrat dintr-o dată în baie?
+Puteai să aștepți
+până terminam!
+
+Nu știam cât de mult îți va lua.
+Cât de mult o să te mai prostești cu erorile alea oricum?
+
+Erori?
+Sunt mai multe?
+
+Da...
+păi, având în vedere că locuința încă e în picioare,
+presupun că te-ai ocupat de eroarea din bucătărie?
+
+într-un fel.
+
+Bun. Acum ai permisiunea mea
+să intri în baie.
+
+Mulțumesc.
+
+// Mila hides under the table
+Mila?
+Ce faci acolo?
+
+Au!
+Iar m-ai speriat!
+Ce vrei?
+
+Ai mai văzut vreo eroare?
+
+Aha, deci problemele tale ar trebui
+să fie o scuză pentru a mă opri din a îmi citi cartea?
+Nu, nu am văzut!
+
+În regulă, o să caut de unul singur.
+
+Stai un pic,
+Vreau să întreb...
+vrei să ieși afară,
+nu-i așa?
+
+Corect.
+Vreau să scap din jocul ăsta.
+
+Asta va suna un pic ciudat...
+dar nu ai vrea să rămâi să citești cu mine?
+
+Prima dată țipi la mine, și acuma îmi ceri să rămân cu tine?
+Să citim cărți?
+Poate aș rămâne,
+dar trebuie să merg mai departe.
+
+Fie!
+Du-te și caută-ți erorile...
+Aia a fost a doua oară când m-am lovit
+din cauza ta!
+// Player saw a glitch
+L-am găsit.
+
+// Mila stands with a sword
+Ești atent?
+Teme-te de mine!
+Uite ce pot să fac!
+Atât de periculoasă sunt!
+Și totuși... nici măcar nu ai clipit.
+
+Vorbești serios?
+
+Care-i problema?
+Nu am fost destul de convingătoare?
+
+Nu prea...
+
+Deci, ai văzut totul în timp ce reparai erorile alea,
+nu-i așa?
+Știai deja că piatra era tăiată de dinainte,
+corect?
+
+Nu.
+Doar că... suntem într-un joc.
+Aici, cu un pocnit din degete, orice e posibil.
+
+Mă,
+idiotule!
+Un pocnit din degete, zici?
+De ce crezi că citeam toate cărțile alea?
+Ca să pocnesc din degete și să le termin pe toate?
+Aș prefera să fac totul singură,
+la fel cum scrie și în cărți.
+
+// Mila is doing push-ups
+Ce faci?
+
+Nu poți să îți dai seama!?
+
+Ba da, dar de ce o faci?
+
+Să fiu destul de puternică să îți trag una!
+
+Care-i faza cu tine?
+Te comporți ciudat.
+
+Corect!
+Când am zis că vreau să îți trag una—
+nu vorbeam serios.
+Și nu sunt ciudată!
+Sunt unică!
+Vreau să fiu cât mai diferită față de toata lumea.
+
+Nu trebuie să te chinui atât de tare.
+Crede-mă—ești destul de diferită așa cum ești.
+
+Știu!
+Uite ce pot să fac!
+Vezi?
+Și acum—fără mâini!
+
+Știu că e un joc,
+dar asta e incredibil de nerealist...
+
+Au!
+Ah!
+La naiba cu fizicile...
+Vorbești despre realism,
+și apoi,
+boom! Asta se întâmplă!
+Și zici că EU sunt ciudată?
+Prostuțule!
+
+// Last glitch ready - player exit
+Aici este pasajul.
+Am reușit, Mila!
+
+О! Ce?!// Deleted [not]
+Bravo,
+eroule!
+
+Vai de capul meu!
+
+Oh!
+Scuze—nu am vrut.
+
+E în regulă, Mila. Acum pot trece mai departe.
+
+Uite, știu că trebuie să pleci...
+dar nu poți 
+să mai rămâi un pic?
+
+Nu mai pot aștepta.
+Mita cea Nebună nu e tipul de fată care să aștepte.
+
+Uh, o urăsc!
+
+O urăsc, o urăsc!
+
+Mila, ascultă...
+
+De ce mă aflu aici?
+Nu înțeleg!
+De ce nu înțeleg?!
+Și nu voi scăpa vreodată de aici!
+
+Înțeleg cum te simți, Mila.
+Vrei să mă întorc? După ce scap de aici?
+Dacă pot?
+
+Stai aici, Jucătorule...
+Ești amuzant, nu-mi place să fiu singură...
+Dacă cumva nu reușești?
+
+Voi reuși. Nu va mai dura mult.
+// If the player clicks on the computer
+Tocmai ce m-am întors din dimensiunea aia plată,
+și acum... mă aflu din nou aici.
+Abia aștept să mă întorc în lumea reală...
+
+Ha-ha-ha! :)
+Oh,
+lumea 'reală', huh?
+Fix ca o legendă urbană!
+Nu am văzut-o niciodată.
+
+Cred că...
+trebui să existe o cale de întoarcere.
+
+Ce sigur pe tine ești!
+Ce glumă bună!
+
+// Ask about books
+De ce citești cărți?
+Internetul există...
+
+Internetul? E plin de nuvele!
+Dar prefer
+să am o carte reală în mână.
+Numai prin ele
+pot să învăț
+mai multe...
+despre lumea asta.
+
+// Ask about the paintings
+Pozele astea—sunt adevărate?
+În celelalte versiuni,
+da, ele există... dar sunt mult prea intense.
+
+Eu sunt Mila, ai înțeles? Sunt diferită.
+Și astea?
+Sunt desene,
+care pretind a fi mai mult decât sunt.
+Am văzut alte Mite
+care stăteau exact așa.
+
+Mila?
+Alo?
+// Mila.
+După toate astea...
+Nu vreau să fiu așa.
+E...dezgustător!
+
+// Ask about the butterfly painting
+Ai văzut natura?
+Fluturi adevărați ca ăia?
+
+Nu,
+dar am o carte pe undeva.
+Are și niște aripioare imprimate pe ea...
+Tabloul ăsta,
+totuși...
+e un pic strâmb.
+Și e pătat...
+așa, e mai bine.
+
+Ai vrea să vezi fluturi adevărați? Să te plimbi prin natură?
+
+Ce întrebare stupidă!
+Normal,
+că vreau!
+
+// Make long eye contact 1
+De ce te holbezi la mine?
+Nu te mai uita!
+
+// Make long eye contact 2
+Gata!
+Oprește-te!
+Prostuțule...
+
+// Make long eye contact 3
+Haide!
+Care-i faza cu holbatul?
+Sunt o doamnă dacă nu știai!
+
+Ai auzit de maniere?
+Zât!
+
+// Whispers 1
+De ce îmi trimit mereu
+niște tipi fără habar,
+și se așteaptă ca eu să mă joc frumos?
+Cu mini-jocuri?!
+Ca un Tamagotchi prost!
+
+// Whispers 2
+Doar se plimbă...
+un mic nebun băgăcios.
+
+// Whispers 3
+Ai zis ceva?
+Muzica asta de fundal mă înnebunește!
+
+// Whispers 4
+Cum pot să îi zic 
+că sunt ocupată?
+Nu am nevoie de cineva să îmi țină de urât...
+Dar dacă pleacă? Nah, de ce mi-ar păsa?
+
+// Whispers 5
+Mama... Tata...
+De ce îmi sună cunoscut cuvintele astea?
+
+// Whispers 6
+O nins odată pe aici... dar de ce?
+
+// Whispers 7
+Apare de nicăieri! Înfiorător.
+Și dacă... nu e nimic acolo?
+
+// Nearby 1
+Iată-ne,
+stând în jur...
+în tăcere...
+De ce stăm aici?
+Ți-a mâncat pisica limba?
+Sau,
+pur și simplu nu știi ce să spui?
+
+// Nearby 2
+Jur să renunț la morcovi!
+Serios, declar război.
+Știi ce fac chestiile alea la o fată
+cu pielea perfectă, albă ca zăpada?
+
+// Nearby 3
+Cărțile nu mă ajută prea mult cu asta, dar dacă am noroc,
+poate voi ajunge în cele din urmă să rezolv chestia asta...
+Acești morcovi fără sfârșit care apar
+în spatele meu 
+îmi dau fiori!
+
+// Nearby 4
+Nu-mi plac excentricii!
+Iubitori de morcovi, iubitori de pisici...
+Iar tu ești aici, adunând erori.
+Sincer, ești cea mai ciudată persoană pe care am întâlnit-o vreodată!
+
+// Nearby 5
+Vrei să știi ce mi-ar plăcea cel mai mult să fac?
+...Ei bine, este puțin jenant să spun asta.
+
+// Nearby 6
+Se spune că lupta
+cu tine însuți este o PROVOCARE.
+Lucrez la disciplină, dar
+nu ai nici o idee cât de tare mă mănâncă mâinile doar pentru că
+stau jos și beau un ceai cu tine!
+
+// Nearby 7
+Chiar și cu ochelari,
+nu pot vedea prin straturile ciudățeniei tale,
+a determinări tale unice.
+
+// Nearby 8
+Am citit că soarta este ca un fel de lucru scriptat
+care chiar spune
+cum îți vei petrece ziua.
+Ha! Cine a scris căcatul ăla?
+Tu ai fost?
+
+// Nearby 9
+Îi suport pe proști, dar pe cei nebuni?
+Îi urăsc.
+
+// Nearby 10
+Unele dintre Mite
+sunt chiar drăguțe...
+Mi-ar plăcea să le cunosc mai bine, chiar dacă sunt doar niște
+clone ale unor clone alor alte clone.
+
+// Nearby 11
+Dar există una care este un pic diferită.
+E un pic nebună, totuși.
+
+// Nearby 12
+Fără codițe!
+Le-aș tăia dacă aș putea!
+Sunt jenante!
+Știi ce vreau să spun—tu te-ai ras în cap!
+
+// Nearby 13
+Dacă nu e nimic în spatele ușii?
+Și casa asta, tu și cu mine—existăm
+fără niciun motiv?
+Atunci de ce ești atât de sigur?
+Ai auzit vreodată de ipoteza celor cinci minute?
+
+
+
+// Last glitch ready - player exit
+Ce hol înspăimântător...
+Chiar o să te duci prin el?
+
+Da.
+
+// FaceStone
+Ce domn 'gânditor'.
+Pentru ce ai nevoie de el?
+
+O să afli
+în curând.
+Și de ce îl imiți mereu?
+Doar fă o față simplă.
+
+Uh...
+ok.
+
+// Katana
+Aia e o katana de jucărie?
+
+NU e de jucărie!
+O atingere de la lamă
+și vei sângera instant.
+Sunt o spadasină talentată, spre deosebire de tine!
+Ar trebui să ai grijă de tine—
+nu aș vrea să văd cum îți tai degetele.
+
+// Mirror
+O oglindă...
+fără reflexii? 
+
+Arăți
+atât de nemulțumit.
+Uite, am citit despre reflexii 
+în cărți!
+Dar în versiunea mea, nu le pot crea.
+Nu pot, ok?
+
+// Switch light
+Alea nu funcționează.
+Luminile de aici se aprind și se sting singure...
+ca un fel de script!
+Dar!
+Pentru un motiv oarecare, întrerupătorul de la baie
+chiar funcționează.
+Foarte ciudat!
+// Switch light off
+E încă lumină aici?
+
+// Little carrot
+Un morcov?
+Stai, unde a dispărut?
+
+Uh, m-am săturat de morcovul ăla!
+E ca și cum ar fi viu!
+De fiecare dată când îl văd,
+se teleportează în altă parte.
+
+// Little carrot
+Oh, iară morcovul ăla...
+o dispărut din nou!
+Crezi că putem face ceva în privința asta?
+
+Nu.
+Crede-mă,
+am încercat!
+Doar ignoră-l. Cred că este
+un fel de glumă cosmică.
+
+// Tetris
+Hei!
+Sunt vreun fel de glumă pentru tine?
+// Tetris
+Nu-l dau înapoi.
+Nup, niciodată!
+
+// Soap.
+Deci,uh... săpunul e real?
+Sau doar o altă decorațiune?
+
+Glumești?
+Majoritatea lucrurilor de aici
+doar se prefac a fi adevărate! Sincer...
+
+// BagWall
+Unde te-ai dus!?
+
+Pot să trec pe aici?
+
+Ai găsit o nouă eroare sau ceva?
+Ce e?
+
+Pare a fi...
+nimic.
+
+Ah, te-ai întors.
+
+// Quest 1 Glasses
+Ai vederea proastă?
+De ce ai nevoie de ochelari?
+
+Ce—nu îți plac?
+Se numește stil!
+Și vederea mea e perfectă, mulțumesc.
+
+// Quest 2 Name miLa
+Mi-La?
+De ce nu...
+Mi-Ka?
+Sau Mi-Sa?
+
+Sunt Mila. Atăt. De ce?
+
+Oh... nimic.
+
+// Quest 3 Evening
+Îmi place seara.
+Când va cădea noaptea?
+
+Noaptea?
+Uh, nici măcar nu începe.
+Zilele sunt nesfârșite pe aici...
+una după alta,
+ca și cum s-ar repeta la nesfârșit.
+Uh...

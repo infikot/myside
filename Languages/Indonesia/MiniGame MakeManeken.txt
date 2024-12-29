@@ -1,0 +1,35 @@
+Pemindaian diperlukan!
+Persyaratan
+Versi
+Kuantitas Tulang
+Tidak ada entitas yang ditemukan. Pemindaian diperlukan!
+Pemindaian Selesai
+
+
+
+
+
+
+
+
+
+
+// Tutorial selesai
+Whoo-hoo!
+Anda berhasil!
+
+// Tutorial
+Jadi, apa yang aku lakukan di sini?
+Aku perlu membuka layarmu...
+Sekarang...
+Jadi!
+Anda perlu memastikan prototipe ini benar.
+Pertama, pindai.
+Sekarang, periksa versi dan kerangka tulangnya.
+Ambil data prototipe ini dan bandingkan dengan versi standar.
+Ini sempurna! Sekarang, mari kita periksa emosinya.
+Spesimen berhasil menunjukkan emosi! Saatnya menguji perilaku.
+Oke, kami sudah memeriksa semuanya dan semuanya cocok! Sekarang tarik tuasnya ke atas.
+Hore! Nah, itulah kulitnya! Berikan dia kotak pakaian itu.
+Itu saja! Lihat lampu di atas? Salah satunya berubah menjadi hijau, artinya kita melakukannya dengan benar!
+Giliranmu! Aku akan kembali ketika semua lampu berubah menjadi hijau. Semoga beruntung!

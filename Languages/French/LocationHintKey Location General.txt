@@ -35,7 +35,7 @@ Utiliser la carte
 Rester
 Refuser
 
-Cartouches
+Les cartouches
 Ouvrir
 
 Boire le jus
@@ -111,19 +111,19 @@ Haut
 Reculer
 Appuyer sur n'importe quelle touche
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Manger
+Boire
+Prendre la patte
+Prendre une tranche de pain
+Ajouter le lait
+Ajouter le sucre
+Ajouter la farine
+Ajouter l'huile
+Ajouter un œuf
+Mélanger
+Ajouter le mélange
+Retourner
+C'est trop
 
 Ça te va bien
 Mieux vaut les enlever

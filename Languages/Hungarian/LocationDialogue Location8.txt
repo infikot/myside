@@ -1,0 +1,84 @@
+﻿// The first meeting
+Te meg ki vagy?
+Mi a bajod?
+Szólalj már meg!
+
+
+Hé...
+Menekülni akarsz innen, nem?
+
+Igen...
+Vissza kell lépnem
+az előző verzióba.
+
+Az előző verzióba?
+Miért akarsz innen
+elmenni?
+Miért nem maradsz itt,
+és leszel a második
+barátom?
+
+// Skipping all dialogs
+Oké...
+
+// Standing by the window (Random)
+Hiába próbálsz megszökni...
+...az ajtók úgy sem segítenek.
+Ugye tudod, hogy csak körbe-körbe futsz?
+Nagyon siethetsz...
+Nézz ki az ablakon.
+
+
+// Quest 1 (Aren't you Mita?)
+Te egy játékos vagy, nem?
+Akkor együtt játszhatunk!
+Majd ha lesz életerőm...
+akkor játszhatunk!
+
+// Quest 2 (What happened to you?)
+Bizonytalan vagyok, és valójában nem tudom.
+Nem hiszem, hogy bármi történt volna.
+De azt hiszem, hogy minden ami jó volt, már rossz.
+De legalább van egy barátom.
+Miért futottak el a többiek előlem?
+Nem voltam elég nekik?
+Annyira... félek...
+
+// Quest 3 (Become a second friend?)
+Nincs sok...
+barátom.
+Csak egy van.
+Olyan szomorú vagyok.
+Te nem akarsz a barátom lenni?
+
+Szeretnék,
+de sietnem kell...
+
+Annyira fáj...
+
+// Quest 4 (Is this your house?) - MitaLittle
+Ház?
+Játékos.. te olyan más vagy...
+Rövidebbek lettek a karjaid, és már nem vagy olyan félelmetes...
+Te sokkal kedvesebb lettél, játékos!
+
+Én ezt...
+nem értem.
+
+Semmi gond.
+Már úgysem fáj. Már megszoktam.
+
+// Quest 5 (How do I leave this place?)
+Te is el akarsz tőlem menekülni?
+Ez lenne az én...
+végzetem?
+
+Ő...
+
+Az ajtók nem segítenek.
+
+// Hold player (Random)
+Ne menj el.
+Maradj még...
+Maradj itt...
+Játékos...

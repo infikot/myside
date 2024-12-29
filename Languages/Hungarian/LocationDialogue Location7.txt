@@ -1,0 +1,837 @@
+﻿
+Végre itt vagy!
+
+Mi ez a hely?
+
+Mutasd a gyűrűt.
+Látom...
+Ez megteszi!
+Itt az idő tisztázni a dolgokat, nem gondolod?
+// If the player did not approach the good Mitya and decided to play a race - Mita Kind
+Egész végig itt vártalak,
+te meg versenyzel?
+Na mindegy, gyere ide.
+// If the player talked to Mita first, and went through the game to the end - Mita Kind
+Ügyi vagy, nyertél!
+Én is játszottam vele!
+Sőt, az összes érmét begyűjtöttem,
+és a teljesítményt is elértem hozzá!
+Nem volt könnyű, de tényleg.
+Komolyan, olyan nehéz az irányítása!
+
+// Quest 1 (Should I trust you?)
+Legalább nekem nem mentek el otthonról,
+nem úgy mint egyeseknek...
+És őszintén,
+én vagyok a legkedvesebb, akivel találkozhatsz, mucikám.
+Ha akarod sem tudod feladni az egészet.
+Meg kell állítanunk őt. Ő tényleg nincs magánál.
+
+// Quest 2 (How did I get here?)
+A gyűrű hozott téged ide.
+Remek találmány.
+Csak a játékosokkal kommunikál,
+és hozza ide a rendes verzióba.
+
+// Quest 3 (What is this place?)
+Ez a folyosó
+össze van kötve különböző játékverziókkal.
+Elég üres a placc, tudom.
+És hallottam olyan Mitáról,
+akinek a házát nem sikerült archiválni.
+A háza
+megszűnt létezni.
+Állítólag ezeket a
+folyosókat járja a mai napig.
+Szegény lélek...
+
+// Quest 4 (How did you end up here?)
+Tudod,
+sok idő eltelt a találkozásunk óta.
+Megszeretném köszönni, hogy végre
+megszabadulhattam attól a francos bakfistól
+a francos ketrecével együtt.
+Ja igen,
+én könnyen tudok verziószámok között váltani,
+sajnos veled ellentétben.
+
+// Quest 5 (What did you do with the ring?)
+Megváltoztattam a célállomást,
+hogy oda vigyen téged, ahová lenned kell.
+Megpróbáltam úgy beállítani,
+hogy a legrövidebb utat válassza.
+Úgy működik, hogyha egy ajtót kinyitsz,
+a gyűrű azt az ajtót megváltoztatja, így az ajtó másik oldalán
+egy másik verzióba kötsz ki.
+
+// Quest 6 (Are the passages dangerous?)
+Amióta megérkeztem a játékba,
+sok minden fura dologba
+belebotlottam már.
+Ez a hely most csendesnek tűnik,
+de a folyosótól...
+rossz érzésem van.
+
+Ez igaz. Ez a hely kezd
+nap mint nap kiszámíthatatlan lenni.
+De ne aggódj!
+Mindenre gondoltam.
+A legrövidebb, és legelhagyatottabb
+helyeken keresztül fogsz odaérni.
+
+Nagyon remélem, hogy igazad van.
+Mik élnek a folyosón?
+
+Hát,
+Játékhibák, bugok, anomáliák...
+még élnek.
+Van olyan veszélyes, ami egy szempillantás alatt meg is támadhat.
+
+Őmm...
+És talán más, ellenséges Miták.
+Van nála őrültebb?
+
+Ismerek egyet...
+Terror-Mita.
+Nem véletlenül kapta ezt a nevet.
+Ő egy...
+nagyon kezdetleges verziója Mitának.
+Sok a baj vele,
+mert ő okozza a legnagyobb, játéktörő hibákat.
+Félek, hogy beléfutunk majd.
+Ő van a legközelebb a nullás verzióhoz.
+
+// Quest 7 (Will you help me get out?)
+Igazából még nincs tervem.
+De nézd,
+sikerült idetalálnod, nem?
+Gondolj csak bele,
+van más választásod?
+Jófej vagyok!
+Ezzel nem vitatkozom.
+
+// Quest 8 (You were talking about some kind of plan...)
+Igen, el kéne érnünk a Maghoz.
+Az az érzésem, hogy majd ott
+fogunk megoldást találni a problémánkra.
+
+És te nem tudsz odamenni? Mire kellek én?
+
+Valamiért a Miták nem léphetnek
+be a Magba.
+Én is csak kintről láthattam.
+De ti, játékosok, mások vagytok.
+Szerintem te könnyen
+be tudsz majd oda menni.
+Akkor beszéljük meg a tervünket.
+Oké.
+Kiváló.
+Tényleg...
+Itt az idő, hogy bemutassalak
+Vagány-Mitának.
+Onnan ismered fel, hogy vagány sapkát hord.
+Emiatt én úgy becézem, hogy
+Sapi.
+Részletesen átbeszéltem vele a tervet,
+hogy végre megállítsuk Téboly-Mitát.
+Erre, [player]!
+
+
+Sziamia!
+Te vagy az... én játékosom?
+Hogy hívnak?
+[player]...
+
+Na egy pillanat...
+Te...
+nem emlékszel rám...?
+
+He'?
+Ki a fene vagy te?
+
+A fekete fenébe!
+[player],...
+Szerintem Ő itt volt...
+Téboly-Mita...
+Hegyezd a füled.
+Próbálj meg emlékezni, könyörgök!
+
+Mégis mire?
+Úgy nézel ki, mint én.
+
+Szerintem ezzel nem megyünk sokra.
+Idehallgass, [player],
+a dolgok sajnos
+nem a terv szerint haladnak...!
+A portál segítségével
+seperc alatt odaértünk volna a világ magjához,
+de sajnos Sapi nélkül nem tudjuk üzembe helyezni a gépet.
+Még alkatrészek is hiányoznak.
+Sapi lehet, hogy nyafka, de az agya munkálkodik, ha kell.
+Most akkor mi lesz?
+Kitalálok valamit.
+Mégis mit tett Téboly-Mita vele?
+
+Azt... azt hiszem...
+hogy megölte őt.
+Megölte??
+
+És mivel meghalt,
+Vagány-Mita újraindult.
+Az emlékét elvesztette,
+így természetesen
+a tervünkről is
+megfelejtkezett.
+
+Ez tényleg nem jó...
+Jobb, mintha örökre eltűnne, nem?
+De ki tudja.
+És velünk, játékosokkal mi lesz?
+Ha meghalunk, mi is újraindulunk?
+
+Az emlkékeidet vissza lehet állítani,
+ha kazettává válsz.
+De azt tőlem már ne kérdezd, mi lesz,
+ha meghalsz.
+
+Kazetta, hát persze.
+Honnan tudom, ha kazetta vagyok?
+
+Gyere ide,
+megvizsgállak.
+// MitaKind check
+Huhh...
+Ne aggódj, még nem vagy kazetta.
+Élsz és virulsz, mint egy ember.
+
+Ennek örülök...
+
+Na most mitévők legyünk...
+Hadd gondolkozzak...
+Teljesen át kell írnunk a tervet...
+Hmm...
+Na egy pillanat...
+Szerintem kitaláltam!
+A'cca a gyűrűdet!
+
+Igen.
+A célállomást átírom.
+
+Hová irányítasz engem?
+
+Mucikám, idehallgass.
+Ahhoz, hogy elérd a Magot,
+különböző verziókon kell majd átvészelned magad.
+Semmi másra ne koncentrálj, csak előre.
+
+Egyedül kell mennem?
+Fogalmam sincs, hogy fogok egyedül odatalálni.
+
+Amíg a jelenlegi szituáció engedi,
+mindent megteszek, hogy segítsek neked.
+Majd én mutatom meg az irányt,
+és hogy hová kell menni.
+Aztán majd még beszélünk.
+Nagyjából 10 percre lenne szükségem.
+Addig játsszatok Sapival egy kicsit.
+
+// MitaKind ready, if player near
+Na,
+kész van!
+// MitaKind ready
+[player],
+gyere ide!
+// MitaKind ring
+Húzd ezt fel.
+Rossz hírem van, [player].
+Tényleg egyedül kell elindulnod.
+Nekem még ki kell derítenem, mi folyik itt.
+Pedig olyan hibátlan volt a tervem...
+És most egyre csak rosszabbodik minden.
+Talán még megjavíthatjuk a portált...
+Csak meg kell keresni a hiányzó részeket...
+Megkeresem, és talán
+megjavíthatjuk...
+De most sürget az idő.
+Téboly-Mita ismeri ezt a helyet,
+És ha sokáig maradsz, egyre kockázatosabb lesz minden.
+Sok sikert, [player]! Majd még találkozunk!
+
+Értem.
+Remélem addig megélem a legközelebbi találkozásunkat.
+
+
+
+
+
+
+
+
+
+
+// Chibi players
+Miért?
+Ki vagyok?
+Haza akarok menni!
+Hogyan?
+Miért?
+
+Mi a...?
+
+// LimpingPerson
+Te...
+igazi vagy?
+
+Szasz!
+Új vagy?
+Új?
+Te nem a játékból vagy, igaz?
+
+Nem...
+Mondd, te jól vagy?
+
+Ez csak karcolás.
+Már egy éve vagyok itt,
+és imádom ezt a helyet!
+Értem... Mi ez a hely?
+Valami verziókat összekötő tér.
+És hogyan juthatok ki innen?
+
+Nem igazán tudom.
+És nem is akarom tudni.
+Én nem akarok innen elmenni.
+...Miért nem?
+Elég, nincs időm. Sietnem kell.
+Mita drágám csak énrám vár.
+Meg kell őt keresnem...
+Ég veled.
+Várj...!
+Kopj már le!
+
+
+Mindent hallottam!
+Nem értettem semmit belőle,
+de olyan vérpezsdítőnek hangzik!
+Szerintem
+már ismersz engem, nemde?
+Mita vagyok!
+Egyértelműen más vagyok, mint az a Mita.
+Tudod miért?
+Mert nekem van egy...
+ILYENEM!!
+Vagány sapi!
+ÉS BUMM!
+Csúcsszuper kesztyűm!
+És ez még nem minden!
+Nézd ezt a baró gitárt!
+Hát nem gyönyörű?
+Játsszak rajta valamit?
+
+// MitaCap Guitar Yes
+Ezaz!
+Hadd vegyelek kézbe!
+Csapassuk!
+Hát, ennél boldogabbat is tudnék játszani.
+Na mindegy.
+// MitaCap Guitar No
+Ajj, jól van.
+
+
+Hű,
+olyan cserfes vagy.
+
+UGYE?
+DE MÉG MENNYIRE!
+Miért ne
+menjünk
+játszani?
+
+// GAME HUMMER
+
+Milyen nagy ez a piros gomb...
+Annyira meg akarom nyomni...
+Megnyomhatom?
+
+Nyugalom, mindjárt erre is sor kerül,
+ha lesz időnk.
+Foglalj helyet.
+// Player sit
+Na,
+és most?
+Megnyomhatom?
+
+Haha!
+Imádom ezt a játékot!
+De valami hiányzik...
+Biztos itt van az eszköztárban...
+Egy pillanat...
+Hopszi!
+Hát...
+Legalább tudd,
+ez a játék úgyis korhatáros.
+
+Az mire jó?
+
+Nagyon lassú az agyad, nem igaz?
+Ezzel kergetjük ki a hódokat...
+
+A hódokat?
+Nem láttam semmilyen hódot.
+
+Milyen hódok?
+Á, na mindegy,
+csak játsszunk már!
+
+Nem, kösz.
+
+Naaaa...!
+Tudod a játékszabályokat?
+
+
+// How play hammer game
+Látod azt a számot?
+Az egy időzítő.
+Ha letelik az idő,
+az azt jelenti,
+hogy üthetsz a gombra.
+Ha túl lassú vagy,
+vagy előbb nyomod ütöd meg a gombot,
+akkor lekeverek egyet az ütővel!
+
+Várj, meg fog szütni?
+
+Ne aggódj,
+majd meglátod.
+
+// Kick player 1
+Áú!
+Nem fogtad vissza magad.
+Fájt?
+Nem.
+Akkor minden rendben!
+
+// Kick player 2
+Na,
+kezdem megszokni!
+Csak nézd!
+Ez tetszeni fog!
+
+// Kick player 3
+Ezt nem nekem találták ki!
+Haha!
+Király vagyok!
+Szuper vagyok!
+És ari!
+
+// Kick MitaCap 1
+Te kis...!
+Vigyázz,
+ez fájni fog!
+
+// Kick MitaCap 2
+Megint vesztettem!
+Nem fájt?
+Persze, hogy nem. Ez nem igazi!
+Nyertél.
+
+// Kick MitaCap 3
+Nem is rossz ez a játék, heh.
+Mókás, nem?
+Nekem is tetszik!
+Mostantól ellenségek vagyunk!
+
+// GameHammer End
+Ennyi?
+Igen, ennyi!
+Értem.
+
+
+
+
+
+
+
+// GAME DANCE
+Ez a táncparkett?
+Olyan kicsi...
+
+
+Juhé!
+Táncoljunk!
+A kezdők választanak
+zeneszámot!
+
+Legyen ez!
+
+Rendicsek!
+Én kezdek!
+Megmutatom, hogy kell ezt csinálni!
+
+// MitaCap StopDance 1
+Huhh!
+Szerinted
+meg tudod dönteni a rekordom?
+Bizonyítsd be!
+
+// MitaCap StopDance 2
+Na,
+hogy tetszik?
+Most te jössz!
+
+// MitaCap StopDance 3
+Psszt psszt psszt psszt!
+A színpad
+most már csak a tiéd!
+
+// MitaCap = Lose 1
+Haha!
+Na ki a király?
+
+// MitaCap = Lose 2
+Huhh!
+Csak három gomb,
+és a fürge kezeim!
+
+// MitaCap = Lose 3
+Talán kapsz pontot,
+ha nekiülsz a táncparkettának!
+Megérdemled, haha!
+
+// MitaCap = Win 1
+Atomkirály!
+Nem tudtam,
+hogy neked is megy!
+
+// MitaCap = Win 2
+Azta!
+Tudsz te mozogni!
+Szép munka!
+
+// MitaCap = Win 3
+Váó!
+Te érzed ám a ritmust!
+Született tánclábú!
+
+// MitaCap = Draw 1
+Te,
+én!
+Remek csapat!
+
+// MitaCap = Draw 2
+Fantasztikus
+páros lennénk!
+
+// MitaCap = Draw 3
+Ha ezt
+elszúrtad volna,
+vesztettél volna!
+
+// MitaCap Next? 1
+Na,
+kövi menet?
+
+// MitaCap Next? 2
+Szép munka!
+Jöhet az utolsó menet??
+
+// MitaCap Endgame
+Szép volt, szép volt,
+de eleget táncoltunk már!
+
+// Just talk
+// Photo
+Csodásan néznek ki a képek.
+Te aztán tényleg merész vagy!
+
+Haha, ilyen vagyok én!
+Tudják meg, errefele hogy kell élni!
+
+Ő... kik tudják meg?
+
+Tőlem kérdezed?
+Ki a francot érdekel! Felőlem vakuljanak meg!
+
+// CutBoard
+Azta...
+Sok van belőlük...
+Minek?
+
+Mit gondolsz, minek?
+Sok csodás dolgot lehet vele csinálni!
+Mint például...
+Répát szeletelhetsz!
+és...
+répát is szeletelhetsz...
+és még...
+
+Értem, értem.
+
+Azért van belőlük sok...
+mert valami történhetett, és pukk...
+egyszer csak megsokszorozódott...
+
+// Books
+Sokat olvasod őket,
+mert ennyire unatkozol?
+
+Utálom a könyveket!
+Én inkább cselekszem!
+
+Így is lehet mondani.
+De így belegondolva...
+
+Mozgás, cselekvés, érintés, érted?
+A könyvek papíron csak papírok, de én a pillanatnak élek!
+Ha velem lennél,
+sok mindent csinálhatnánk együtt!
+Ja, biztos.
+
+// Fruits
+Olyan szépek a gyümik.
+Vajon igaziak?
+És van lejárati dátumuk is?
+
+Az almák?
+Nincs idejük lejárni,
+mert mind megeszem!
+Aztán... visszatérnek...
+
+// Photo and cat
+Milyen aranyos cicmic!
+
+Ugye milyen zabálnivaló?
+
+Hogy mi?
+Cicákat nem szokás zabálni!
+
+Tudom jól,
+te bolond!
+Úgy értem,
+sosem láttam
+igazi macskát.
+Csak képeket láttam az interneten.
+Ugye milyen arik?
+
+Igen, aranyosak.
+Imádom őket.
+
+// Mita Kind with ring
+Mit csinálsz?
+
+Ez a gyűrű interfésze.
+Jelenleg az utitervet változtatom meg.
+
+De csak körbe és körbe mész.
+
+Számodra csak úgy néz ki,
+de én jelenleg adatokat továbbítok.
+
+Sokáig tart még?
+
+Csak! Hagyj békén,
+és seperc alatt készen leszek.
+
+Frankó!
+hogyha továbbra is zavarunk,
+akkor nem leszel seperc alatt készen, igaz?
+
+Ó, Sapi,
+bár vissza tudnánk szerezni az emlékeidet...
+
+Minden rendben lesz majd...
+
+Jupi!!
+
+Nincs vesztegetni való időnk.
+El kell jutnunk a Maghoz.
+
+Veled mehetek?
+
+Hát, nem tudom...
+
+Akkor ez egy nem?
+
+Attól tartok.
+
+// PlayerChibi
+Kések... elkések!
+Túl sok kaját ettem.
+Á, megint munka?
+Milyen nap lesz holnap?
+Hol a számítógép?
+Ki fognak rúgni, ha nem fejezem be időben!
+Mindent elmentettem?
+Valaki szeret egyáltalán?
+Hová megyünk?
+Hé!
+Kevés a türelmem...
+Többet kellene dolgoznom...
+Nem tudom befejezni!
+Hol a telefonom?
+Jaj...
+Mi történt tegnap?
+Sosem ér véget ez a nap!
+Helló?
+Van szabad ágyad?
+Most mitévő legyek?
+Ma biztos nem fogom tudni befejezni!
+Nem tudom mi lehet a gond!
+Melyik falba verhetem a fejem?
+Húsz perc simán elég a pihenésre.
+Ugyan, az alvás béna!
+Ideje fürödni, aztán vár a munka.
+Éhes vagyok.
+Ez... nagy probléma...
+
+// Player is gone 1
+Őmm...
+
+Hahahah...
+
+Hát,
+igen...
+elszelelt innen.
+
+Érdekes.
+és vicces is! :D
+
+Jaj, most komolyan.
+[player], mit csinálsz?
+
+// Player is gone 2
+Most meg?
+
+Megint elmész, [player]?
+
+Rendben van!
+Megbocsátok neked.
+
+Csak kérlek, gyere vissza, [player]!
+
+// Don't pay attention
+Rám se hederített...
+Uncsi...
+
+// quest Cap 1
+Hogy szólt a terv?
+
+Terv?
+Milyen terv?
+
+Ó, tényleg.
+Az emléked kámforttá vált.
+
+Nagyon vicces, srácok!
+Mire kéne emlékezzek?
+Ez valami vicc?
+Az arcodat nézve...
+Szerintem tényleg nem viccelsz.
+
+// quest Cap 2
+Mit érzel, amikor meglátod,
+hogy van rólad egy tökéletes klónod?
+Tudod, az, aki a gyűrűt javítja most.
+
+Már majdnem rásikítottam.
+Tudod, hogy meglepjem őt.
+„Aztapaszta! Ez az én klónom!”
+De én sokkal jobb vagyok, hehe.
+És sokkal vagányabb is. :)
+Nézd ránckirálynőt!
+
+Itt vagyok,
+és mindent hallok!
+
+// quest Cap 3
+Nem megy tönkre a hajad a sapkától?
+A kesztyűktől nincs meleged?
+Hogy hogy nem veszed le?
+
+Na na!
+Kontrolláld magad!
+Vegyek le valami mást is? :)
+
+Komolyan mondtam.
+Jaj...
+
+// Carrot
+Hoppá!
+De sok répa!
+Micsoda hiba!
+Hahaha!
+
+// DoorExit
+Na na, várj csak!
+Szerintem nem akarod látni, mi van ott.
+Maradjon titok! :)
+
+Mi van az ajtó mögött?
+
+A titkok titkosak,
+és titokban tartják őket!
+
+Jaj,
+miért vagy ilyen ideges?
+
+// Tetris
+Váó!
+Mi ez?
+Egy konzol?
+Játszhatok?
+
+Aham.
+
+Mi a játék lényege?
+
+Érmét gyűjtesz,
+a békákat meg megkerülöd.
+
+Uncsiiiii!
+Ez milyen unalmas játék már!
+
+// Tetris again
+Ezt meg honnan szerezted?
+Pedig eldobtam előled...
+Furcsa, nem?
+
+// TV
+Ó!
+Gratulálok!
+Találtál egy bugot!
+Gombnyomásra be kellett volna
+kapcsolnia a tévének,
+de ehelyett eltűnt!
+Ugye milyen baró?
+
+// Player sit
+Szerintem leülök.
+
+Na, mit csinálsz?
+Felkelés!
+Inkább szórakozzunk!
+
+// Goodbye 1
+Azon az ajtón keresztül
+éred el a folyosót.
+
+Sok sikert!
+
+// Goodbye 2
+Nem kell félni, [player]!
+Indulás!
+
+Én nem hagynálak
+itt sose!
+Szóval maradj még!
+
+Sapi!
+Elég a viccelődéssel!
+
+Bleh!
+
+// Goodbye 3
+Mit állsz még itt?
+Kifutunk az időből!
+
+Jó napot!
+Akarom mondani viszlát!

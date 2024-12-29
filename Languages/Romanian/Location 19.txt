@@ -1,0 +1,9 @@
+Drawlit
+Cărți
+Deschide ușa
+Mita 2D
+// Quest (Misiune)
+Lasă.
+Ai probleme cu vederea?
+De ce nu alt nume?
+E seară afară.

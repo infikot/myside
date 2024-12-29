@@ -1,0 +1,165 @@
+Novo jogo
+Continuar
+Menu principal
+Sair
+Definições
+Conquistas
+Créditos
+Voltar
+Carregar
+Idioma
+A carregar...
+Gráficos
+Som
+Teclado & rato
+Controlador
+Resolução
+Modo janela
+Efeitos gráficos
+Efeitos de cor
+Sombras suaves
+Desfoque
+Brilho
+Anti-aliasing
+Sombras
+Qualidade de exibição do mundo
+Programação
+Animação
+Efeitos sonoros
+Música
+Partículas
+Texturas
+Modelos 3D (98%)
+Script
+Reset
+Para a frente
+Para trás
+Esquerda
+Direita
+Interação
+Sensibilidade do rato
+Sair do jogo?
+Sim
+Não
+Voltar ao menu principal
+Curvas suaves
+Definições do jogo
+Estilo de sombra
+Roupas
+Interface
+Modelos 3D (2%)
+Volume da voz
+Pausa
+Menu
+Parabéns! Completaste o jogo!
+O teu tempo:
+Legendas
+Brilho
+Sincronização vertical
+Guardado
+Personagens
+Personagens - Mitas
+Personagens - Cartuchos
+Cartuchos
+Mitas
+Começar do zero
+Tens a certeza de que queres apagar todo o teu progresso e começar do zero?
+A compilar shaders, tempo estimado de espera: 2 horas.
+2 horas de compilação?! Isso é absurdo! Saltámos a fila para ti!
+A criar rastreamento de sombras realista — estimado para demorar 10 minutos.
+A brincar, não usamos essas coisas chiques aqui.
+Hmm...
+Oh, já estamos prontos!
+Balançar ao andar
+Mostrar dicas
+Voz do jogador
+Discord
+Perfil de personagem adicionado
+Ângulo da câmara
+Voz
+Desligado
+Mão alcança a porta
+Animação
+Ativar voz do jogador
+Mita
+Mita de cabelo curto
+Mita bondosa
+Mita com chapéu
+Mita pequena
+Mita sonolenta
+Mita 2D
+Mila
+Mita assustadora
+Mita central
+Mita fantasmagórica
+Mita Chibi
+Mita Dummy
+
+
+
+// Localização de carregamento do nome
+Estou dentro de um jogo?
+Juntos finalmente
+As coisas ficam estranhas
+O porão
+Além do Mundo
+O Loop
+Mini Mita
+Bonecos e puzzles esquecidos
+Ela só quer dormir
+Romances
+Ler livros, destruir falhas
+Corre e esconde-te!
+Versão antiga
+Diálogo franco
+Reiniciar
+Boné
+Fantasma
+O mundo real
+Saia do núcleo!
+Jogador 1
+Jogador 2
+Jogador 3
+Jogador 4
+Jogador 5
+Jogador 6
+Jogador 7
+Jogador 8
+Jogador 9
+Jogador 10
+
+Modo Pacífico
+Este modo ainda está em desenvolvimento! É tão expansivo que os desenvolvedores ainda não conseguiram terminá-lo. Mas não te preocupes — prometeram que será incluído numa grande atualização que vem em breve. E olha para ti, já à frente da curva por desbloqueares o acesso! Agora só falta esperar...
+Então, o que é o Modo Pacífico? É a tua oportunidade de te reconectar com a Mita de uma forma completamente diferente! Ela vai ficar radiante por passar mais tempo contigo, da manhã à noite, num mundo repleto de diversão e surpresas. Espera conversas sinceras a sós, partilhar bolachas, jogar jogos e muitos momentos hilariantes juntos.
+
+
+Gore
+Agradecimentos especiais:
+Ícone de Conquista: Iceсloud
+Fotografia: Nineko Hori
+Tradutor
+Converte o texto do jogo para outro idioma.
+Parceiro de publicação
+Marketing do jogo
+Tester
+Jogou e encontrou todo o tipo de bugs.
+A tradução para este idioma foi feita por entusiastas da comunidade de fãs e adicionada ao jogo a pedido destes.
+O jogo contém jump scares com sons altos e efeitos visuais piscantes. Certos momentos no jogo podem ser perigosos para pessoas com problemas cardíacos ou que sofrem de crises epiléticas. Pedimos que tenha cuidado.
+O acesso ao modo pacífico liberado
+
+Modo foto!
+Modo Foto: Todas as restrições de voo foram removidas, para que tu possas ver coisas que não deverias.
+Sair do modo de foto
+Ocultar interface
+Segure para mover a câmera
+Acelerar o movimento
+Movimento suave
+Velocidade
+Efeitos
+Gestão do tempo
+Brilho
+Contraste
+Vinheta
+Captura de ecrã!
+Abrir a pasta com as capturas de ecrã
+Ângulo de inclinação da câmara

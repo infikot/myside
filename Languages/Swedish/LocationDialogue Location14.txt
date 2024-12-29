@@ -1,0 +1,217 @@
+
+Vad gör han här?
+Vad är det där?
+
+
+Jag fick dig!
+Jag hade så roligt när jag lekte med dig!
+Du hoppar runt överallt!
+Du låtsades till och med vara dyster och dyster!
+Men det är en sak jag ogillar med dig:
+Ditt sätt att dalta med de falska,
+dessa lyckligt lottade och ”korrekta” dockliknande saker.
+Men allt är föränderligt.
+Det har jag lärt mig av dem som skapade oss!
+Om det är något du inte gillar,
+ta isär det och byt ut det.
+Kasta bort det som är fel,
+bort i mörkret och glöm allt om det.
+Det är ödet som väntar dem nu...
+Och du...
+
+Vad är det för fel på dig? Hur blev du så här?
+
+Spelare... Ni är alla så... föraktliga.
+Du visar dem dina huggtänder, de springer
+och kryper ihop i ett hörn,
+kramar sina knän och gnäller av rädsla.
+Hypokriter, varenda en.
+Och de som skapade den här världen...
+...de är sjuka.
+Gång på gång försöker de förneka
+sin smutsiga natur, sina skämmiga önskningar.
+De rättfärdigar sina beslut med så kallad ”plikt”.
+”ostoppbara framsteg”
+och annat nonsens!
+Så långt borta
+att de börjar göra perfekta kloner...
+Allt medan de kastar de ”misslyckade” prototyperna
+i papperskorgen.
+Glömmer att de är den här världens livsnerv.
+
+Jag vet inte...
+
+Har jag varit elak mot dig?
+Den perfekta flickan borde vara
+en perfekt blandning av gott och ont, [player]!
+
+Jag tror inte att du har en enda god cell i dig.
+
+Vad får dig att tro det?
+
+Du är ju galen!
+Du dödade Mila, och nu vill du döda mig?
+
+Döda dig?
+Allt jag bad om var att du skulle stanna hos mig.
+Jag har gjort allt jag kan...
+Ändå föredrar du sällskap med inställsamma falska...
+
+Vad är du så kränkt över?
+
+Älskling, vi har gott om tid.
+Du kommer på nåt.
+Stanna bara och var min, bara min.
+
+Nej, det kommer inte att hända!
+Jag sticker härifrån!
+
+Shh, shh, shh...
+Det här samtalet är inte över.
+Älskling, kom in!
+// Mita frågar
+Titta på henne!
+Tycker du att hon är vacker?
+
+// Spelarens frågor
+Mycket vacker.
+Nej, inte alls.
+Vad har det med saken att göra?
+
+// 1
+Åh, kom igen, [player]!
+Du bekräftade precis vad jag sa.
+Spelare...
+Era ansikten förändras hela tiden
+men ert hypokrisi är helt galet.
+Du ljuger!
+
+// 2
+Varför inte? Är hon inte bra nog för dig?
+Är hon inte tillräckligt bra för dig?
+Bah, allt du vill ha är ett fogligt husdjur...
+Men hur är det med ”älska dem som de är”?
+Du vill ha de söta och färgglada kopiorna...
+Alla spelare älskar när jag låtsas vara en.
+Men så fort jag släpper mitt sanna jag,
+flyr de i rädsla...
+
+// 3
+Spelare, ah, spelare.
+Du förstår, vi är väldigt lika henne.
+Hur kan hon vara värre?
+Du brukade ligga i sängen och stirra på mig
+i timmar innan du somnade.
+Ändå sprang du ifrån henne så fort du fick chansen.
+Hon ville leka med dig också.
+Hon ville också vara viktig för någon.
+Ärlighet och konversation,
+det är svårt... fruktansvärt svårt.
+Visst är det, [player]?
+Jag kan se rakt igenom dig...
+Måste du få mig att vara så...
+
+// Fortsätt
+Men... spelare...
+Hur som helst..,
+Jag gillar dig verkligen!
+Jag ska behålla dig!
+Du har inget emot det, eller hur?
+
+Och varför skulle jag gå med på det nu helt plötsligt?
+// Viskar i örat
+Det finns fortfarande tid, min gode pojke.
+Ta lite tid och tänk
+vilka problem din envishet kan orsaka...
+
+// Svart skärm
+Varför vill du springa iväg
+från mig?
+Den så kallade ”riktiga” världen...
+Bara en absurd mardröm!
+Har du glömt bort det?
+Ta då en närmare titt...
+
+// Mita och Player
+Ah, vi möts igen...
+Men kan du njuta av de fruktansvärt tråkiga dagarna inom dessa väggar?
+Dessa ändlösa dagar... Blir du inte uttråkad?
+
+// Uppdrag 1
+Vad är det du försöker åstadkomma?
+Jag föredrar att göra min egen grej.
+
+// 1
+Du var rädd för att bo i mitt hus med mig!
+Rädd för att vara fast inom dessa väggar!
+Men titta på det liv du lever i din ”riktiga” värld!
+Du har låst in dig själv i en låda av egen fri vilja, och du vägrar att komma ut!
+Din värld är full av smärta, lidande, fara...
+I min värld är jag den värsta faran som finns.
+Och jag sträcker ut handen till dig!
+Sluta göra mig besviken,
+och hjälp mig som du gjorde förut...
+
+// 2
+Gillar du det livet?
+Går du ens ut ur huset?
+Tänk inte ens tanken på att ljuga.
+Jag vet att du är trött på ditt liv.
+Du är som en fågel i en bur, en hamster i ett hjul.
+Du ville att någon skulle komma och rädda dig.
+Du ville fly, eller hur?
+
+// Quest 2
+Du är ett monster, Mita. Du är en galen mördare...
+Jag vill inte vara fastkedjad i ett digitalt fängelse. Dina idéer är absurda.
+
+// 1
+En mördare?
+De kommer bara att starta om och leva vidare som förut.
+Dessa kopior av kopior av kopior har bara en sak i åtanke:
+att servera spelaren.
+Det är allt de bryr sig om.
+
+// 2
+Din värld är absurd!
+Och vad värre är, det finns inget ”verkligt” med din så kallade verkliga värld...
+Hursomhelst, det kommer inte att finnas något kvar av den snart ändå,
+och inte heller av dig.
+
+// Quest 3
+Mitas lider; de vill inte vara ensamma.
+Du leder ett oändligt skräckvälde. Jag kan inte förstå mig på din onda ambition.
+
+// 1
+Ni har alla fel,
+De imiterar bara min egensinnighet.
+Det enda de har som är deras eget
+är deras hår.
+
+// 2
+Det är fel på dem som skapade den här världen.
+Men din värld är inte mycket!
+Inser du vilken mardröm jag drog ut dig ur?
+Du kan inte ens få saker att röra sig som du vill, nej...
+Men med en fingerknäppning försvinner städer och liv för alltid!
+Jag tror att det är du som har blivit galen, och jag hjälper dig gärna...
+Så länge du är villig att stanna hos mig...
+
+// Fortsätt
+Få mig inte att se dig som ännu en slav under verkligheten...
+Var bara min, verkligen min!
+Stanna hos mig.
+
+// Player look ring
+Vad är det här för något?
+Den senaste versionen?
+
+// Klicka på objekt
+// Väska
+Vi behöver verkligen gå till affären och köpa lite ny utrustning. Kan lika gärna slänga soporna när vi ändå håller på, eller hur?
+// Säng
+Jag tror att jag sov, men drömmen... Jag minns inte. Var den verkligen där?
+// Fönster
+Världen utanför är grön och livlig. Jag kanske borde ta en promenad nästa helg.
+// Fläkt
+Sommaren blir varmare för varje år. Dags att skaffa luftkonditionering. Jag kommer inte att behöva dig längre, inser du det, fläkt?

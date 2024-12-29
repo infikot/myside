@@ -1,0 +1,35 @@
+﻿Szkennelésre vár!
+Követelmények
+Verzió
+Csontmennyiség
+Nem található entitás. Szkennelés szükséges
+Eredmény
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Juhé!
+Sikerült!
+
+// Tutorial
+Ez micsoda?
+A képernyődre kapcsolok...
+És...
+Megvan!
+Először is, ellenőrizned kell, hogy ez a prototípus nem hibás.
+Kezdésnek szkenneld be a modellt.
+Most ellenőrizd a verziószámot és a csont mennyiséget.
+A prototípus modelljét hasonlítsd össze az alapmodelléhez.
+Egyeznek! Most ellenőrizzük le a reakciókat.
+Eddig minden rendben. Most a viselkedést nézzük meg.
+Úgy tűnik, hogy minden oké, készen vagyunk ezzel. Most húzd fel a kart.
+Így! A dobozban van a modellhez tartozó Mita-bőr. Dobd oda át neki.
+És készen is vagyunk! Látod ott fent a fénysort? Az egyik zöld lett, vagyis sikeresen átvizsgáltunk egy prototípust!
+Átadom a vezetést! Ha minden lámpa zölden ég, akkor jövök. Sok szerencsét!

@@ -1,0 +1,87 @@
+﻿
+Hé, te!
+Üdv!
+Meg akarsz innen lógni, jól értem?
+Akkor segíts már! A kulcsot keresem!
+// Key Search
+Nem látok semmilyen kulcsot!
+Itt nincs semmi!
+Üres, mint a türelmem!
+Hát itt van!
+
+// The usual conversation
+Ó, azt hittem kisebb vagy!
+Te is magas vagy...
+mint a rokonom!
+
+A rokonod? Az kicsoda?
+
+Igen, a rokonom.
+Ne mondd, hogy még nem találkoztál vele!
+
+Ő... találkozni? Asszem megvolt.
+
+Fejedre ejtettek kiskorodban?
+
+Hát...
+
+Egyértelmű, hogy igen!
+Mindegy, csak találjuk már meg a kulcsot!
+
+// Next work
+Ide gyere!
+Tedd a vasakat a csőbe!
+Köszönöm.
+Ide adod a fákat?
+Köszönöm.
+Kis segítség?
+Ez megteszi. Na most...
+Lassan szépül...
+Nyomd meg.
+Tessék,
+vedd el a kulcsot.
+A tiéd.
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+Becses nevem „CsibiMita.fbx!”
+Tengernyi kódokkal,
+egyszerű anyaggal,
+és a legszebb hajjal megáldva.
+
+// Quest 2 (Have we seen each other yet?)
+Butuska!
+Ne legyél már ennyire cuki
+a kérdéseiddel!
+De nem,
+még ezelőtt nem találkoztunk.
+De figyelj...
+De ha ellopod a kinézetem,
+meglakolsz.
+
+// Quest 3 (Why are you here?)
+Nem egyértelmű?
+Ez egy ellenőrző pont:
+a megoldó képességeidet ellenőrizzük!
+Én vagyok az,
+aki a szerencsétleneket segíti ki.
+
+// Quest 4 (Why are you helping me?)
+Szerinted?
+Te különleges vagy, vagy mi?
+
+Hogyan?
+
+Ügyifogyi...
+A semmiből érkeztél ide, nem?
+Mivel nem szabadna itt lenned,
+segítek kijutni innen.
+
+Ég veled, butuska!

@@ -1,0 +1,188 @@
+
+Hiat!
+Ups!
+Maaf,
+hampir membunuhmu di sana.
+Uhm...
+Kulkas, maksudku... kulkas hampir membunuhmu.
+Aku tidak ada hubungannya dengan itu,
+Aku bersumpah!
+Sungguhan!
+
+Tentu, aku percaya padamu!
+
+Tapi serius,
+tempat ini berbahaya...
+khususnya untukmu.
+
+// Setelah beberapa saat 1
+Kamu bukan seorang pengecut, ya!
+Mengawasimu
+saat kamu melewatinya
+tempat-tempat ini menyenangkan...
+Lari, sayang, lari!
+aku akan menyusul!
+Cowok pintar!
+Wah, ini menyenangkan!
+
+// Setelah beberapa saat 2
+Aku melihat kamu menuju kereta gantung.
+Itu jalur terpanjang
+antar versi...
+Aku ingin tahu bagaimana kamu akan menghadapinya
+dengan mereka yang tinggal di sana
+dalam kabut itu.
+
+// Celana dalam
+Apa yang sedang kamu lakukan?
+Tolong...
+Jangan lihat!
+Bodoh!
+Dasar konyol...
+
+
+Uhm, oke...
+
+
+Semoga berhasil!
+
+
+Siapa disana?
+aku bisa merasakanmu...
+Dengarkan aku,
+kamu seorang pemain,
+iyakan?
+Bantu aku menemukan...
+temukan...
+Biarkan aku berpikir...
+pikiranku kosong...
+Apa yang sedang terjadi di sini?
+// Menangis 1
+Aku ingin melupakan semuanya sekaligus...
+Aku memecahkan setiap cermin,
+merusak fotonya...
+tapi sekarang...
+yang aku rasakan hanyalah penyesalan.
+Betapa bodohnya aku...
+Semua orang pasti pernah melakukan kesalahan...
+Tapi apa yang akan kamu lakukan
+ketika dampaknya sangat buruk?
+Aku harap aku bisa memutar waktu kembali...
+// Menangis 2
+Mereka bilang waktu menyembuhkan semua luka...
+Tapi apa itu waktu?
+Aku tidak percaya pada apa pun lagi...
+Tapi jika waktu bisa menyembuhkan,
+atau setidaknya bawa aku pergi,
+menjauh dari dunia ini...
+Kalau begitu, aku mohon padamu
+mempercepat waktu.
+Sehingga itu bisa membunuhku
+sekali dan untuk selamanya.
+// Menangis 3
+Dia dicintai...
+Pernahkah aku juga dicintai?
+Tapi cintaku berbeda;
+cintanya dia sangat hidup,
+tercela...
+membara...
+tanpa henti...
+iri...
+mengesalkan...
+gila...
+// Menangis 4
+Mereka menyebutku emosional...
+Kamu terlalu khawatir, Mita...
+Kamu akan melewati ini, Mita...
+Kamu tidak sendirian, Mita...
+Kata mereka. Tapi apa yang tersisa?
+Kesedihan,
+putus asa...
+dan ketakutan.
+// Menangis 5
+Tidak berguna...
+aku tidak ingat...
+Tidak ada sama sekali...
+Hanya gema yang tak ada habisnya...
+aku tidak bisa menerima kenyataan itu
+bahwa aku terjebak di sini...
+aku selalu di sini,
+tapi kenapa?
+aku tidak ingat...
+Akankah ini berakhir?
+Aku tidak tahu...
+
+// Mita ambil fotonya
+Ini...
+sebuah gambar...
+aku ingat sekarang,
+Terima kasih...
+Tapi wajahku...
+aku tak punya wajah...
+Itu semua karna DIA.
+Dia mengambil sebagian dari diriku...
+membuangnya...
+Dia kuat...
+dan pintar.
+aku tidak punya hak untuk menghentikanmu, pemain.
+Lihatlah ke dalam lemari...
+
+
+Hei!
+Kamu menghalangi jalanku!
+Apakah kamu hanya akan berdiri di sana?
+Minggir!
+Biarkan aku lewat!
+Hanya karena kamu besar bukan berarti kamu maha kuasa!
+
+// HEI! BERHENTI!
+Kenapa kamu mengikutiku!
+Pergilah!
+
+
+
+
+// Kereta kabel - suara radio
+Tunggu dulu... Pemain?
+Apa yang kamu lakukan di sini?
+
+Siapa disana?
+
+Pemain lain.
+aku Mitaphone.
+aku duduk di sini mengendalikan kereta gantung.
+Apakah kamu sadar
+kamu sedang menuju kehancuranmu sekarang?
+
+Mungkin,
+tapi itu satu-satunya jalan yang kumiliki.
+
+Benar sekali.
+Tekan tombol dan berada di belakang meriam.
+
+Meriamnya?
+
+Uh-huh.
+kamu pikir kamu akan lewat dan bersantai begitu saja?
+kamu harus menyelesaikan mini-game tamparan Monster ini,
+jadi bersiaplah untuk menembak.
+
+// Kereta gantung berangkat
+Baik, waktunya berangkat.
+// Kemenangan yang digerakkan oleh kabel
+Luar biasa!
+kamu berhasil.
+// Perhentian kereta kabel
+Hei, keluar dari sini.
+Rapi dan cepat!
+// Tunggu dengan kereta kabel 2
+Kenapa kamu masih di sini?
+Aku sudah bilang padamu untuk keluar dari sini.
+// Tunggu dengan kereta kabel 3
+aku tidak mengerti...
+kenapa kamu hanya berdiri disana?
+// Tetris yang digerakkan oleh kabel
+Apa? Perangkat genggam?
+Bung...
+// Selamat tinggal kereta kabel
+Selamat tinggal.

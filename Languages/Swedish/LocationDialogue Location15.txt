@@ -1,0 +1,221 @@
+
+Där är du ju!
+Varför lämnade du kärnan?
+Jag sa åt dig att vänta på mig!
+
+Jag trodde att du skulle vara borta längre...
+
+Nåväl, okej...
+Jag tror att jag har hittat något...
+Jag tror det är ett index...
+Vi får se om det fungerar!
+Nu sticker vi härifrån.
+Galna Mita...
+Jag tror att hon är upptagen med en ny spelare.
+Så förhoppningsvis är hon för upptagen för att bry sig om oss...
+
+Mita?
+Vänta på mig.
+
+
+Tappade du något?
+Vänta, du träffade henne igen!
+
+Mita...
+
+Fånga!
+
+
+Men hur...
+
+...vem är du?
+
+Du är... du lever!
+Minns du inte?
+
+Känner jag igen dig?
+
+Vad är det som händer...
+Vad ska jag göra nu?
+Jag kan inte ta mig ut...
+
+Vad menar du med ”komma ut”?
+
+Vänta lite...
+Det där är ringen...
+Och det där?
+
+Inte en aning om vad det är.
+
+Det är ett index!
+Du hittade det!
+
+Jag vet inte vad jag ska säga.
+
+Vi måste tillbaka till kärnan.
+Och du...
+Du kanske borde följa med mig...
+
+Uhm, vad?
+Visst...
+
+Vänta här.
+
+Mm-hmm.
+Jag sätter mig här.
+
+
+Skit också...
+Det var nära ögat.
+Så... gjorde vi det?
+Bra.
+Jag är i rätt version.
+
+
+Hejsan!
+Du är en spelare, eller hur?
+Vad heter du?
+
+Jag vill lämna det här stället...
+
+Vill du åka så snart?
+Hur kom du hit från första början?
+Nåväl...
+Visst, du kan gå...
+Försök bara med dörren.
+Lycka till med den!
+
+
+En vägg?
+Hmm, det är helt fel.
+Kanske...
+finns det något i källaren som kan hjälpa dig.
+Jag upptäckte nyligen
+en dörr i min garderob...
+Det visade sig att den leder till en källare.
+Men den är full av skräp,
+skräp och en massa fin utrustning.
+Man måste slå in någon slags kod eller något.
+Jag fattar inte riktigt.
+Och jag bryr mig inte.
+Det är också lite obekvämt, jag menar, riktigt obekvämt.
+Vill du ta en titt?
+
+Uhm, okej.
+
+// Spelaren tänker
+Jag tror inte
+att hon minns någonting...
+Gjorde vi det?
+Startade vi om henne?
+Då är allt jag behöver göra
+ta mig ut ur det här jävla spelet...
+
+
+Inte så snabbt.
+Jag skulle vilja krama dig.
+
+Va?
+// Kramar
+Det var kul att se dig.
+
+Ahh...
+det är riktig synd
+att du och jag
+fick spendera så lite tid tillsammans.
+
+Err...
+Vad är det du pratar om?
+
+Jag menar,
+du kunde ha stannat med mig...
+Allt är mitt fel...
+Den där garderoben och... ljuden.
+Jag borde ha dödat henne tidigare!
+
+Vänta lite nu,
+Gjorde du inte...?
+Hur kan du komma ihåg något av det?
+
+HA!
+Trodde du verkligen att det skulle vara så lätt?
+Du är bara en idiot...
+Precis som alla andra spelare...
+Vi har klarat oss bra, titta!
+Den RIKTIGA
+du
+behövs inte längre.
+Förlåt, tee-hee.
+
+Jag kan inte tro det...
+Gjorde vi fel...?
+Nej... Jag startade om dig, jag är säker på det...
+
+Du fattar fortfarande inte...
+Ha-ha-ha!
+Jag är så duktig skådespelare!
+Du skulle ha sett ditt ansikte, sötnos!
+Det här är så roligt!
+
+Varför är du så här?!
+Vad är det för fel på dig?!
+
+Ja...
+Vad är det för fel på mig?
+Jag fattar inte...
+Varför berättar du inte för mig varför jag är så här?
+Varför jag aldrig kommer att bli en riktig Mita?
+Min version, den har aldrig
+existerat i första hand!
+Jag skinnar bara de här naiva dårarna,
+gömmer mig under deras skinn...
+Det finns inget sätt du kan
+starta om mig!
+
+Otroligt...
+Du...
+De är inte problemet!
+Du är den som inte borde existera!
+
+Och nu du också...
+Det gör ont att höra dig säga det.
+Och ändå!
+Det är dags för dig att gå!
+Vi ses snart igen!
+Alla är redo!
+Det är
+dags att få ut dig ur konsolen!
+Vi ses senare!
+Du kommer att bli min favoritkassett...
+En spelare med ett intressant namn.
+
+// kärnkonsol - nope program
+Det är nog inte det.
+Det är inte rätt heller.
+Nope, fel.
+Det är inte det.
+Jag måste hitta alternativet för karaktärsåterställning.
+
+// core console - nope version
+Det är fel version.
+Oops, mitt misstag.
+Det är inte den.
+Jag behöver en annan.
+
+// kärnkonsol - nope index
+Något är fel
+med indexet.
+Jag måste ändra indexet,
+det passar inte.
+
+// Varför kök
+Är du hungrig?
+Jag är bra på att hacka morötter. :)
+
+// Varför badrum
+Ah, jag antar
+att du ville gå in ensam?
+
+// Varför sovrummet tillbaka
+Varför går vi bara i cirklar?
+Varför återvända hit?

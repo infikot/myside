@@ -2,121 +2,121 @@ Nowa gra
 Kontynuuj
 Menu główne
 Wyjście
-Opcje
+Ustawienia
 Osiągnięcia
 Twórcy
 Powrót
-Wczytaj gre
+Wczytaj grę
 Język
-Ładowanie...
+Wczytywanie...
 Grafika
-Dzwięk
-Klawiatura i myszka
+Dźwięk
+Klawiatura i mysz
 Kontroler
 Rozdzielczość
-Okno
+Tryb okienkowy
 Efekty graficzne
 Efekty koloru
 Wygładzanie cieni
 Rozmycie
-Odbicie światła
+Odbicia
 Anti-aliasing
 Cienie
 Szczegóły renderowania świata
 Programowanie
 Animacje
-Efekty dzwiękowe
+Efekty dźwiękowe
 Muzyka
-Efekty cząsteczkowe
-Teksury
+Cząsteczki
+Tekstury
 Modele 3D (98%)
 Skrypty
 Reset
-W przód
-W tył
+Dalej
+Wróć
 Lewo
 Prawo
 Interakcja
-Czulosc myszki
-Opuścic grę?
+Czułość myszki
+Wyjść z gry?
 Tak
 Nie
 Powrót do menu
-Wygładzanie ruchu
-Opcje gry
-Styl cieni
-Stroje
+Wygładzanie myszy
+Ustawienia gry
+Style cieni
+Ubrania
 Interfejs
 Modele 3D (2%)
-Wideo
+Głośność rozmów
 Pauza
 Menu
-Brawo! Udało ci się skończyć grę!
-Czas gry:
+Gratulację! Ukończyłeś grę!
+Czas:
 Napisy
 Jasność
 Synchronizacja pionowa
-Zapisane
+Zapisy
 Postacie
 Postacie - Mity
-Postacie - Kartridże
-Kartridże
+Postacie - Kasety
+Kasety
 Mity
 Rozpocznij z czystym stanem gry
-Napewno chcesz rozpocząć z czystym stanem gry, usunie to wszystkie twoje postępy?
+Jesteś pewny? Usunie to wszystkie twoje postępy i zapisy!
 Kompilacja shaderów, Przewidywany czas: 2 godziny.
 Dwu godzinna kompilacja?! Bzdura! Specjalnie dla ciebie ją skróciliśmy!
 Tworzenie realistycznych cieni— Może zająć to do 10 minut.
-Żartujemy, nie używamy tutaj takich wymysłów.
+Żarcik. Nie potrzeba takich udogodnień.
 Umm...
-Oj, jesteśmy gotowi!
-Kołysanie podczas chodzenia
+O! jesteśmy gotowi!
+Kołysanie podczas chodu
 Podpowiedzi
 Głos gracza
 Discord
-Profile dodanych postaci
-Kąt kamery
-Jezyk audio
+Profile postaci
+Kąt kamery (FOV)
+Język audio
 Wyłączone
 Dłoń przy otwieraniu drzwi
 Animacje
 Włącz głos gracza
 Mita
-Krótko-włosa Mita
-Miła Mita
+Krótkowłosa Mita
+Uprzejma Mita
 Czaderska Mita
-Mini Mita
+Zniszczona Mita
 Zaspana Mita
 2D Mita
 Mila
-Przerażająca Mita
-Mita z Jądra
-Duch Mita
-Chibi Mita
-Głupkowata Mita
+Paskudna Mita
+Mita rdzenia
+Mistling
+Słodziaśna Mita
+Manekin
 
 
 
 // Name load location
-W nowym świecie?
-Wkońcu razem
-Robi sie dziwnie
+Jestem w grze?
+W końcu razem
+Robi się dziwnie
 Piwnica
 Poza światem
 Pętla
-Mini Mita
-Zapomniane skrupy
-Ona poprostu lubi spać
-Powieści
-Książki pełne błędów
-Zabawa w chowanego!
+Malutka Mita
+Relikty z przeszłości
+Ona po prostu lubi spać
+Powieści i nowele
+Książki przeczytane, błędy rozwiązane
+Chowanego!
 Stara wersja
+Bądź szczery...
+Restart
+Czapcia
+Tu chyba straszy
 Prawdziwy świat?
-Reset
-
-
-
-
+Opuść rdzeń!
 Gracz 1
 Gracz 2
 Gracz 3
@@ -134,12 +134,32 @@ Więc, O co chodzi z tym trybem pokojowym? To sposób aby ponownie spotkać się
 
 
 Cenzura
-Specjalnie podziękowania:
+Specjalne podziękowania:
 Ikony osiągnięć: Iceсloud
 Zdjęcia: Nineko Hori
 Tłumacze
 Przetłumaczyli grę na różne języki.
-Partnerzy Wydawniczy
-Marketing Gry
+Partnerzy wydawniczy
+Marketing gry
 Testerzy
 Odkryli mnóstwo błędów.
+To tłumaczenie zostało stworzone przez fanów i dodane ja ich prośbę.
+Uwaga! Gra posiada straszaki, głośne dźwięki i migające światła. Należy zachować ostrożność, jeśli cierpisz na epilepsję, masz problemy z sercem lub podobne schorzenia.
+Tryb pokojowy odblokowany!
+
+Tryb fotograficzny
+Tryb fotograficzny: Brak ograniczeń kamery. Możesz eksplorować normalnie niewidoczne części gry.
+Opuść tryb fotograficzny
+Ukryj interfejs
+Przytrzymaj aby przybliżyć
+Szybkość ruchu
+Wygładzanie ruchu
+Szybkość
+Efekty
+Zmiana czasu w grze
+Jasność
+Kontrast
+Winieta
+Zrób zdjęcie!
+Folder ze zdjęciami
+Kąt kamery

@@ -1,0 +1,87 @@
+
+Hei, tu!
+Bună!
+Vrei să scapi?
+Atunci ajută-mă să gasesc cheia!
+// Key Search
+Of! Nicio cheie aici!
+Nimic aici-
+zero, zip, nada!
+Am găsit-o!
+
+// The usual conversation
+Huh, am crezut că ești mai scund!
+Ești înalt-
+exact ca sora mea!
+
+Sora ta? Ce-i cu ea?
+
+Da, sora mea.
+Să nu spui că n-ai întâlnit-o niciodată!
+
+Uh... Am întâlnit-o... Cred că da?
+
+Ești un bufon?
+
+Erm...
+
+Se pare că ești...
+Haide, ajută-mă să găsesc cheia!
+
+// Next work
+Vino.
+Pune fierul în țeavă!
+Mulțumesc!
+Acum adu-mi lemnul ăla!
+Mulțumesc!
+Mai ajută-mă, te rog!
+Gata! Acum...
+uau, e frumos.
+Apasă-l, haide!
+Fii gata...
+acolo, ia-o!
+Cheia este a ta!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+Eu sunt ChibiMita.fbx!
+Tone de linii,
+cele mai simple modele, și-
+cel mai bun din toate - un păr superb!
+
+// Quest 2 (Have we seen each other yet?)
+Prostuțule!
+Ești destul de drăguț, să știi,
+ca să pui întrebări prostești ca asta.
+Totuși,
+aceasta este prima dată când te întâlnesc!
+Dar ascultă...
+Dacă îmi furi privirea minunată,
+o să te fac să regreți!
+
+// Quest 3 (Why are you here?)
+Nu înțelegi?
+Acesta este un punct de control-
+un test al inteligenței tale!
+Acum, haide!
+Sunt aici pentru a-i ghida pe cei pierduți fără speranță!
+
+// Quest 4 (Why are you helping me?)
+Ce te face atât de special?
+De ce să nu te ajut oricum?
+
+De ce?
+
+Atât de prostesc...
+Ai apărut de nicăieri!
+Nu trebuia să fii aici,
+așa că, te ajut!
+
+Pa-pa, prostuțule!

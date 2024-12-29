@@ -22,12 +22,12 @@ Jestem zbyt zajęta
 
 A to co? Zabawki?
 
-Patrzcie państwo, znalazł sie dorosły!
-Chyba sie nie polubimy.
+Patrzcie państwo, znalazł się dorosły!
+Chyba się nie polubimy.
 
 Słuchaj, muszę pilnie dostać się do rdzenia.
 
-Przez ciebie sie potłukłam.
+Przez ciebie się potłukłam.
 Kurde.
 Co?
 
@@ -49,7 +49,7 @@ Ciągle tylko Mita to, Mita siamto!
 
 A więc... jesteś Mila?
 
-No przecież mówie! Głuchy jesteś?
+No przecież mówię! Głuchy jesteś?
 
 Cóż, w takim razie powodzenia, Mila...
 
@@ -71,12 +71,12 @@ Miało być tu wyjście.
 Powiem wprost. Nie ma.
 
 Czekaj, to co to za wersja?
-Chyba dobrze ide.
+Chyba dobrze idę.
 
 // Glitch kitchen
 Co to ma być?
 
-Nie zbliżaj sie!
+Nie zbliżaj się!
 To chyba jakiś błąd...
 Lepiej się nie zbliżać!
 
@@ -152,12 +152,12 @@ Chcesz stąd odejść,
 prawda?
 
 Zgadza się.
-Chce ucieć z tej gry.
+Chce uciec z tej gry.
 
 To może zabrzmieć dziwnie...
 ale nie mógłbyś zostać i ze mną poczytać?
 
-Najpierw sie drzesz, a potem każesz zostać?
+Najpierw się drzesz, a potem każesz zostać?
 I to jeszcze żeby czytać?
 Cóż... może i mógłbym zostać,
 ale muszę powstrzymać pewnego potwora.
@@ -196,7 +196,7 @@ Oh,
 debil!
 Na wyciągnięcie ręki, co?
 Jak myślisz, po co czytam te wszystkie książki?
-Żebym mogła wyciągnąć ręke, i je sobie streścić?
+Żebym mogła wyciągnąć rękę, i je sobie streścić?
 Wole robić wszystko sama,
 a nie polegać na leniwym systemie.
 
@@ -219,7 +219,7 @@ I nie jestem dziwna!
 Jestem wyjątkowa!
 Chce być inna niż wszystkie.
 
-Pzecież nie musisz się tak starać.
+Przecież nie musisz się tak starać.
 Uwierz, jesteś wystarczająco wyjątkowa.
 
 No wiadomo!
@@ -252,7 +252,7 @@ O Boże!
 Oh!
 Przepraszam! Nie chciałam.
 
-Nic się nie stało. Wyczacz, ale muszę już iść.
+Nic się nie stało. Wybacz, ale muszę już iść.
 
 Wiem że musisz, ale...
 nie mógł byś zostać
@@ -263,14 +263,14 @@ Szalona Mita nie należy do cierpliwych.
 
 Ugh, nienawidzę jej!
 
-Nienawdzidzę całym sercem!
+Nienawidzę całym sercem!
 
 Mila, słuchaj...
 
 Dlaczego ja tu w ogóle jestem?
 Nie rozumiem!
 Dlaczego?!
-Nigdy stąd nie wyjde!
+Nigdy stąd nie wyjdę!
 
 Wiem jak się czujesz, Mila.
 Chciała byś abym kiedyś wrócił?
@@ -280,7 +280,7 @@ Zostań tu...
 Nienawidzę samotności...
 A co jeśli ci się nie uda?
 
-Uda. Potrzebuję tylko troche czasu.
+Uda. Potrzebuję tylko trochę czasu.
 // If the player clicks on the computer
 Dopiero co udało mi się wydostać z tego płaskiego świata,
 a teraz... no proszę.
@@ -304,7 +304,7 @@ Przecież masz internet...
 
 Internet jest pełen treści!
 Ale osobiście wolę
-prawdziwą, namacalną książke.
+prawdziwą, namacalną książkę.
 To właśnie przez nie
 zaczynam się uczyć
 o tym świecie...
@@ -323,7 +323,7 @@ ale wszystkie są
 tak samo sztuczne.
 
 Mila?
-Ziemia do Mily?
+Ziemia do Mili?
 // Mila.
 Mam tego dość...
 Ja już tak nie chce.
@@ -334,7 +334,7 @@ Widziałaś kiedyś naturę?
 Wiesz, motyle i te sprawy?
 
 Nie,
-Ale mam gdzieś o nich książke.
+Ale mam gdzieś o nich książkę.
 Nawet ma w sobie rysunki ich skrzydeł...
 Ale,
 ten obraz...
@@ -368,7 +368,7 @@ Sio! Won!
 // Whispers 1
 Czemu ciągle wysyłają do mnie
 jakiegoś bezmózga,
-i myślą że będe milusia?
+i myślą że będę milusia?
 Traktują mnie jak zabawkę!
 Jak jakieś Tamagotchi!
 
@@ -382,8 +382,8 @@ Zwariuję przez tą muzykę w tle!
 
 // Whispers 4
 Jak mam tu to powiedzieć...?
-Zajeta jestem?
-Nie lubie towarzystwa?
+Zajęta jestem?
+Nie lubię towarzystwa?
 A co jeśli stąd pójdzie? Chwila, czemu w ogóle się tym przejmuje?
 
 // Whispers 5
@@ -466,7 +466,7 @@ Ale chyba poluzowała jej się śruba.
 Nienawidzę kucyków!
 Odcięła bym je, gdybym mogła!
 Są zawstydzające!
-Wiesz o czym mówie. W końcu masz krótkie włosy!
+Wiesz o czym mówię. W końcu masz krótkie włosy!
 
 // Nearby 13
 A co jeśli za tymi drzwiami nic nie ma?
@@ -529,11 +529,11 @@ Wciąż jest tu jasno?
 
 // Little carrot
 Marcheweczka?
-Chwila. Gdzie ona sie podziała?
+Chwila. Gdzie ona się podziała?
 
-Ugh! Nienawidze jej!
+Ugh! Nienawidzę jej!
 To prawie tak jakby była żywa!
-Za każdym razem jak ją zobacze,
+Za każdym razem jak ją zobaczę,
 to zawsze się gdzieś teleportuje.
 
 // Little carrot

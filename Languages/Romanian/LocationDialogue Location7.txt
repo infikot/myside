@@ -1,0 +1,837 @@
+
+Ai reușit!
+
+Ce e locul ăsta?
+
+Arată-mi inelul.
+Da...
+Asta e!
+E timpul să lămurim niște lucruri, nu crezi?
+// If the player did not approach the good Mitya and decided to play a race - Mita Kind
+Am fost aici așteptându-te tot timpul
+și tu joci un joc de curse în schimb?!
+Oricum, vino aici...
+// If the player talked to Mita first, and went through the game to the end - Mita Kind
+Felicitări, ai câștigat!
+L-am jucat și eu!
+Am încercat chiar să colectez fiecare monedă și să obțin locul 1
+pentru a obține premiul!
+Și vai, ce greu a fost!
+Mi-a luat o veșnicie să mă obișnuiesc cu comenzile.
+
+// Quest 1 (Should I trust you?)
+Ei bine, cel puțin eu sunt sănătoasă la cap...
+spre deosebire de alții...
+În plus,
+sunt cea mai bună persoană pe care o vei găsi pe aici, scumpete.
+Nu vrei să renunți pur și simplu, nu-i așa?
+E o criminală cu sânge rece. Trebuie s-o oprim.
+
+// Quest 2 (How did I get here?)
+Inelul, te-a adus aici.
+Este o mare invenție.
+Doar un jucător care îl are
+poate găsi drumul către versiunea corectă.
+
+// Quest 3 (What is this place?)
+Aceste pasaje
+fac legătura între diferitele versiuni.
+Da, e cam gol aici.
+Și vai! Am auzit despre această Mita
+care nu și-a putut arhiva versiunea...
+Casa ei
+pur și simplu a încetat să mai existe...
+Și se presupune că se învârte prin
+aceste pasaje.
+Biata de ea...
+
+// Quest 4 (How did you end up here?)
+Știi tu,
+a trecut ceva timp de când ne-am întâlnit ultima dată.
+Și mulțumită ție,
+am ieșit din cușca aia nenorocită,
+și am scăpat de nebuna aia.
+Și ca idee,
+pot trece cu ușurință de la o versiune la alta,
+spre deosebire de tine, dragul meu.
+
+// Quest 5 (What did you do with the ring?)
+Am schimbat traseul
+cu cel de care avem nevoie.
+L-am pus pe cel mai scurt posibil,
+punând tot ce avem nevoie pe drum...
+Funcționează astfel: tu deschizi o ușă,
+iar inelul deschide granița
+dintre versiuni.
+
+// Quest 6 (Are the passages dangerous?)
+Am văzut tot felul de lucruri ciudate
+de când am ajuns
+în acest joc...
+Totul pare liniștit aici,
+dar pasajele par...
+orice, dar nu sigure.
+
+Ai dreptate, și acest loc devine
+mai imprevizibil pe zi ce trece.
+Dar înveselește-te!
+Ne-am gândit la toate,
+și vom lua cea mai scurtă
+și cea mai des folosită cale!
+
+Sper ca totul să meargă bine.
+Dar ce locuiește în aceste pasaje?
+
+Ei bine,
+erori și anomalii.
+Cele vii.
+Chiar și unele periculoase care te-ar putea ataca la vedere...
+
+Err...
+Și eventual alte Mite ostile.
+Și mai mulți nebuni?
+
+Știu cel puțin una...
+Mita cea urâtă.
+Și ca să știi, nu eu i-am dat numele!
+E doar...
+ea este o versiune foarte veche a lui Mita.
+Principala problemă cu ea
+este că provoacă cele mai rele erori...
+Și sunt îngrijorat că am putea da peste ea.
+Ea este cea mai apropiată de versiunea zero, la urma urmei...
+
+// Quest 7 (Will you help me get out?)
+Nu am un plan real...
+Dar oricum,
+ai reușit să ajungi aici, nu-i așa?
+În plus,
+ce altceva poți face
+decât să te bazezi pe mine!
+Nu-i așa că ăsta e adevărul...
+
+// Quest 8 (You were talking about some kind of plan...)
+Într-adevăr, trebuie să ajungem la nucleu.
+Intuiția mea îmi spune că acolo vom găsi
+soluția la toate problemele noastre.
+
+Dar de ce nu te duci acolo singură? De ce ai nevoie de un jucător?
+
+Din anumite motive, noi, Mitele, nu putem
+intra în Camera Nucleului.
+Eu am văzut-o doar din exterior.
+Dar voi, jucătorii, sunteți diferiți.
+Sunt sigură că voi
+puteți intra.
+Vrei să discutăm despre plan?
+Da, bine.
+Grozav.
+Bine...
+E timpul să te prezint
+Mita cool!
+Având în vedere că are o pălărie cool,
+eu îi spun doar
+Cappie.
+Am trecut peste plan cu ea,
+planul de a o opri pe Mita cea nebună.
+Lasă-mă să te prezint, [player]!
+
+
+Ciao!
+Ești... noul meu jucător?
+Cum te numești?
+Numele este...
+
+Doar o secundă!
+Tu...
+...nu-ți amintești de mine?
+
+Huh?
+Cine naiba esti tu?
+
+La naiba cu tot!
+[player]...
+Cred că EA a fost aici,
+Mita cea nebună...
+Ascultă!
+Încearcă să îți amintești, pentru binele nostru!
+
+Ce să-mi amintesc?
+Doar gândește-te. De ce arătăm similar?
+
+Umm, asta nu pare să ajute...
+Ascultă, [player],
+lucrurile nu prea
+merg conform planului...!
+Trebuia să folosim portalul
+pentru a ne face călătoria de un milion de ori mai ușoară și mai rapidă.
+Dar nu-l putem face să funcționeze fără ajutorul lui Cappie.
+Și ne lipsesc unele piese...
+Ea poate fi pretențioasă, dar mintea ei lucrează repede...
+Bine, deci ce facem?
+O să mă gândesc eu la ceva.
+Ce i-a făcut nebuna de Mita?
+
+Eu ... cred că...
+că a ucis-o.
+A ucis-o?!
+
+Și după ce a murit...
+Cappie s-a repornit pur și simplu.
+Se va reseta la setările din fabrică
+și va uita tot ce e important.
+Ceea ce înseamnă...
+planul nostru nu va funcționa.
+
+Asta e oribil...
+Mai bine decât să dispară pentru totdeauna, cred...
+Dar cine poate spune sigur?
+Și cum rămâne cu noi, jucătorii?
+Dacă noi murim ne vom pierde toate amintirile?
+
+Amintirile tale pot fi resetate, cu siguranță.
+Cel puțin după ce ai fost transformat într-un cartuș.
+Dar nici măcar eu nu știu
+ce se întâmplă cu aceia dintre voi care sunt uciși.
+
+Întotdeauna cartușe... Deci, cum pot să-mi dau seama
+dacă sunt un cartuș sau nu?
+
+Vino aici, o să
+te verific...
+// MitaKind check
+E bine,
+nu ești încă un cartuș.
+Ești un jucător viu, care respiră.
+
+Asta e o veste bună...
+
+Sigur, dar ce facem acum...
+Lasă-mă să mă gândesc...
+Trebuie să ne schimbăm întregul plan.
+Hmm...
+Stai o secundă...
+Da, cred că am o idee!
+Dă-mi inelul!
+
+Dă-mi inelul!
+Trebuie să schimb traseul.
+
+Ai un traseu în minte?
+
+Ascultă, dragă,
+va trebui să treci prin alte versiuni
+pentru a ajunge la nucleu.
+Cu toată viteza înainte, mă auzi?
+
+Și trebuie să merg singur?
+Dar nu știu drumul, nici măcar cum voi ajunge acolo?
+
+Te voi ajuta cât de mult voi putea,
+cât de mult îmi permite situația.
+Îți voi da indicații și,
+voi face tot posibilul.
+Și apoi vom vorbi...
+Mai întâi, joacă-te puțin cu Cappie.
+Am nevoie de vreo 10 minute...
+
+// MitaKind ready, if player near
+OK.
+Am terminat!
+// MitaKind ready
+[player],
+Vino aici.
+// MitaKind ring
+Ia ăsta.
+Din păcate e adevărat, [player].
+Va trebui să mergi singur deocamdată,
+Trebuie să aflu ce se întâmplă aici.
+Planul meu a fost perfect...
+Dar suntem mai rău ca niciodată.
+Trebuie să-mi dau seama ce a mers prost,
+și unde sunt piesele...
+Voi încerca să le găsesc.
+Poate mai putem asambla portalul.
+Dar timpul este esențial.
+Mita cea nebună știe despre acest loc,
+și să stai aici înseamnă să riști totul.
+Mult noroc, [player]! Să ne revedem cu bine!
+
+Ok...
+Sper să trăiesc destul încât să te revăd...
+
+
+
+
+
+
+
+
+
+
+// Chibi players
+De ce?
+Cine sunt?
+Vreau să merg acasă!
+Cum?
+De ce?
+
+Ce nai-...?
+
+// LimpingPerson
+Ești...
+o persoană reală?
+
+Salut!
+Ești nou aici?
+Nou?
+Ești din lumea reală , nu?
+
+Eu sunt...
+Umm, ești ok?
+
+E doar un șchiopătat, nu-ți face griji.
+Sunt aici de aproape un an,
+și mă descurc de minune.
+Corect... Ei bine, ce este acest loc?
+E un fel de spațiu între versiuni.
+Știi cum să ieși de aici?
+
+Nu pot spune că știu.
+În plus, nu vreau să plec.
+Nu trebuie să plec.
+Err, de ce nu?
+Destul cu discuțiile. Mă grăbesc.
+Iubita mea Mita mă așteaptă.
+Trebuie s-o găsesc...
+La revedere.
+Așteaptă...!
+Dispari!
+
+
+Am auzit totul!
+Nu știu ce se întâmplă,
+dar totul este atât de interesant!
+Eu cred că
+știi deja cine sunt, nu-i așa?
+Eu sunt Mita!
+Dar, evident, nu la fel ca cealaltă!
+Știi ce vreau să spun, nu-i așa?
+Pentru că am asta
+AICI
+PĂLĂRIE cool!
+Și BOOOM!
+Mănuși uimitoare!
+Dar asta nu e tot!
+O chitară electrică tare drăguță, de asemenea!
+Îmi place așa de mult!
+Vrei să cânt o melodie?
+
+// MitaCap Guitar Yes
+Hah!
+Vino aici, draga mea...
+Bum!
+Ei bine credeam că o să sune și mai bine.
+Aia e!
+// MitaCap Guitar No
+Bine, fie.
+
+
+Hei,
+Ești plină de energie!
+
+SUNT!
+Cu siguranță sunt!
+Oricum...
+Hai să mergem
+să ne distrăm!
+
+// GAME HUMMER
+
+Ce buton mare și frumos.
+Chiar vreau să îl apăs.
+Pot?
+
+Așteaptă, vom ajunge la asta.
+Dacă ajungi la el la timp!
+Acum, ia un loc!
+// Player sit
+Bun.
+Deci, ce facem acum?
+Pot să apăs butonul?
+
+Ha-ha!
+Îmi place jocul ăsta!
+Dar ne lipsește ceva.
+E undeva în inventarul meu!
+Doar o secundă...
+Errr!
+Ei bine...
+Știi că...
+Că acesta este un joc 18+, nu?
+
+Ce-a fost asta?
+
+Ești destul de încet, nu-i asa?
+Este pentru a atrage castorii din ascunzătoare...
+
+Serios?
+Nu am văzut niciun castor pe aici...
+
+Huh? Castorii?
+Ah, destul deja,
+hai să ne jucăm, bine?!
+
+Nah.
+
+Haide!
+Știi măcar ce joc jucăm?
+
+
+// How play hammer game
+Vezi numerele?
+Asta este cronometrul!
+Când se termină timpul,
+vei știi dacă
+trebuie să apeși butonul.
+Dacă ești prea lent,
+sau îl apeși când nu e rândul tău,
+te voi lovi în cap cu un ciocan!
+
+Stai, o să mă lovești?
+
+Oricum,
+vei înțelege odată ce vom începe să jucăm!
+
+// Kick player 1
+Au!
+Nu te poți abține?
+Te-a durut?
+Nu.
+Atunci să continuăm!
+
+// Kick player 2
+Bine,
+Încep să mă obișnuiesc cu asta.
+Uită-te la mine!
+O să-ți placă!
+
+// Kick player 3
+Nu cred că asta e pentru mine.
+Ha-ha!
+Eu sunt cool!
+Și epic!
+Și cute!
+
+// Kick MitaCap 1
+O, tu!
+Ok,
+O să te rup în bătaie!
+
+// Kick MitaCap 2
+Ah, iar am pierdut!
+Nu doare?
+Bineînțeles că nu doare! E o jucărie de pluș!
+Ai câștigat.
+
+// Kick MitaCap 3
+Jocul ăsta nu e prea rău, heh.
+E distractiv, nu?
+Și mie îmi place!
+Și acum ești inamicul meu!
+
+// GameHammer End
+Asta a fost?
+Da, asta e tot!
+Să mergem.
+
+// Dance - [not]
+Cracker
+Bulă
+Balon
+
+
+// GAME DANCE
+Este un ring de dans?
+E atât de mic...
+
+
+Iuu-hu!
+Să dansăm?
+Pentru început,
+alege o piesă!
+
+Să o luăm pe asta.
+
+Okeydokey!
+Lasă-mă pe mine prima!
+O să îți arăt cum se face!
+
+// MitaCap StopDance 1
+Uf!
+Deci,
+crezi că îmi poți bate recordul?
+Haide, e rândul tău!
+
+// MitaCap StopDance 2
+Ah!
+Cum a fost?
+E rândul tău!
+
+// MitaCap StopDance 3
+Tsk, tsk, tsk, tsk!
+Ok,
+intră în ring!
+
+// MitaCap = Lose 1
+Ha-ha!
+Cine e șefa?
+
+// MitaCap = Lose 2
+Of!
+Trei butoane,
+și mâinile mele rapide!
+
+// MitaCap = Lose 3
+Poate stând în fund,
+peste acele butoane,
+îți va aduce un scor mai mare. Ha-ha!
+
+// MitaCap = Win 1
+Grozav!
+Sincer, nu am crezut
+că erai în stare!
+
+// MitaCap = Win 2
+Wow!
+Ai niște mișcări grozave!
+Bună treabă! Frumos!
+
+// MitaCap = Win 3
+Bam!
+Poți simți ritmul!
+Un dansator înnascut!
+
+// MitaCap = Draw 1
+Tu!
+Și eu!
+Suntem imbatabili!
+
+// MitaCap = Draw 2
+Firele destinului ne leagă!
+Un duet perfect!
+
+// MitaCap = Draw 3
+Doar
+o singură greșeală!
+Și ai fi pierdut...
+
+// MitaCap Next? 1
+Deci,
+ce zici de înca o rundă?
+
+// MitaCap Next? 2
+Grozav, încă una.
+Ce zici de un dans?
+
+// MitaCap Endgame
+Hai, hai!
+Am dansat destul!
+
+// Just talk
+// Photo
+Astea sunt niște fotografii destul de impresionante.
+Cu siguranță îți place să râzi, nu-i așa?
+
+Da, eu sunt ceea ce sunt!
+Le-am arătat cum se face în ghena asta! Boom!
+
+Um... cui i-ai arătat, mai exact?
+
+Serios, mă întrebi asta?
+Cui îi pasă! Pun pariu că toți sunt orbi!
+
+// CutBoard
+Whoa,
+Sunt, um... atât de multe.
+Pentru ce?
+
+Tu ce crezi?
+Este vorba despre a face lucruri uimitoare!
+Cum ar fi...
+Să tai morcovi,
+și
+să tai morcovi,
+și...
+
+Bine, am înțeles.
+
+Bine, ca să fiu sinceră,
+tocătorul a făcut ka-cha-cha! Orice ar însemna asta...
+Și asta e tot ce a scris!
+
+// Books
+Le recitești pe toate, nu?
+Pentru că ești plictisită?
+
+Ugh, nu-mi plac cărțile!
+Îmi place să fac lucruri!
+
+Ăsta e un mod de a privi lucrurile.
+Dar fără teorie...
+
+Boom - mișcare, abilități, atingere, știi?
+Cărțile sunt doar hârtie, mie îmi place să fiu în momentul prezent!
+Dacă ai sta aici cu mine,
+am putea face atât, atât de multe!
+Sunt sigur că am putea...
+
+// Fruits
+Fructele sunt chiar reale?
+Arată uimitor.
+Se strică vreodată?
+
+Merele, vrei să spui?
+Nu au timp să se strice,
+pentru că le mănânc pe toate!
+Și apoi reapar...
+
+// Photo and cat
+Ce pisicuță drăguță.
+
+Este gustoasă?
+
+Stai, ce?
+Tu nu mănânci pisici.
+
+Ah, prostule!
+Știu asta!
+Am vrut doar să spun
+că nu am văzut niciodată una!
+Una adevărată, adică.
+Doar poze pe internet.
+Sunt drăguțe, nu-i așa?
+
+Da, sunt foarte drăguțe.
+Îmi plac pisicile.
+
+// Mita Kind with ring
+Ce e asta?
+
+Este interfața inelului,
+și eu schimb ruta.
+
+Uhm, dar tu doar mergi în cercuri?
+
+Da, ai putea crede asta.
+Pentru mine, transfer date.
+
+Va dura mult?
+
+Liniște! Nu mă deranja,
+și va merge mult mai repede.
+
+Da, bine,
+deci dacă vă tot întrerup,
+va dura mult mai mult?
+
+Oh, Cappie,
+Aș vrea să-ți putem recupera amintirile...
+
+Totul va fi bine în curând...
+
+Minunat!
+
+Nu avem timp de pierdut.
+Trebuie să ajungem la nucleu.
+
+Pot să vin cu tine?
+
+Păi, nu știu...
+
+Deci, nu pot?
+
+Mă tem că nu.
+
+// PlayerChibi
+Am întârziat... super târziu!
+Și am mâncat prea mult...
+Ah, iar la muncă?
+Care este data de mâine?
+Unde e calculatorul?
+O să mă dea afară dacă nu termin la timp!
+Am salvat totul?
+Nu mă iubește nimeni?
+Unde mergem?
+Hei!
+Nu mai am răbdare...
+Trebuie să muncesc mai mult...
+Nu pot face nimic!
+Unde mi-e telefonul?
+Uhm...
+ce s-a întâmplat ieri?
+Azi nu are sfârșit!
+Salut?
+Ai un pat liber?
+Ce ar trebui să fac?
+Nu voi putea termina la timp...
+Nu-mi dau seama care e problema...
+Vreun perete?
+O pauză de 20 de minute ar trebui să fie bună...
+Somnul este pentru fraieri!
+E timpul să mă spăl și să mă apuc de treabă!
+Mi-e foame!
+Asta e rău, foarte rău.
+
+// Player is gone 1
+Erm...
+
+Ahahaha.
+
+Da...
+El l-a luat,
+și a plecat.
+
+Cât de ciudat!
+Și amuzant :D
+
+Oh, haide.
+[player], ce faci?
+
+// Player is gone 2
+Ce faci?
+
+Pleci din nou?
+
+Bine!
+Bine, te voi ierta.
+
+[player], întoarce-te la noi!
+
+// Don't pay attention
+Nici nu s-a uitat la mine!
+Plictisitor...
+
+// quest Cap 1
+Care e planul tău?
+
+Planul meu?
+Care plan?
+
+A, da.
+Ți-ai pierdut memoria.
+
+Voi chiar sunteți...!
+Chiar ar trebui să-mi amintesc ceva!
+Mă tachinați?
+Dar uitându-mă la expresia aia a ta...
+Nu-mi pot da seama!
+
+// quest Cap 2
+Cum se simte să vezi o
+replica exactă a ta?
+Știi tu, cea cu inelul.
+
+Da, voiam să țip la ea.
+Știi tu, să o surprind.
+Sfinte Sisoe! Uite, e o clonă a mea!
+Deși, eu sunt mult mai distractivă.
+Deci sunt mai tare, heh :)
+Uită-te la încruntarea aia...
+
+Sunt chiar aici.
+Pot auzi tot ce spui.
+
+// quest Cap 3
+Nu te saturi să porți șapca aia?
+Și mănușile alea nu se încălzesc?
+De ce nu le dai jos?
+
+Err...
+Ești așa un glumeț!
+Sau, ar trebui să dau altceva jos? :)
+
+Vorbeam serios.
+Oh, ok.
+
+// Carrot
+Ups.
+Aia sunt mulți morcovi!
+Ce eroare amuzantă!
+Ha-ha-ha-ha!
+
+// DoorExit
+Așteaptă, stai puțin!
+Ai face bine să nu vezi ce e acolo...
+Să fie un secret :).
+
+Ce este acolo?
+
+Un secret este un secret,
+iar secretele sunt făcute pentru a fi păstrate.
+
+Uh-huh.
+De ce te agiți?
+
+// Tetris
+Whoa!
+Ce e aia?
+O consolă!?
+Lasă-mă să încerc!
+
+Uh-oh.
+
+Ce faci în asta?
+
+Doar aduni monede,
+și să eviți broaștele.
+
+Ah, sună mai mult decât plictisitor.
+Serios, tu numești asta un joc?
+
+// Tetris again
+De unde ai luat asta?
+Nu e ca și cum ți-aș fi returnat-o.
+Ciudat, nu crezi?
+
+// TV
+Uf!
+Bravo,
+ai găsit o eroare!
+Asta ar trebui să aprindă televizorul
+dar în schimb, pornește televizorul
+Pornit și oprit!
+Destul de tare, nu crezi?
+
+// Player sit
+Cred că voi aștepta.
+
+Ce faci?
+Trezește-te!
+Să mergem să ne distrăm! :)
+
+// Goodbye 1
+Ieși pe ușa aceea
+spre hol.
+
+Pa-pa!
+
+// Goodbye 2
+E timpul să pleci, [player]!
+Du-te, nu-ți fie frică!
+
+Eu nu o să
+te las vreodată singur!
+Așa că stai cu mine!
+
+Cappie!
+Fără glume, OK?
+
+Bah!
+
+// Goodbye 3
+De ce stai degeaba?
+Suntem în criză de timp!
+
+Bună!
+Err, vreau să spun pa-pa!

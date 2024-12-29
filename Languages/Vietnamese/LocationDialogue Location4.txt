@@ -12,19 +12,19 @@ Em đã sắp xếp lại nơi này
 để khiến anh cảm thấy thoải mái hơn.
 Ý em là...
 Các phòng không xếp thẳng hàng nữa,
-mọi thứ chỉ trở về như ban đầu thôi.
+mọi thứ chỉ theo đúng trật tự thôi.
 
 Em không cần phải làm vậy đâu,
-anh cũng đang dần quen cách bố trí trước rồi.
+anh cũng dần quen cách bố trí trước rồi.
 Nhưng rồi anh sẽ thấy cách bố trí này thoải mái hơn thôi.
 // Mita card game
 Vậy thì
 chúng ta chơi thôi nào.
 Để em giải thích ngắn gọn cho anh.
-Mỗi con chip đặt trên bàn đại diện cho loại chỉ số được sử dụng trong ván đấu đó.
-Ví dụ, chip hình ♥ là sinh mệnh chẳng hạn.
+Con chip đặt trên bàn đại diện cho loại chỉ số được sử dụng trong ván đấu đó.
+Ví dụ, chip hình sinh mệnh ♥ chẳng hạn.
 Chúng ta sẽ chọn lấy một lá trên tay mình,
-nếu lá bài có ♥... chỉ số sinh mệnh của anh
+nếu lá bài của anh có chỉ số sinh mệnh ♥
 cao
 hơn em
 là anh thắng.
@@ -145,7 +145,7 @@ Chờ thêm chút nữa nhé.
 
 Kỳ lạ thật.
 Hay là chúng ta đang ở trong điện thoại của ai đó?
-Kiểu như cái điện thoại đời cũ tải chậm ấy?
+Kiểu như cái điện thoại đời cũ tải chậm?
 
 Không đâu.
 Chỉ là thế giới này
@@ -213,7 +213,7 @@ Trong phòng của em.
 
 
 // Door > [ERROR]
-Hở? Chuyện gì thế này?
+Ủa? Chuyện gì thế này?
 Đâu đây...
 
 Ah.
@@ -276,8 +276,8 @@ những người bạn thú vị này.
 
 
 // Portal
-Cái cổng đó giờ ra sao rồi?
-Hay nó gọi là gì ấy nhỉ?
+Cái cổng đó biến đâu mất rồi?
+Hay gọi nó là gì ấy nhỉ?
 
 Em đã
 dùng phép "búng tay"
@@ -304,7 +304,7 @@ Anh đã xem anime với tốc độ khung hình thấp bao giờ chưa?
 Nó sẽ kiểu như vậy hoài...
 
 Anh hiểu rồi.
-Có lẽ không kích phản chiếu nữa vậy...
+Có lẽ không kích hoạt phản chiếu nữa vậy...
 
 [player] nè,
 anh thích ngắm mình trong gương lắm sao?

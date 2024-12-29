@@ -1,0 +1,11 @@
+// Quest none (Nicio misiune)
+Lasă.
+// Quest (Misiune)
+Ești Mita, nu-i așa?
+Ce ai pățit?
+Sa-ți devin al doilea prieten?
+Asta este casa ta?
+Cum părăsesc locul asta?
+
+// TV
+ELIBERAT!

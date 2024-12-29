@@ -1,0 +1,165 @@
+Új játék
+Folytatás
+Főmenü
+Kilépés
+Beállítások
+Teljesítmények
+Készítők
+Vissza
+Betöltés
+Nyelv
+Betöltés...
+Grafika
+Hangerő
+Billentyűzet és egér
+Kontroller
+Képernyőfelbontás
+Ablakos képernyő
+Vizuális effektek
+Színes effektek
+Enyhe árnyékok
+Homályos effekt
+Kiemelések
+Élsimítás
+Árnyékok
+Környezet minősége
+Programozás
+Animációk
+Hangok
+Zene
+Részecskék
+Textúrák
+3D modellek (98%)
+Szkript
+Visszavonás
+Előre
+Vissza
+Bal
+Jobb
+Interakció
+Egér érzékenysége
+Biztosan kilépsz?
+Igen
+Nem
+Kilépés a főmenübe
+Simított fordulat
+Játékbeállítások
+Árnyékminta
+Ruhatár
+Felhasználói felület
+3D modellek (2%)
+Beszéd hangereje
+Szüneteltetve
+Menü
+Gratulálunk a játék végigjátszásához!
+Eddig tartott végigjátszani: 
+Feliratok
+Fényerő
+Vertikális szinkron
+Mentve
+Karaktertár
+Karaktertár - Miták
+Karaktertár - Kazetták
+Kazetták
+Miták
+Mentett adatok törlése
+Biztosan ki szeretnéd törölni a mentett adataidat, és újra akarod kezdeni a játékot?
+A shaderek összeállítása, becsült várakozási idő: úgy 2 óra.
+Hogy 2 óra?! Ez badarság! Tudod mit? Felgyorsítjuk neked a várakozási időt!
+Realisztikus árnyékkövetés generálása; becsült várakozási idő: 10 perc.
+Ugyan, itt nem használunk kockaszavakat!
+Őmm...
+Ó, készen állunk!
+Kamera billegése
+Tippek
+Játékos hangja
+Discord-szerver
+Új karakter hozzáadva a karaktertárba
+Látószög
+Hang nyelve
+Kikapcsolva
+Kéz mutatása ajtónyitáskor
+Animáció
+Játékos hangjának engedélyezése
+Mita
+Rövidhajú-Mita
+Jófej-Mita
+Vagány-Mita
+Pici-Mita
+Hétalvó-Mita
+2D-Mita
+Mila
+Rusnya-Mita
+Mag-Mita
+Üres-Mita
+Csibi-Mita
+Bábú-Mita
+
+
+
+// Name load location
+Bekerültem a játékba?
+Végre együtt
+Valami itt nagyon fura
+A szekrény mögött
+Az Óperenciás verzión is túl
+Végtelenül folyó folyosó
+Mini Mita
+Fejtörő bábúk és rejtvények
+Ébresztő, álomszuszék
+A vizuális regény
+Hibarátkozás
+Fuss, játékos, fuss!
+Elavult verzió
+Csak őszíntén
+A visszaállítás
+Sapi teszi a vagányt
+Üresség
+Visszatértem?
+Mag van oldva!
+1. játékos
+2. játékos
+3. játékos
+4. játékos
+5. játékos
+6. játékos
+7. játékos
+8. játékos
+9. játékos
+10. játékos
+
+Örökkön örökké együtt
+Ez az üzemmód jelenleg is fejlesztés alatt áll! Olyan nagy ez a játékmód, hogy a fejlesztőknek nem volt idejük befejezni azt a játék megjelenésére. De ne aggódj, megígérték, hogy egy jelentős frissítésben ez a mód elérhető lesz. Azért nézzenek csak oda, már eleve feloldottad ezt a módot! Addig várjunk.
+Mi is az az „Örökkön örökké együtt?” Mitával úgy találkozhatsz, mint még soha! Annyira, de annyira örülni fog annak, hogy veled töltheti az idejét egy olyan világban, ami tele van meglepetéssel! Egymással beszélgethettek, sütiket is készíthettek, játékokkal játszhattok, meg megannyi mókás élményben lehet részed vele!
+
+
+Vér és erőszak cenzúrázása
+Külön köszönet:
+A teljesítmények ikonjait rajzolta: Iceсloud
+Rajzolta: Nineko Hori
+Fordították
+A játék szövegét másik nyelvre fordították
+Kiadói partner
+Játékmarketing
+Bétatesztelők
+A játékot tesztelték, és annak hibáit bejelentették
+Ez a nyelv rajongói fordítás, és az ő kérésükre lett hozzáadva a játékhoz.
+Figyelem! Ez a játék tartalmazhat hirtelen zajokat, ugrásszerű ijesztegetést, és képernyővillódzást. A játék epilepsziában, szívbetegségben, és egyéb egészségügyi problémákban szenvedő játékosoknak nem ajánlott.
+„Örökkön örökké együtt” elérhető!
+
+Kameramód
+Kameramód: A kamerát bárhová elrepítheted, ahová csak szeretnéd.
+Kilépés
+Felület elrejtése
+Tartsd lenyomva a kamera pásztázáshoz
+Gyors mozdulat
+Cinematikus mozdulat
+Gyorsaság
+Hatások
+Játékbeli idő
+Fényerő
+Kontraszt
+Vignetta
+Fotózz!
+Képek mappájának megnyitása
+Látószög

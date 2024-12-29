@@ -4,13 +4,13 @@ No importa.
 ¿Eres Mita?
 ¿Qué pasa si quiero volver?
 ¿Cómo llegué dentro del juego?
-// Misión "Cocina comer"
+// Quest "Kitchen eat"
 Tu casa es acogedora.
 ¿Cuándo puedo irme a casa?
-Esto se siente como un sueño…
+Esto parece un sueño...
 ¿Por qué las ventanas son solo luz blanca?
 ¿Por qué usar tijeras cuando podríamos haber usado un cuchillo?
 ¡Buen provecho!
 // TV
-¡Jugo Fresco!
-¡¡¡JUGO FUERTE!!!
+¡Zumo Fresco!
+¡¡¡ZUMO FUERTE!!!

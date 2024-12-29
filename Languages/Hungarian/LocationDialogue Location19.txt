@@ -1,0 +1,605 @@
+﻿
+V... visszatértem?
+
+Mi a pokol?
+Rám hoztad a frászt!
+Várjunk csak...
+A mentésem!
+Én ezt nem értem...
+Hová tűnt a játék?
+Tönkretetted a mentésem!
+Mit akarsz?
+
+Vissza kell mennem...
+
+He'?
+
+Vissza kell mennem az előző verziókba.
+
+Oké.
+Én nem érek rá.
+Oldd meg magadnak, butuska.
+
+Miért, mit csinálsz, játszol?
+
+Ilyen tökfejet...
+Ne hidd, hogy ebből barátság lesz.
+
+Én csak a Maghoz szeretnék eljutni.
+
+Miattad sérültem meg ennyire.
+Izé...
+Ő...
+
+Meg kell állítanom Mitát, mielőtt baj lesz.
+
+Mita?
+Ó, kérlek!
+A legkevésbé sem érdekel Mita!
+Se most, se soha!!
+
+De... te is Mita vagy, nem?
+
+Mila vagyok!
+
+Mi...la?
+
+Igen! Elegem van!
+Mita erre, Mita arra, csoda, hogy még nem másztam falra!
+
+Szóval... Mila...
+
+Te tényleg ilyen lassú vagy, hogy nem fogod fel?
+
+Akkor, csőváz, Mila...
+
+Mit gondolsz, hová indulsz?
+Szerinted csak úgy elsétálhatsz innen?
+
+// Player check exit
+Azt hitted, tényleg találsz odaát valamit?
+
+Aztacsuhajjamegamindenségit!
+Mi a pokol ez?
+
+Mit hittél, mi van ott?
+Csodaország?
+
+Hogy juthatok ki innen?
+Tudom, hogy van a közelben egy kijárat...
+
+Itt nincs semmilyen kijárat.
+
+Nézzük, ez melyik verzió?
+Úgy látom, jó úton haladok.
+
+// Glitch kitchen
+Ez meg micsoda?
+
+Vigyázz!
+Nem tudom mi ez...
+Valami hibának tűnik!
+
+A gyűrűm elkezdett beindulni...
+
+Gyűrű? Milyen gyűrű?
+Eljegyeztek?
+
+Nem, ezt az egyik Mita adta nekem.
+Az, amelyik segít nekem kiszabadulni.
+
+Ne mondd, hogy meg akarod fogni!
+Ha felrobban a házam, akkor neked is véged!
+
+// Bathroom - Mila is washing
+Hékás!
+Tűnés!
+Foglalt a zuhanyzó, nem látod?
+// The player continues to stand 1
+Még mindig itt vagy?
+Tipli van, nem hallod?
+// The player continues to stand 2
+Kezd fogyni a türelmem!
+Kotródj, te korcs!
+// The player continues to stand 3
+Nem csak idióta, de süket is vagy!
+Hányszor mondjam még?
+
+// Mila came out and swears
+De most komolyan...
+Neked nincs szégyenérzeted, vagy mi?
+
+Miért nem vártál meg a konyhában?
+Megvárhattál volna,
+ahelyett, hogy elmentél volna zuhanyozni...
+
+Nem tudtam meddig tart kiírtani a hibákat...
+Jut eszembe, mikor fogsz babrálni a többivel?
+
+Többivel?
+Van még több?
+
+Bizony...
+Úgy látszik a házam még áll,
+szóval úgy veszem, hogy meg tudsz birkózni velük.
+
+Szerintem igen.
+
+Szép!
+Na, eredj a fürdőszobába. Megengedem.
+
+Rendben.
+
+// Mila hides under the table
+Mila?
+Mit keresel az asztal alatt?
+
+Áú!
+Megint rám hoztad a frászt!
+Mégis mi a frászt akarsz?
+
+Nem tudod, hol találok még hibákra?
+
+Azt mondod, hogy hagyjam ott a könyvemet,
+hogy a bibijeiddel foglalkozzak?
+Nem, nem tudom a kérdésedre a választ.
+
+Rendben, akkor magam keresem.
+
+Várj csak...
+Csak egy kérdés.
+Tényleg ennyire ki akarsz
+innen szabadulni?
+
+Persze.
+Ki akarok végre törni ebből a játékból.
+
+Bocsi, ha furcsa amit mondok, de
+nem maradnál itt velem olvasni inkább?
+
+Először leüvöltöd a fejem, majd azt várod el,
+hogy veled olvassak könyveket?
+Oké, talán belemennék,
+de sajnos nem maradhatok.
+
+Jó!
+Menj és törődj a hibáiddal akkor!
+Ma már másodjára sérültem meg...
+és mind miattad van!
+// Player saw a glitch
+No, megvan.
+
+// Mila stands with a sword
+Na most figyelj!
+Végre szemtanúja lehetsz annak,
+hogy mire vagyok képes!
+Na, megijedtél?
+Mintha meg sem moccantam volna!
+
+Ez most komoly?
+
+Mi a gond?
+Talán nem volt annyira megnyerő?
+
+Hát nem igazán...
+
+Mondd, miközben a hibákat hárítottad el,
+azt is láttad,
+ahogy a kőszoborral babráltam valamit?
+Tudtad, hogy már eleve fel volt hasítva?
+
+Nem.
+Csak hát... ez egy játék.
+Itt ujjcsettintésre bármit csinálhatsz.
+
+Ó,
+te hígagyú balfék idióta!
+Ujjcsettintés?!
+Szerinted mit érek egy ujjcsettintéssel?
+Asz'szed, hogy én egy lusta mihaszna vagyok?
+Én inkább mindent magam csinálok,
+pont úgy, ahogy a könyvekben megírták!
+
+// Mila is doing push-ups
+Most meg mit művelsz?
+
+Nem egyértelmű?
+
+Azt értem, de miért csinálod?
+
+Edzem magamat, hogy végre be tudjak húzni a képedbe!
+
+Minden rendben van?
+Furcsán viselkedsz.
+
+Jó,
+ne haragudj.
+Nem gondoltam komolyan a behúzást.
+Nem vagyok fura,
+csak nagyon egyedi!
+Nagyon akarok különbözni a többiektől!
+
+Nem kell emiatt ilyen erősen küzdeni.
+Hidd el nekem, te egyedi vagy.
+
+Tudom!
+Ezt skubizd!
+Menő, mi?
+És most kéz nélkül!
+
+Tudom, hogy ez egy játék,
+de ez még azon túl is logikátlan...
+
+Áú!!
+Jaj!
+Hülye fizika...
+Nézd most mit tettél!
+A logikáról csacsogsz,
+és ez történik!
+És még szerinted én vagyok furi,
+te furi!
+
+// Last glitch ready - player exit
+Végre megjelent a folyosó!
+Sikerült, Mila!
+
+
+Ügyi vagy,
+te bunkósbot!
+
+Áú.
+
+Jaj,
+bocsi, nem akartam.
+
+Semmi baj, Mila. Végre tovább mehetek!
+
+Tudom, hogy el kell menned, meg ilyenek...
+de nem maradnál itt
+még egy kicsit?
+
+Nem várhatok tovább...
+Téboly-Mita sem a türelméről híres.
+
+Uff, gyűlölöm őt.
+
+Ki nem állhatom azt a rohadékot!
+
+Mila, nyugi...
+
+Miért vagyok itt egyáltalán?
+Nem értem!
+Semmit nem értek!!
+Örökre itt ragadtam!
+
+Tudom hogy érzel, Mila.
+Ha szeretnéd, visszajöhetek hozzád...
+feltéve, ha tudok.
+
+Ne menj, Játékos!
+Te jobb vagy mint a magány...
+És ha nem sikerül kijutnod?
+
+Ki fogok, csak idő kell.
+// If the player clicks on the computer
+Alig most ugrottam ki abból a lapos világról,
+és most újra minden a régi.
+Már azt várom, hogy végre visszameneküljek a való világba...
+
+Ha-ha-ha! :)
+Ó,
+komolyan beszélsz?
+A való világ az csak egy legenda.
+Még sosem láttam.
+
+Biztos
+van kiút, kell hogy legyen!
+
+Nagyon járod a saját világod.
+Csak ne ess túlzásba...
+
+// Ask about books
+Te még könyvekből olvasol?
+Arra ott az internet...
+
+Az internet? Ott csak regények vannak.
+Én inkább szeretem
+a saját kezeimmel fogni a könyveket.
+Az egyetlen tárgyak,
+ami segítségével
+tanulhatok
+erről a világról.
+
+// Ask about the paintings
+Ezek a képek igaziak?
+Mármint, a többi verzióban
+egyik kép sem olyan nyugis, mint a tiéd.
+
+Mila vagyok, és nem olyan, mint a többi.
+Elfelejtetted?
+Ezek meg csak rajzok, amik
+többre tartják magukat.
+Láttam olyan Mitákat,
+akik mást nem tettek, csak
+
+Mila?
+Haló?
+// Mila.
+Én meg nem akarok
+az ő szintjükre lecsökkenni.
+Olyan szánalmas.
+
+// Ask about the butterfly painting
+Voltál már kint a természetben?
+Láttál pillangókat?
+
+Nem,
+de van róluk valahol könyvem.
+Még a szárnyaikról is van külön részleg....
+Ez a festmény
+meg...
+már mióta van ferdén?
+Jaj, még folt is van rajta...
+Máris jobb.
+
+Nem szeretnél kimenni a természetbe?
+
+Ilyen kérdést...
+Hát persze,
+annyira akarom!
+
+// Make long eye contact 1
+Te meg mit bámulsz?
+Hagyj már!
+
+// Make long eye contact 2
+Elég volt!
+El a szemeiddel!
+De most komolyan...
+
+// Make long eye contact 3
+Most...
+Mit bámulsz?
+Azért, mert egy nő vagyok?
+
+Illemszabályról nem hallani, földlakókám?
+Hess, hess!
+
+// Whispers 1
+Miért mindig
+a leghülyébb idiótákat küldik ide?
+És még én legyek kedves meg jófej velük?
+Minijátékok??
+Mi vagyok én, egy tamagocsi játék?
+
+// Whispers 2
+Ez a barom meg
+fel alá járkálgat...
+
+// Whispers 3
+Mondtál valamit?
+Esküszöm, elegem van a háttérzenéből...
+
+// Whispers 4
+Megsértődne, ha azt mondanám,
+hogy nem érek rá?
+Nem akarok senkivel sem lógni...
+És ha elmegy innen? Mármint... letojom őt!
+
+// Whispers 5
+Anya... Apa...
+Mintha már hallottam volna ezeket a szavakat.
+
+// Whispers 6
+Itt csak egyszer havazott... miért?
+
+// Whispers 7
+Csak úgy betört a házamba... Még ilyet!
+És ha semmi kedvérevalót nem talál itt?
+
+// Nearby 1
+Most csak itt állunk...
+szépen csendben...
+és nem történik semmi...
+Várunk valamire?
+Elvitte a cica a nyelvedet?
+Hahó!
+Mondj már valamit!
+
+// Nearby 2
+A répákra esküszöm!
+Komolyan, ezek tülekedni akarnak!
+Ez nagy veszélyt jelent számomra,
+és a csodaszép, hófehér bőrömre!
+
+// Nearby 3
+Nem hiszem, hogy van elég információ erről a könyvekben,
+de esküszöm, utánajárok.
+Kiráz a hideg
+ezektől a hivatlanul
+toppanó répáktól
+
+// Nearby 4
+Utálom, ha valaki csak a saját igényeivel törődik!
+Ott vannak a répaőrültek, a cicaőrültek,
+erre itt vagy te, meg a hibaelhárító függőséged!
+Ilyen bizarr emberrel sem találkoztam még!
+
+// Nearby 5
+Tudod mit akarok most csinálni?
+Kicsit égő ezt így hangosan kimondani...
+
+// Nearby 6
+Azt mondják, nehéz harcolni
+a vágyaid ellen.
+Fogalmad sincs,
+mennyire próbálom most visszafogni magam!
+Annyira akarok iszogatni veled teát!
+
+// Nearby 7
+Szemüveges vagyok,
+De még a te furcsa, öncélú elszántságos
+rétegeiden sem tudok átlátni.
+
+// Nearby 8
+Olvastam olyat, hogy a sors igazából
+egy előre megírt forgatókönyv,
+ami azt is elhatározza, hogy mit csinálsz nap mint nap.
+Mi? Ki mondta ezt?
+Te voltál?
+
+// Nearby 9
+A barmokat még kibírom, de a tébolyultakat?
+Na azt már nem!
+
+// Nearby 10
+Vannak olyan Miták,
+akik igazából tök arik.
+Szívesen összebarátkoznék velük,
+akkor is, ha csak klónok.
+
+// Nearby 11
+De van egy olyan, aki nem éppen épelméjű.
+Laza csavarjai vannak.
+
+// Nearby 12
+Nem szeretem a copfokat!
+Úgy kitépném az összesből, ha tudnám!
+Olyan cinkes!
+Tudod mire gondolok.
+
+// Nearby 13
+Mi van, ha valójában nincs semmi az ajtó mögött?
+És a létezésünk oka...
+teljesen felesleges?
+Akkor minek reménykedsz?
+Hallottál már az Omphalos-hipotézisről?
+
+
+
+// Last glitch ready - player exit
+Kísérteties ez a folyosó.
+Biztos azon keresztül akarsz elmenni?
+
+Igen.
+
+// FaceStone
+Milyen hangulatos kőszobor.
+Ő mire jó?
+
+Majd
+megtudod!
+Tök olyan pofát vágsz, mint az a szobor!
+Eskü, ikerpárnak is elmehetnétek!
+
+Hát...
+ha te mondod.
+
+// Katana
+Ez a katana gondolom nem valódi.
+
+Igen is az,
+és jó éles is, köszöni szépen!
+Simán kicsinálhatlak ezzel!
+Vigyázz velem, mert jól tudok bánni a karddal.
+Egy rossz mozdulat,
+és neked szeleteltek!
+
+// Mirror
+Ez egy tükör,
+ami nem tükröz vissza?
+
+Neked
+semmi sem elég?
+Sokat olvastam a tükrőzödésről
+a kézzel fogható KÖNYVEIMBEN!
+De ebben a verzióban nincs ilyen.
+Lehetetlen!
+
+// Switch light
+Nem működik a kapcsoló.
+Az itteni lámpák akkor kapcsolnak, ha akarnak...
+Mintha egy szkript diktálná őket...
+De valamiért
+a fürdőszoba lámpái
+működnek rendesen.
+Bizarr...
+// Switch light off
+Pedig még mindig látok.
+
+// Little carrot
+Répa?
+Hová tűnt?
+
+Elegem van ebből a répából!
+Mintha öntudatra ébredt volna!
+Amint megpillantom,
+máshová teleportálgat!
+
+// Little carrot
+Ó, megvan a répa...
+Már megint eltűnt.
+Mi a baja ennek a répának?
+
+Nem tudom.
+Hidd el.
+Próbáltam megszabadulni tőle, de semmi.
+Csak rá se hederíts.
+Komolyan, mintha egy rajzfilmben lennénk.
+
+// Tetris
+Hékás!
+Most előttem elkezdtél játszani?
+// Tetris
+Na jó, elég volt.
+Ezt már nem kapod vissza!
+
+// Soap.
+Ez a szappanadagoló működik?
+Vagy csak... tudod, dekoráció?
+
+Milyen kérdés ez?
+A legtöbb tárgy itt valós.
+De most komolyan...
+
+// BagWall
+Hová tűnt?
+
+Ezen át mehetek?
+
+Mi az?
+Találtál valami új bugot?
+
+Úgy néz ki...
+mindegy.
+
+Visszatért.
+
+// Quest 1 Glasses
+Miért viselsz szemüveget?
+Rövidlátó vagy talán?
+
+Nem tetszik, vagy mi?
+Stílusnak hivják!
+És jól látok, köszönöm!
+
+// Quest 2 Name miLa
+Mila?
+Miért nem inkább...
+Mika?
+Vagy Misza?
+
+Mila vagyok, és kész. Gond?
+
+Ő... semmi.
+
+// Quest 3 Evening
+Tetszik, hogy napnyugta van.
+Mikor fog beesteledni?
+
+Esteledni?
+El ne kezdd, kérlek.
+Itt, a soha véget nem érő nappalok
+egymást követik, újra, és újra, és újra...
+és soha nincs vége.
+Utálom...

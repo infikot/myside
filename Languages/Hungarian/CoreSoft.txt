@@ -1,0 +1,58 @@
+﻿Parancssor indítása...
+
+Belépés megadása
+Sikertelen belépés
+Alkalmazások
+Vissza
+
+Virtuális rendszerkezelő
+Kiszolgálóegység-számvitel [Verzió kiválasztása]
+Fő processzor felügyelet [Verzió kiválasztása]
+Grafikus folyamatfelügyelet [Verzió kiválasztása]
+Négyzetes kockázat
+Befejezés
+
+
+Haladó rendszeradminisztráció
+Karakter-visszaállítása [Verzió kiválasztása]
+Eszköz újraindítása [Verzió kiválasztása]
+Verzió frissítése [Verzió kiválasztása]
+Geometria újraszámítása [Általános]
+
+
+
+
+Rendszer visszaállítása
+Hibaelhárítás [Általános]
+Vírusirtó [Általános]
+Parancssor megnyitása [Általános]
+
+
+
+
+Haladó-beállítások
+Objektum törlése [Select Version]
+Kamera megjelenítése [Select Version]
+Ravasz-területek megjelenítése [Select Version]
+Fizika-játékmotor beállítások [Select Version]
+Cserélhetőlemez kiadása
+
+
+
+Apró-beállítások
+Bináris kód szerkesztő [Rendszergazda]
+Egységmátrix-szerkesztő [Rendszergazda]
+
+
+
+
+
+Karakter-verziószám megadása
+Karakterindex számának megadása
+Visszaállítás megerősítése
+Kar meghúzására vár
+Alprogram indítása
+A visszaállítás folyamtban van
+Felkészülés a visszaállításhoz
+Visszaállítás...
+Megerősítés

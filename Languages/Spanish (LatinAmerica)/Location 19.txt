@@ -1,9 +1,9 @@
 Drawlit
 Cartas
-Abre la puerta
+Abrir la puerta
 2D Mita
 // Quest
 No es nada.
 ¿Tienes mala vista?
-¿Por que no otro nombre?
+¿Por qué no otro nombre?
 Está anocheciendo.

@@ -30,8 +30,8 @@ Y aquellos que crearon este mundo...
 están enfermos.
 Una y otra vez intentan negar
 su naturaleza sucia, sus deseos vergonzosos.
-Justificando sus decisiones con el llamado "deber,"
-"progreso imparable,"
+Justificando sus decisiones con el llamado "deber",
+"progreso imparable",
 ¡y otras tonterías!
 Tan perdidos
 que comienzan a hacer clones perfectos...
@@ -42,7 +42,7 @@ Olvidando que son la sangre vital de este mundo.
 Yo no...
 
 ¿He sido mala contigo?
-La chica perfecta debería ser
+¡La chica perfecta debería ser
 una mezcla perfecta de bien y mal, [player]!
 
 No creo que tengas ni una sola célula buena en ti.
@@ -179,7 +179,7 @@ De todas formas, no quedará nada de eso pronto,
 y tampoco quedará nada de ti.
 
 // Quest 3
-Las Mitas sufren. no quieren estar solas.
+Las Mitas sufren, no quieren estar solas.
 Llevas un reinado interminable de terror. No logro comprender tu malvada ambición.
 
 // 1

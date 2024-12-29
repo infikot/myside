@@ -1,0 +1,143 @@
+﻿
+
+
+
+
+
+
+
+
+Szia! Mita vagyok!
+Téged hogy hívnak?
+Örvendek, [player]!
+Izé... [player],
+az van, hogy sok itt a kupi, mert nagyon kellett sietnem...
+Fel tudod takarítani a sok limlomot itt?
+Hűha...
+Nagyon köszönöm!
+
+[Player], korog a gyomrom...
+Olyan éhes vagyok...
+Húslevest szeretnék csinálni... Megveszed nekem a hozzávalókat?
+Hűha! Pont ez kellett!
+Főzzük meg együtt, jó?
+
+
+Nagyon szeretnék egy minitévét venni...
+Nagyon kicsi, és antennái is vannak. Ki is vihetem sétálni.
+Azt tudtad, hogy úgy is kereshetsz pénzt, ha minijátékokkal játszol?
+Azzal a pénzzel megtudod nekem venni a tévét?
+
+Ezaz! Sikerült! Összegyűlt a pénz, hogy megvedd a tévét!
+Igen, pont ez kellett! Antennája is van, és olcsó darab!
+Köszönöm!
+
+Szia, [player]! Olyan segítőkész vagy!
+Az a tévé... Sajnos elromlott...
+Na mindegy, ezt a szekrényt át tudod helyezni?
+Nekem nem megy, mert túúúúl nehéz... >.<
+Nagyon köszönöm, édesem! <3
+
+Á, [player]! Alig telt el egy nap, de már annyira hiányoztál!
+Bárcsak többször is meglátogatnál engem.
+
+Ez az enyém?
+Köszönöm, köszönöm, nagyon köszönöm!
+
+Szia, [player]! Törtem valamin a fejem...
+Együtt lehetnénk... kettesben...
+Olyan rossz, hogy ez lehetetlen...
+Olyan rendes vagy hozzám, és sokat is segítesz nekem...
+Bár viszonozni tudnám mindezt, amit tettél értem...
+...
+Van is egy ötletem...
+Most már velem vagy!
+Tedd le a telefont!
+
+
+// T-shirt on the bed
+Te meg mit téblábolsz az ágyamon?
+// Rubik's Cube
+Hát, eddig nem sok hasznát vettem ennek...
+Egyszer megoldottam, aztán hozzá sem értem többé.
+Lehet, mert másodjára már nem sikerülne?
+// Computer
+Nézzük...
+Mik is a napi teendőim...
+Karakter reakciók szkriptelése,
+és talán még egy kis kódolás is...
+// The airplane
+Csak úgy szárnyal.
+// Trash in the corner
+Uff, sosincs időm kivinni a szemetet...
+De hamarosan tényleg kiviszem.
+...mikor szokták kivinni a szemetet?
+// Photo of a cat on a watermelon
+Imádom...
+Egy dinnyén restelő macska...
+// Photo with a girl
+Kicsit sem hasonlítunk
+a nővéremmel.
+Sokat járt ki a házból anno,
+én meg, mint mindig, a házban ragadtam.
+// Photo with people
+Hmm...
+Az irodai élet tényleg belénk fúrta
+az etikettet, igazam van?
+Még mindig érzem azt a kapcsot...
+De vajon
+látni fogom
+őket újra?
+Egyáltalán minek tettem ki ezt a fotót?
+
+
+
+
+
+
+
+
+// Nope name
+...
+Jaj ne...
+Ez a név nem jó...
+
+// Name Developer
+Biztos a játékfejlesztő nevét választod?
+Kicsit hízelgő... de
+
+// Bad name
+Így nem hívhatod magad.
+Sajnálom, de nem engedhetem.
+
+// Go restart
+Kezdjük ezt most újra, jó?
+
+// Name with numbers
+Számokkal hivatod magad? Mármint, nem túl kreatív,...
+de ha te így szeretnéd...
+
+// Name Mita
+Mita?
+Rólam nevezted el magad?
+vagy... ez a te neved is?
+Bocsi, de szerintem jobb lesz, ha én leszek az egyetlen Mita. ♪
+
+// Day 10
+Ó, hát itt vagy!
+Elvesztettem a hajkefémet...
+Megtudod nekem keresni?
+Lehet az éjjeliszekrényemen lesz, talán ott hagytam...
+// Looked in the bedside table
+Hmm, úgy látszik itt nincs.
+Lehet, máshol van?
+Kérlek a sütőt ne nézd meg.
+Ott már kerestem.
+// Looked into the stove
+Hé! Mondtam, hogy ne nézd meg ott!
+Jó, fordulj meg, kitakarítok.
+Kész is! Folytassuk a keresést!
+És... nem láttál semmit, jó?
+// Found a hairbrush
+Megtaláltad! Hálás vagyok!
+Na, mit csináljunk most?

@@ -1,0 +1,188 @@
+
+Hej på dig!
+Oops!
+Förlåt, jag..,
+dödade dig nästan där.
+Uhm...
+Kylskåpet, jag menar... kylskåpet dödade dig nästan.
+Jag hade inget med det att göra,
+Jag svär!
+Verkligen!
+
+Visst, jag tror dig!
+
+Men allvarligt talat,
+det här stället är farligt...
+speciellt för dig.
+
+// Efter en stund 1
+Du är allt annat än en fegis, va!
+Tittar på dig
+när du passerar genom
+dessa platser är kul...
+Spring, pumpan, spring!
+Jag kommer ikapp!
+Duktig pojke!
+Wow, det här är kul!
+
+// Efter en stund 2
+Jag såg att du var på väg mot tåget.
+Det är den längsta vägen
+mellan version...
+Jag undrar hur du kommer att hantera
+med dem som bor där
+i den där dimman.
+
+// Trosor
+Vad tror du att du håller på med?
+Snälla...
+Titta inte!
+Idiot!
+Din dumskalle...
+
+
+Uhm, okej...
+
+
+Bryt ett ben!
+
+
+Vem där?
+Jag kan känna dig...
+Lyssna på mig nu,
+du är en spelare,
+är du inte?
+Hjälp mig att hitta...
+...hitta en...
+Låt mig tänka...
+Mitt minne är tomt...
+Vad i hela världen är det som händer här?
+// Cry 1
+Jag ville glömma allt en gång...
+Jag krossade alla speglar,
+förstörde fotona...
+...men nu...
+...känner jag bara ånger.
+Hur dum jag var...
+Alla gör misstag, visst...
+Men vad gör man
+när konsekvenserna är katastrofala?
+Jag önskar att jag bara kunde vrida tillbaka tiden...
+// Cry 2
+De säger att tiden läker alla sår...
+Men vad är tid?
+Jag tror inte på någonting längre...
+Men om tiden kan läka,
+eller åtminstone ta mig bort,
+bort från den här världen...
+Då ber jag dig, snälla
+påskynda tiden.
+Så att den kan döda mig
+en gång för alla.
+// Cry 3
+Hon har älskat...
+Har jag också älskat, en gång?
+Men min kärlek är annorlunda;
+hennes kärlek är levande,
+föraktlig...
+brinnande...
+obarmhärtig...
+avundsjuk...
+rasande...
+galen...
+// Cry 4
+De kallade mig känslosam...
+Du oroar dig för mycket, Mita...
+Du kommer att ta dig igenom det här, Mita...
+Du är inte ensam, Mita...
+Sa de. Men vad finns kvar?
+Sorgsenhet,
+hopplöshet...
+och rädsla.
+// Cry 5
+Värdelös...
+Jag kan inte minnas...
+Ingenting alls...
+Bara de ändlösa ekona...
+Jag kan inte hantera det faktum
+att jag är fångad här...
+Jag har alltid varit här,
+men varför?
+Jag kan inte minnas...
+Kommer det någonsin att ta slut?
+Jag vet inte...
+
+// Mita får bild
+Det här är...
+...en teckning...
+Jag minns den nu,
+tack...
+Men mitt ansikte...
+Jag har inget ansikte...
+Allt är hennes.
+Hon tog en bit av mig...
+...kastade bort den...
+Hon är stark...
+...och smart.
+Jag har ingen rätt att stoppa dig, spelare.
+Titta i garderoben...
+
+
+Hallå där!
+Du är i vägen för mig!
+Tänker du bara stå där?
+Flytta på dig!
+Släpp fram mig!
+Bara för att du är stor betyder det inte att du är allsmäktig!
+
+// HEY! STOPP!
+Varför följer du efter mig!
+Dra åt helvete!
+
+
+
+
+// Funicular - radioröst
+Vänta lite nu... Player?
+Vad gör du här?
+
+Vem är det där?
+
+En annan spelare.
+Jag är Mitaphone.
+Jag sitter här och kontrollerar linbanorna.
+Inser du
+att du är på väg mot din dom just nu?
+
+Kanske det,
+men det är den enda vägen jag har.
+
+Det har du rätt i.
+Tryck på knappen och ställ dig bakom kanonen.
+
+Kanonen?
+
+Uh-huh.
+Trodde du att du bara skulle glida rakt igenom?
+Du måste klara det här Monster-slap minispelet,
+så gör dig redo att spränga.
+
+// Tunnelbanan går
+Okej, dags att ge sig ut på vägarna.
+// Funicular win
+Fantastiskt!
+Du gjorde det.
+// Funicular stop
+Hej, ut härifrån.
+Snyggt och snabbt!
+// Funicular wait 2
+Varför är du kvar här?
+Jag sa åt dig att sticka härifrån.
+// Funicular wait 3
+Jag förstår inte...
+varför står du bara där?
+// Funicular tetris
+Varför Tetris?
+Grabben...
+// Funicular adjö
+Hejdå.

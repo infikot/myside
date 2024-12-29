@@ -14,7 +14,7 @@ siniestro.
 
 ¿Eh, algo siniestro?
 
-No hay tiempo para explicar
+No hay tiempo para explicaciones
 si esto sale bien, te contaré todo.
 Coge la llave. Está junto al sofá.
 
@@ -98,7 +98,7 @@ y me encerró.
 Espera, ¿ella lo convirtió en un cartucho?
 ¿Eso es posible?
 ¿Pero por qué?
-¿Qué necesita a los jugadores?
+¿Para qué necesita a los jugadores?
 
 Está obviamente loca...
 ¡Solo juega con nosotros y nos usa para sus propios fines!
@@ -128,7 +128,7 @@ Necesitas darte prisa.
 ¡Oh, mierda! ¡Escóndete!
 Espera, ¿qué...?
 ¡Date prisa, viene ella!
-¡Sigue el anillo, te llevará a salvo!
+¡Sigue el anillo, te mantendrá a salvo!
 
 
 Bueno, bueno, ¿me vas a decir dónde está?

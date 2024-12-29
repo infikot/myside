@@ -1,0 +1,58 @@
+Mulai aplikasi
+
+Konfirmasi login
+Login salah
+Program
+Kembali
+
+Manajer Perangkat Virtual
+Akuntansi Unit Server [Pilih Versi]
+Pemantauan Prosesor Utama [Pilih Versi]
+Pemantauan Proses Grafis [Pilih Versi]
+Segi empat
+Akhiri permainan
+
+
+Administrasi Sistem Tingkat Lanjut
+Memulai Ulang Karakter [Pilih Versi]
+Memulai Ulang Perangkat [Pilih Versi]
+Pembaruan Versi [Pilih Versi]
+Menghitung Ulang Geometri [Umum]
+
+
+
+
+Pemulihan Sistem
+Pemecahan Masalah [Umum]
+Antivirus [Umum]
+Konsol Perintah [Umum]
+
+
+
+
+Fungsi Lanjutan
+Hapus Objek [Pilih Versi]
+Tampilan Kamera [Pilih Versi]
+Pemicu Tampilan [Pilih Versi]
+Pengaturan Mesin Fisika [Pilih Versi]
+Dapatkan Flash Drive
+
+
+
+Fungsi Minor
+Editor Kode Biner [Akses Khusus]
+Editor Matriks Unit [Akses Khusus]
+
+
+
+
+
+Tentukan Versi Karakter
+Tentukan Indeks Karakter
+Konfirmasikan Mulai Ulang
+Gunakan Tuas
+Jalankan Subprogram
+Mulai ulang proses berjalan!
+Mempersiapkan Untuk Memulai Kembali
+Memulai ulang...
+Mengonfirmasi

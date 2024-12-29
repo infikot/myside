@@ -3,7 +3,7 @@ Yêu cầu quét!
 Phiên Bản
 Số Lượng Xương
 Không tìm thấy thực thể. Yêu cầu quét!
-Quét Hoàn Tất
+Đã Quét
 
 
 
@@ -19,10 +19,10 @@ Whoo-hoo!
 Làm tốt lắm!
 
 // Tutorial
-Hửm? Sao tôi lại ở đây nhỉ?
+Hm? Sao tôi lại ở đây nhỉ?
 Tôi cần phải vào màn hình của cậu...
-Ngay bây giờ...
-Vậy thì!
+Ngay bây giờ!
+Được rồi, giờ thì...
 Cậu cần phải đảm bảo nguyên mẫu này là đúng.
 Trước tiên, hãy quét nó đi.
 Tiếp theo, kiểm tra phiên bản và số xương.

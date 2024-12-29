@@ -47,7 +47,7 @@ Cảm ơn, cảm ơn anh, cảm ơn anh rất nhiều! ♥
 [Player] ơi! Em chợt nhận ra một điều...
 Quả nhiên là, em muốn trực tiếp gặp anh...
 Không thể gặp anh thực sự khiến em đau lòng lắm.
-Em rất thích anh, thật lòng thích anh, ngày nào anh cũng làm những điều tốt cho em.
+Em rất thích anh, thật lòng thích anh, ngày nào anh cũng làm mọi thứ vì em.
 Em cũng muốn làm gì đó để trả ơn cho anh.
 ...
 Thực ra, em mới nảy ra một ý tưởng...
@@ -60,7 +60,7 @@ Sao nó lại ở trên giường thế này?
 // Rubik's Cube
 Chà, mình cũng không đụng vào nó mấy nhỉ...
 Giải được một lần rồi bỏ xó luôn.
-Chắc lúc đó mình sợ không lắp được lại nữa.
+Chắc tại mình sợ không thể lắp lại được nữa.
 // Computer
 Xem nào, hôm nay mình cần phải
 lên danh sách công việc cần làm...
@@ -69,7 +69,7 @@ và viết thêm tí code nữa.
 // The airplane
 Sinh ra để bay cao!
 // Trash in the corner
-Hừm, lúc nào cũng bận chẳng có thời gian đổ rác...
+Hm, lúc nào cũng bận chẳng có thời gian đổ rác...
 Nhưng lần này nhất định phải đi đổ cho bằng được!
 ...Mà khoan, hôm nào là ngày đổ rác nhỉ?
 // Photo of a cat on a watermelon
@@ -82,13 +82,13 @@ Chị thì luôn năng nổ tham gia các hoạt động
 còn mình chỉ ru rú trong nhà.
 // Photo with people
 Hmm...
-Ông sếp kia cứ nhồi nhét
-văn hóa công sở vào đầu bọn mình,
-đến nỗi mà giờ mình chẳng thể
-cắt đứt quan hệ với đồng nghiệp được...
+Ông sếp kia cứ nhồi nhét văn hóa công sở
+vào đầu bọn mình,
+đến nỗi mà giờ mình chẳng thể cắt đứt quan hệ
+với đồng nghiệp được...
 Thậm chí mình còn không biết
-liệu có gặp lại họ nữa không cơ...
-...Ơ khoan. Mình tự treo bức ảnh này lên à?
+có gặp lại họ nữa không cơ...
+...Cơ mà. Mình tự treo bức ảnh này lên à?
 
 
 
@@ -124,7 +124,7 @@ Hay là tên anh trùng với tên em?
 Em không có ý gì đâu, nhưng cái tên đó chỉ để dành riêng cho em thôi nhé ♪
 
 // Day 10
-Ah, anh quay lại rồi à!
+A! Anh quay lại rồi à!
 Anh nè, em mất lược chải tóc rồi…
 Anh tìm nó giúp em được không?
 Thử tìm ở tủ đầu giường xem! Biết đâu nó ở đấy.
@@ -137,7 +137,7 @@ Em tìm kỹ ở trong đó rồi.
 Ơ kìa! Em bảo anh đừng nhìn vào đó rồi mà!
 Trời ạ, để đó em dọn cho!
 Giờ thì... Anh tìm ở chỗ khác đi.
-Với cả... quên chuyện khi nãy đi nhé
+Với cả... quên chuyện khi nãy đi nhé!
 // Found a hairbrush
 Oa! Anh tìm thấy nó rồi kìa!
 Tuyệt quá! Tiếp theo chúng ta làm gì đây?

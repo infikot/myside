@@ -1,0 +1,9 @@
+﻿Mű vész
+Kártyák
+Ajtó nyitása
+2D-Mita
+// Quest
+Mindegy.
+Rosszul látsz?
+A neved Mila?
+Este van?

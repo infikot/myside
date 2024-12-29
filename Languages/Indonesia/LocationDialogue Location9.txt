@@ -1,0 +1,87 @@
+
+Hei kamu!
+Hai!
+Kamu ingin keluar?
+Kalau begitu bantu aku menemukan kuncinya!
+// Pencarian Kunci
+Aduh! Tidak ada kunci di sini!
+Tidak ada apa pun di sini—
+nol, zip, nada!
+Ketemu!
+
+// Percakapan biasa
+Huh, kukira kamu akan lebih pendek!
+Kamu tinggi—
+sama seperti saudariku!
+
+Saudarimu? kenapa dengan dia?
+
+Ya, saudariku.
+Jangan bilang kamu belum pernah bertemu dengannya!
+
+Uh... aku pernah bertemu dengannya... mungkin?
+
+Apakah kamu bodoh?
+
+eh...
+
+Kamu...
+Ayo, bantu aku menemukan kuncinya!
+
+// Pekerjaan berikutnya
+kemarilah.
+Masukkan besi ke dalam pipa!
+Terima kasih!
+Sekarang ambilkan aku kayu itu!
+Terima kasih!
+Tolong bantu lagi!
+Sudah! Sekarang...
+wah, itu indah sekali.
+Tekan, ayo!
+Bersiap...
+itu, ambillah!
+Kuncinya ada di tanganmu!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Apakah kamu Mita?)
+Saya ChibiMita.fbx!
+Banyak garis,
+model paling sederhana, dan—
+yang terbaik dari semuanya—rambut indah!
+
+// Quest 2 (Apakah kita sudah bertemu satu sama lain?)
+Bodoh!
+Kamu agak manis, kau tahu,
+menanyakan pertanyaan konyol seperti itu.
+Meskipun,
+ini pertama kalinya aku bertemu denganmu!
+Tapi...
+Jika kamu meniru penampilanku yang luar biasa,
+Aku akan membuatmu menyesal!
+
+// Tugas 3 (Mengapa kamu ada di sini?)
+Apakah kamu tidak mengerti?
+Ini adalah pos pemeriksaan—
+ujian kecerdasanmu!
+Sekarang ayolah!
+Aku di sini untuk membimbing mereka yang tersesat!
+
+// Quest 4 (Mengapa kamu membantuku?)
+Apa yang membuatmu begitu istimewa?
+Kenapa tidak membantumu saja?
+
+Apa?
+
+Bodoh sekali...
+Kamu muncul begitu saja!
+Kamu tidak seharusnya berada di sini,
+jadi, aku membantumu!
+
+Sampai jumpa, konyol!

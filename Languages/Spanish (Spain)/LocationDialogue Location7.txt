@@ -8,8 +8,8 @@ Sí...
 ¡Ahí está!
 Es hora de aclarar algunas cosas, ¿no crees?
 // Si el jugador no se acercó a la buena Mitya y decidió jugar una carrera - Mita Kind
-¡He estado aquí esperándote todo este tiempo
-y tú juegas un juego de carreras en su lugar?!
+¡¿He estado aquí esperándote todo este tiempo
+y tú jugando un juego de carreras en su lugar?!
 En fin, ven aquí...
 // Si el jugador habló primero con Mita y jugó hasta el final - Mita Kind
 ¡Felicidades, ganaste!
@@ -128,8 +128,8 @@ Claro.
 Genial.
 Bien...
 Es hora de presentarte
-a Mita genial.
-Como lleva una gorra genial,
+a Mita Molona.
+Como lleva una gorra molona,
 yo solo la llamo
 Gorrita.
 He estado discutiendo el plan con ella,
@@ -157,7 +157,7 @@ la Mita loca...
 ¡Intenta recordar, por el bien de todos nosotros!
 
 ¿Recordar qué?
-Solo piensa. ¿Por qué nos parecemos?
+¿Por qué nos parecemos?
 
 Uhm, esto no parece estar ayudando...
 Escucha, [player],
@@ -177,7 +177,7 @@ que la mató.
 ¿¡La mató!?
 
 Y al morir...
-La Mita genial simplemente se reinició.
+La Mita Molona simplemente se reinició.
 Se restableció a la configuración de fábrica
 y olvidó todo lo importante.
 Lo que significa...
@@ -189,13 +189,13 @@ Pero, ¿quién puede estar seguro?
 ¿Y qué hay de nosotros, los jugadores?
 ¿Matarnos nos restablecerá la memoria también?
 
-Tus recuerdos pueden ser restablecidos, seguro.
+Tus recuerdos pueden ser restablecidos, eso es seguro.
 Al menos después de que te conviertan en un cartucho.
 Pero ni siquiera yo sé
 qué les pasa a aquellos de ustedes que son asesinados.
 
-Siempre los cartuchos... Entonces, ¿cómo puedo saber
-si soy un cartucho o no?
+Siempre los cartuchos... Entonces...
+¿Cómo puedo saber si soy un cartucho o no?
 
 Ven aquí
 te revisaré...
@@ -311,7 +311,7 @@ Adiós.
 
 ¡Escuché todo!
 ¡No sé qué está pasando,
-pero es tan interesante!
+pero es muy interesante!
 Creo que
 ya sabes quién soy, ¿verdad?
 ¡Soy Mita!
@@ -323,7 +323,7 @@ AQUÍ,
 ¡Y BOOOOM!
 ¡Unos guantes increíbles!
 ¡Pero eso no es todo!
-¡Una guitarra eléctrica súper linda y brutal también!
+¡Una guitarra eléctrica súper mona y brutal también!
 ¡Me encanta taaaaanto!
 ¿Quieres que toque algo?
 
@@ -338,7 +338,7 @@ Eh, está bien.
 
 
 Oye,
-¡eres todo un torbellino de energía!
+¡Eres todo un torbellino de energía!
 
 ¡LO SÉ!
 ¡Ciertamente LO SÉ!
@@ -445,10 +445,10 @@ Está divertido, ¿no?
 ¡Sí, eso es todo!
 Vamos.
 
-
-
-
-
+// Dance - [not]
+Galleta
+Burbuja
+Balón
 
 
 // JUEGO DE BAILE
@@ -597,9 +597,9 @@ No tienen tiempo de echarse a perder,
 Y luego reaparecen...
 
 // Foto y gato
-Qué gatito más lindo.
+Qué gatito más mono.
 
-¿Es sabrosa?
+¿Es sabroso?
 
 ¿Espera, qué?
 No se comen los gatos.
@@ -612,7 +612,7 @@ Uno real, quiero decir.
 Solo fotos en Internet.
 Son adorables, ¿verdad?
 
-Sí, son muy lindos.
+Sí, son muy monos.
 A mí me gustan los gatos.
 
 // Mita Kind con anillo
@@ -734,7 +734,7 @@ Ya sabes, la que tiene el anillo.
 
 Sí, iba a gritarle.
 Ya sabes, para sorprenderla.
-¡Dios mío! ¡Mira, es un clon de mí!
+¡Dios mío! ¡Mira, es un clon mio!
 Aunque, yo soy mucho más divertida.
 Yo estoy mejor, ¿verdad? jeje :)
 Mira esa cara de disgusto...
@@ -757,7 +757,7 @@ Oh, está bien.
 // Carrot
 Ups.
 ¡Eso es un montón de zanahorias!
-¡Qué error tan gracioso!
+¡Qué bug tan gracioso!
 ¡Ja ja ja!
 
 // DoorExit
@@ -797,7 +797,7 @@ Raro, ¿no crees?
 // TV
 ¡Ugh!
 Vaya,
-¡encontraste un error!
+¡encontraste un bug!
 Se supone que debería iniciar el video,
 pero en su lugar, la tele
 se enciende y apaga.
@@ -812,7 +812,7 @@ Creo que solo esperaré.
 
 // Goodbye 1
 Sal por esa puerta
-hacia el auditorio.
+te abrirá un nuevo camino.
 
 ¡Adiós!
 

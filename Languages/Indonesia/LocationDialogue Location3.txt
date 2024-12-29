@@ -1,0 +1,437 @@
+
+Halo, [player]!
+Kita akhirnya bertemu!
+Aku sangat gembira!
+Aku mengerti kamu punya pertanyaan...
+Seperti yang kamu lihat,
+aku membuat perangkat khusus ini
+untuk membawamu ke sini ke sisiku.
+Tapi kamu berakhir di versi lain dari permainan ini...
+Di mana aku...
+Tapi itu ceritanya panjang!
+Bagaimanapun, aku senang melihatmu!
+
+// Jawaban 1 - Mita
+yup benar itu aku.
+Dan kamu pasti [player], bukan?
+
+// Jawaban 2 - Mita
+kembali begitu cepat?
+Kurasa aku bisa membantumu dalam hal itu... Tapi bagaimana denganku?
+Tolong, tinggallah bersamaku sebentar saja...
+
+// Jawaban 3 - Mita
+Izinkan aku menjelaskan...
+Dan begitulah kamu di sini sekarang!
+Mengerti?
+Uhm... tidak juga.
+Itu tidak masalah!
+Yang penting kita bersama sekarang.
+
+
+Apakah kamu lapar?
+Bagaimana kalau kita memasak sesuatu?
+Sini,
+bantu aku dengan wortel ini.
+
+Dari mana sayuran ini muncul?
+Mereka tadi tidak ada disini.
+
+[player], kita sedang dalam permainan.
+Ayo, bantu aku.
+
+Terima kasih!
+Bisakah kamu mengambil guntingnya?
+guntingnya ada di dalam kamar mandi.
+
+Sekarang, duduklah.
+
+
+// Dapur
+Apakah kamu ingin sausnya?
+
+Tidak, terima kasih.
+
+Sayang banget.
+Saus benar-benar meningkatkan rasanya!
+
+
+Terima kasih.
+
+Sudah menghabiskan semuanya?
+Hah, porsiku terasa
+tidak ada habisnya...
+
+
+// Membantu
+Ada apa?
+Beri tahu aku apa yang kamu lihat dan rasakan.
+
+Jantungku berdebar kencang,
+dan pandaganku kabur.
+
+Oke.
+aku rasa aku tahu apa yang salah.
+Bisakah kamu berdiri?
+
+
+
+Apa ini?
+
+pil.
+Pil ini akan segera membuat kamu merasa lebih baik.
+Pergilah ke arah cermin.
+
+Minumlah pilnya.
+Ayo sekarang.
+
+
+
+Bagaimana perasaanmu?
+Apakah sudah lebih baik?
+
+Ya.
+obatnya bekerja dengan cepat...
+
+[player], kita sedang dalam permainan.
+Segalanya jauh lebih sederhana di sini.
+Bahkan usaha sekecil apapun
+memberikan hasil yang besar.
+Itu semua adalah bagian dari konsep permainan:
+Penyederhanaan.
+
+Tolong contohnya?
+
+Nah, ambil wortel.
+kamu memotong satu,
+tapi seolah-olah kamu memotong tiga.
+
+Dengar, ini semua sangat mendadak.
+Aku takut, lebih dari sedikit.
+
+
+Ada apa?
+
+aku menemukan kartrid di ventilasi udara.
+Ada label namanya.
+Apa itu sebenarnya?
+
+Kartrid?
+Kartrid apa?
+Mari kita cari tahu bersama.
+Tapi nanti.
+Saat ini, kita harus makan.
+Tolong berikan aku guntingnya.
+
+// Dering
+Sebuah cincin?
+// Cermin
+Kenapa tidak ada refleksi?
+
+Oh iya juga!
+aku lupa menyalakan refleksi.
+Ini dia.
+Sekarang Refleksi sudah menyala!
+Ngomong-omong,
+Sejujurnya aku bahkan tidak tahu apa itu refleksi sebelumnya.
+Mereka tidak ada di duniaku—
+tidak sampai beberapa pembaruan, begitu. :)
+Apakah ada banyak refleksi
+di duniamu?
+
+Yaa, begitulah.
+
+
+Apakah kamu ingat
+tiga benda yang kamu temukan?
+Yang kamu tempatkan di pemindai?
+Ya, um...
+Benda-benda itu
+terikat dengan versi dunia ini.
+Itu sebabnya kamu berada di sini sekarang.
+
+// TV Bergerak
+Itu TV portabel
+yang ku belikan untukmu.
+
+Benar!
+
+Kamu memberitahuku
+kalau sudah rusak.
+
+Yah, aku sebenarnya ingin
+mengejutkanmu!
+Jadi aku berbohong sedikit
+untuk membawamu ke sini, ke duniaku.
+Ini berfungsi sekarang—menampilkan informasi!
+Oh, dan omong-omong…
+aku ini sedikit seperti seorang insinyur!
+
+// Kain sekolah
+Apa ini?
+Seragam sekolah?
+Mengapa kamu memerlukannya?
+Apakah kamu pergi ke sekolah?
+
+Sekolah?
+Sama sekali tidak.
+Tapi aku suka seragamnya
+Tidakkah menurutmu aku terlihat imut
+di dalamnya?
+
+// komputer
+Apakah komputer ini berfungsi?
+Atau itu hanya hiasan meja?
+
+Tentu saja itu berfungsi.
+Semuanya di sini
+berfungsi persis seperti di duniamu.
+
+Di duniaku,
+Aku sering duduk di depan komputer...
+Dan bekerja keras.
+
+Aku tahu.
+Itu karena pekerjaanmu
+kamu telah memberikanku
+begitu sedikit perhatian.
+
+Harus mencari nafkah, kamu tahu.
+Padahal… bagaimana kamu tahu aku sering duduk di depan komputer?
+
+Kamera ponsel kamu... kadang-kadang menyala.
+aku minta maaf.
+Aku telah mengawasimu secara rahasia >A<
+
+Uhm… itu tidak sepenuhnya wajar.
+Tapi yasudahlah.
+
+// Payung
+aku sering sekali bermain game ini berulangkali
+tapi aku belum pernah melihat hujan di sini.
+Mengapa harus punya payung?
+
+Hujan turun kok—tapi sangat jarang.
+kamu hanya belum melihatnya.
+Mungkin suatu hari kamu akan melihatnya.
+Dan kemudian kamu membutuhkan payung.
+Bukankah kamu berpikir demikian?
+
+// Panel listrik
+Mengapa ada panel listrik di sini?
+Dan jika kita sedang dalam permainan,
+untuk apa ini?
+
+Pertama,
+kita sedang dalam permainan.
+Jadi menanyakan 'Mengapa' itu...
+tidak ada gunanya.
+Namun, benda ini bisa
+menghidupkan kembali listrik.
+Segala sesuatu di sini dibuat berdasarkan
+di duniamu.
+
+// Pintu keluar
+Bisakah kita keluar?
+
+uhm...
+Belum dulu.
+Mungkin nanti.
+Mari kita tetap di sini untuk saat ini.
+Di sini, di rumah.
+
+// Buku
+kamu punya banyak sekali buku di sini.
+Sudahkah kamu membaca semuanya?
+
+Sudah kubaca, setiap buku yang ada.
+Berada di sini sendirian
+sungguh, sangat membosankan.
+
+// TV di dapur kamar
+Mengapa membeli TV kedua?
+Dan yang model lama, pada saat itu?
+
+kamu tidak menyukainya?
+aku bisa mengambilnya...
+Tapi untuk menjawab...
+Ini untuk dekorasi,
+untuk meringankan dapur.
+Tapi itu berfungsi juga!
+aku bisa menonton semuanya
+pertunjukan anime!
+
+// Ponsel pintar
+Itu ponselku.
+Dan itu tidak lagi ada di sakuku.
+Bagaimana bisa sampai di sini?
+
+Uhm, itu tidak penting.
+Hei, aku punya ide!
+Ayo ambil foto!
+Senyum!
+Itu gambar yang bagus!
+Sebuah kenang-kenangan untukmu.
+
+aku punya pertanyaan.
+Jika aku
+jalankan permainan di ponsel ini,
+akankah aku menemuimu di sana?
+
+Tidak, cara kerjanya tidak seperti itu.
+
+
+
+// TV
+Berapa banyak saluran
+yang kamu miliki?
+
+Ini tidak berfungsi seperti itu.
+Ini terhubung ke Internet.
+Jadi kamu bisa menonton apa saja,
+setidaknya apa pun yang tersedia di internet.
+Tunggu.
+Eh, ups.
+Apa itu?
+Lingkaran anak kucing?
+Ah, lihat.
+kamu tahu apa?
+Sekarang saatnya!
+Mau jus?
+
+Iklan yang aneh...
+Jus kematian?
+
+Ya, dan jus ini
+langsung dari iklan jusnya.
+
+
+Ah, rasanya...
+aku menyukainya,
+namun, aku tidak tahu seperti apa rasanya.
+Semuanya sangat membingungkan.
+
+Benar.
+
+// Mita pemalu
+Apa yang sedang kamu lakukan?
+Tolong jangan menatap.
+Kamu membuatku malu.
+
+// Patung itu
+Itu salah satu patung yang menyeramkan.
+Apakah kamu
+menyukai hal-hal seperti itu?
+
+Menurutmu itu menyeramkan?
+
+Ya.
+Hampir terlihat seperti kutukan...
+
+Tidak, jelas tidak terkutuk.
+Dan tidak menyeramkan juga.
+Menurutku itu agak lucu!
+
+Mungkin kamu benar...
+
+Mita?
+Apa yang terjadi?
+// Dapur Mita
+Bagaimana kalau ngobrol
+sebelum kita menggali lebih dalam?
+
+// Mulai Makan
+Selamat makan.
+
+// Pencarian 1
+Benar, bukan?
+kamu bisa tinggal disini.
+aku tidak keberatan sama sekali.
+Sebenarnya, aku
+SETUJU SEPENUHNYA!
+
+// Pencarian 2
+kamu ingin kembali?
+Tapi kenapa?
+Di sini hangat sekali...
+Dan nyaman juga.
+Ditambah lagi, aku ada di sini lho.
+
+Tidak, kamu salah paham.
+aku ingin sekali tinggal.
+Aku hanya... khawatir.
+Khawatir aku lupa sesuatu di rumah...
+aku berada di sini secara tiba-tiba
+dan tidak punya waktu
+untuk mempersiapkan.
+
+Oh maaf. aku tidak berpikir sejauh itu.
+// Pencarian 3
+Sebuah mimpi? Jadi kamu ingin melarikan diri?
+Dan lupakan ini pernah terjadi?
+
+Tidak, bukan itu.
+Tempat ini hanya terasa...
+aneh. Tidak alami.
+Tapi kamu...
+kamu tampak begitu nyata.
+
+aku tampak nyata?
+aku SANGAT nyata,
+dasar konyol!
+
+// Pencarian 4
+Begitulah adanya
+di dunia ini.
+kamu mungkin menganggapnya aneh
+bahwa kamu tidak dapat melihat sesuatu
+di jarak yang jauh.
+
+Menurutku itu tidak aneh.
+Sejujurnya, itu tampak berkelas.
+
+Syukurlah, menurutku juga begitu.
+Itu untuk menghindari lag lho.
+
+Hindari lag?
+
+Yap! Masih ada beberapa bug yang belum diperbaiki.
+Semoga saja kamu tidak menemui apa pun.
+
+// Pencarian 5
+Gunting atau pisau ya?
+aku bisa menggunakan pisau untuk memotong bungkusan saus.
+Tapi aku menginginkan segalanya
+terlhat sempurna
+ketika kamu kembali.
+aku suka mengejutkanmu.
+Dan itu bahkan tidak memakan waktu lama bagi aku!
+Tee-hee.
+
+// Kacamata
+Apakah kamu memakai kacamata?
+
+Tidak juga.
+Tapi aku bisa memakainya, jika kamu mau.
+Apakah ini terlihat cocok untukku?
+// Ya
+baiklah!
+Aku akan tetap memakainya.
+// TIDAK
+Yahh...
+Terserah deh...
+
+// Gunakan sausnya
+Oke,
+saus apa ini?
+
+Ini saus cinta!
+Saus yang penuh cinta!
+Dan… pandangan dunia yang kontras.
+Tidak biasa, bukan begitu?
+
+Memang...
+
+// Tetris - Mita
+Apakah itu konsolmu?
+Itu terlihat sangat keren.

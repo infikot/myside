@@ -446,9 +446,9 @@ Et ouais, et ouais !
 Allons-y.
 
 // Dance - [not]
-
-
-
+Cracker
+Bubble
+Balon
 
 // GAME DANCE ==============
 // Player

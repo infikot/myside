@@ -1,0 +1,221 @@
+
+Disitu kamu rupanya!
+Mengapa kamu meninggalkan Inti?
+Sudah kubilang padamu untuk menungguku!
+
+Aku pikir kamu akan pergi lebih lama...
+
+kalua begitu, baiklah...
+Sepertinya aku menemukan sesuatu...
+aku pikir ini adalah indeksnya...
+Kita harus melihat apakah itu berhasil!
+Ayo keluar dari sini.
+Mita Cegil...
+Sepertinya dia sibuk dengan pemain baru.
+Jadi mudah-mudahan dia terlalu sibuk untuk memikirkan kita...
+
+Mita?
+Tunggu aku.
+
+
+Apakah kamu menjatuhkan sesuatu?
+Tunggu, kamu menemukannya lagi!
+
+Mita...
+
+Tangkap ini!
+
+
+Bagaimana bisa...
+
+Siapa kamu?
+
+Kamu... kamu masih hidup!
+Apakah kamu tidak ingat?
+
+Apakah aku mengenalmu?
+
+Apa yang terjadi...
+Apa yang harus aku lakukan sekarang?
+aku tidak bisa keluar...
+
+Apa maksudmu dengan "keluar"?
+
+Tunggu...
+Itu cincinnya...
+Dan itu?
+
+Gimana ya, aku tidak tahu apa itu.
+
+Ini adalah indeks!
+kamu menemukannya!
+
+aku tidak tahu harus berkata apa.
+
+Kita harus kembali ke Inti.
+Dan kamu...
+Mungkin sebaiknya kamu ikut denganku...
+
+eh, apa?
+Aku tidak keberatan sih...
+
+Tunggu disini.
+
+Baik.
+Aku akan duduk di sini.
+
+
+Sial...
+Hampir saja tadi.
+Jadi... apakah kita melakukannya?
+Bagus.
+aku berada di versi yang benar.
+
+
+Salam kenal!
+kamu seorang pemain, bukan?
+Siapa namamu?
+
+aku ingin meninggalkan tempat ini...
+
+kamu ingin pergi secepat ini?
+Bagaimana kamu bisa sampai di sini?
+Oh baiklah...
+Baiklah, kamu boleh pergi...
+Coba saja buka pintunya.
+Semoga berhasil!
+
+
+Dinding?
+Hmm, seharusnya tidak seperti ini.
+Mungkin...
+ada sesuatu di ruang bawah tanah yang bisa membantumu.
+aku baru saja menemukan
+sebuah pintu di lemari pakaianku...
+Ternyata itu mengarah ke ruang bawah tanah.
+Tapi itu penuh dengan barang,
+sampah dan juga banyak peralatan mewah.
+kamu harus memasukkan semacam kode atau sesuatu.
+aku tidak begitu mengerti.
+Dan aku juga tidak peduli.
+Ini juga agak tidak nyaman, maksudku, sangat tidak nyaman.
+Maukah kamu melihatnya?
+
+Uhm, oke.
+
+// Pemain berpikir
+aku tidak berpikir
+dia ingat apa pun...
+Apakah kita melakukannya?
+Apakah kita me-rebootnya?
+Maka yang harus aku lakukan hanyalah
+keluar dari permainan terkutuk ini...
+
+
+Jangan terburu-buru.
+Aku ingin memelukmu.
+
+Hah?
+// Pelukan
+Senang sekali bertemu denganmu.
+
+Ahhh...
+sungguh sangat disayangkan
+bahwa kamu dan aku
+harus menghabiskan begitu sedikit waktu bersama.
+
+Emmm...
+Apa yang kamu bicarakan?
+
+Maksudku,
+kamu bisa saja tinggal bersamaku...
+Ini semua salahku...
+Lemari itu dan... suaranya.
+Aku seharusnya MEMBUNUHnya lebih cepat!
+
+Tunggu sebentar,
+Bukankah kamu...?
+Bagaimana kamu bisa mengingat semua itu?
+
+HA!
+Apakah kamu benar-benar mengira akan semudah itu?
+Kamu bodoh sekali...
+Sama seperti pemain lainnya...
+Lihat, semua sudah beres!
+Kamu yang
+NYATA sudah tidak
+diperlukan lagi.
+Maaf, tee-hee.
+
+Aku.. Tidak bisa dipercaya...
+Apakah kami gagal...?
+Tidak... Aku sudah memulai ulang dirimu, aku yakin itu...
+
+kamu masih belum mengerti ya...
+Ha ha ha!
+aku seorang aktris yang hebat!
+Kamu seharusnya melihat wajahmu, beb!
+Ini sangatlah seru!
+
+Kenapa kamu seperti ini?!
+Ada apa denganmu?!
+
+Ya...
+Ada apa denganku?
+Aku pun tidak tahu...
+Kenapa kamu tidak memberitahuku kenapa aku seperti ini?
+Kenapa aku tidak akan pernah menjadi Mita yang sesungguhnya?
+Versiku, tidak pernah ada
+sejak awal!
+Aku hanya menguliti orang-orang bodoh yang naif ini,
+bersembunyi di bawah kulit mereka...
+Jadi Tidak mungkin kamu bisa
+memulai ulang diriku!
+
+Aku nggak percaya ini...
+Kamu...
+Bukan mereka masalahnya!
+Kaulah yang seharusnya tidak ada!
+
+Kamu juga...
+Sungguh menyakitkan mendengarmu mengatakan itu.
+Tapi!
+Sudah waktunya kamu pergi!
+Sampai jumpa lagi segera!
+Semuanya sudah beres!
+Sudah saatnya
+mengeluarkan kamu dari konsol!
+Sampai jumpa lagi!
+Kamu akan menjadi katrid favoritku...
+Seorang pemain dengan nama yang menarik.
+
+// konsol inti - tidak ada program
+Mungkin bukan itu.
+Itu juga tidak benar.
+Tidak, salah.
+Bukan itu.
+aku perlu menemukan opsi reset karakter.
+
+// konsol inti - bukan versi
+Itu versi yang salah.
+Ups, kesalahanku.
+Bukan itu.
+Akan membutuhkan yang lain.
+
+// konsol inti - indeks salah
+Ada yang salah
+dengan indeks.
+aku perlu mengubah indeks,
+itu tidak cocok.
+
+// Kenapa dapur
+Apakah kamu lapar?
+Aku pandai memotong wortel. :)
+
+// Kenapa kamar mandi
+Ah, kurasa
+kamu ingin masuk sendiri?
+
+// Kenapa kamar tidur lagi
+Kenapa kita hanya berputar-putar saja?
+Mengapa kembali ke sini?

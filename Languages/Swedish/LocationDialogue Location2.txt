@@ -1,0 +1,9 @@
+// Spelarens start
+Vart är jag nu?
+Det här stället verkar bekant ut.
+Vänta lite... Är jag i spelet?
+// Spelaren försöker öppna dörren
+Låst?
+// Spelaren i mörkret
+Det är mörkt här inne.
+Jag kan inte se någonting.

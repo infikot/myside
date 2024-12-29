@@ -1,0 +1,165 @@
+Nytt spel
+Fortsättning
+Huvudmeny
+Avsluta
+Inställningar
+Prestationer
+Krediter
+Tillbaka
+Ladda
+Språk
+Laddar...
+Grafik
+Ljud
+Tangentbord & mus
+Styrenhet
+Upplösning
+Fönsterläge
+Grafiska effekter
+Färgeffekter
+Mjuka skuggor
+Oskärpa
+Glans
+Anti-aliasing
+Skuggor
+Kvalitet på världsvisning
+Programmering
+Animering
+Ljudeffekter
+Musik
+Partiklar
+Texturer
+3D-modeller (98%)
+Skript
+Återställ
+Framåt
+Bakåt
+Vänster
+Höger
+Interaktion
+Musens känslighet
+Avsluta spelet?
+Ja
+Nej
+Tillbaka till huvudmenyn
+Smidiga svängar
+Inställningar för spelet
+Skuggans stil
+Kläder
+Gränssnitt
+3D-modeller (2%)
+Röstvolym
+Pausa
+Meny
+Grattis! Du har slutfört spelet!
+Din tid:
+Undertexter
+Ljusstyrka
+Vertikal synkronisering
+Sparat
+Karaktärer
+Karaktärer - Mita
+Karaktärer - Kassetter
+Kassetter
+Mita
+Börja med en ren tavla
+Är du säker på att du vill radera alla dina framsteg och börja om från början?
+Kompilering av shaders, beräknad väntetid: 2 timmar.
+2 timmars kompilering?! Det är inte sant! Vi hoppade över kön åt dig!
+Skapa realistisk skuggspårning - uppskattas ta 10 minuter.
+Jag skojar bara, vi använder inte såna fina saker här.
+Hmm...
+Åh, vi är redo!
+Gunga medan du går
+Visa ledtrådar
+Spelarens röst
+Discord
+Lagt till karaktärsprofil
+Kamerans vinkel (FOV)
+Röst
+Av
+Hand sträcker sig ut mot dörren
+Animering
+Aktivera spelarens röst
+Mita
+Korthåriga Mita
+Snäll Mita
+Kepsbärande Mita
+Lilla Mita
+Sömnig Mita
+2D Mita
+Mila
+Läskiga Mita
+Kärn Mita
+Spöklika Mita
+Chibi Mita
+Dummy Mita
+
+
+
+// Namn laddningsplats
+Är jag inne i ett spel?
+Äntligen tillsammans
+Saker och ting blir konstiga
+Källaren
+Bortom världen
+Slingan
+Mini Mita
+Dummies och bortglömda pussel
+Hon vill bara sova
+Noveller
+Läsa böcker, förstöra glitches
+Spring och göm dig!
+Gammal version
+Öppna dialogen
+Starta om
+Keps
+Spöklikt
+Den verkliga världen
+Ut ur kärnan!
+Spelare 1
+Spelare 2
+Spelare 3
+Spelare 4
+Spelare 5
+Spelare 6
+Spelare 7
+Spelare 8
+Spelare 9
+Spelare 10
+
+Lugnt läge
+Detta läge är fortfarande under utveckling! Det är så expansivt att utvecklarna inte har hunnit färdigställa det än. Men oroa dig inte - de har lovat att det kommer att ingå i en större uppdatering som kommer snart. Och titta på dig, redan före kurvan genom att låsa upp åtkomst! Nu är allt som återstår att vänta...
+Så, vad är det lugna läget? Det är din chans att återknyta kontakten med Mita på ett helt annat sätt! Hon kommer att bli väldigt glad över att få tillbringa mer tid med dig, från morgon till kväll, i en värld som är full av roligheter och överraskningar. Förvänta dig innerliga samtal på tu man hand, att dela kakor, spela spel och massor av roliga stunder tillsammans.
+
+
+Censur av blodiga scener
+Ett särskilt tack:
+Prestationsikon: Iceсloud
+Fotografi: Nineko Hori
+Översättare
+Konverterar spelets text till ett annat språk.
+Publiceringspartner
+Marknadsföring av spel
+Testare
+Spelade och hittade alla möjliga buggar.
+Denna språköversättning gjordes av entusiaster från fan-communityn och lades till i spelet på deras begäran.
+Varning! Spelet innehåller screemers , som innehåller höga ljud och blinkande visuella effekter. Vissa moment i spelet kan vara farliga för personer som har hjärtproblem eller lider av epileptiska anfall. Vänligen var försiktig.
+Tillgång till Lugna-läget är öppen!
+
+Foto-läge
+Fotoläge: Alla flygrestriktioner är upphävda, så du kan se saker du inte borde se.
+Avsluta fotoläget
+Dölj gränssnittet
+Håll för att flytta kameran
+Snabbare rörelse
+Smidig rörelse
+Hastighet
+Effekter
+Tidskontroll
+Ljusstyrka
+Kontrast
+Vinjett
+Skärmdump!
+Öppna mappen för skärmdump
+Kameravinkel

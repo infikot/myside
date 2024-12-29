@@ -38,7 +38,7 @@ Rechazar
 Cartuchos
 Abrir
 
-Beber jugo
+Beber zumo
 Rechazar
 
 Moverse a la derecha
@@ -47,8 +47,8 @@ Saltar
 Agacharse
 Atacar
 
-Torcer a la derecha
-Torcer a la izquierda
+Girar a la derecha
+Girar a la izquierda
 Dejar
 
 Liberar
@@ -70,7 +70,7 @@ Lo sé
 No lo sé
 Golpear débilmente
 Golpear fuerte
-¡Empujar!
+¡Pulsar!
 
 Izquierda
 Centro

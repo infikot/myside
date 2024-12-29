@@ -1,10 +1,10 @@
 
-¡Oye, tú!
+Oye, ¡tú!
 ¡Hola!
 ¿Quieres salir?
 ¡Entonces ayúdame a encontrar la llave!
 // Key Search
-Mierda! ¡La llave desapareció!
+¡Mierda! ¡La llave desapareció!
 Nada aquí
 cero, nada, ¡nada!
 ¡La encontré!
@@ -14,12 +14,12 @@ cero, nada, ¡nada!
 ¡Eres alto
 justo como mi hermana!
 
-¿Tu hermana? ¿Qué pasa con ella?
+¿Tu hermana?
 
 Sí, mi hermana.
 ¡No me digas que nunca la has conocido!
 
-Uh... creo que la he conocido... ¿o sí?
+Uh... he hecho más que conocerla... ¿creo?
 
 ¿Eres tonto?
 
@@ -57,14 +57,14 @@ un modelo súper simple,
 y lo mejor de todo, ¡un cabello hermoso!
 
 // Quest 2 (Have we seen each other yet?)
-¡Cabeza tonta!
-Eres un poco lindo, ¿sabías?
+¡Cabeza hueca!
+Eres un poco mono, ¿sabías?
 Haciendo preguntas tontas como esa.
 Aunque,
 ¡esta es la primera vez que te conozco!
 Pero escucha...
 ¡Si robas mi estilo maravilloso,
-te haré arrepentirte!
+te arrepentirás!
 
 // Quest 3 (Why are you here?)
 ¿No lo entiendes?

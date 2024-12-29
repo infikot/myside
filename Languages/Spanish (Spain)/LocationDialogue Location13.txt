@@ -10,7 +10,7 @@ a la Mita loca, ¿no era así?
 También tuve que investigar toda la información que pudiera
 sobre el maldito backend del universo, ¿no es cierto?
 
-Hmm... Supongo...?
+¿Hmm... Supongo...?
 ¿Pero cómo configuraste la ruta del anillo?
 ¿Por qué terminé en una versión defectuosa
 llena de peligros?
@@ -27,11 +27,11 @@ Bien, continuemos con el plan.
 
 // Answer 2 (How did you get here?)
 Debes haber pasado por mucho,
-pero eso de olvidar lo que hablamos.
+pero olvidar lo que hablamos...
 Soy Mita, puedo moverme entre versiones
 como me dé la gana, ¿recuerdas?
 
-No todas los Mitas pueden hacer eso,
+No todas las Mitas pueden hacer eso,
 he visto algunas que no pueden.
 Y obviamente están sufriendo.
 
@@ -98,7 +98,7 @@ De todos modos, estoy completamente segura
 de que la solución a todos nuestros problemas
 está dentro.
 [player], entra.
-De hecho, ya he estado allí una vez.
+Lograste entrar...
 
 // Look on CoreMita
 Cuidado, [player].
@@ -180,7 +180,7 @@ simplemente matamos a Mita loca?
 ¡Corta zanahorias con más que solo cuchillos!
 ¡Y por alguna razón, tiene una fuerza aterradora!
 Es un milagro que sigamos vivos...
-Vamos, tenemos que llegar al Núcleo.
+Vamos, el núcleo es nuestra única opción.
 
 
 // core console entry

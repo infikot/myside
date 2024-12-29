@@ -1,10 +1,10 @@
 
-Hiya!
+¡Hiya!
 ¡Ups!
 Perdón,
 casi te mato ahí.
-Ehmm... El refrigerador,
-quiero decir... el refrigerador casi te mata.
+Ehmm... La nevera,
+quiero decir... la nevera casi te mata.
 Yo no tuve nada que ver,
 ¡lo juro!
 ¡De verdad!
@@ -20,10 +20,10 @@ especialmente para ti.
 Verte
 mientras pasas
 por estos lugares es divertido...
-¡Corre, calabaza, corre!
+¡Corre, cariño, corre!
 ¡Te alcanzaré!
-¡Eso es!
-¡Wow, esto es divertido!
+¡Sigue, sigue!
+¡Wow, así es más divertido!
 
 // After a while 2
 Te vi dirigiéndote hacia el teleférico.
@@ -38,7 +38,7 @@ en esa niebla.
 Por favor...
 ¡No mires!
 ¡Tonto!
-Eres un cabeza hueca...
+¡Cabeza hueca...!
 
 
 Uhm, bueno...
@@ -61,7 +61,7 @@ tengo la mente en blanco...
 Quise olvidar todo alguna vez...
 Rompí todos los espejos,
 arruiné las fotos...
-pero ahora...
+Pero ahora...
 lo único que siento es arrepentimiento.
 Qué estúpida fui...
 Todos cometemos errores, claro...
@@ -182,7 +182,7 @@ Te dije que te fueras ya.
 No entiendo...
 ¿Por qué sigues parado ahí?
 // Funicular tetris
-¿Tetris?
-Amigo...
+¿De verdad estás jugando?
+En serio...
 // Funicular goodbye
 Adiós.

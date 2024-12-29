@@ -1,0 +1,165 @@
+Joc nou
+Continuă
+Meniul principal
+Ieși
+Setări
+Realizări
+Credite
+Înapoi
+Încarcă
+Limbă
+Se încarcă...
+Grafici
+Sunet
+Keyboard & mouse
+Controller
+Rezoluție
+Mod Windowed
+Efecte grafice
+Efecte de culoare
+Umbre ușoare
+Blurare
+Glare
+Anti-aliasing
+Umbre
+Calitatea Lumii
+Programare
+Animații
+Efecte sonore
+Muzică
+Particule
+Texturi
+Modele 3D (98%)
+Script
+Resetează
+Înainte
+Înapoi
+Stânga
+Dreapta
+Interacție
+Sensitivitatea mouse-ului
+Ieși din joc?
+Da
+Nu
+Înapoi la meniul principal
+Smooth turns
+Setările jocului
+Stilul umbrelor
+Haine
+Interfață
+Modele 3D (2%)
+Volumul vocii
+Pauză
+Meniu
+Felicitări! Ai completat jocul!
+Timpul tău:
+Subtitrări
+Luminozitate
+Vertical sync
+Salvat
+Personaje
+Personaje - Mite
+Personaje - Cartușe
+Cartușe
+Mite
+Începe de la 0
+Ești sigur că dorești să ștergi tot progresul și să începi de la 0?
+Generând umbre, timp de așteptare estimat: 2 ore.
+2 ore?! E prea mult! Am sărit la final pentru tine!
+Crearea de umbre realiste cu shadow-tracing dureaza aproximativ 10 minute.
+Glumesc, nu folosim chestii asa sofisticate aici.
+Ăăă...
+A, suntem gata!
+Balansare în timpul mersului
+Arată indicii
+Vocea jucătorului
+Discord
+Profil de personaj adăugat
+Unghiul camerei (FOV)
+Voce
+Oprit
+Mâna se întinde spre ușă
+Animații
+Activați vocea jucătorului
+Mita
+Mita cu părul scurt
+Mita cea bună
+Mita cu pălărie
+Mita cea mică
+Mita cea somnoroasă
+Mita 2D
+Mila
+Mita Înfricoșătoare
+Mita de bază
+Mita fantomă
+Mita Chibi
+Mita păpușă
+
+
+
+// Name load location
+Sunt intr-un joc?
+Împreună în final
+Lucrurile devin dubioase.
+Subsolul
+În afara lumii
+Repetiția
+Mini Mita
+Păpuși și puzzle-uri uitate
+Ea doar vrea să doarmă
+Nuvele
+Citind cărți, distrugând erori
+Fugi și ascunde-te!
+Versiunea veche
+Dialog deschis
+Repornire
+Pălărie
+Fantomă
+Lumea reală
+În afara nucleului!
+Jucator 1
+Jucator 2
+Jucator 3
+Jucator 4
+Jucator 5
+Jucator 6
+Jucator 7
+Jucator 8
+Jucator 9
+Jucator 10
+
+Modul pacifist
+Acest mod este încă în curs de dezvoltare! Este atât de expansiv încât dezvoltatorii nu au reușit încă să îl finalizeze. Dar nu vă faceți griji - ei au promis că va fi inclus într-o actualizare majoră care va veni în curând. Și uită-te la tine, deja ai luat-o înainte prin deblocarea accesului! Acum nu mai rămâne decât să aștepți...
+Deci, ce este Modul pacifist? Este șansa ta de a te reconecta cu Mita într-un mod complet diferit! Ea va fi încântată să petreacă mai mult timp cu tine, de dimineața până seara, într-o lume plină de distracție și surprize. Așteaptă-te la conversații sincere unu-la-unu, la împărțirea prăjiturilor, la jocuri și la o mulțime de momente amuzante împreună.
+
+
+Cenzurarea scenelor cu caracter violent
+Multumiri:
+Iconografiile Realizărilor: Iceсloud
+Fotografii: Nineko Hori
+Translator
+Schimbă textul jocului în altă limbă.
+Parteneri de publicare
+Marketing-ul jocului
+Testatori
+S-au jucat și au găsit o mulțime de erori.
+Această traducere lingvistică a fost realizată de entuziaști din comunitatea fanilor și adăugată în joc la cererea lor.
+Avertisment! Jocul conține screemers , conținând sunete puternice și efecte vizuale intermitente. Unele momente din joc pot fi periculoase pentru persoanele care au probleme cardiace sau suferă de crize de epilepsie. Vă rugăm să fiți atenți.
+Accesul la modul pace este deschis!
+
+Modul poză
+Modul foto: Toate restricțiile de zbor sunt ridicate, astfel încât puteți vedea lucruri pe care nu ar trebui să le vedeți.
+Ieși din modul poză
+Ascunde interfața
+Ține apăsat pentru a muta camera
+Accelerează miscarea
+Mișcare lină
+Viteză
+Efecte
+Controlul timpului
+Luminozitate
+Contrast
+Vignette
+Captură de ecran!
+Deschide fișierul cu capturi de ecran
+Unghiul camerei

@@ -1,0 +1,14 @@
+// Quest none
+Mindegy.
+// Quest "First"
+Merre voltál eddig?
+Hogy kerültél ide?
+Az imént melyik Mitával találkoztam?
+Hogy működik a gyűrű?
+Téboly-Mita miért viselkedik így velem?
+Ez lenne a Mag?
+// Quest "Second"
+Jól vagy?
+Valahogyan csak megtaláljuk az indexszet.
+És ha megtámadjuk Téboly-Mitát?
+Miniemberkék

@@ -21,7 +21,7 @@ Sprawdź
 Połóż
 Podaj nożyczki
 Odmów
-Zjedż
+Zjedz
 Wstań
 Spróbuj wstać
 Weź tabletki
@@ -32,10 +32,10 @@ Schowaj karty
 Prawo
 Lewo
 Zagraj kartę
-Stój
+Zostań
 Odmów
 
-Kartridże
+Kasety
 Otwórz
 
 Wypij sok
@@ -45,7 +45,7 @@ Idź w prawo
 Idź w lewo
 Skacz
 Kucnij
-Attakuj
+Atakuj
 
 Obrót w prawo
 Obrót w lewo
@@ -126,7 +126,7 @@ Obróć
 Za dużo
 
 Dobrze na tobie wyglądają
-Poprostu je zdejmij
+Po prostu je zdejmij
 
 Mów do mnie
 Nie ma potrzeby

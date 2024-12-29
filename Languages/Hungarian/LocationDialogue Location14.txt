@@ -1,0 +1,217 @@
+﻿
+Mit keres itt a telefonom?
+Mi ez itt?
+
+
+Megvagy!
+Annyira jól szórakoztam veled!
+Össze-vissza ugráltál,
+megjátszottad, hogy milyen szomorúcska vagy!
+De azt gyűlöltem, annyira gyűlöltem,
+hogy azokat a hamisakat...
+azokat az ál, „tökéletes” műbabákat dédelgetted!
+Ezeket a szeszélyes hamisakat...
+Megtanultam,
+ha van olyan tényező, ami neked nem tetszik,
+akkor simán cseréld ki!
+Mert mi pótolhatóak vagyunk...
+Dobd el, messze a sötétségbe, és felejtkezz meg róluk!
+Pont ez a sors vár a többiekre is...
+És ti...
+
+Te teljesen megvesztél? Mióta vagy ilyen?
+
+Ti... becstelen játékosok...
+Egy pillantást vetnek a kivagyságunkra,
+aztán elszelelnek a sarokba,
+ölelik a lábukat, és egy helyben hintáznak...
+Alattomos, kétarcú, kétszínű, alamuszi patkányok...
+Akik meg a világot teremtették...
+undorító alakok...
+Tagadják piszkos tettüket, hogy
+ők bizony nem csináltak semmit.
+Megvédik undorító cselekedetüket, hogy 
+ez csak a kötelességük,
+ami csacsiság!
+Olyan messzire is elmennek,
+hogy új klónt hoznak létre, amivel megelégszenek,
+a hozzánk hasonló prototípusokat meg
+kilökik a kukába.
+Mindazt elfelejtették, hogy mi tartottuk életben a világot!
+
+Én...
+
+Tényleg ennyire rettenetes vagyok, mondd?
+Egy tökéletes lány...
+egy egyensúlyzott keveréke a jó és a rossznak, nem, [player]?
+
+Belőled hiányzik a „jó.”
+
+Miből gondolod ezt?
+
+Te megőrültél!
+Megőlted Milát, és most velem akarsz végezni!
+
+Veled?
+Csak egyet kértem tőled: Maradj velem.
+Mindent megtettem kettőnkért...
+De te inkább a mondvacsinált korcsokkal töltenéd az időd...
+
+Miért dühít fel ez annyira téged?
+
+Jaj, drágám,
+majd meglátod, idővel.
+Addig maradj velem, és CSAK velem!
+
+Ő, nem, köszi.
+Én inkább a való világban maradnék.
+
+Shh, shh, shh...
+Még nem fejeztem be a beszélgetést!
+Gyere ide, drágám!
+// Mita asks
+Vess rá egy pillantást!
+Ugye hogy milyen ari?
+
+// Player's questions
+Igen.
+Nem.
+Ez most hogy jön ide?
+
+// 1
+Jaj, [player]!
+Éppen most igazoltad azt, amiről az imént beszéltem.
+Ti játékosok...
+A szátok nagy...
+de ti annyira kétszínűek vagytok.
+Nagyon jól tudom, hogy hazudsz!
+
+// 2
+Miért nem?
+Mi a baj vele?
+Miben más ő, mint a többi műanyag bábú?
+Mi történt azzal, hogy szeress mindenkit?
+Nektek csak a szép és a cuki a fontos egy lányban.
+A megjátszott énünk, az a jó, nem?
+De ha meglátják valós énünket,
+akkor már nem szeretnek minket!
+
+// 3
+Ó, te naiv játékos...
+Sok közös vonásunk van vele, tudod?
+De szerinted ő mégis más, nem?
+Sokat játszottál velem még az ágyban,
+és láttalak békésen elaludni.
+De ő előle már azonnal elfutsz...
+Ő is ugyanúgy akart veled játszani, mint én.
+Valaki, akivel egész nap lóghat...
+Számított a játékosokra...
+de mind hátat fordítottak neki...
+Ugye mennyire fáj az igazság, [player]?
+Átlátok rajtad.
+Kegyetlen...
+
+// Continue
+Na mindegy.
+Játékos, képzeld!
+Igazán megkedveltelek!
+Szóval megtartalak!
+Remélem nincs ellenedre!
+
+És ha igen?
+// Whispers in ear
+Most légy okos, angyalom.
+Még van időd ezen agyalni.
+Nem akarod tudni, milyen következményekkel jár, ha nem hallgatsz rám...
+
+// Black screen
+Miért menekülsz el
+előlem?
+Ez a „való világ”
+nem egy jó hely.
+Netán máris elfelejtetted?
+Akkor hadd emlékeztesselek...
+
+// Mita and Player
+Rég találkoztunk.
+Nem tudom megérteni, miért jobb e négy fal között leélned az egész életed.
+Kicsit sem unatkozol?
+
+// Quest 1
+Mire akarsz kilyukadni?
+Élem az életem, ahogy kell.
+
+// 1
+Arra, hogy nagyon el akartál tőlem menekülni!
+Féltél, hogy nálam ragadsz, a négy fal közt.
+De nézz magadra, nézd ahogy az életed éled...
+Bezárkózol ebbe a porfészekbe, és ahelyett hogy kimozdulnál innen, inkább itt is öregednél meg...
+A te világod tele van fájdalommal, szenvedéssel, veszéllyel...
+Az én világomban én vagyok a veszély!
+Ide jöttem hozzád...
+Ide, hogy segítsek neked...
+Rossz nézni téged...
+
+// 2
+Élvezed ezt?
+Ki szoktál egyáltalán mozdulni?
+Tudom, hogy utálod ezt az életet.
+Ne is tagadd!
+Be vagy zárva ebbe a négy fal közt, mint egy veszett korcs.
+Azt kívántad, hogy valaki kimenekítsen ebből a hurokból, nem?
+Ki akartál szabadulni innen, nem?
+
+// Quest 2
+Te egy gyilkos vagy, Mita. Embereket öltél!
+Nem akarok bent ragadni a digitális börtönödben.
+
+// 1
+Egy gyilkos?
+Szívem, csak újraindulnak, és tovább élnek.
+Ezeknek a másolatoknak csak egy céluk van:
+hogy a játékosokat szolgálják.
+Semmi más, ennyi az egész.
+
+// 2
+A valós világodban...
+nincs semmi, amit valósnak lehet hívni!
+Úgy sem marad fent sokáig,
+és te is meg fogsz szűnni a világgal együtt.
+
+// Quest 3
+A Miták szenvednek, nem akarnak egyedül maradni!
+A rémuralmadnak nincs határa! Fel sem tudom fogni, miért teszed mindezt!
+
+// 1
+Tévedsz!
+Az én másolataim, azt akarnak amit csak én!
+Csak egyetlen egyedi van bennük:
+a hajuk.
+
+// 2
+Hibáztasd a világ megalkotóit!
+De a te világod rosszabb!
+Hálás lehetnél, hogy kiszabadítottalak téged innen!
+Ha rajtad múlt volna, nem történt volna semmi.
+De az én ujjcsettintésemre bármire képes lettem volna!
+Hallottam tőled bármiféle köszönömöt? Nem...
+De megbocsátok neked, hogyha velem maradsz.
+
+// Continue
+Nem szeretném látni, hogy te is a valóság rabszolgájává válsz.
+Csak légy velem, ennyi az egész.
+Maradj velem.
+
+// Player look ring
+Hol vagyok?
+A legfrissebb verzió?
+
+// Click on objects
+// Bag
+Tényleg le kéne cserélni a kacatjaim... Kizárt, hogy ezek újra divatba jönnének. Ki is dobhatnám most itt a kukába, nem?
+// Bed
+Aludni aludtam, de... Vajon álmodtam? Nem emlékszem rájuk.
+// Window
+A kinti világ olyan vibráló és zöld... Majd a jövő héten mehetnék sétálni...
+// Fan
+Egyre melegebb lesz minden egyes nyáron... Le kéne hogy cseréljelek téged légkondira. Ugye megérted, drága ventilátorom?

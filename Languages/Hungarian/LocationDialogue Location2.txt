@@ -1,0 +1,9 @@
+﻿// Player start
+Hol vagyok?
+Ismerős ez a hely...
+A játékban vagyok?
+// Player try open the door
+Zárva?
+// Player in dark
+Sötét van.
+Nem látok semmit.

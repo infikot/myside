@@ -1,0 +1,19 @@
+// Namn på spår
+Smällkaramell
+Bubbel-dryck
+Ballong
+// Inga uppdrag
+Det var inget.
+// Uppdrag ”Möte med snälla Mita”
+Borde jag lita på dig?
+Hur kom jag hit?
+Vad är det här för ställe?
+Hur kom du hit?
+Vad gjorde du med ringen?
+Är gångarna farliga?
+Hjälper du mig att fly?
+Du nämnde en plan.
+// Uppdrag MitaCap
+Minns du någonting?
+Vad tycker du om den ringbärande Mita?
+Har du alltid den där kepsen på dig?

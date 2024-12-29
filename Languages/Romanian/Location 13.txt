@@ -1,0 +1,14 @@
+// Quest none (Fără misiune)
+Lasă.
+// Quest "First" (Misiune "Prima")
+Unde ai fost?
+Cum ai ajuns aici?
+Cine era acea Mita?
+Cum funcționează inelul?
+De ce are nevoie Mita nebună de mine?
+Ala e nucleul-ul?
+// Quest "Second" (Misiune "Al doilea")
+Care e problema?
+E vreo cale pentru a o recunoaște?
+Și dacă o atacăm pe Mita cea nebună?
+Mini oameni

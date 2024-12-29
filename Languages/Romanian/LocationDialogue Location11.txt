@@ -1,0 +1,188 @@
+
+Bună!
+Ups!
+Scuze,
+aproape te-am omorât.
+Um...
+Frigiderul, adică... frigiderul aproape te-a omorât.
+Nu am avut nimic de-a face cu asta,
+Jur!
+Sincer!
+
+Sigur, te cred!
+
+Dar sincer,
+locul ăsta e periculos...
+în special pentru tine.
+
+// After a while 1
+Nu ești un laș, nu?
+Uitându-mă la tine
+cum treci prin
+aceste locuri este distractiv...
+Fugi, dovlecel, fugi!
+O să te ajung din urmă!
+Bun băiat!
+Woah, asta e distractiv!
+
+// After a while 2
+Te-am văzut îndreptându-te spre telecabină.
+Asta e cea mai lungă cale
+între versiuni...
+Mă întreb cum te vei descurca
+cu cei care trăiesc acolo
+în acea ceață.
+
+// Panties
+Ce crezi că faci?
+Te rog...
+Nu te uita!
+Prostuțule!
+Ești un mare prostuț...
+
+
+Um, ok...
+
+
+Mult noroc!
+
+
+Cine e acolo?
+Pot să te simt...
+Ascultă-mă,
+ești un jucător,
+nu-i așa?
+Ajută-mă să găsesc...
+să găsesc un...
+Lasă-mă să mă gândesc...
+mintea mea e goală...
+Ce naiba se întâmplă aici?
+// Cry 1
+Am vrut să uit totul...
+Am spart fiecare oglindă,
+am distrus fotografiile...
+dar acum...
+tot ce simt este regret.
+Cât de proastă am fost...
+Toată lumea face greșeli, sigur...
+Dar ce te faci
+când consecințele sunt catastrofice?
+Aș vrea să pot da timpul înapoi...
+// Cry 2
+Se spune că timpul vindecă toate rănile...
+Dar ce este timpul?
+Eu nu mai cred în nimic...
+Dar dacă timpul poate vindeca,
+sau măcar să mă ducă departe,
+departe de această lume...
+Atunci, te implor, te rog
+grăbește timpul.
+Astfel încât să mă poată ucide
+odată pentru totdeauna.
+// Cry 3
+Ea a iubit...
+Am iubit și eu, odată?
+Dar dragostea mea e diferită;
+dragostea ei e vibrantă,
+disprețuitoare...
+arzătoare...
+implacabilă...
+invidioasă...
+furioasă...
+nebună...
+// Cry 4
+Mi-au spus că sunt emotivă...
+Îți faci prea multe griji, Mita...
+Vei trece peste asta, Mita...
+Nu ești singură, Mita...
+Mi-au spus toate astea. Dar ce a rămas?
+Tristețea,
+disperarea...
+și frica.
+// Cry 5
+Inutil...
+Nu-mi pot aminti...
+Absolut nimic...
+Doar ecourile nesfârșite...
+Nu pot face față faptului
+că sunt prins aici...
+Întotdeauna am fost aici,
+dar de ce?
+Nu-mi pot aminti...
+Se va termina vreodată?
+Nu știu...
+
+// Mita get picture
+Acesta este...
+un desen...
+Îmi amintesc acum,
+mulțumesc...
+Dar fața mea...
+Nu am o față...
+Totul e al EI.
+Ea a luat o parte din mine...
+a aruncat-o...
+Ea e puternică...
+și isteață.
+Nu am niciun drept să te opresc, jucătorule.
+Uită-te în șifonier...
+
+
+Hei!
+Ești în calea mea!
+Ai de gând să stai acolo?
+Dă-te la o parte!
+Lasă-mă să trec!
+Doar pentru că ești mare nu înseamnă că ești atotputernic!
+
+// HEY! STOP!
+De ce mă urmărești!
+Dispari!
+
+
+
+
+// Funicular - radio voice
+Stai puțin... Jucător?
+Ce faci aici?
+
+Cine e acolo?
+
+Un alt jucător.
+Eu sunt Mitaphone.
+Stau aici și controlez telecabinele.
+Îți dai seama
+că te îndrepți spre moartea ta chiar acum?
+
+Poate că da,
+dar e singura cale pe care o am.
+
+Ai dreptate.
+Apasă butonul și treci în spatele tunului.
+
+Tunul?
+
+Mhm.
+Credeai că o să treci direct prin el?
+Trebuie să treci de acest mini-joc Monster-slap,
+așa că pregătește-te să tragi.
+
+// Funicular go
+În regula, e timpul să plecăm.
+// Funicular win
+Bravo!
+Ai reușit.
+// Funicular stop
+Hei, fugi de aici.
+Cât mai repede!
+// Funicular wait 2
+De ce ești încă aici?
+Ți-am zis să te cari.
+// Funicular wait 3
+Nu înțeleg...
+De ce doar stai acolo?
+// Funicular tetris
+Ce? O consolă?
+Fra...pe bune?
+// Funicular goodbye
+Pa.

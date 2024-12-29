@@ -1,0 +1,161 @@
+// Pensamento do jogador + Fazer café  
+Vou precisar de ajuda de alguém aqui.  
+Espero que a Mita aqui não me morda...  
+
+O que é que estou a fazer com a minha vida...  
+
+
+
+
+// Jogador tenta acordar MitaDreamer**  
+Mita?  
+Mita, acorda!  
+Mita!  
+
+Mita, acorda!  
+Preciso da tua ajuda.  
+
+Quem é você?  
+
+Ajuda-me com os interruptores.  
+
+Que interruptores?  
+Deixa-me dormir...  
+Ou traz-me um café.  
+
+A máquina de café está ali.  
+Mita?  
+Mi-ita!
+
+
+
+// Jogador dá o café**  
+Mita,  
+aqui está o teu café.  
+
+
+
+// Exercício de MitaDreamer**  
+Interruptores,  
+dizes tu?  
+
+Sim.  
+
+Como é que sabes disso?  
+Embora, por que é que me pergunto...  
+Considerando que estás aqui,  
+deves saber bastante já...  
+
+Só um minuto,  
+preciso sentar-me.  
+
+E?  
+
+Não sei o que dizer...  
+Mas preciso continuar,  
+seguir a orientação do anel.  
+
+**Tens o anel dela?**  
+Não é de admirar  
+que tenhas encontrado este lugar.  
+
+Exato.  
+Então, podes ajudar-me?  
+Com os interruptores?  
+
+Claro.  
+Vou ajudar-te.  
+Com os interruptores...  
+
+
+Mita, vamos lá...  
+Já vamos.  
+
+Uh?
+Está bem.  
+Vamos.  
+
+
+// MitaDreamer cai
+Levanta-te.  
+Estás tão sonolenta?
+
+// MitaDreamer volta a dormir  
+Acorda.  
+Já chegámos.  
+
+
+// Interruptores  
+Está bem,  
+estou pronta.  
+
+Estou pronta também.  
+
+Bem.  
+Vou começar  
+a contagem decrescente.  
+E vamos puxar os interruptores juntos.  
+Está bem?  
+
+Só mantém-te acordada, OK?  
+Vai.  
+
+
+3  
+2  
+1  
+
+// Jogador perde 1  
+Estás a sonhar acordado?  
+Vamos lá,  
+vamos de novo...  
+
+// Jogador perde 2  
+Mais uma tentativa?  
+Vamos,  
+eu...  
+estou a adormecer aqui...  
+
+// Jogador perde 3  
+Estou quase a cair a dormir...  
+
+
+
+Maravilhoso,  
+obrigado, Mita.  
+
+Mm-hmm.  
+
+
+As portas...  
+tão...  
+lentas...  
+
+
+Vou para a cama...  
+
+// Porquê cozinha?  
+Porque é que vais para a cozinha?  
+Se eu adormecer no chão frio,  
+a culpa é tua.  
+
+// Porquê casa de banho?  
+Não percebo...  
+com que interruptores é que precisavas de ajuda?  
+
+// Colocar botão  
+Não aconteceu nada?  
+Então, o que é que este botão faz aqui?  
+
+// Café  
+Mais café?  
+Ou vais adormecer outra vez.  
+
+O quê?
+Nãaaao...  
+Este café tem um sabor horrível...  
+Estou totalmente bem...  
+
+// Botão 
+Mita? O botão não funciona... Ouves-me?  
+Olá?

@@ -1,0 +1,400 @@
+Mita?
+Är du redan vaken?
+Hur kom du hit?
+Du var precis bredvid mig nyss.
+
+Nej, det var jag inte.
+Du frös framför spegeln.
+Så jag gick.
+Varför har rummen ändrats?
+
+Jag ordnade om stället
+så att du skulle känna dig mer som hemma.
+Här inne,
+kan vi ändra rummen
+hur vi vill.
+
+Det behövde du inte.
+Jag höll på att vänja mig vid layouten.
+Hur som helst, jag tror att du kommer att känna dig mer bekväm med den här layouten.
+// Mita kortspel
+Just det,
+ska vi spela?
+Spelet fungerar så här:
+Denna bricka indikerar en typ,
+till exempel hälsa:
+Vi spelar ett kort var,
+och om ditt kort har en högre
+hälsostatus
+än mitt,
+vinner du.
+Plocka upp dina kort.
+Nu är det min tur.
+Whoa!
+Jag har en riktigt bra hand!
+Jag går först!
+
+
+
+
+
+
+
+
+
+OKEJ!
+Din tur!
+Uh-huh.
+Din tur!
+
+Högsta hälsostatus vinner!
+Allt handlar om attack!
+Fokusera bara på skydd!
+
+
+Du vann!
+Du vann!
+Du fick mig.
+Åh, du...
+
+Jag vann!
+Jag är vinnaren!
+Jag vann!
+Hah, jag fick dig!
+
+Det är oavgjort.
+Alla lika!
+Nu är det oavgjort!
+Samma värde...
+
+
+
+
+
+
+
+
+
+
+
+// Kortspelet är avbrutet
+Vad är det för ljud?
+Det kommer från garderoben.
+
+Ljudet?
+Vilket ljud?
+Jag hörde ingenting.
+Vad tyckte du att du hörde?
+
+Knackningar, som om någon är där inne.
+
+Men...
+Det är ingen där...
+
+Jag skulle vilja öppna och kolla.
+Jag är lite rädd.
+
+Men varför...?
+Det här igen...
+
+
+
+
+
+
+
+Vad är det med dig!?
+Det är en garderob...
+Jag har mina trosor där...!
+
+Döljer du något från mig?
+
+Varför tror du mig inte bara?
+Vad är det jag gör fel?
+Vad jag vill...
+Allt jag vill är att du ska vara med mig.
+
+Jag skulle vilja det också, men ändå...?
+
+Varför är du så fast i den där garderoben?!
+
+Jag vill veta vad i hela friden det var som knackade!
+
+Är det för att
+den här världen
+bara har de här fyra rummen?
+Är inte det tillräckligt för dig?
+Varför kan du inte bara vara med mig?
+
+
+// Stanna inte hos Mita
+Jag fattar det.
+Det här igen...
+Om du vill kolla garderoben,
+gör det då,
+och ta reda på vad som finns där inne!
+
+
+
+
+Vad i...
+
+Sånt händer ibland.
+Rummet fastnade i laddningen.
+Vänta bara en sekund.
+
+Det här är så konstigt.
+Är vi inne i någons telefon?
+Kanske en långsam med långa laddningstider?
+
+Nej, inte alls.
+Men allt är inte perfekt
+i den här världen...
+Vi laddas
+tillsammans med världens kärna.
+
+Världens kärna?
+
+Typiskt, tycker du inte?
+
+
+
+Hur som helst, vi kan
+spela ett konsolspel
+eller bara kort.
+Du väljer.
+
+
+
+// Mita spela slagsmål
+Vill du slåss?
+Du måste vinna
+fyra gånger.
+Kom igen nu.
+Oroa dig inte, jag ska
+vara snäll mot dig i början.
+
+
+Duktig pojke.
+Bäst att du fokuserar!
+
+Whoa!
+Just det, okej.
+Jag ska bli seriös.
+
+Wow!
+Låt oss se om du kan
+slå mig nu!
+
+Du är
+helt enkelt
+otrolig! Vilken talang!
+
+
+Vad är det för fel?
+Huh, det är tråkigt.
+
+Aja,
+det var det. Tror du på ödet?
+
+Då så,
+skärp dig, annars blir du en förlorare för alltid!
+
+Vad är det för fel på dig idag?
+Jag moppade golvet med dig.
+Du gav inte allt...
+Det var därför jag vann!
+
+
+Okej, då så.
+Vad sägs om att spela lite kort?
+De är i sovrummet.
+
+
+
+// Dörr > [ERROR]
+Vad är det som händer?
+Var är...
+
+Uh-oh.
+Förlåt...
+Jag laddade ner något
+från nätet.
+Jag ville piffa upp
+utsidan lite.
+Men det visade sig
+att det var något fel på filen.
+Jag fixar det senare.
+
+Är det därför vi inte kan lämna huset?
+Ja, det är därför.
+// Mita shy
+Hej...
+Vad är det för fel på dig?
+Vill du ha något?
+
+
+
+// Väggklocka
+Den här klockan..,
+vad visar den för tid?
+Den aktuella tiden i spelet?
+Eller är den synkroniserad med min telefon?
+
+Tja, uhm...
+Jag vet ärligt talat inte.
+Men tiden spelar ingen roll här...
+Oavsett om det är sent eller tidigt,
+en stark tjej som jag
+är alltid full av energi.
+Jag blir aldrig trött!
+Vi kan ha en evig vår,
+eller en oändlig eftermiddag!
+
+Det är intressant...
+men också lite läskigt.
+Fast i samma ögonblick, för evigt...
+
+
+
+// Foton av Mita
+Fina bilder.
+Jag gissar att de är på dig?
+
+Japp.
+Jag gillar dem också.
+
+Vem tog dem?
+Finns det andra i den här världen också?
+
+Det kan man säga.
+Jag ska presentera dig så småningom.
+Men inte än.
+Just nu vill jag bara vara med dig ensam.
+
+
+
+
+// Portal
+Vart tog portalen vägen?
+Eller vad det nu var du kallade den?
+
+Jag använde
+lite magi
+och flyttade den
+någon annanstans.
+Vi behöver den inte längre.
+Den skulle bara vara i vägen.
+
+
+// Spegel i sovrummet
+Att titta in i en spegel utan att
+se en reflektion - det är läskigt.
+
+Vi kan slå på reflektioner
+om man verkligen vill.
+Men behöver vi dem verkligen?
+
+Självklart gör vi det.
+Eller... kommer det att få konsekvenser om vi slår på dem?
+
+Ja, det får det.
+Vi kommer att stamma och röra oss långsammare.
+Har du någonsin sett en tecknad film med låga bildrutor per sekund?
+Det kommer att vara så för oss, hela tiden.
+
+Jag fattar.
+Då kanske det är bäst att vi stänger av reflektionerna...
+
+Hej, [player],
+du gillar verkligen speglar, eller hur?
+Rädd för att se ett leende på ditt ansikte?
+
+Huh? Inte riktigt...
+Jag är bara trött
+efter allt arbete.
+
+
+
+// Blå sneakers
+Är de här dina?
+
+Nej, de är dina.
+Kommer du inte ihåg?
+
+Jag minns inte att jag hade såna sneakers.
+
+Nu har du det.
+Du kan ha dem på dig
+när vi går ut.
+
+Kläder, då?
+Allt jag har i den här världen
+är kläderna jag har på mig.
+Finns det något sätt för mig att skaffa nya?
+
+Självklart finns det det.
+Men jag har sett vad du har på dig...
+och ärligt talat, din smak är inte så bra.
+Hur som helst, jag ska hjälpa dig att skaffa några.
+Men inte just nu.
+Jag lovar.
+
+Okej.
+
+
+// Spel på TV
+Vad vill du spela?
+// Spelmjölk
+Det här är ett fightingspel!
+Låt oss se vem som surnar först!
+Vilket spel!
+Vi har fått tillräckligt med mjölk för nu, låt oss göra något annat.
+// Spel pingviner
+I det här spelet är du en pingvin
+som glider runt.
+Just det, det var det spelet.
+
+// Stanna med Mita
+Huh, vad?
+Menar du allvar? Jag trodde att du var...
+Jag är jätteglad!
+Och lite förvirrad...
+Men...
+Snälla, stanna hos mig...
+för alltid och för evigt.
+
+
+
+
+
+
+
+
+
+
+
+
+// Ett spel om pingviner
+Det är superenkelt:
+bara samla snöbollar.
+Den som samlar flest vinner!
+Låt oss spela två rundor, okej?!
+// Den första kartan
+Wow, hur fick du ihop så många?
+Tee-hee! Jag har flest snöbollar!
+Bäst att komma ikapp!
+Ha, 1:1!
+// Den andra kartan
+Du är en naturlig pingvin!
+Vi borde få ut dig på riktig is!
+Pfft, du är så långsam.
+Tänker du fortfarande på förra omgången?
+Oj, oavgjort! Det är sällsynt!
+// Spelet är över
+Okej, vill du spela något annat?
+Eller är du klar?
+
+// Tetris - Mita
+Vad ska du med den till?
+Är du så mycket av en gamer?

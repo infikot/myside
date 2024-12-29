@@ -3,4 +3,4 @@ wbtbuf bfn bz
 fvsvor orvv av avavsd
 // Player in dark
 Este lugar está demasiado oscuro.
-Esta totalmente oscuro.
+Está totalmente oscuro.

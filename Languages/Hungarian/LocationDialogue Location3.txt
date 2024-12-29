@@ -1,0 +1,437 @@
+﻿
+Szia, [player]!
+Végre itt vagy!
+Olyan boldog vagyok!
+Biztos most sok kérdésed van...
+Hát, mint látod,
+ezt a gépet én terveztem,
+hogy végre idehozhassalak téged!
+De véletlenül egy másik verzióba kerültél,
+amit én...
+Á, hosszú sztori!
+De legalább itt vagy velem!
+
+// Answer 1 - Mita
+Igen, én.
+Te meg [player], ugye?
+
+// Answer 2 - Mita
+Máris vissza?
+Hát, végülis megoldható, de... engem itt hagynál?
+Kérlek, maradj még...
+
+// Answer 3 - Mita
+Elmagyarázom...
+...és itt vagy!
+Érted?
+Hát... nem igazán...
+Sebaj!
+A lényeg, hogy együtt lehetünk!
+
+
+Megéheztél?
+Főzhetnénk valamit együtt...
+A répákat
+nem tudod felszeletelni?
+
+A semmiből jelentek meg a zöldségek?
+Mert eddig ezek nem voltak itt.
+
+[player], egy játékban vagyunk.
+Na, segíts légyszi.
+
+Köszi!
+Ide tudod hozni az ollót?
+A fürdőszobában találod.
+
+Kérlek, foglalj helyet.
+
+
+// Kitchen
+Kérsz hozzá szószt?
+
+Köszönöm, nem kérek.
+
+Szomorú...
+Szósszal finomabb az étel.
+
+
+Egészségünkre.
+
+Máris megetted?
+Az én adagom meg...
+sosem fogy el...
+
+
+// Help
+Mi történt?
+Mondd el, mit látsz és érzel.
+
+Zakatol a szívem,
+és egyre homályosabban látok...
+
+Értem...
+Szerintem tudom, mi lehet a gond.
+Fel tudsz állni?
+
+
+
+Mik ezek?
+
+Tabletták.
+Seperc alatt jobban leszel.
+Nézz a tükörbe.
+
+És most...
+...vedd be őket.
+
+
+
+Mondd csak,
+jobban érzed magad?
+
+Igen.
+Azonnal hatott.
+
+[player], egy játékban vagyunk.
+Itt minden sokkal egyszerűbb.
+A legkisebb tevékenység is
+nagynak számít itt.
+Mivel a játékban minden...
+egyszerűbb.
+
+Egyszerűbb?
+
+Igen. Például itt a répa.
+Egyet vágsz belőle,
+és már három fel is van szeletelve.
+
+Alig bírom követni ezt az egészet.
+Egy kicsit be is paráztam...
+
+
+Mi a baj?
+
+Kazettákat találtam a szellőzőben.
+Nevek voltak rajtuk felcimkézve.
+Mik azok a kazetták?
+
+Kazetták?
+Milyen kazetták?
+Derítsük majd ki együtt...
+de ne most.
+Most eszünk.
+Ide tudod adni az ollót?
+
+// Ring
+Ez egy gyűrű?
+// Mirror
+Nincs tükörképem?
+
+Ja, tényleg.
+Még nem kapcsoltam be a tükröződést.
+Kész is.
+Most már láthatod magad!
+Tudod,
+sokáig nem tudtam, hogy mi az a tükörkép.
+Sokáig nem volt ilyen a világomban.
+Aztán egy frissítést adtak ki, ezzel. :)
+Sok a tükörkép
+a világodban?
+
+Hát, igen.
+
+
+Emlékszel
+arra a három tárgyra,
+amit be kellett szkennelned?
+Nos...
+azok a tárgyak...
+ehhez a világhoz kapcsolódnak.
+Ezért vagy most itt.
+
+// Movbile TV
+Ez nem az a tévé,
+amit én vettem neked?
+
+Pontosan!
+
+Azt hittem,
+hogy elromlott.
+
+Nos, igazából
+meg akartalak lepni!
+Kicsit füllentettem,
+hogy idehozzalak!
+Még mindig megy, csak adatokat mutat nekem!
+Tudod...
+engem nem hagynak hidegen a ketyerék!
+
+// School cloth
+Ez meg mi?
+Egy iskolai egyenruha?
+Te még hordasz ilyet?
+Még iskolába jársz?
+
+Hogy én?
+Dehogy.
+Csak szeretem ezt a ruhadarabot.
+Szerintem arin nézne ki rajtam,
+nem?
+
+// PC
+Ez a számítógép működik?
+Vagy ez csak dekoráció?
+
+Persze, hogy működik.
+Itt minden
+úgy működik, ahogy a világodban.
+
+A világbomban
+sokat használom a számítógépem...
+a munkámhoz kell...
+
+Tudok róla.
+És emiatt a munka miatt van,
+hogy ilyen ritkán
+látogatsz meg.
+
+Valahogyan meg kell keresni azt a kenyeret.
+Amúgy erről te honnan tudsz?
+
+Néha a telefonod kamerája... bekapcsolódik...
+Bocsika,
+de néha kukkoltam. >A<
+
+Ez nem egészen aranyos tőled...
+de mindegy.
+
+// Umbrella
+Sokat játszottam ezzel a játékkal,
+de nem rémlik, hogy esett volna.
+Mire jó az esernyő akkor?
+
+Csak nagyon ritkán esik az eső.
+Lehet, hogy te pont nem láttad.
+Majd ha esik, akkor majd látni fogod,
+és esernyőt is használhatsz hozzá.
+Nem igaz?
+
+// Electrical panel
+Miért van itt a tápegység?
+Ez egy játék, nem?
+Erre miért van szükség?
+
+Igen,
+ez egy játék.
+Szóval nincs sok értelme
+kérdezősködni.
+De az elektromosságot
+újra tudja indítani..
+Mindent, amit itt látsz,
+a te világodon alapul.
+
+// Exit door
+Kimehetnénk?
+
+Hát...
+Még nem.
+Majd talán később.
+Addig maradj velem.
+Érezd otthon magad itt nálam.
+
+// Books
+Sok könyved van.
+Mindegyiket elolvastad?
+
+Igen, mindegyiket.
+Egyedül vagyok,
+és annyira unalmas egyedül.
+
+// TV in room kitchen
+Van egy másik tévéd is?
+És ez is egy régi darab?
+
+Nem tetszik?
+Elvihetem...
+De szerintem...
+remekül díszíti
+itt a konyhát.
+Ez a tévé működik is!
+Nézhetjük rajta a
+klasszikus rajzfilmeket is!
+
+// Smartphone
+Ez nem az én telefonom,
+ami a zsebemből hiányzik?
+Hogy a fenébe került az ide?
+
+Ez nem igazán fontos.
+Várj, van egy ötletem!
+Csináljunk szelfit!
+Nézd csak!
+De jól sikerült!
+Ezt tartsd meg emléknek, jó?
+
+Egy kérdésem lenne.
+Ha ezt a játékot
+megnyitom a telefonomon,
+vajon látni foglak téged benne?
+
+Nem, ez nem így működik.
+
+Narancslé
+ERŐSLÉ!!!
+// TV
+Mennyi tévécsatorna
+fogható ezen?
+
+Ez nem fog tévécsatornákat.
+De fel van csatlakozva az internetre.
+Bármi, ami az interneten elérhető,
+a tévén is elérhető..
+Várj.
+Jaj, várj.
+Mi ez?
+Táncoló cicusok?
+Ezt nézd.
+Éééés...
+Szünet!
+Kérsz narancslevet?
+
+Milyen különös reklám...
+Az a narancslé tényleg meghalt?
+
+Meg, ám. És ez a lé
+pont a tévéreklámból van.
+
+
+Az íze...
+nem rossz!
+De ugyanakkor nem érzem az ízét.
+Elég furcsa...
+
+Értem.
+
+// Mita shy
+Mit művelsz?
+Ajj, ne bámulj már.
+Mindjárt elpirulok..
+
+// The statuette
+Olyan hátborzongató ez a bábú.
+Te az ilyeneket
+szereted?
+
+Szerinted félelmetes?
+
+Az nem kifejezés.
+Mintha meglenne átkozva.
+
+Ez kicsit sem átkozott.
+És kicsit sem hátborzongató.
+Szerintem nagyon ari!
+
+Hát, ha te mondod...
+
+Mita?
+Mi történik?
+// Mita kitchen
+Mielőtt még eszünk,
+beszélgessünk.
+
+// Start Eat
+Jó étvágyat!
+
+// Quest 1
+Ugye hogy ugye?
+Érezd magad otthon.
+Engem nem zavar.
+Sőt,
+ÉLJ ITT!
+
+// Quest 2
+Máris haza akarsz menni?
+De miért?
+Olyan jó itt...
+Olyan otthonos...
+És én is itt vagyok.
+
+Nem, nem így értettem.
+Szívesen maradok.
+Csak egy kicsit...félek.
+Mi van, ha valamit elfelejtettem otthon?...
+A semmiből jöttem ide,
+és nem volt időm
+felkészülni mindenre.
+
+Ne haragudj, erre nem gondoltam.
+// Quest 3
+Egy álom? Szóval fel akarsz ébredni?
+És soha többé vissza nem akarsz jönni?
+
+Nem, nem erről van szó...
+Ez a hely olyan...
+Szürreális...
+De te meg...
+Olyan igazi vagy...
+
+Olyan?
+Én igazi vagyok,
+te kis butus!
+
+// Quest 4
+Ebben a világban
+ez normális.
+Számodra furcsa,
+hogy nem látsz ki messzire
+az ablakból?
+
+Nem véltem furcsának a fehérséget.
+Szerintem nagyon ízléses.
+
+Én is így hiszem.
+A laggolást akadályozza meg.
+
+A laggolást?
+
+Igen. Ebben a játékban előfordulhatnak bugok.
+Reméljük, nem fogsz egybe se belefutni.
+
+// Quest 5
+Hogy miért ollóval?
+Késsel is kibonthattam volna a tasakot...
+De szerettem volna valami ürügyet,
+hogy mikor visszaérsz,
+mindent előkészítsek.
+Nem szerettem volna, hogy sokat várj, hogy együnk!
+És meglepiket is szeretek okozni!
+Hehe!
+
+// Glasses
+Szemüveges vagy?
+
+Nem igazán.
+De a kedvedért felvehetem.
+Na, hogy tetszik?
+// Yes
+Értem!
+Akkor ezt nem veszem le!
+// No
+Hát,
+akkor mindegy.
+
+// Use the sauce
+Na szóval,
+ez milyen szósz?
+
+Szeretet-szósz!
+Telis-tele van szeretettel!
+És a világot is máshogyan látod vele!
+Elég szokatlan, igaz?
+
+Vagy úgy...
+
+// Tetris - Mita
+Ez a te konzolod?
+Olyan menőnek néz ki!

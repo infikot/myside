@@ -1,5 +1,5 @@
 Encuentra una salida.
 Intenta despertar a Mita.
 Haz café.
-Dale a Mita el café.
+Dale el café a Mita.
 Trae a Mita a las palancas.

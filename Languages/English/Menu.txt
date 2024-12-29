@@ -48,7 +48,7 @@ Shadow style
 Clothes
 Interface
 3D models (2%)
-Voice volume
+Voice Volume
 Pause
 Menu
 Congrats! You completed the game!
@@ -75,7 +75,7 @@ Show hints
 Player voice
 Discord
 Added character profile
-Camera angle (FOV)
+Camera angle
 Voice
 Off
 Hand reaches out to the door
@@ -160,6 +160,6 @@ Control In-game Time
 Brightness
 Contrast
 Vignette
-Screenshot Taken!
+Take Screenshot!
 Access the screenshot folder
 Camera Angle

@@ -1,5 +1,5 @@
 // Player
-Je... Je suis de retour !?
+Je... Je suis de retour ?
 // Mila
 Oh mon Dieu !
 Tu m'as fait peur !
@@ -83,7 +83,7 @@ Une sorte de glitch !
 Mon anneau se met à vibrer pour une certaine raison.
 // Mila
 C'est quel genre d'anneau ?
-Une alliance !?
+Une alliance ?!
 // Player
 Non, il m'a été donné par l'une des milliers de Mitas.
 C'est ce qui devrait me permettre de sortir d'ici.
@@ -94,9 +94,9 @@ Tu sais que si ma maison explose, tu es un homme mort !
 // bathroom - Mila is washing - Mila
 Hé !
 SORS de là !
-Tu vois pas que la salle de bain est occupée !?
+Tu vois pas que la salle de bain est occupée ?!
 // The player continues to stand 1 - Mila
-Pourquoi t'es encore planté là !?
+Pourquoi t'es encore planté là ?!
 Va-t'en !
 // The player continues to stand 2 - Mila
 Ne me cherche pas !
@@ -203,7 +203,7 @@ Comme décrit dans les livres.
 // Mila is doing push-ups - Player
 Qu'est-ce que tu fais ?
 // Mila
-Ça se voit pas !?
+Ça se voit pas ?!
 // Player
 Si, mais pourquoi tu fais ça ?
 // Mila
@@ -243,8 +243,8 @@ idiot !
 Il y a un passage.
 C'est gagné, Mila !
 // Mila
-
-Bien joué !
+Oh ! Hein ?! // Deleted [not]
+Bien joué ! // (Kick)
 Un vrai héros !
 // Player
 Hé, arrête !
@@ -548,7 +548,7 @@ Bref, ne perds pas ton temps avec ça.
 Ce doit être une sorte de blague.
 
 // Tetris - Mila
-Hé !?
+Hé !
 Tu te fiches de moi c'est ça ?
 // Tetris - Mila
 Je ne te la rendrais pas.
@@ -563,7 +563,7 @@ Après tout la plupart des choses ici
 fonctionnent pour de vrai !
 
 // BagWall - Mila
-Tu es passé où !?
+T'es passé où ?!
 // Player
 Il est possible de traverser ça ?
 // Mila

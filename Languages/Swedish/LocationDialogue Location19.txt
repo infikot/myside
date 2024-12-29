@@ -1,0 +1,605 @@
+
+I... Jag är tillbaka!?
+
+Åh, herregud!
+Du skrämde mig!
+Åh, jösses,
+Min save-oh, nej!
+Jag fattar inte...
+Var är spelet?
+Du har förstört rutten!
+Vad är det du vill ha?
+
+Jag behöver versionen...
+
+Huh?
+
+Jag måste komma tillbaka till den gamla versionen på något sätt.
+
+Okej!
+Jag är alldeles för upptagen
+för att underhålla dig, dumskalle!
+
+Och vad är det där? Leksaker?
+
+Titta på honom, vilken idiot!
+Det kommer inte att finnas någon vänskap mellan oss.
+
+Lyssna, jag måste till kärnan.
+
+Det är ditt fel att jag blev skadad.
+Fan också.
+Va?
+
+...jag måste ta mig till kärnan och stoppa Mita!
+
+Mita?
+Snälla! Jag bryr mig inte om henne!
+Jag bryr mig inte om henne!
+Inte den första, inte den hundrade!
+
+Men du är Mita också...
+
+Jag är Mila.
+
+Mi-Ta? La?
+
+Ja, ja! De är alla Mita på Mita,
+Mita här, Mita där, Mitas överallt!
+
+Så... du är Mila
+
+Ja, jag sa ju det! Hur långsam kan du vara?
+
+Lycka till, då, Mila...
+
+Vart tror du att du ska ta vägen?
+Tror du att du bara kan gå ut härifrån så där?
+
+// Player check exit
+Trodde du att du skulle hitta nåt där inne?
+
+Fan också!
+Vad är det här för nåt?
+
+Vad väntade du dig?
+Sagolandet?
+
+Hur kommer jag ut?
+Det ska ju finnas en väg ut här.
+
+Det finns ingen väg ut.
+
+Vilken version är det här då?
+Jag tror att jag är på rätt spår.
+
+// Glitch kitchen
+Är det här ditt?
+
+Håll dig undan!
+Jag vet inte vad det är...
+Nån slags glitch!
+
+Min ring skakar av någon anledning.
+
+Vad för slags ring?
+En förlovningsring?
+
+Nej, den gavs till mig av en av Mitas - en av de tusentals.
+Den som kanske kan få ut mig.
+
+Och du tänker röra den?
+Du vet att om mitt hus exploderar, så är du också död!
+
+// Badrum - Mila tvättar
+Hallå där!
+Gå ut!
+Ser du inte att badrummet är upptaget?!
+// Spelaren fortsätter att stå 1
+Varför står du kvar där?!
+Stick härifrån!
+// Spelaren fortsätter att stå 2
+Gör mig inte förbannad!
+Försvinn härifrån!
+// Spelaren fortsätter att stå 3
+Är du döv eller vad?
+Jag tar en dusch!
+
+// Mila kom ut och svär
+Vad var det där för nåt?
+Ingen skam, inget samvete...
+
+Varför rusade du plötsligt in i badrummet?
+Du kunde ha väntat
+tills jag var ute!
+
+Jag visste inte hur lång tid du skulle ta.
+Hur mycket längre ska du hålla på med de här glitcherna, förresten?
+
+Glitchar?
+Finns det fler?
+
+Ja...
+Om mitt hus fortfarande står kvar,
+Jag antar att du tog hand om felet i köket?
+
+Det gjorde jag typ.
+
+Ja, det gjorde jag. Bra. Nu har du min tillåtelse
+att gå in i badrummet.
+
+Tack så mycket.
+
+// Mila gömmer sig under bordet
+Mila?
+Vad gör du där under?
+
+Ouch!
+Du skrämde mig igen!
+Vad är det du vill?
+
+Har du sett några fler glitchar?
+
+Åh, så dina problem är tänkta att
+vara en ursäkt för att stoppa mig från att avsluta min bok?
+Nej, det har jag inte!
+
+Okej, jag ska leta efter det själv.
+
+Vänta lite nu,
+Jag måste fråga...
+Du vill gå ut där,
+eller hur?
+
+Ja, precis.
+Jag vill komma ut ur det här spelet.
+
+Det här kanske låter konstigt...
+men kan du inte stanna och läsa med mig?
+
+Först skriker du åt mig, och nu ber du mig stanna?
+För att läsa böcker?
+Det kanske jag skulle,
+men jag måste fortsätta röra på mig.
+
+Okej då!
+Fortsätt och leta efter dina fel...
+Det är andra gången jag skadar mig själv
+på grund av dig!
+// Spelaren såg en glitch
+Ah, jag hittade den.
+
+// Mila står med ett svärd
+Är du uppmärksam?
+Frukta mig!
+Titta vad jag kan göra!
+Det är så farlig jag är!
+Och ändå... blinkade du inte ens.
+
+Är du allvarlig?!
+
+Vad är det för fel?
+Var det inte tillräckligt övertygande?
+
+Inte riktigt...
+
+Så, du har sett allt när du löste de där problemen,
+eller hur?
+Du visste redan att stenen var färdigklippt,
+eller hur?
+
+Nej. Det är bara...
+Det är bara det att... vi är i ett spel.
+Här, med en knäppning med fingrarna, är allt möjligt.
+
+Åh,
+din idiot!
+En knäppning med fingrarna, va?
+Varför tror du att jag har läst alla dessa böcker?
+Så att jag kan knäppa med fingrarna och vara klar med det?
+Jag gör hellre allt själv,
+precis så som böckerna beskriver det.
+
+// Mila gör armhävningar
+Vad är det du gör?
+
+Kan du inte se det?
+
+Ja, men varför gör du det?
+
+För att bli stark nog att slå dig i ansiktet!
+
+Vad är det för fel på dig?
+Du beter dig konstigt.
+
+Ja, just det!
+Det där med slaget...
+Jag menade inte allvar.
+Och jag är inte konstig!
+Jag är unik!
+Jag vill vara så olik alla andra som möjligt.
+
+Du behöver inte försöka så hårt.
+Lita på mig - du är redan mycket annorlunda.
+
+Jag vet! Jag vet!
+Titta vad jag kan göra!
+Ser du det där?
+Och nu - inga händer!
+
+Jag vet att det är ett spel,
+men det här är helt orealistiskt...
+
+Ouch!
+Ohh!
+Dumma fysik...
+Du pratar om realism,
+och sen..,
+boom! Det här händer!
+Och du kallar mig konstig?
+Din dumskalle!
+
+// Sista glitchen klar - spelarutgång
+Där är passagen.
+Vi gjorde det, Mila!
+
+
+Bra jobbat, Mila,
+hjälten!
+
+Åh, herregud!
+
+Åh, nej!
+Förlåt, jag menade inte att göra det.
+
+Det är okej, Mila. Jag kan gå vidare nu.
+
+Jag vet att du måste gå...
+men kan du inte stanna här
+bara lite längre?
+
+Jag kan inte vänta.
+Galna Mita är inte precis den tålmodiga typen.
+
+Ugh, jag hatar henne!
+
+Jag hatar henne, jag hatar henne!
+
+Mila, lyssna...
+
+Varför är jag ens här?
+Jag förstår inte!
+Varför förstår jag inte?!
+Och jag kommer aldrig ut härifrån!
+
+Jag förstår hur du känner, Mila.
+Vill du att jag ska komma tillbaka? Efteråt?
+Om jag kan?
+
+Stanna här, Spelare...
+Du är rolig, gillar inte att vara ensam...
+Tänk om du inte lyckas?
+
+Det kommer jag att göra. Det är bara en liten stund till.
+// Om spelaren klickar på datorn
+Jag kom precis tillbaka från den där platta dimensionen,
+och nu... är vi här igen.
+Jag längtar tillbaka till den verkliga världen...
+
+Ha-ha-ha! :)
+Åh..,
+den ”riktiga” världen, va?
+Som en urban legend!
+Jag har aldrig sett det själv.
+
+Jag tror att...
+att det måste finnas en väg tillbaka.
+
+Är du inte självsäker!
+Vilket skämt!
+
+// Fråga om böcker
+Varför läser du ens böcker?
+Det finns ju internet...
+
+Internet? Det är fullt av romaner!
+Men jag skulle hellre ha
+en riktig bok i mina händer.
+Det är bara genom
+dem som jag börjar
+att lära mig om...
+...den här världen.
+
+// Fråga om målningarna
+De här bilderna - är de verkliga?
+I andra versioner,
+ja, de existerar... men de är nästan för intensiva.
+
+Jag är MiLa, fattar du? Inte som resten.
+Och de här?
+De är teckningar, du vet,
+som låtsas vara mer än de är.
+Jag har sett andra Mita
+som står precis så här.
+
+Mila?
+Hallå?
+// Mila.
+Efter allt det där...
+Jag vill inte vara så där.
+Det är... äckligt!
+
+// Fråga om fjärilsmålningen
+Har du sett naturen?
+Riktiga fjärilar som den där?
+
+Nej, det har jag inte,
+men jag har en bok här någonstans.
+Den har till och med små vingar tryckta i den...
+Den här målningen,
+men...
+den är lite krokig.
+Och det finns en fläck...
+Ah, det var bättre.
+
+Skulle du vilja se den på riktigt? Gå på en promenad i naturen?
+
+Vilken fånig fråga!
+Självklart,
+skulle jag vilja det!
+
+// Ha lång ögonkontakt 1
+Varför stirrar du?
+Titta bort!
+
+// Gör lång ögonkontakt 2
+Nu räcker det!
+Sluta nu!
+Dumskalle...
+
+// Gör lång ögonkontakt 3
+Kom igen nu!
+Vad är det med stirrandet?
+Jag är en dam, vet du!
+
+Har du någonsin hört talas om artighet?
+Shoo!
+
+// Viskningar 1
+Varför skickar de mig alltid
+några aningslösa killar,
+och förväntar sig att jag ska spela snäll?
+Med minispel?!
+Som en dum Tamagotchi!
+
+// Viskningar 2
+Han vandrar bara omkring...
+nyfiken liten idiot.
+
+// Viskningar 3
+Sa du något?
+Den här bakgrundsmusiken gör mig galen!
+
+// Viskningar 4
+Hur säger jag till honom
+Jag är upptagen?
+Jag vill inte ha sällskap...
+Tänk om han går? Nej, varför skulle jag bry mig?
+
+// Viskningar 5
+Mamma... ...pappa...
+Varför låter de orden bekanta?
+
+// Viskningar 6
+Här föll en gång snö ... men varför?
+
+// Viskningar 7
+Bara dyker upp från ingenstans! Läskigt.
+Tänk om... det inte finns nåt där?
+
+// I närheten 1
+Här är vi,
+står runt omkring...
+...i tystnad...
+Varför står vi bara här?
+Har du fått tunghäfta?
+Eller..,
+du vet bara inte vad du ska säga?
+
+// I närheten 2
+Jag svär mot morötter!
+Allvarligt talat, jag förklarar krig.
+Vet du vad den där saken gör med en tjejs
+perfekta, snövita hud?
+
+// I närheten 3
+Böcker hjälper inte mycket, men om jag har tur,
+kanske jag äntligen kommer till botten med det...
+Dessa ändlösa morötter som poppar upp
+bakom mig ger mig
+rysningar!
+
+// Närliggande 4
+Jag gillar inte excentriker!
+Morotsälskare, kattälskare...
+Och här är du och samlar på glitchar.
+Ärligt talat, du är den konstigaste person jag någonsin träffat!
+
+// I närheten 5
+Vill du veta vad jag helst av allt vill göra?
+... Det vore lite pinsamt att säga.
+
+// Närliggande 6
+De säger att kämpa mot
+mot sin natur är en UTMANING.
+Jag jobbar på att bli mer disciplinerad, men du
+har ingen aning om hur mina händer kliar för att bara
+sitta ner och ha en tebjudning med dig!
+
+// I närheten 7
+Även med glasögon,
+kan jag inte se igenom lagren av ditt konstiga,
+envetna beslutsamhet.
+
+// Närliggande 8
+Jag har läst att ödet är som en skriven sak
+som till och med stavar ut
+hur du kommer att spendera dagen.
+Ha! Vem skrev den där skiten?
+Var det du?
+
+// Närliggande 9
+Jag kan stå ut med idioter, men de galna?
+Hatar dem.
+
+// I närheten 10
+Några av Mita
+är faktiskt ganska söta...
+Jag skulle vilja lära känna dem bättre även om de bara är
+kloner av kloner av kloner.
+
+// I närheten 11
+Men det finns en som är lite annorlunda.
+Hon har en skruv lös, så...
+
+// I närheten 12
+Inga hästsvansar!
+Jag skulle hugga av dem om jag kunde!
+De är pinsamma!
+Du vet vad jag menar - du har rakat huvudet!
+
+// Nearby 13
+Tänk om det inte finns nåt bakom den där dörren?
+Och det här huset, du och jag, existerar
+utan någon anledning alls?
+Så varför är du så säker?
+Har du hört talas om femminutershypotesen?
+
+
+
+// Sista glitchen klar - spelarutgång
+Vilken läskig korridor...
+Ska du verkligen gå in där?
+
+Ja, det ska jag.
+
+// FaceStone
+Åh, en ”omtänksam” gentleman.
+Vad behöver du honom till?
+
+Det kommer du att få reda på
+snart nog.
+Och varför gör du alltid den här imitationen av honom?
+Håll bara ditt ansikte enkelt.
+
+Uh...
+...okej.
+
+// Katana
+Är det en leksakskatana?
+
+Det är INTE en leksakskatana!
+En beröring av detta blad
+och du kommer att blöda.
+Jag är en skicklig svärdsman, till skillnad från dig!
+Bäst att du tar hand om dig själv.
+skulle inte vilja se dig skära av dina egna fingrar.
+
+// Spegel
+Spegel...
+och ingen reflektion?
+
+Du
+ser så missnöjd ut.
+Titta, jag läste allt om reflektioner
+i böcker!
+Men i min version kan jag inte göra dem.
+Jag kan inte göra det, okej?
+
+// Switch light
+Den här grejen fungerar inte.
+Lamporna här tänds och släcks av sig själva...
+som ett slags skript!
+Men!
+Av någon anledning fungerar badrumsbrytaren
+faktiskt.
+Så konstigt!
+// Slå av ljuset
+Är det fortfarande ljust här inne?
+
+// Liten morot
+En morot?
+Vänta, vart tog den vägen?
+
+Usch, jag är så trött på den där moroten!
+Det är som om den lever!
+Varje gång jag ser den,
+teleporterar den sig någon annanstans.
+
+// Lilla morot
+Åh, det är den där moroten...
+borta igen!
+Tror du att det finns något vi kan göra åt det?
+
+Nej, det kan vi inte.
+Lita på mig,
+jag har försökt!
+Bara ignorera det. Jag tror att det är
+någon form av kosmiskt skämt.
+
+// Tetris
+Hallå där!
+Är jag något slags skämt för dig?
+// Tetris
+Jag tänker inte ge tillbaka den.
+Nope, aldrig!
+
+// Tvål.
+Så... är den här tvålen äkta?
+Eller bara en dekoration?
+
+Skojar du?
+Det mesta här är faktiskt
+på riktigt! Ärligt talat...
+
+// BagWall
+Vart tog du vägen!?
+
+Kan jag komma igenom här?
+
+Hittade du en ny bugg eller något?
+Vad är det för nåt?
+
+Det ser ut som...
+...ingenting.
+
+Ah, tillbaka igen.
+
+// Uppdrag 1 Glasögon
+Är din syn dålig?
+Varför behöver du glasögon?
+
+Vadå - gillar du dem inte?
+Det kallas stil!
+Och min syn är perfekt, tack.
+
+// Quest 2 Namn miLa
+Mi-La?
+Varför inte...
+Mi-Ka?
+Eller Mi-Sa?
+
+Jag är Mila. Det är allt. Varför inte?
+
+Åh... ingenting.
+
+// Quest 3 Kväll
+Jag gillar kvällen.
+När blir det natt?
+
+Natten?
+Ugh, börja inte ens.
+De ändlösa dagarna här...
+bara den ena efter den andra,
+som om de är på upprepning.
+Ugh...

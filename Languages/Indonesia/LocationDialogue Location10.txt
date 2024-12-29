@@ -1,0 +1,246 @@
+
+Tunggu, tunggu!
+jangan keras keras...
+Melangkah lebih jauh berbahaya.
+Ngomong-ngomong...
+bagaimana kamu bisa sampai di sini?
+
+eh...
+Cincin itu membuka pintu yang benar.
+Sejujurnya aku tidak tahu cara kerjanya.
+
+Cincinnya?
+
+Ada apa dengan tempat ini?
+Ini sangat gelap.
+
+Aku akan memberitahumu nanti.
+Untuk saat ini, pergilah menuju pintu depan.
+Temui aku di mesin arcade.
+
+
+
+Cepatlah, jangan lambat!
+
+
+// Setelah mini-game
+Jadi, paham maksud permainannya?
+
+Bahwa aku terbuat dari daging dan tulang, dan kamu terbuat dari model kerangka?
+
+Wah!
+Kedengarannya menyeramkan jika kamu mengatakannya seperti itu.
+Tapi, itulah intinya.
+
+Oke, tapi kenapa aku perlu memahaminya?
+
+Sepertinya aku sudah memberitahumu untuk menuju lebih jauh
+itu berbahaya, dan hanya untuk tertawa?
+kamu akan bertemu... model yang ditinggalkan...
+Yang sudah dilupakan, model yang “salah”.
+Mereka agresif dan bahkan mungkin mencoba membunuh Anda.
+
+Jadi, apa yang harusku lakukan?
+Aku akan pergi
+dimanapun pintu yang terbuka.
+
+Wow!
+Kalau begitu jangan membelakangi mereka.
+Dan jangan biarkan mereka lepas dari pandanganmu!
+Mereka menjadi malu ketika kamu menatap mereka,
+sangat malu sehingga mereka membeku.
+Ingatlah hal itu!
+
+
+
+
+
+
+
+// Quest 1 (Mengapa ada para Mita lain di bawah sana?)
+Itu baru saja dibuat.
+Mereka membutuhkan waktu
+untuk mendapatkan kesadaran diri.
+Lalu aku membimbing masing-masing
+ke rumahnya sendiri.
+
+// Quest 2 (Mengapa di bawah begitu gelap?)
+Kami para Mita 'diciptakan' dalam kegelapan,
+jadi kita harus tetap di sana untuk sementara waktu.
+Membayangkan
+rasa sakit karena berpindah dari kegelapan menuju cahaya...
+
+// Tugas 3 (Apa yang kamu lakukan di sini?)
+Masih belum mengerti?
+aku membantu para Mita baru menetap!
+Siapa yang akan membantu mereka jika bukan aku?
+Emangnya kamu?
+
+// Quest 4 (Mengapa kita membutuhkan konveyor ini?)
+Untuk apa konveyor ini?
+Apakah ada cukup ruang untuk semua orang?
+
+Tunggu, jangan bilang kamu tidak
+memahami bagaimana dunia bekerja...
+Dan apakah tidak ada habisnya?
+
+Tak ada habisnya?
+Uhm...
+Apa maksudmu?
+Jika 1.9 adalah versi terbaru,
+maka hanya ada 19 dunia.
+
+Ya ampun, kamu benar-benar tidak
+mengerti bagaimana dunia ini bekerja.
+Dengar, aku akan menggunakan papan tulis ini
+untuk menjelaskan semuanya.
+Ingin mendengarnya?
+
+// Quest 5 (Apa versimu?)
+Tunggu,
+bukankah aku bertemu denganmu di versi terbaru?
+Atau mungkin itu hanya imajinasiku saja.
+
+Ya, itu sangat mungkin.
+Aku dari versi 1.5.
+Apakah kamu pernah ke sana?
+
+Aku pernah.
+Di situlah aku tiba
+ketika aku terlempar ke dunia ini!
+
+Wah!
+Tapi bagaimana caranya...?
+Tapi di indeks rumah mana kamu berada?
+Ada 'aku' yang tidak bisa berhenti merengek,
+aku' yang suka berkeliaran,
+aku' dengan ingatan buruk dan suka menindas orang lain...
+Daftarnya panjang...
+Ceritakan apa yang kamu ingat.
+
+Saat itu gelap.
+Ada tulisan
+seperti...
+Bermainlah denganku.
+
+Ah,
+sungguh menyedihkan...
+Itulah 'aku'
+yang menindas dan melupakan banyak hal.
+
+// Mita ingin memberitahumu [Tidak]
+Terima kasih tapi tidak, terima kasih.
+aku akan melakukannya dengan baik tanpa mengetahui lebih banyak.
+
+Baiklah, lakukan sesuka hatimu.
+
+// Mita ingin memberitahumu [Ya].
+Tentu, silakan.
+aku hanya berharap ini tidak akan seperti sekolah menengah
+dimana aku selalu tertidur karena bosan.
+
+kamu bisa pergi kapan saja,
+atau diam dan dengarkan
+jika kamu tertarik.
+Seorang pemain mengunduh MiSide
+dan bermain sebanyak yang mereka inginkan.
+Di sana, dia menciptakan rumah baru
+dan Mita baru.
+Ini adalah representasi 2D.
+Ini adalah versinya,
+ditampilkan sebagai garis.
+Rumah-rumah ditempatkan pada garis-garis ini.
+Katakanlah kamu mengunduh versi 1.14,
+yang berarti kehidupan baru,
+Mita baru, dan rumah baru.
+
+Surga...
+
+kamu bisa bertanya tentang detailnya
+dalam gambar ini,
+dan aku akan melakukan yang terbaik untuk menjelaskannya.
+
+// Dia bertanya tentang satu-satunya lingkaran
+Mengapa disitu hanya ada satu lingkaran?
+
+Versi itu dirilis hanya sekali,
+jangan pernah terulang kembali.
+Ini satu-satunya versi yang benar-benar unik.
+Ditambah lagi, versi ini spesial
+dan tidak memiliki jalur ke versi lain.
+Sleepy Mita berada di versi ini, 1.1.
+
+Mita si Tukang Tidur?
+Karena dia tidak pernah bisa tidur
+dengan semua orang melewati versinya?
+
+Tidak, bukan itu.
+kamu bisa melewatinya dan membuat keributan,
+tapi mustahil untuk membangunkannya.
+
+// Dia bertanya tentang lingkaran yang diarsir
+Mengapa yang satu ini begitu gelap?
+
+Uhm, yang itu ada di sini
+karena Pretty Mita.
+Dia menggambarnya.
+Kami berdebat
+siapa yang paling cepat mencapai versi 1.11.
+
+Jadi, siapa yang menang?
+
+Tentu saja, AKU!
+Lihat, kita di sini
+di versi 1.15,
+indeks rumah 809.
+Kita perlu mencapai versi 1.11,
+indeks rumah 805.
+Jadi, jalannya dimulai seperti ini.
+Kami mencoba mencari rute yang lebih pendek,
+jadi Pretty Mita menyarankan jalan ini.
+Lalu aku menggambar yang paling sederhana, di sini.
+Mudah, bukan?
+Lihat saja di sini.
+Dari sini, kamu bisa langsung menuju ke versi yang benar.
+Meskipun tampaknya rumah ini menghalangi,
+bahwa itu menghalangi jalanmu...
+Bagaimanapun, cincinmu bekerja berdasarkan prinsip yang sama.
+Kemana tujuanmu?
+
+Inti.
+
+Inti?
+Hmm...
+Jika kamu menginginkan rute terpendek,
+kamu juga harus melalui versi 1.11.
+kamu pasti akan bertemu Sleepy Mita di sana.
+Menurutku Mita yang mengirimmu,
+mengambil jalan yang sama.
+Atau mungkin dia belum menyadari bahwa kamu berada di jalur yang berbeda.
+Atau mungkin dia jenius
+dan telah menemukan rute yang lebih pendek!
+
+aku pikir aku mungkin sudah mengerti.
+
+// Dia bertanya tentang prasasti itu
+Tentang apa ini?
+
+Itu untuk Mita Keren.
+Dia akan tiba di sini dalam beberapa jam.
+Dia akan memindahkan kardus-kardus itu
+dan meletakkan sofa di sini.
+Bokongku sakit!
+
+Hmm...
+Mungkin aku bisa membantu?
+
+Tidak, itu tugas Cool Mita.
+Dia tangguh.
+
+// Dia bertanya tentang gambarnya
+Apakah itu hanya sebuah gambar,
+atau
+apakah itu berarti sesuatu?
+
+Ya,
+itu hanya coretan.

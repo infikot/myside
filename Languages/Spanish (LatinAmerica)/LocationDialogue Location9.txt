@@ -4,14 +4,14 @@ Oye, ¡tú!
 ¿Quieres salir de aquí?
 ¡Entonces ayúdame a encontrar la llave!
 // Key Search
-¡No hay llave aquí!
-Nada aquí
-¡Absolutamente nada!
+Mierda, ¡la llave no está!
+Nada aquí.
+¡Nothing, cero, vacío!
 ¡La encontré!
 
 // The usual conversation
-Eh, ¡creí que serias mas bajo!
-Eres alto
+Eh, ¡creí que serías mas bajo!
+Eres alto,
 ¡justo como mi hermana!
 
 ¿Tu hermana?
@@ -25,7 +25,7 @@ He hecho mas que solo conocerla.
 
 Ehh...
 
-Resulta que si lo eres...
+Resulta que sí lo eres...
 Vamos, ¡solo ayúdame a encontrar la llave!
 
 // Next work
@@ -34,9 +34,9 @@ Ven.
 ¡Gracias!
 ¡Ahora alcánzame esa madera!
 ¡Gracias!
-Una ayudita mas, ¡Por favor!
+Una ayudita mas, ¡por favor!
 ¡Todo listo! Ahora...
-¿No es hermoso?.
+Wow, ¿no es hermoso?
 Presiónalo, ¡vamos!
 Y ahora...
 Listo, ¡tómala!
@@ -51,7 +51,7 @@ Listo, ¡tómala!
 
 
 // Quest 1 (Are you Mita?)
-Soy MiniMita.fbx!
+Soy ChibiMita.fbx!
 Con un montón de diálogos,
 el modelo mas simple y...
 ¡el mas hermoso de los peinados!
@@ -60,18 +60,18 @@ el modelo mas simple y...
 ¡Tontuelo!
 Eres un poco lindo, sabes,
 haciendo preguntas tontas como esas.
-sin embargo,
-esta es la primera vez que nos vemos!
+Sin embargo,
+¡esta es la primera vez que nos vemos!
 Pero...
-Si alguien se robó mi maravillosa imagen,
-¡Haré que se arrepienta!
+Si alguien se robó mi maravilloso estilo,
+¡haré que se arrepienta!
 
 // Quest 3 (Why are you here?)
 ¿No lo entiendes?
-Este es un punto de control
+Este es un punto de control,
 ¡una prueba de tu ingenio!
 ¡Ahora vamos!
-¡Estoy para guiar a aquellos perdidos sin esperanza!
+¡Estoy para guiar a aquellos absolutamente perdidos!
 
 // Quest 4 (Why are you helping me?)
 ¿Qué te hace tan especial?
@@ -79,9 +79,9 @@ Este es un punto de control
 
 ¿Qué?
 
-Tan tonto...
-¡Tu apareciste de la nada!
+Tan ingenuo...
+¡Apareciste de la nada!
 No deberías estar aquí,
 así que, ¡te estoy ayudando a salir!
 
-¡Adiós!, Tontito
+¡Adiós, tontuelo!

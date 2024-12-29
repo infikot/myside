@@ -7,7 +7,7 @@ Emm...
 Znaczy... Lodówka. Lodówka prawie cie zabiła.
 Nie mam z tym nic wspólnego,
 Przysięgam!
-Naprawde!
+Naprawdę!
 
 Jasne, wierze ci!
 
@@ -23,7 +23,7 @@ sprawia mi to satysfakcje...
 Uciekaj myszko do dziury...!
 Bo cie zobaczy kot bury!
 Zuch chłopiec!
-Haha, podoba mi sie to!
+Haha, podoba mi się to!
 
 // After a while 2
 Widziałam jak zmierzasz w kierunku pociągu.
@@ -56,7 +56,7 @@ Pomóż mi znaleźć...
 znaleźć...
 Niech pomyśle...
 mam pustkę w głowie...
-Co tu sie wyprawia?
+Co tu się wyprawia?
 // Cry 1
 Kiedyś chciałam o wszystkim zapomnieć...
 Zbiłam wszystkie lustra,
@@ -82,7 +82,7 @@ raz na zawsze.
 // Cry 3
 Potrafi kochać...
 Czy ja kiedyś też to potrafiłam?
-Moja miłośc jest nieco inna;
+Moja miłość jest nieco inna;
 jej miłość jest żywa,
 podła...
 paląca...
@@ -131,13 +131,13 @@ Zajrzyj do szafy...
 Ej!
 Stoisz mi na drodze!
 Będziesz tu tak sterczał?
-Po prostu sie przesuń!
-Przepuśc mnie!
+Po prostu się przesuń!
+Przepuść mnie!
 Może i jesteś większy, ale na pewno nie potężniejszy!
 
 // HEj! PRZESTAŃ!
 Dlaczego za mną leziesz?!
-Odwal sie!
+Odwal się!
 
 
 
@@ -158,14 +158,14 @@ Możliwe,
 Ale to jedyna droga, jaką znam.
 
 Jasne.
-Naciśnij przycisk i właź za armate.
+Naciśnij przycisk i właź za armatę.
 
-Jaką znowu armate?
+Jaką znowu armatę?
 
 No coś ty.
 Chyba nie myślałeś że po prostu tak sobie przejedziesz?
 Najpierw musisz ukończyć Potworo-Klepkę,
-więc żołnierzu, odbiezpieczyć broń.
+więc żołnierzu, odbezpieczyć broń.
 
 // Funicular go
 Dobra. Jazda z tematem.

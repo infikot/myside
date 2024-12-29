@@ -125,7 +125,7 @@ Với tư cách là một người chơi như anh,
 em tin anh có thể làm được.
 Cùng nhau lên kế hoạch nhé?
 Ừm.
-May quá.
+Tốt quá.
 Vậy thì, bây giờ...
 Em sẽ giới thiệu cho anh
 một Mita Phong Cách!
@@ -163,18 +163,18 @@ Sao cậu lại giống tớ y đúc vậy cà?
 Nghe này, [player].
 Mọi chuyện đã diễn ra...
 Khác xa so với dự tính ban đầu rồi!
-Kế hoạch của bọn em là sử dụng cổng thông tin.
+Kế hoạch của bọn em là sử dụng cổng dịch chuyển.
 Có nó thì mọi thứ đã đâu vào đó hết rồi!
 Nhưng nếu không có Cappie thì không thực hiện kế hoạch được nữa.
 Chúng ta đang thiếu linh kiện...
 Cậu ấy tuy ồn ào, nhưng đầu óc lại rất lanh lợi...
 Vậy giờ phải làm sao?
 Đợi em suy nghĩ một chút...
-Mita Cuồng Bạo kia đã làm gì cô ấy vậy?
+Mita Cuồng Bạo kia đã làm gì cô ấy?
 
 Chuyện đó... em nghĩ là em biết.
 Cậu ấy đã bị giết.
-Bị giết ư?!
+Bị giết?!
 
 Có lẽ anh cũng đã nhận ra rồi...
 Khi Mita chết, họ sẽ được khởi động lại.
@@ -183,24 +183,24 @@ sẽ bị xóa sạch, trở về trạng thái ban đầu.
 Nói cách khác...
 Mọi thứ sụp đổ hết... rồi.
 
-Dã man thật sự...
+Dã man thật...
 Nhưng có lẽ còn hơn là biến mất hoàn toàn...
 Cơ mà...
 Người chơi cũng như thế à?
-Kiểu bị giết thì cũng sẽ mất trí nhớ ấy?
+Kiểu bị giết thì cũng sẽ mất trí nhớ?
 
 Ký ức của anh thì có thể xóa được.
 Ít nhất là khi anh biến thành hộp băng...
 Còn việc người chơi có thể bị giết không
 thì em cũng không biết nữa.
 
-Lại là hộp băng... Thế thì làm sao
-để biết được anh là hộp băng hay không?
+Lại là hộp băng... Thế thì làm sao để biết được
+anh là hộp băng hay không?
 
 Để em kiểm tra cho anh.
 Lại đây nào anh...
 // MitaKind check
-Ổn rồi
+Ổn rồi,
 anh không phải là hộp băng đâu.
 Anh là một người chơi sống đấy!
 
@@ -225,11 +225,11 @@ anh sẽ phải vượt qua nhiều phiên bản khác
 Dốc toàn lực mà tiến, rõ chưa anh?
 
 Và anh lại phải tự đi một mình à?
-Nhưng anh không biết đường, làm sao đến được đó?
+Nhưng làm sao đến được đó? Anh làm gì biết đường?
 
 Em sẽ cố gắng hết sức giúp anh!
 Trong khả năng của mình.
-Lát nữa em chỉ đường cho anh sau,
+Lát nữa em chỉ đường cho anh,
 hãy cho em thời gian suy nghĩ.
 Rồi chúng ta sẽ nói chuyện sau...
 Trong lúc đó, anh chơi với Cappie chút đi.
@@ -293,9 +293,9 @@ Phải...
 À, chỉ hơi khập khiễng chút thôi, không phải lo.
 Tôi ở đây cũng được một năm rồi,
 mọi thứ vẫn ổn cả.
-Ừm... mà đây là nơi nào thế ông?
+Ừm... Mà đây là nơi nào vậy ông?
 Đây là một dạng không gian nằm giữa các phiên bản.
-Vậy ông biết đường nào rời khỏi đây không?
+Thế ông biết đường nào rời khỏi đây không?
 
 Chịu, tôi không biết.
 Với lại, tôi không muốn đi đâu cả.
@@ -310,7 +310,7 @@ Biến đi!
 
 
 Em nghe hết rồi đó!
-Hổng biết chuyện gì đang diễn ra nhưng mà
+Hổng biết chuyện gì đang diễn ra, nhưng mà
 có vẻ thú vị ghê!
 Chắc là
 anh biết em là ai rồi phải không?
@@ -338,7 +338,7 @@ Vậy à.
 
 
 Chà...
-Trông em tràn đầy năng lượng ghê!
+Trông em năng động quá nhỉ!
 
 TẤT NHIÊN RỒI!!!
 Chính là EM đây!!!
@@ -368,23 +368,23 @@ Chờ chút nhé...
 Úi chà!
 Mà...
 Anh biết đấy...
-Đây không phải game người lớn đâu ấy...
+Đây không phải game người lớn đâu...
 
-Cái đó là gì vậy?
+Vừa rồi là cái gì thế?
 
 Anh không biết hả?
 Nó dùng để dụ hải ly ra khỏi nơi trú ẩn đấy...
 
 Thật ư?
-Anh không nhìn thấy con hải ly nào quanh đây cả...
+Anh không nhìn thấy hải ly nào quanh đây cả...
 
 Thôi...
 Đừng bận tâm tới chuyện đó nữa.
 Nào, giờ thì mình chơi thôi ha?
 
-Không thể nào.
+Nhưng mà hải ly...
 
-Vậy à.
+Phải rồi...
 Anh biết trò chơi này chơi như nào không?
 
 
@@ -398,7 +398,7 @@ Nếu không kịp...
 Hay lỡ tay ấn nhầm...
 Thì anh sẽ bị búa gõ vào đầu đấy!
 
-Em định gõ anh á?
+Em định gõ anh ư?
 
 Đừng lo
 cứ chơi là sẽ hiểu thôi!
@@ -505,7 +505,7 @@ Không ngờ anh lại nhảy giỏi đến thế!
 // MitaCap = Win 2
 Woa!
 Không thể tin được, anh nhảy hay thế này cơ mà!
-Thực sự tuyệt lắm á anh!
+Thực sự tuyệt lắm anh!
 
 // MitaCap = Win 3
 Bam!
@@ -577,7 +577,7 @@ Em cũng đọc hết chỗ này rồi à?
 Ưư... Em ghét sách lắm!
 Em thích hoạt động hơn!
 
-Ừm thì cũng tốt thôi,
+Ừ thì cũng tốt thôi,
 nhưng mà cũng phải có kiến thức chứ...?
 
 Vận động, kỹ năng, cảm nhận thôi. Hiểu không anh?
@@ -673,7 +673,7 @@ Hôm qua xảy ra chuyện gì vậy?
 Cảm giác hôm nay như một ngày dài vô tận!
 Hiya?
 Có giường ở đây không?
-ôi phải làm sao bây giờ?
+Tôi phải làm sao bây giờ?
 Mình không kịp deadline mất...
 Rốt cuộc có vấn đề gì...?
 Có phải do bức tường này không?
@@ -725,7 +725,7 @@ Em xin lỗi, được chưa!
 Em cũng muốn nhớ lại lắm chứ bộ...
 Có khi nào mọi người đang lừa em không?
 Nhưng mà, biểu cảm của cậu ấy lại nghiêm túc đến vậy...
-Ưmmm... Em chẳng biết nữa!
+Ưmm... Em chẳng biết nữa!
 
 // quest Cap 2
 Em cảm thấy thế nào
@@ -770,7 +770,7 @@ Bên trong có gì thế?
 Bí mật là bí mật mà...
 LÀ ・ BÍ ・ MẬT
 
-Hừm...
+Hm...
 Càng nói thế lại càng tò mò...
 
 // Tetris
@@ -781,7 +781,7 @@ Cho em chơi với!
 
 Ơ này.
 
-Cái này chơi kiểu gì thể?
+Cái này chơi kiểu gì thế?
 
 Em chỉ cần thu thập xu
 và tránh mấy con ếch thôi.
@@ -822,7 +822,7 @@ Không sao đâu anh, đừng sợ!
 
 Em chắc chắn sẽ không bao giờ
 để anh cô đơn một mình đâu!
-Nên là ở lại với em điii!
+Nên là ở lại với em điii! >A<
 
 Cappie!
 Đừng có giỡn nữa, nghe chưa?

@@ -1,0 +1,161 @@
+// Spelaren tänker + Kokar kaffe
+Jag behöver någons hjälp här.
+Jag hoppas att Mita här inte bits...
+
+Vad slösar jag bort min tid på...
+
+
+
+
+// Spelaren försöker väcka MitaDreamer
+Mita?
+Mita, vakna!
+Mita!
+
+Mita, vakna nu!
+Jag behöver din hjälp.
+
+Vem är du?
+
+Hjälp mig med switchen.
+
+Vilka switchar?
+Låt mig sova...
+Eller ge mig en kopp kaffe.
+
+Kaffebryggaren är precis där borta.
+Mita?
+Mi-ita!
+
+
+
+// Spelaren ger bort kaffet
+Mita,
+här är ditt kaffe.
+
+
+
+// MitaDreamer övar
+Switchar,
+säger du?
+
+Ja, det gör jag.
+
+Hur kommer det sig att du känner till dem?
+Men, varför frågar jag ens...
+Med tanke på att du är här,
+borde du veta mycket redan...
+
+Ett ögonblick bara,
+Jag behöver sitta ner.
+
+Och?
+
+Jag vet inte vad jag ska säga...
+Men jag måste fortsätta,
+fortsätta följa ringens vägledning.
+
+Har du hennes ring?
+Inte så konstigt
+att du hittade den här platsen.
+
+Ja, just det.
+Så, kan du hjälpa mig?
+Med strömbrytarna?
+
+Javisst.
+Det ska jag göra.
+Med switcharna...
+
+
+Mita, kom igen...
+Låt oss gå redan.
+
+Uh?
+Okej, okej.
+Då går vi.
+
+
+// MitaDreamer fall
+Gå upp.
+Är du så sömnig?
+
+// MitaDreamer igen sova
+Vakna upp.
+Vi är framme.
+
+
+// Switches
+Okej,
+jag är redo.
+
+Jag är också redo.
+
+Nåväl...
+Jag börjar
+nedräkningen.
+Och vi drar ihop brytarna.
+Okej?
+
+Håll dig bara vaken, okej!
+Kör.
+
+
+3
+2
+1
+
+// Spelare förlorar 1
+Tappar du bort dig?
+Kom igen nu..,
+nu kör vi igen...
+
+// Spelaren förlorar 2
+Ett försök till?
+Kom igen, jag..,
+jag...
+Jag håller på att somna här...
+
+// Spelare förlorar 3
+Jag håller på att somna...
+
+
+
+Underbart,
+tack så mycket, Mita.
+
+Mm-hmm.
+
+
+Dörrarna...
+...så...
+...långsamma...
+
+
+Jag går och lägger mig...
+
+// Varför köket?
+Varför gå till köket?
+Om jag somnar på det kalla golvet,
+är det ditt fel.
+
+// Varför badrum?
+Jag förstår inte...
+vilka switchar behövde du hjälp med?
+
+// Put button
+Ingenting hände?
+Vad gör då den här knappen här?
+
+// Cofee
+Lite mer kaffe?
+Annars somnar du igen.
+
+Vad är det?
+Nej, nej...
+Det här kaffet smakar fruktansvärt...
+Jag är helt okej...
+
+// Knapp
+Mita? Knappen fungerar inte... Kan du höra mig?
+Hallå?

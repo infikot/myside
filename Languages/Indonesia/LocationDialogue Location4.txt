@@ -1,0 +1,400 @@
+Mita?
+Oh, Sudah terbangun?
+Bagaimana kamu bisa sampai di sini?
+Kamu baru saja di sebelahku loh.
+
+Nggak kok,
+Kamu membeku di depan cermin.
+Jadi aku pergi.
+Kenapa tata kamarnya berubah?
+
+Aku atur ulang tempatnya
+supaya kamu merasa lebih seperti di rumah
+Di sini,
+Kita bisa mengganti kamar
+bagaimanapun yang kita inginkan.
+
+Kamu ga perlu lakuin itu.
+Aku sudah mulai terbiasa dengan tata letaknya
+bagaimanapun, menurutku kamu akan merasa lebih nyaman dengan tata letak seperti ini
+// Permainan kartu Mita
+Oke,
+Mari kita bermain?
+Cara permainannya seperti ini:
+Kepingan ini menunjukan suatu tipe,
+Seperti darah:
+Kita masing-masing memainkan satu kartu,
+dan jika kartumu memiliki nilai
+Status darah yang
+lebih tinggi dariku,
+maka kamu menang.
+Ambil kartumu.
+Sekarang giliranku.
+Wah!
+Kartuku bagus!
+Aku dulu ya!
+
+
+
+
+
+
+
+
+
+OK!
+Giliranmu!
+Uh-huh.
+Giliranmu!
+
+Statistik darah tertinggi menang!
+Kini semua tentang serangan!
+Fokus saja pada pertahanannya!
+
+
+Kamu menang!
+Kamu menang!
+Kamu mengecohku.
+Kamu...
+
+Aku menang!
+Aku pemenangnya!
+Aku menang!
+Yatta, kena kau!
+
+Seri.
+Semua sama!
+Hasilnya imbang!
+Nilai nya sama...
+
+
+
+
+
+
+
+
+
+
+
+// Permainan kartu terhenti
+Suara apa itu?
+Itu... berasal dari lemari
+
+Suara?
+Suara apa?
+Aku ga mendengar apapun.
+Menurutmu, apa yang kamu dengar?
+
+Suara ketukan, seolah-olah ada seseorang dari dalam.
+
+Tapi....
+Tidak ada seorangpun di sana...
+
+Aku ingin membuka dan memeriksanya.
+Aku agak merinding.
+
+Tapi kenapa....?
+Begini lagi...
+
+
+
+
+
+
+
+Ada apa denganmu!?
+ini lemari...
+Ada celana dalamku di sana...!
+
+Apakah kamu menyembunyikan sesuatu dariku?
+
+Kenapa kamu tidak percaya saja denganku?
+Apa yang salah dariku?
+Yang aku mau...
+Yang aku mau hanyalah kamu bersamaku.
+
+Aku juga ingin seperti itu, tapi tetap saja...?
+
+Kenapa kamu begitu terpaku dengan lemari itu?!
+
+Aku ingin tahu suara apa itu!
+
+Apakah ini karena
+dunia ini
+hanya memiliki empat kamar?
+Apakah itu tidak cukup untukmu?
+tolong, tinggalah bersamaku saja?
+
+
+// Jangan tinggal bersama Mita
+Baikla aku mengerti.
+Begini lagi...
+Jika kamu ingin membuka lemari,
+maka lakukanlah
+dan carilah tahu apa yang ada di sana!
+
+
+
+
+Hah apa....
+
+Kadang-kadang hal seperti itu terjadi.
+Ruangan macet saat memuat.
+Tunggulah sebentar.
+
+Ini sangat aneh.
+Apakah kita sedang berada di dalam ponsel seseorang?
+mungkin di ponsel yang lambat dengan waktu muat yang lama?
+
+Sama sekali tidak.
+Tapi tidak semuanya sempurna
+di dunia ini...
+Kita sedang dimuat
+bersama dengan inti dunia.
+
+Inti dunia?
+
+Bukankah tipikal?
+
+
+
+Bagaimanapun, kita bisa
+memainkan permainan konsol
+atau permainan kartu.
+Pilihlah sesukamu.
+
+
+
+// Mita bermain pertarungan
+Ingin bertarung?
+Kamu harus memenangkan
+sebanyak empat kali.
+Ayo.
+Jangan khawatir, aku akan
+menjadikanmu pupuk bawang diawal.
+
+
+Kamu hebat.
+Sebaiknya kamu fokus!
+
+Woah!
+Oke, oke.
+Aku mulai serius kali ini.
+
+Hebat!
+Sekarang coba apakah kamu
+bisa mengalahkanku sekarang!
+
+Kamu
+sungguh-sungguh
+menakjubkan! sungguh bakat yang hebat!
+
+
+Ada apa?
+Hah, itu membosankan.
+
+Oke,
+Itu saja. Kamu percaya pada takdir?
+
+Lalu,
+Cepat bertindak atau kamu akan menjadi pecundang selamanya!
+
+Ada apa denganmu hari ini?
+aku membersihkan lantai bersamamu.
+Kamu nggak serius—
+itu sebabnya aku menang!
+
+
+Baiklah kalau begitu.
+Bagaimana kalau kita bermain kartu?
+Barangnya ada di kamar tidur.
+
+
+
+// Pintu > [KESALAHAN]
+Hah, apa yang terjadi?
+Dimana...
+
+Oh-Uh.
+Maaf...
+Aku mengunduh sesuatu
+dari internet.
+Aku ingin mengindahkan
+bagian luarnya sedikit.
+Tapi ternyata
+ada yang salah dengan filenya.
+Aku akan memperbaikinya nanti.
+
+Itukah penyebabnya kita tidak bisa keluar rumah?
+Ya, itu sebabnya.
+// Mita pemalu
+Hei...
+Ada apa denganmu?
+Kamu menginginkan sesuatu?
+
+
+
+// Jam Dinding
+Ini jam di sini,
+Menunjukan pukul berapa?
+Waktu dalam permainan?
+Atau itu disinkronkan dengan ponsel saya?
+
+Yah, uhm...
+Sejujurnya saya tidak tahu.
+Tapi waktu tidak penting di sini...
+Entah itu terlambat atau lebih dini,
+gadis kuat sepertiku
+selalu penuh energi—
+Aku tidak pernah lelah!
+Kita bisa memiliki musim semi abadi,
+atau sore yang tiada akhir!
+
+Itu menarik...
+tapi juga bikin merinding.
+Terjebak di saat yang sama, selamanya...
+
+
+
+// Foto Mita
+Foto yang bagus.
+Aku menebak ini kamu?
+
+Ya.
+aku juga menyukainya.
+
+Siapa yang memotretnya?
+Apakah ada orang lain di dunia ini juga?
+
+Bisa dibilang seperti itu.
+Saya akan memperkenalkannya kepadamu suatu saat nanti.
+Hanya saja belum waktunya.
+Untuk saat ini, aku hanya ingin bersamamu sendirian.
+
+
+
+
+// Portal
+Kemana perginya portal itu?
+Atau apa pun sebutannya?
+
+Saya menggunakan
+sedikit sihir
+dan memindahkannya
+ke tempat lain.
+Kita tidak membutuhkannya lagi.
+Itu hanya akan menghalangi kita.
+
+
+// Cermin di kamar tidur
+Melihat ke cermin tanpa
+melihat pantulan—menyeramkan.
+
+Kita bisa mengaktifkan refleksi
+Jika kamu mau.
+Tapi, apakah kita membutuhkannya?
+
+Tentu saja.
+atau... akankah menyalakannya ada konsekuensinya?
+
+Ya.
+Kita bisa gagap dan bergerak lebih lambat.
+Pernah melihat kartun dengan frame per detik yang rendah?
+Hal itu akan terjadi sepanjang waktu, untuk kita.
+
+Ok dimengerti.
+Kalau begitu lebih baik kita mematikan refleksi...
+
+Hei, [player],
+kamu pasti suka cermin, bukan?
+Takut melihat senyuman di wajahmu itu?
+
+Hah? nggak juga...
+Aku cuman lelah
+setelah semua kegiatan.
+
+
+
+// Sepatu kets biru
+Apakah ini milikmu?
+
+Tidak, itu milikmu.
+Apakah kamu tidak ingat?
+
+Aku ga pernah ingat punya spatu kets seperti itu.
+
+Kamu memilikinya sekarang,
+Kamu bisa memakainya
+saat kita ke luar.
+
+Bagaimana dengan pakaian?
+semua yang aku punya di dunia ini
+adalah pakaian yang aku pakai.
+Apakah ada cara untukku mendapatkan yang baru?
+
+Tentu saja ada.
+Padahal, aku sudah meilhat apa yang kamu pakai—
+dan sejujurnya, seleramu tidak bagus.
+Bagaimanapun, aku akan membantumu mendapatkannya.
+Hanya saja tidak sekarang
+Tapi itu janji.
+
+Oke.
+
+
+// Game di TV
+Apa yang ingin kamu mainkan?
+// Permainan susu
+yang ini adalah game pertarungan!
+Mari kita lihat siapa yang menjadi masam dulu!
+Permainan yang luar biasa!
+Sudah cukup susu untuk saat ini, ayo lakukan yang lain.
+// Permainan penguin
+Dalam game ini, kamu adalah seekor pinguin
+meluncur ke sana kemari.
+Ya, begitu permainannya.
+
+// Tetap bersama Mita
+Hah, apa?
+Kamu serius? Aku pikir kamu...
+Aku sangat senang!
+Dan sedikit bingung...
+Tetapi...
+Tolong, tetaplah bersamaku—
+selalu dan selamanya.
+
+
+
+
+
+
+
+
+
+
+
+
+// Game tentang pinguin
+Ini sangat sederhana:
+kumpulkan saja bola salju.
+Orang yang mengumpulkan lebih banyak, menang!
+Ayo main dua putaran, oke?!
+// Peta pertama
+Wow, bagaimana kamu bisa mendapatkan sebanyak itu?
+Tee-hee! Aku-aku punya bola salju paling banyak!
+Lebih baik menyusul!
+Ha, 1:1!
+// Peta kedua
+kamu merupakan pinguin natural ya!
+Kita harus membawamu ke es sungguhan!
+Pfft, kamu lambat sekali.
+Masih kepikiran putaran terakhir tadi?
+Woah, seri! hal ini jarang terjadi!
+// Permainan sudah berakhir
+Baik, ingin memainkan yang lain?
+Atau kamu sudah selesai?
+
+// Tetris - Mita
+Untuk apa kamu memerlukan ini?
+Kamu seorang gamer kah?

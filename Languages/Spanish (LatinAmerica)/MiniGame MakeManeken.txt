@@ -1,9 +1,9 @@
-¡Escaneo Requerido!
+¡Escaneo requerido!
 Requerimientos
 Versión
 Cantidad de Huesos
-Ninguna entidad encontrada. ¡Escaneo Requerido!
-Escaneo Actual
+Ninguna entidad encontrada. ¡Escaneo requerido!
+Escaneo actual
 
 
 
@@ -19,7 +19,7 @@ Escaneo Actual
 ¡Lo hiciste!
 
 // Tutorial
-Entonces, ¿Qué estoy haciendo aquí?
+Entonces, ¿qué estoy haciendo aquí?
 Antes debo de entrar a tu pantalla...
 Ahora...
 ¡Entonces!
@@ -28,8 +28,8 @@ Primero, escanéalo.
 Ahora, revisa la versión y los huesos del esqueleto.
 Toma los datos de este prototipo y compáralos con los de la versión estándar.
 ¡Concuerdan perfectamente! Ahora, revisemos las emociones.
-¡El prototipo muestra las emociones! Es hora de probar el comportamiento.
+¡El prototipo muestra las emociones! Hora de probar el comportamiento.
 Muy bien, hemos revisado todo, ¡y es correcto! Ahora jala la palanca hacia arriba.
-¡Si! ¡Ahora tiene la piel! Dale la caja de ropa. 
-¡Eso es todo! ¿Vez esas luces de hasta arriba? Una se encendió con verde, ¡Lo que significa que lo hicimos bien!
+¡Sí! ¡Ahora tiene la piel! Dale la caja de ropa. 
+¡Eso es todo! ¿Ves esas luces de ahí arriba? Una se encendió en verde, ¡lo que significa que lo hicimos bien!
 ¡Tu turno! Regresaré cuando todas las luces estén en verde. ¡Buena suerte!

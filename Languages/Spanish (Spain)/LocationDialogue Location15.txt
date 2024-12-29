@@ -14,7 +14,7 @@ La Mita loca...
 Creo que está ocupada con un nuevo jugador.
 Así que, con suerte, está demasiado ocupada para preocuparse por nosotros...
 
-Mita?
+¿Mita?
 Espérame.
 
 
@@ -30,12 +30,12 @@ Mita...
 
 ¿Quién eres?
 
-¿¡estás viva!?
+¿¡Estás viva!?
 ¿No te acuerdas?
 
 ¿Te conozco?
 
-¿Qué está pasando...
+¿Qué está pasando...?
 ¿Qué se supone que haga ahora?
 No puedo salir...
 
@@ -177,7 +177,7 @@ Tú...
 ¡Ellos no son el problema!
 ¡Tú eres la que nunca debió existir!
 
-Y también… tú.
+Y también... tú.
 Duele escuchar que digas eso.
 ¡Y aún así!
 ¡Es hora de que te vayas!
@@ -186,7 +186,7 @@ Duele escuchar que digas eso.
 Ya es hora
 de sacarte de la consola.
 ¡Hasta luego!
-¡Serás mi cartucho favorito...
+¡Serás mi cartucho favorito...!
 Un jugador con un nombre interesante.
 
 // core console - nope programm
@@ -214,7 +214,7 @@ Soy genial cortando zanahorias. :)
 
 // Why bathroom
 Ah, supongo
-¿que querías entrar solo?
+¿querías entrar solo?
 
 // Why bedroom back
 ¿Por qué solo estamos dando vueltas?

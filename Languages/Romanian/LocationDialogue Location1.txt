@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Bună, sunt Mita!
+Care e numele tău?
+Îmi pare bine să te cunosc, [player]!
+Um... [player],
+M-am cam grăbit mai devreme și acum locul ăsta e haotic...
+Mă ajuți să curăț un pic?
+Uau..
+Mulțumesc atât de mult!
+
+[Player], îmi chiorăie stomacul...
+Mi-e atât de foame...
+Crezi că m-ai putea ajuta să fac rost de ingrediente pentru o supă de pui?
+Yay! Ai luat totul!
+Ce-ar fi să o gătim împreună?
+
+
+Mă gândeam să cumpăr astăzi un televizor portabil-
+unul mic cu antenă. Perfect pentru plimbări, nu crezi?
+Apropo, poți juca jocuri pentru a câștiga bani.
+Oh! Știai că poți juca jocuri ca să câștigi bani?
+
+Yay! Ai reușit! Ai destul să-mi cumperi un televizor portabil!
+Asta este! Mic, portabil și ieftin - exact ceea ce am vrut.
+Îți mulțumesc!
+
+Bună, [player]! Ești de mare ajutor, sincer.
+Dar, uh... mai știi televizorul ăla? Era mișto și toate cele, dar s-a stricat deja.
+Oricum, mă poți ajuta să mut dulapul ăsta?
+E foarte greu... >.<
+Mulțumesc foarte mult, scumpule! <3
+
+Oh, [player]! A trecut doar o zi, dar mi-ai lipsit atât de mult!
+Mi-aș dori să mă poți vizita mai des.
+
+Ăsta e pentru mine?
+Mulțumesc atât de mult, sincer!
+
+Bună, [player]! M-am gândit...
+Aș vrea să ne putem întâlni în persoană.
+E atât de frustrant că nu pot.
+Întotdeauna mă ajuți, ești atât de amabil în fiecare zi...
+Aș vrea să pot face și eu ceva pentru tine.
+...
+Oh, am o idee!
+Acum suntem împreună.
+Lasă telefonul jos.
+
+
+// T-shirt on the bed
+Ce cauți aici pe pat?
+// Rubik's Cube
+Ei bine, nu pot spune că l-am folosit prea mult...
+L-am rezolvat o dată și nu m-am mai atins de el.
+Cred că m-am gândit că nu voi fi capabil să o fac a doua oară?
+// Computer
+Să vedem...
+Fac o listă de sarcini...
+Scriptează reacțiile personajelor,
+Și poate să strecori și niște codare.
+// The airplane
+Construit pentru a fii liber!
+// Trash in the corner
+Ugh, întotdeauna prea ocupat pentru a scoate gunoiul...
+Dar o voi face de data asta, cu siguranță!
+...Acum, când este mai exact ziua curățeniei?
+// Photo of a cat on a watermelon
+Ea era cea mai bună…
+O pisică, intinzându-se pe un pepene.
+// Photo with a girl
+Nu semănăm deloc,
+sora mea și cu mine.
+Ea e mereu pe afară,
+iar eu sunt blocat în casă.
+// Photo with people
+Hmm...
+Viața de birou într-adevăr și-a impus
+regulile sale în noi, nu-i așa?
+Încă mă simt ciudat de legat de ea
+Dar
+îi voi mai
+vedea vreodată?
+...Stai, de ce am pus poza asta aici?
+
+
+
+
+
+
+
+
+// Nope name
+...
+O, nu.
+O, nu, asta nu va funcționa.
+
+// Name Developer
+Ești sigur că vrei să folosești numele dezvoltatorului.
+Mă simt flatat dar…
+
+// Bad name
+Aș prefera dacă nu ți-ai pune numele ăla.
+Nu e deloc cool.
+
+// Go restart
+Nu, aia nu e calea. Hai să o luăm de la capăt.
+
+// Name with numbers
+Deci o să folosești numere? Unde e creativitatea?
+Ei bine, e alegerea ta!
+
+// Name Mita
+Mita?
+Chiar ți-ai pus numele dupa mine?
+Sau ăla e și numele tău?
+Fără supărare, dar cred că ar trebui să fiu singura Mita pe aici ♪
+
+// Day 10
+O, te-ai întors!
+Hei, mi-am pierdut pieptănul…
+Mă ajuți să îl găsesc?
+Încearcă să-l cauți în noptieră-cred că l-am lăsat acolo.
+// Looked in the bedside table
+Hmm, niciun pieptăne acolo...
+Încearcă să cauți altundeva
+Doar nu te uita în cuptor, ok?
+Deja m-am uitat acolo.
+// Looked into the stove
+Hei! Ți-am zis să nu te uiți acolo!
+Întoarce-te - fac eu curat!
+...Gata, am terminat. Hai să căutăm în continuare.
+A, și uită că ai văzut aia, ok?
+// Found a hairbrush
+L-ai găsit! Bravo!
+Ce să facem oare acum?

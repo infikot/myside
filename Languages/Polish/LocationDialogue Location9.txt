@@ -49,11 +49,12 @@ Klucz jest twój.
 
 
 
+
 // Quest 1 (Jesteś Mita?)
 Jestem MiniMita.fbx!
 Masa lin,
 Najprostszy model, i—
-co najwazniesze - piękne włoski!
+co najważniejsze - piękne włoski!
 
 // Quest 2 (Czy myśmy się gdzieś nie widzieli?)
 Głuptas!
@@ -79,7 +80,7 @@ Po prostu stwierdziłam, że czemu nie.
 No co..
 
 Taki niemądry...
-Pojawiłeś się zniknad
+Pojawiłeś się znikąd
 Nie powinno cię tu być,
 więc ci pomagam!
 

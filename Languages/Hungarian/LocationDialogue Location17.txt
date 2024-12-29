@@ -1,0 +1,161 @@
+﻿// Player thinks + Make coffee
+Segítség kellene.
+Remélem az itteni Mita ártalmatlan.
+
+Egyáltalán mit csinálok?
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, ébresztő!
+Mita!
+
+Ébresztő, hétalvó!
+Segíts nekem!
+
+Ki vaaaaaaagy?
+
+Segíts a kapcsolókkal.
+
+Milyen kapcsolókkal?
+Kávét akarok,
+vagy hagyj aludni.
+
+De nincs messze a kávéfőző...
+Mita?
+Miitaaa!
+
+
+
+// Player gives away the coffee
+Mita,
+ezt neked hoztam.
+
+
+
+// MitaDreamer exercise
+Szóval...
+kapcsolók?
+
+Igen!
+
+Honnan tudsz te róluk?
+Miket kérdezek...
+Biztos sok mindenről tudsz,
+hogyha már idáig jutottál.
+
+Egy pillanat,
+le kell ülnöm.
+
+Folytathatod.
+
+Nem értek igazán én sem semmit,
+de a gyűrű mondja, hogy oda kell mennem,
+így odamegyek.
+
+Nálad van a gyűrűje?
+Akkor már értem,
+hogy kerülsz ide.
+
+Így igaz.
+Na, akkor segítenél már
+a kapcsolókkal?
+
+Persze.
+Igen.
+Kapcsolók...
+
+
+Mita, ébredj...
+Kelj már fel.
+
+Ó?
+Ja tényleg.
+Irány a kapcsoló.
+
+
+// MitaDreamer fall
+Ébredj!
+Majd utána aludhatsz.
+
+// MitaDreamer again sleep
+Ébresztő.
+Már majdnem ott vagyunk.
+
+
+// Switches
+Rendben,
+készen állok.
+
+Én is.
+
+Akkor
+visszaszámlálok
+háromtól,
+és egyszerre meghúzzuk a kart.
+Rendicsek?
+
+Csak el ne aludj.
+Mehet.
+
+
+Három...
+kettő...
+egy...
+
+// Player lose 1
+Mi van veled?
+Jó,
+próbáljuk újra...
+
+// Player lose 2
+Most komolyan?
+Kérlek...
+Mindjárt el...
+Mindjárt elalszok...
+
+// Player lose 3
+Mindjárt elalszok itt helyben...
+
+
+
+Szép munka!
+Köszönöm, Mita.
+
+Semmiség.
+
+
+Olyan...
+lassan...
+nyílik...
+
+
+Megyek csicsikálni...
+
+// Why kitchen?
+Miért vagyunk a konyhában?
+A te hibád, ha a hideg padlóra
+esek össze.
+
+// Why bathroom?
+Nem értelek...
+a fürdőszobában van a kapcsoló?
+
+// Put button
+Nem történt semmi.
+Akkor mire jó ez a gomb?
+
+// Cofee
+Kell még kávé?
+Csak nehogy elaludj.
+
+Mi?
+Neeeem...
+Undorító ez a kávé...
+Jól vagyok...
+
+// Button
+Mita? Nem csinál semmit a gomb... Mit tegyek?
+Mita?

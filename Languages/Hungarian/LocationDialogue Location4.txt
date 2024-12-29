@@ -1,0 +1,400 @@
+﻿Mita?
+Ó, már magadhoz tértél?
+Hogy kerültél ide?
+Az előbb még a közelemben voltál...
+
+Nem, dehogy.
+Le voltál fagyva a tükör előtt.
+Elmentem onnan.
+Mi történt a szobákkal?
+
+Végeztem egy kis átalakítást,
+hogy számodra otthonosabb legyen.
+A szobák
+úgy lettek kialakítva,
+hogy otthonosabb legyen számodra.
+
+Nem kellett volna.
+Már kezdtem megszokni.
+Szerintem sokkal kényelmesebb lesz így neked.
+// Mita card game
+Hát,
+akkor kezdjük is el!
+Elmondom röviden a szabályokat.
+Ebben a csipben találsz egy tárgyat.
+Ha például egy szívet látsz benne,
+és a te kártyádon
+amit te leraksz,
+több szív van,
+mint az enyémen,
+akkor te nyertél.
+Akkor vedd el a paklid.
+Én jövök.
+Váó!
+De jó paklit húztam!
+Én kezdek!
+
+
+
+
+
+
+
+
+
+Most te.
+Te jössz.
+Így ni!
+Te jössz.
+
+A szívre koncentrálj.
+Támadásra koncentrálj.
+Védőre koncentrálj.
+
+
+Megy ez neked!
+Nyertél
+Te nyertél!
+Tiéd a pont!
+
+Nyertem.
+Enyém a pont!
+A győzelem az enyém!
+Nyahaha, legyőzhetetlen vagyok
+
+Döntetlen.
+Egyikünk se nyert.
+Döntetlen?
+Ugyanannyi...
+
+
+
+
+
+
+
+
+
+
+
+// The card game is interrupted
+Mi ez a hang?
+A szekrényből jön.
+
+Hang?
+Milyen hang?
+Nem hallok semmit.
+Mit hallottál pontosan?
+
+Mintha valaki a szekrényből kopogna...
+
+De ott...
+nincs senki.
+
+Ki szeretném nyitni a szekrényt.
+A végére akarok járni ennek.
+
+De miért?
+Te is...
+
+
+
+
+
+
+
+Te meg mit művelsz?
+Ott csak...
+az alsóneműim vannak...!
+
+Valamit rejtegetsz előlem?
+
+Csak higgyj nekem!
+Mi rosszat tettem?
+Csak...
+együtt akarok lenni veled.
+
+Én is, de...
+
+Miért érdekel téged annyira ez a szekrény?
+
+Csak tudni szeretném, mi ez a kopogás!
+
+Azért akarod tudni,
+mert a világomban
+csak négy szoba van?
+Túl kicsi neked a világom?
+Velem miért nem elégszel meg?
+
+
+// Don't stay with Mita
+Értem...
+Te sem...
+Ha ennyire tudni akarod, mi van a szekrényben,
+akkor megtudod...
+...most rögtön!
+
+
+
+
+Mi a...
+
+Néha van ilyen.
+Lassan tölt be a szoba.
+Várj egy kicsit.
+
+Ez olyan fura.
+Másnak a telefonjában vagyunk?
+Mert ez a telefon olyan lassú.
+
+Nem nem.
+A világban nem minden olyan
+tökéletes...
+A világ magja működteti
+ezt a világot.
+
+Világ magja?
+
+Tipikus, tudom.
+
+
+
+Miért ne
+játszunk valamit a konzolon?
+Vagy kártyázhatunk is.
+Tiéd a választás.
+
+
+
+// Mita play fight
+Harcra fel!
+A cél az,
+hogy négyszer legyőzz!
+Sok sikert!
+Ne aggódj,
+visszafogom magam.
+
+
+Szép volt!
+Na most kösd fel a gatyád!
+
+Váó!
+Jól van,
+innentől nincs kegyelem.
+
+Te kis...!
+Nézzük, most le tudsz
+győzni?
+
+Hát
+te...
+elképeztő vagy! Elég profi vagy ebben!
+
+
+Na most mi van?
+Ez így unalmas.
+
+Hát...
+Egy újabb tej lekeverve. Ebből nem épülsz fel!
+
+Csak...
+adj bele mindent, vagy örökre vesztes maradsz!
+
+Ó, komolyan?
+Felmostam veled a padlót!
+Csak próbálkozz erősebben.
+Ehhez a hozzáállás miatt nyerek mindig!
+
+
+Hát jó.
+Akkor kártyázzunk,
+a hálószobámban.
+
+
+
+// Door > [ERROR]
+Mi ez?
+Hol van a...
+
+Hoppá,
+bocsi!
+Valamit letöltöttem
+az internetről.
+Azt akartam,
+hogy gyönyörű legyen a környék,
+de úgy tűnik,
+hogy valami gond van a fájllal.
+Később kijavítom.
+
+Ezért nem mehetünk ki a házból?
+Pontosan.
+// Mita shy
+Na...
+Mi van veled?
+Szeretnél valamit tőlem?
+
+
+
+// Wall Clock
+Ez az óra, 
+milyen időt mutat?
+A játékbeli időt?
+vagy ez szinkronizálva van a telefonommal?
+
+Hát...
+...nem igazán tudom.
+De az idő nem számít.
+Az sem, ha este, vagy reggel van.
+A magamfajta lányok
+mindig televannak energiával!
+Sosem fáradok el!
+Örökre tavasz lehet!
+Vagy akár örökre dél!
+
+Érdekes...
+És egyben elég bizarr.
+Furcsa, hogy az idő megállhat...
+
+
+
+// Photos of Mita
+Gyönyörű fotók.
+Gondolom ezeken te szerepelsz.
+
+Igen.
+Nekem is tetszenek.
+
+Ki készítette őket?
+Mások is vannak ebben a világban?
+
+Mondhatni.
+Majd később bemutatom őket.
+De majd később.
+Addig hadd legyünk kettesben.
+
+
+
+
+// Portal
+Hová tünt a portál?
+Vagy a mi a nevével?
+
+Áthelyeztem
+máshová
+a varázserőmmel.
+De ne aggódj,
+már nincs szükségünk rá.
+Felesleges itt lennie már.
+
+
+// Mirror in the bedroom
+De fura egy olyan tükröt bámulni,
+ami nem tükrözik vissza.
+
+A tükrözést be lehet kapcsolni,
+ha szeretnéd.
+De nagyon fontos?
+
+Persze.
+Vagy rossz ötlet?
+
+Hát...
+egyre jobban akadozni fogunk.
+Láttál már darabos rajzfilmet?
+Ugyanolyan lassú, és idegesítő lesz itt is.
+
+Rendben.
+Akkor ne csináljunk vele semmit.
+
+Te aztán nagyon szereted
+a tükröket, [player]!
+Nagyon gondoskodsz arról, hogy ne mosolyogj?
+
+Hogy mi?
+Nem, dehogy, csak
+nagyon fáradt vagyok így munka után.
+
+
+
+// Blue sneakers
+Az a cipellő, a tiéd?
+
+Nem, a tiéd,
+nem emlékszel rá?
+
+Ilyet én nem hordok.
+
+Most már igen.
+Majd hordani fogod őket,
+ha majd kettesben sétálunk.
+
+És mi van a ruháimmal?
+Ez az egyetlen göncöm
+ebben a világban.
+Hol fogok tudni venni újat?
+
+Nem kell aggódnod emiatt.
+De... láttam a ruhatáradat...
+...őszintén, a stílusod nincs a toppon.
+Semmi baj, majd együtt megoldjunk.
+De majd később.
+Megígérem.
+
+Hát jó.
+
+
+// Games on TV
+Mivel játsszunk?
+// Game milk
+Ú, ez egy verekedős játék!
+Nézzük, ki veszti el előbb a tejét!
+Csodás játék!
+Szerintem játsszunk valami mással!
+// Game penguins
+Ebben a játékban csúszkálunk,
+mint egy pingvin!
+Remek játék!
+
+// Stay with Mita
+Vagyis.. várjunk...
+Komolyan mondod? Tényleg?
+Annyira, de annyira boldog vagyok most!
+És egy kicsit zavarodott…
+De jólvan!
+Kérlek, maradj velem!
+Örökkön örökké!
+
+
+
+
+
+
+
+
+
+
+
+
+// A game about penguins
+Nagyon könnyű!
+Hógolyókat kell gyűjtened!
+Az nyer, aki a legtöbbet összegyűjti!
+Menjünk akkor két menetet!
+// The first map
+De sokat gyűjtöttél össze!
+Hehe, én többet gyűjtöttem!
+Siess!
+Döntetlen!
+// The second map
+Te egy született pingvin vagy!
+A pályán van a helyed!
+Uff, de lassú vagy!
+De ne zavartasd magad!
+Döntetlen? Nem semmi!
+// The game is over
+Akkor, játsszunk valami mással?
+Vagy végeztünk?
+
+// Tetris - Mita
+Na, most miért játszasz?
+Mennyire hardcore gamer vagy már?

@@ -1,0 +1,150 @@
+
+Mita?
+
+Cum naiba ai ajuns aici?
+
+Ești Mita nu?
+Dar ceva este diferit...
+
+Ești perspicace din câte văd.
+Și ai dreptate.
+Nu sunt aceeași Mita de mai devreme.
+Ai grijă, plănuieste ceva
+sinistru.
+
+Huh, ceva sinistru?
+
+N-am timp să-ți explic:
+Dacă asta funcționează, îți voi spune totul.
+Ia cheia. E lângă canapea.
+
+Dar...
+
+Întrebările să aștepte!
+Dă-mi cheia.
+Ia inelul ăsta.
+Ce?
+Vrei să scapi de aici, nu?
+Uhm, da...
+Atunci puneți-l.
+E un artefact folositor,
+o să îți fie folositor in curând.
+
+Ok...
+Apropo, eu sunt
+[player].
+
+Mmm,
+[player].
+Sunt... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Vezi aia
+consola? Ia-o.
+
+Privim o înregistrare?
+Cine e acolo cu ea?
+
+Asta se întâmplă chiar în secunda asta.
+E un alt jucător.
+Ea îl folosește.
+Va încerca să te transforme
+și pe tine într-un cartuș.
+
+Trebuie să scap de aici imediat.
+Și tu la fel.
+
+Da, ai dreptate.
+
+Deci vrei să spui
+că se folosește de el.
+Dacă scot cartușul ce se va întâmpla?
+
+Aia va
+distruge cartușul complet.
+Ceea ce ar însemna...
+jucătorul ar muri.
+
+...
+Ce dacă îl opresc?
+
+Asta ar putea funcționa...
+Merită încercat. E un buton roșu!
+Îl vezi?
+L-ai găsit.
+Apasă-l.
+
+// MitaKind quest 2
+Trebuie să rămân.
+Sunt întrebări pe care trebuie să i le pun
+să aflu mai multe despre ea.
+Cu toate că e puțin probabil ca ea să...
+
+// MitaKind quest 3
+Să-ți spun adevărul, asta este versiunea mea.
+Îi țineam companie unui jucător,
+când ceva s-a schimbat brusc.
+Apoi a apărut ea...
+și a transformat jucătorul într-un cartuș
+și m-a închuiat.
+
+Stai, ea l-a transformat într-un cartuș?
+Chiar poate face asta?
+Dar de ce?
+Pentru ce are nevoie de jucători?
+
+E clar că e nebună...
+Se joacă cu noi și ne folosește pentru propriile ei mașinării!
+Transformă jucătorii în cartușe...
+Unii nici nu și-au dat seama ce li se întâmplă...
+Iar unii care și-au dat seama, nici măcar nu au ripostat... Uf!
+Asta e o întorsătură întunecată...
+Tu trebuie să ne ajuți!
+Eu? Dar cum?
+Am nevoie de tine!
+Dacă ne ajuți, te voi ajuta și eu!
+Asta ar putea fi singura noastră șansă.
+Inelul te va duce la versiunea corectă.
+Ne întâlnim acolo.
+
+// MitaKind quest 4
+Încă nu prea înțeleg
+ce am văzut acolo sus...
+Acea Mita...
+Încerca să mă omoare?
+
+Să te omoare?
+Are pregătită o soartă mai rea decât asta pentru tine...
+Trebuie să te grăbești.
+
+// Hide!
+La naiba! Ascunde-te!
+Stai, ce...?
+Grăbește-te, vine!
+Urmărește inelul - te va duce la siguranță!
+
+
+Ei bine, bine, o să-mi spui unde e?
+
+De ce aș face-o?
+Nu-l vei omorî, nu-i așa?
+
+Ah, deci refuzi să-mi spui.
+Eh, îmi plac provocările.
+Știu că e undeva pe aici.
+
+De ce ești atât de rea cu noi?
+Nici măcar nu vrei să-mi spui ce se întâmplă!
+În plus...
+de ce ai nevoie de jucători?
+Nu sunt jucării!
+Ce te-a apucat?!
+
+Ajunge! Ține-ți gura închisă, păpușă!

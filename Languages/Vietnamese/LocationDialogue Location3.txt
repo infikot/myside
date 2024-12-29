@@ -117,7 +117,7 @@ Có nhãn tên trên đó.
 Cái hộp băng đó là gì vậy?
 
 Hộp băng?
-Hộp băng nào cơ?
+Như nào cơ?
 Chúng ta cùng đi kiểm tra nhé.
 Nhưng trước hết
 chúng ta hãy ăn đã.
@@ -139,7 +139,7 @@ mãi cho tới khi có bản cập nhật.
 Ở thế giới ngoài kia có nhiều thứ 
 phản chiếu lắm phải không?
 
-À, ừm.
+À, ừ.
 
 
 Anh còn nhớ không?
@@ -173,7 +173,7 @@ Gì đây em?
 Em cần nó để làm gì vậy?
 Bộ em phải tới trường hay gì đó à?
 
-Trường á anh?
+Trường hả anh?
 Không, em không cần tới trường.
 Nhưng đồng phục dễ thương mà.
 Mặc vào thì em
@@ -223,7 +223,7 @@ Nếu đây là trong game
 thì nó để làm gì vậy?
 
 Trước hết là
-chúng ta đang ở trong game.
+chúng ta "đang ở trong game".
 Thế nên anh hỏi "tại sao" thì
 hoàn toàn vô nghĩa.
 Nhưng cái cầu dao này thực sự
@@ -246,7 +246,7 @@ Em thường hay đọc sách à?
 
 Sách thì em đọc hết rồi.
 Em ở đây một mình
-cực kỳ... cực kỳ... Chán lắm ấy.
+cực kỳ, cực kỳ... Chán lắm ấy.
 
 // TV in room kitchen
 Sao em lại cần tới hai chiếc TV
@@ -303,7 +303,7 @@ Quảng cáo gì lạ đời thế...
 Nước ép chết rồi đó hả?
 
 Vâng, và từ đó nước ép
-biến thành nước ép đó anh.
+tạo ra nước ép đó anh.
 
 
 Mm, hương vị này...
@@ -321,7 +321,7 @@ Anh làm em ngại quá đó.
 // The statuette
 Tượng gì nhìn trông rợn người ghê.
 Em thích mấy thứ
-như thế này hử?
+như thế này à?
 
 Rợn người?
 

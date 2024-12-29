@@ -23,7 +23,7 @@ Nhưng...
 Hỏi han để sau đi!
 Đưa cho em chìa khóa.
 Với cả chiếc nhẫn này nữa.
-Hở?
+Hm?
 Anh muốn rời khỏi đây phải không?
 À, anh muốn...
 Vậy thì đeo vào ngón tay đi.
@@ -52,14 +52,14 @@ console đó chứ? Cầm lấy nó đi.
 Đây là đoạn ghi hình à?
 Ai đang ở cùng với cô ấy vậy?
 
-Đây không phải là đoạn ghi hình.
+Không phải đoạn ghi hình đâu.
 Đó là một người chơi khác.
 Cô ấy đang lợi dụng người đó.
 Anh cũng vậy,
 coi chừng anh cũng bị biến thành hộp băng đấy.
 
 Chúng ta phải rời khỏi đây ngay.
-Em cũng vậy.
+Cả em nữa.
 
 Vâng, tất nhiên rồi.
 
@@ -73,9 +73,9 @@ Như vậy có nghĩa là...
 người chơi sẽ chết.
 
 ...
-Thế nếu như anh tắt nó đi thì sao?
+Thế nếu anh tắt console đi thì sao?
 
-A, nghe có vẻ được ấy...
+A, nghe có vẻ được đấy...
 Anh hãy thử xem. Có một nút màu đỏ ở đó!
 Anh thấy không?
 Thấy rồi.
@@ -107,7 +107,7 @@ Họ hoàn toàn không nghi ngờ gì cô ấy cả...
 Kể cả những người nhận ra, chẳng hiểu sao họ cũng không hề kháng cự...
 Thật kinh khủng...
 Xin anh hãy giúp bọn em!
-Anh á? Làm thế nào?
+Anh ư? Làm thế nào?
 Người chơi, bọn em cần anh!
 Chúng ta phải giúp đỡ lẫn nhau!
 Không còn cơ hội nào nữa đâu.

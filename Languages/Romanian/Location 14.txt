@@ -1,0 +1,5 @@
+// Snaker
+Înfrângere!
+Victorie!
+// DontWork
+Stop!

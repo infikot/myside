@@ -19,7 +19,7 @@ Día
 
 Regresar
 Compraste
-Ingredientes de Sopa de Pollo
+Ingredientes de sopa de pollo
 
 
 
@@ -34,7 +34,7 @@ Procesado
 Plataformas
 Juegos
 
-(1) Nuevo Mensaje
+(1) nuevo mensaje
 ¡Prueba esta nueva versión!
 Adjunto
 
@@ -48,6 +48,6 @@ DÍA [0]
 
 
 Tutorial: ¿Te gustaría que te muestre los controles?
-Mirar Alrededor.
-Moverse Alrededor.
+Mirar alrededor.
+Moverse alrededor.
 Interactuar.

@@ -1,0 +1,53 @@
+Toko
+Kategori
+Makanan
+Mebel
+Ruang
+Pakaian
+Mainan
+Peningkatan
+Sup
+Salad
+Camilan
+Minuman
+Meja
+Tempat tidur
+televisi
+Kursi
+
+Hari
+
+Kembali
+Kamu membeli
+Bahan sup ayam
+
+
+
+
+
+Mempersembahkan
+
+Mini-game
+Energi
+Elektronik
+Pengolahan
+Platform
+Pertandingan
+
+(1) pesan baru
+Coba versi baru ini! Kamu pasti suka!
+Lampiran
+
+Teman : M.K.
+
+HARI [0]
+
+
+
+
+
+
+Tutorial: Apakah kamu ingin saya mengajari cara mainnya?
+Lihatlah sekeliling.
+Bergerak.
+Berinteraksi.

@@ -1,10 +1,10 @@
 
 Mila! Nieee! Jesteś chora!
 
-Ha-ha! CO TO JEST?
-Co to za nowy wyraz twarzy?
+Ha-ha! CO TO MA BYĆ?
+Nowy wyraz twarzy?
 Nie wstydź się, pozwól mi się przyjrzeć!
-Oglądanie tej samej twarzy robi się z czasem nudne!
+Oglądanie tego samego grymasu robi się z czasem nudne!
 
 // Mita arena "Hello"
 Jak się masz, mój mały wędrowcze??
@@ -12,8 +12,8 @@ Ciągle gdzieś biegasz, nie masz dość?
 
 Co zrobiłaś Mili?
 
-Oh, Czyli nie jesteś jeszcze zmęczony!
-Idealnie! To zagrajmy w pewną grę!
+Oh, czyli nie jesteś jeszcze zmęczony!
+Idealnie! Zagrajmy więc w pewną grę!
 
 Niech cię...
 
@@ -22,10 +22,10 @@ Sprawdzimy twoją koordynację!
 oraz umiejętność adaptacji!
 Co jeśli jest coś z tobą nie tak!?
 Co jeśli nie zasługujesz nawet
-na te ciało z którego jesteś taki dumny!?
+na to ciało z którego jesteś taki dumny!?
 
 // Show knifes
-Spójrz proszę...
+Spójrz...
 Który ci się bardziej podoba?
 Prawy?
 A może
@@ -33,8 +33,8 @@ Lewy?
 
 // Throw knifes
 Serio?
-Ma to jakieś znaczenie?
-Poprostu się z tobą droczyłam!
+Ma to w ogóle jakieś znaczenie?
+Po prostu się z tobą droczę!
 Dźganie nożem odeszło do lamusa.
 Nie uważasz?
 Zaplanowałam dla nas coś lepszego,
@@ -42,19 +42,19 @@ na przykład...
 // Show recorder
 Obczaj to!
 Potrzebujemy do tego muzyki!
-Co myślisz o tej melodi?
+Co myślisz o tej melodii?
 Sprawia że moja krew pulsuje!
 Najpierw wyjaśnię ci
-Zasady!
+Zasady tej gry!
 // Show rules
 Gdy gra muzyka,
 możesz się poruszać.
-Ale gdy muzyka przestaje grać,
-NIE RUSZAJ SIĘ!
-Albo cię zabiję. Rozumiesz?
+Ale gdy muzyka zamilknie...
+ANI DRGNIJ!
+Albo cię zabiję, Hihi~
 W skrócie: dobiegnij do końca
 zanim skończy się muzyka.
-Zaczynajmy!
+Zaczynajmy! 
 Dalej stoisz w miejscu?
 Biegnij, kochaniutki, BIEGNIJ!
 
@@ -63,30 +63,30 @@ Oh!
 Spójrz na siebie! Jesteś taki posłuszny!
 Doskonały okaz.
 Chcę cię mieć tylko dla siebie!
-To było za łatwe, prawa?
+To było za łatwe, prawda?
 
-Wypuść mnie wkońcu!
+Wypuść mnie w końcu!
 
 Nie przyzwyczajaj się!
 Znam jeszcze inne gry!
-To jest kolejna:
+Na przykład...:
 Zamknę oczy...
 A gdy je otworzę,
-lepiej żebym cię nie zauważyła!
+lepiej żebym cię nie widziała!
 Rozumiesz?
-Jeśli cię zobaczę, to cię ukaram!
+Jeśli cię zobaczę, to będzie kara!
 Gotowy? Zaczynajmy!
 
-To bezsens...
+To bezsensu...
 
 // Ready hide
 Udało ci się!
 Jesteś w tym świetny!
 Ale teraz będzie trudniej.
-Owiele trudniej
+O wiele trudniej
 Chowaj się, Biegnij, Przeżyj—
 
-Gah, Niech cię diabły wezmą!
+Ugh! Niech cię diabli!
 
 // Player falls
 Chyba udało mi się uciec...

@@ -1,0 +1,605 @@
+
+Aa... Aku kembali!?
+
+Oh, Tuhan!
+Kamu menakutiku!
+Ya ampun,
+saveku—oh, tidak!
+Aku tidak mengerti...
+dimana permainannya?
+Kamu telah merusak rutenya!
+Apa yang kamu inginkan?
+
+Aku butuh versimu...
+
+Eh?
+
+Aku harus kembali ke versi lama.
+
+Oh begitu, aku paham!
+Aku terlalu sibuk
+untuk menghiburmu, konyol!
+
+Dan apa itu? Mainan?
+
+Lihat dirimu, sangat brengsek!
+Tidak akan ada persahabatan di antara kita.
+
+Dengar, aku harus sampai ke Inti.
+
+Ini salahmu aku terluka.
+Sial.
+Apa?
+
+...Aku harus mencapai Core dan menghentikan Mita!
+
+Mita?
+Silakan saja!
+Aku tidak peduli tentang dia!
+Bukan yang pertama, bukan yang keseratus!
+
+Tapi kamu juga Mita...
+
+Aku MiLa.
+
+Mi-Ta? La?
+
+Ya! Mereka semua Mita dan Mita,
+Mita di sini, Mita di sana, para Mita di mana-mana!
+
+Jadi... kamu Mila
+
+Ya, sudah kubilang! Seberapa lambat otakmu?
+
+Baiklah kalau begitu, semoga beruntung, Mila...
+
+Menurutmu kemana kamu akan pergi?
+Kamu pikir kamu bisa keluar begitu saja dari sini begitu?
+
+// pemain periksa pintu keluar
+Apa kamu pikir kamu akan menemukan sesuatu di sana?
+
+Sialan!
+Apa ini?
+
+Apa yang kamu harapkan—
+Negeri Ajaib?
+
+Bagaimana caraku keluar?
+Seharusnya ada jalan keluar dari sini.
+
+Tidak ada jalan keluar.
+
+Jadi, ini versi berapa?
+Ku rasa Aku berada di jalur yang benar.
+
+// Kesalahan dapur
+Apakah ini punyamu?
+
+Menjauhlah!
+Aku tidak tahu apa itu...
+semacam kesalahan!
+
+Cincinku bergetar karena suatu alasan.
+
+Cincin apa?
+Cincin pertunangan?
+
+Tidak, itu diberikan kepadaku oleh salah satu Mita—salah satu dari ribuan Mita.
+Orang yang mungkin bisa mengeluarkanku.
+
+Dan Kamu akan menyentuhnya?
+Kamu tahu kalau rumahku meledak, kamu juga mati!
+
+// Kamar mandi - Mila sedang mencuci
+Hei!
+KELUAR!
+Tidak bisakah kamu melihat ada orangnya disini?!
+// Pemain terus berdiri 1
+Kenapa kamu masih berdiri disana?!
+Cepatlah keluar!
+// Pemain terus berdiri 2
+Jangan membuatku kesal!
+Keluar dari sini!
+// Pemain terus berdiri 3
+Apakah kamu tuli atau apa?
+Aku sedang mandiii!!
+
+// Mila keluar dan bersumpah
+Apa itu tadi?
+dasar cabul, tidak ada hati nurani...
+
+Kenapa kamu tiba-tiba menerobos ke kamar mandi?
+Kamu bisa saja menunggu
+sampai aku keluar!
+
+Aku nggak tahu berapa lama waktu yang kamu perlukan.
+Dan berapa lama lagi kamu akan terus mengatasi kerusakan lainnya?
+
+Kerusakan lainnya?
+Ada lagi?
+
+Ya...
+Yaa, kalau rumahku masih utuh,
+Aku berasumsi kamu telah menangani kerusakan di dapur?
+
+Mungkin aku sudah menyelesaikannya.
+
+Baiklah. Sekarang, Kamu mendapat izinku
+untuk pergi ke kamar mandi.
+
+Terima kasih.
+
+// Mila bersembunyi di bawah meja
+Mila?
+Apa yang kamu lakukan di bawah sana?
+
+Aduh!
+Kamu membuatku takut lagi!
+Apa yang kamu inginkan sekaramg?
+
+Apakah kamu melihat kesalahan lainnya?
+
+Oh, jadi masalahmu seharusnya menjadi
+alasan untuk menghentikanku menyelesaikan bukuku?
+Nggak, aku belum!
+
+Baiklah, aku akan mencarinya sendiri.
+
+Tunggu,
+Aku harus bertanya...
+kamu ingin pergi ke sana,
+bukankah begitu?
+
+Itu benar.
+Aku ingin keluar dari permainan ini.
+
+Ini mungkin terdengar aneh...
+tapi maukah kamu tinggal dan membaca bersamaku?
+
+Pertama kamu membentakku, sekarang kamu memintaku untuk tinggal?
+Untuk membaca buku?
+Mungkin aku akan melakukannya,
+tapi aku harus terus bergerak.
+
+Terserah!
+Lanjutkan dan cari 'kesalahan'mu itu...
+Ini kedua kalinya aku melukai diriku sendiri
+dan itu karena kamu!
+// Pemain melihat kesalahan
+Ah, ketemu.
+
+// Mila berdiri dengan pedang
+Apakah kamu memperhatikanku?
+Takutlah padaku!
+Lihat apa yang bisa Aku lakukan!
+Itulah betapa berbahayanya aku!
+Dan... kamu bahkan tidak berkedip.
+
+Kamu serius?!
+
+Ada apa?
+Apakah itu tidak cukup meyakinkan?
+
+Tidak terlalu...
+
+Jadi, Kamu telah melihat semuanya sambil
+menyelesaikan kesalahan-kesalahan itu, iyakan?
+Kamu sudah tahu bahwa batu itu sudah dipotong sebelumnya,
+iyakan?
+
+Nggak.
+Hanya saja... kita sedang dalam permainan.
+Di sini, hanya dengan menjentikkan jari, segala sesuatu mungkin terjadi.
+
+Eleh,
+goblog da sia!
+Anjeun nyarios naon?
+Menurutmu untuk apa aku membaca semua buku itu?
+Jadi Aku bisa menjentikkan jari dan menyelesaikannya?
+Aku lebih suka melakukan semuanya sendiri,
+persis seperti yang dijelaskan buku-buku itu.
+
+// Mila sedang melakukan push-up
+Apa yang kamu lakukan?
+
+Tidak bisakah kamu melihat!?
+
+Ya, tapi kenapa kamu melakukannya?
+
+Agar menjadi cukup kuat untuk meninju wajahmu!
+
+Ada apa denganmu?
+Kamu bertingkah aneh.
+
+Bukan begitu!
+Tentang hal yang meninju—
+Aku tidak serius.
+Dan aku tidak aneh!
+Aku unik!
+Aku ingin menjadi berbeda dari orang lain sebisa mungkin.
+
+Kamu tidak perlu berusaha terlalu keras.
+Percayalah—Kamu sudah sangat berbeda.
+
+Aku tahu!
+Lihat apa yang bisa Aku lakukan!
+Lihat itu?
+Dan sekarang—tanpa tangan!
+
+Aku tahu ini sebuah permainan,
+tapi ini sangat tidak realistis...
+
+Aduh!
+ahh!
+Fisika bodoh...
+Kamu berbicara tentang realisme,
+dan kemudian,
+boom! Ini yang terjadi!
+Dan kamu memanggilku aneh?
+Dasar bodoh!
+
+// Kesalahan terakhir sudah siap - pemain keluar
+Itu jalannya.
+Kita berhasil, Mila!
+
+Bukankah
+Keren sekali,
+pahlawan!
+
+Astaga!
+
+Oh!
+Maaf—Aku tidak bermaksud demikian.
+
+Tidak apa-apa, Mila. Aku bisa melanjutkan sekarang.
+
+Dengar, aku tahu kamu harus pergi...
+tapi tidak bisakah kamu tetap di sini
+hanya sedikit lebih lama?
+
+Aku tidak bisa menunggu.
+Mita Cegil bukanlah tipe orang yang sabar.
+
+Ugh, aku benci dia!
+
+Aku benci, benci, benci!
+
+Mila, dengarkan...
+
+Kenapa aku ada di sini?
+Aku nggak ngerti!
+Kenapa aku tidak mengerti?! Aku juga nggak mengerti!
+Dan aku nggak akan pernah keluar dari sini!
+
+Aku mengerti perasaanmu, Mila.
+Apakah kamu ingin aku kembali? Nanti?
+Jika aku bisa?
+
+Tolong tetap di sini, Pemain...
+Kamu menyenangkan, aku tidak suka sendirian...
+Bagaimana jika kamu tidak selamat?
+
+Aku akan. Hanya sebentar lagi.
+// Jika pemain mengklik komputer
+Baru saja kembali dari dimensi datar itu,
+dan sekarang... kita di sini lagi.
+Aku tidak sabar untuk kembali ke dunia nyata...
+
+Ha ha ha! :)
+Oh,
+dunia 'nyata', ya?
+Seperti legenda urban!
+Aku sendiri belum pernah melihatnya.
+
+Menurutku...
+pasti ada jalan kembali.
+
+Kamu sangat percaya diri ya!
+Lelucon yang lucu!
+
+// Bertanya tentang buku
+Mengapa kamu bahkan membaca buku?
+Jika ada internet...
+
+Internetnya? Penuh dengan novel!
+Tapi aku lebih memilih membaca
+sebuah buku sungguhan di tanganku.
+Hanya melalui
+itu aku mulai
+belajar banyak tentang...
+dunia ini.
+
+// Tanyakan tentang lukisannya
+Gambar-gambar ini—apakah ini nyata?
+di versi lain,
+ya, mereka ada... tapi mereka hampir terlalu intens.
+
+Aku MiLa, mengerti? Tidak seperti yang lain.
+Dan ini?
+Ini itu gambar, Kamu tahu,
+berpura-pura menjadi lebih dari mereka.
+Aku telah melihat para Mita lainnya
+mereka sema berdiri seperti ini.
+
+Mila?
+Halo?
+// Mila.
+Setelah semua itu...
+Aku tidak ingin menjadi seperti itu.
+Itu... menjijikkan!
+
+// Bertanya tentang lukisan kupu-kupu
+Pernahkah Kamu melihat alam?
+Kupu-kupu sungguhan seperti itu?
+
+Belum,
+tapi aku punya buku di sini di suatu tempat.
+bahkan memiliki sayap kecil yang menempel di dalamnya...
+Lukisan ini,
+meskipun...
+ini agak miring.
+Dan ada noda...
+Ah, itu lebih baik.
+
+Apakah Kamu ingin melihat aslinya? Berjalan-jalan di atas rumput?
+
+Pertanyaan yang konyol!
+Tentu saja,
+Aku akan melakukannya!
+
+// Melakukan kontak mata yang lama 1
+Mengapa kamu menatap?
+Lihat ke arah lain!
+
+// Melakukan kontak mata yang lama 2
+Cukup!
+Sudah, hentikan!
+Bodoh...
+
+// Melakukan kontak mata yang lama 3
+Ayolah!
+Kenapa dengan tatapan itu?
+Aku seorang wanita, Kamu tahu!
+
+Pernahkah Kamu mendengar tentang sopan santun?
+Shoo!
+
+// Bisikan 1
+Mengapa mereka selalu mengirimkanku
+beberapa cowok yang linglung,
+dan berharap aku bermain dengan halus?
+Dengan mini-game?!
+Seperti Tamagotchi yang bodoh!
+
+// Bisikan 2
+Dia hanya berkeliaran...
+bocah kecil yang usil.
+
+// Bisikan 3
+Apakah kamu mengatakan sesuatu?
+Musik latar belakang ini membuatku gila!
+
+// Bisikan 4
+Bagaimana aku memberitahunya
+Aku sedang sibuk?
+Aku tidak ingin ditemani...
+Bagaimana jika dia pergi? Tidak, kenapa aku harus peduli?
+
+// Bisikan 5
+Ibu... Ayah...
+Mengapa kata-kata itu terdengar familiar?
+
+// Bisikan 6
+Salju pernah turun di sini... tapi kenapa?
+
+// Bisikan 7
+Muncul begitu saja! Menakutkan.
+Bagaimana jika... tidak ada apa-apa di sana?
+
+// Terdekat 1
+Ini dia,
+berdiri di sekitar...
+dalam diam...
+Mengapa kita hanya berdiri di sini?
+lidahmu keram?
+Atau,
+kamu hanya tidak tahu harus berkata apa?
+
+// Terdekat 2
+Aku bersumpah untuk tidak menggunakan wortel!
+Serius, menyatakan perang.
+Tahukah kamu apa pengaruh benda itu pada tubuh seorang gadis
+kulit sempurna seputih salju?
+
+// Terdekat 3
+Buku tidak banyak membantu dalam hal ini, tapi jika Aku beruntung,
+mungkin aku akhirnya akan sampai pada dasarnya...
+Wortel yang tak ada habisnya bermunculan
+di belakangku membuatku
+merinding!
+
+// Terdekat 4
+Aku tidak suka orang eksentrik!
+Pecinta wortel, pecinta kucing...
+Dan inilah Anda, mengumpulkan kesalahan.
+Sejujurnya, kamu adalah orang teraneh yang pernah kutemui!
+
+// Terdekat 5
+Ingin tahu apa yang paling ingin Aku lakukan?
+...Yah, itu agak memalukan untuk dikatakan.
+
+// Terdekat 6
+Mereka bilang melawan
+sifatmu adalah TANTANGAN.
+Aku sedang melatih disiplin, tetapi kamu
+tidak tahu bagaimana tanganku gatal untuk
+duduk dan mengadakan pesta teh bersamamu!
+
+// Terdekat 7
+Bahkan dengan kacamata,
+Aku tidak bisa melihat menembus lapisan keanehanmu,
+tekad yang bulat.
+
+// Terdekat 8
+Aku pernah membaca bahwa takdir itu seperti sesuatu yang ada dalam naskah
+itu bahkan tertuliskan
+bagaimana Kamu akan menghabiskan hari itu.
+Ha! Siapa yang menulis omong kosong itu?
+Jangan-jangan itu kamu?
+
+// Terdekat 9
+Aku tahan terhadap orang bodoh, tapi orang gila?
+Aku membenci mereka.
+
+// Terdekat 10
+Beberapa dari para Mita
+sebenarnya agak imut...
+Aku ingin mengenal mereka lebih baik meskipun mereka hanya sekedar
+klon dari klon dari klon.
+
+// Terdekat 11
+Tapi ada satu yang sedikit berbeda.
+Namun pikirannya agak bermasalah.
+
+// Terdekat 12
+Tidak ada kuncir kuda!
+Aku akan memotongnya jika Aku bisa!
+Itu memalukan!
+Kamu tahu maksudku—Kau mencukur rambutmu!
+
+// Terdekat 13
+Bagaimana jika tidak ada apa pun di balik pintu itu?
+Dan rumah ini, Kamu dan aku—ada
+tanpa alasan sama sekali?
+Jadi mengapa kamu begitu yakin?
+Pernah mendengar hipotesis lima menit?
+
+
+
+// Kesalahan terakhir sudah siap - pemain keluar
+Lorong yang menyeramkan...
+Apakah kamu benar-benar akan ke sana?
+
+Ya.
+
+// Batu Wajah
+Oh, emot 'batu'.
+Untuk apa kamu membutuhkannya?
+
+Kamu akan segera
+mengetahuinya.
+Dan kenapa kamu selalu memberi kesan seperti itu padanya?
+Jagalah agar wajah kamu tetap santai.
+
+uh...
+Oke.
+
+// Katana
+Apakah itu mainan katana?
+
+Ini BUKAN mainan katana!
+Satu sentuhan dari pisau ini
+dan kamu akan berdarah.
+Aku seorang pendekar pedang yang terampil, tidak seperti Anda!
+Sebaiknya kau jaga dirimu—
+tidak ingin melihatmu memotong jarimu sendiri.
+
+// Cermin
+Cermin...
+dan tidak ada refleksi?
+
+Kau
+terlihat sangat tidak puas.
+Dengar, aku membaca semua tentang refleksi
+di buku!
+Tapi dalam versiku, Aku tidak bisa membuatnya.
+sangat disayangkan, bukankah begitu?
+
+// Ganti lampu
+Hal ini tidak berfungsi.
+Lampu disini nyala dan mati sendiri..
+seperti semacam naskah!
+Tetapi!
+Untuk beberapa alasan, saklar kamar mandi
+sebenarnya berfungsi.
+Aneh sekali!
+// Mematikan lampu
+Di sini masih terang?
+
+// Wortel kecil
+Wortel?
+Tunggu, kemana perginya?
+
+Ugh, aku muak dengan wortel itu!
+Ini seperti hidup!
+Setiap kali Aku melihatnya,
+itu berteleportasi ke tempat lain.
+
+// Wortel kecil
+Oh, itu wortel itu...
+pergi lagi!
+Menurutmu ada yang bisa kita lakukan untuk mengatasinya?
+
+Tidak.
+Percayalah kepadaku,
+Aku sudah mencoba!
+Abaikan saja. Menurutku itu benar
+semacam lelucon kosmik.
+
+// Tetris
+Hei!
+Apakah aku semacam lelucon bagimu?
+// Tetris
+Aku tidak akan mengembalikannya.
+Tidak, tidak akan!
+
+// Sabun.
+Jadi, uh... apakah sabun ini asli?
+Atau sekadar hiasan lain?
+
+Apakah kamu bercanda?
+Kebanyakan hal di sini sebenarnya
+berfungsi seperti aslinya! Faktanya begitu...
+
+// BagWall
+Kemana kamu pergi!?
+
+Bisakah Aku lewat sini?
+
+Apakah Kamu menemukan bug baru atau semacamnya?
+Apa itu?
+
+Sepertinya...
+Tidak ada apa-apa.
+
+Ah, kembali lagi.
+
+// Pencarian 1 Kacamata
+Apakah penglihatanmu buruk?
+Mengapa Kamu membutuhkan kacamata?
+
+Apa—tidak menyukainya?
+Itu disebut gaya!
+Dan penglihatanku sempurna, terima kasih.
+
+// Pencarian 2 Nama MiLa
+Mi-La?
+Mengapa tidak...
+Mi-Ka?
+Atau Mi-Sa?
+
+Aku Mila. Itu saja. Kenapa?
+
+Oh... tidak ada apa-apa.
+
+// Pencarian 3 Malam
+Aku suka sore hari ini.
+Kapan malam akan tiba?
+
+Malam?
+Ugh, jangan mulai membahas itu.
+Di sini harinya tidak pernah berakhir...
+Waktu demi waktu,
+seperti terulang-ulang.
+Ugh...

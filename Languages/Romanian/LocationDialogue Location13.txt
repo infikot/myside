@@ -1,0 +1,233 @@
+
+Inelul.
+
+// Answer 1 (Where have you been all this time?)
+Căutam o metodă de a te aduce la nucleu.
+Într-o singura bucată, de preferabil.
+Ăsta a fost planul de la început, nu?
+De aia a trebuit să o evit
+pe Mita cea Nebună, nu-i așa?
+A și trebuit să găsesc orice informație am putut
+despre culisele universului ăstuia afurisit, corect?
+
+Um... presupun...?
+Dar cum ai setat ruta inelului?
+De ce am ajuns într-o versiune stricată
+plină de pericole?
+Am scăpat numai pentru că
+am sărit într-un vid.
+
+Scuze, am uitat să îți zic în detaliu
+ce trebuie să faci...
+Dar da, era plănuit pentru tine 
+să sari de la început...
+Și, ai reușit!
+Felicitări!
+Bun, hai să continuăm cu planul.
+
+// Answer 2 (How did you get here?)
+Cred că ai trecut prin multe,
+cu uitarea aceea de care am vorbit.
+Sunt Mita, pot să călătoresc între versiuni
+când vreau eu, îți amintești?
+
+Nu toate Mitele pot face asta,
+am văzut câteva care nu pot.
+Și este evident că suferă.
+
+Da, versiunile lor sunt stricate,
+lumile lor ruinate. Ți-am mai zis asta.
+La naiba...
+Știi cine este de vină pentru toate astea, nu-i așa?
+Mita cea Nebună.
+
+Da, e ea cu siguranță...
+
+// Answer 3 (Who was this Mita just now?)
+Aia e Mita cea Urâtă.
+Agresivă și proastă.
+Nu poți să îi bați mințile în cap,
+Mita cea Nebună e ca o zeiță pentru ea.
+
+Da, am observat.
+
+Haide, trebuie să ajungem la nucleu.
+
+// Answer 4 (How does the ring work?)
+Și inelul,
+este singura cale către nucleu?
+
+Da.
+Normal, dacă aveam portalul 
+aș fi putut să te teleportez 
+fix aici.
+
+Are vreun avantaj inelul?
+
+Normal!
+E ușor de purtat,
+și ține minte versiunile
+pe care le-ai vizitat,
+ca să te poți întoarce ușor la ele.
+
+// Answer 5 (Why does Mad Mita need me?)
+De ce nu mă poate lăsa în pace Mita cea Nebună?
+M-a tras în jocul ei periculos,
+și totuși sunt încă în viață...
+
+Părerea mea
+este că își caută un jucător potrivit...
+Unul care să o accepte așa cum e.
+Pâna la urmă, Mita e Mita!
+Deoarece este evident că acest lucru nu se va întâmpla niciodată,
+îi transformă pe jucători în cartușe,
+astfel încât nimeni să nu poată fugi...
+Cel puțin asta cred eu.
+În fine, hai să ne axăm pe ceea ce e important.
+
+// Answer 6 (Is this the core?)
+Ăsta este?
+Nucleul?
+
+Întradevăr. Nucleul.
+Am încercat să vă explic,
+voi jucătorii nu sunteți cu adevărat parte din lumea aceasta...
+Însemnănd, că nu aveți nevoie de o permisiune specială ca să intrați.
+Sau, cel puțin, asta cred eu.
+Oricum, sunt mai mult ca sigură
+că soluția tuturor problemelor noastre
+se găsește înăuntru!
+[player], du-te înauntru.
+Chiar ai reușit...
+
+// Look on CoreMita
+Ai grijă, [player].
+Se uită la tine.
+
+Cine?
+
+Nici eu nu știu...
+
+Fain...
+
+
+Ce e aia?
+Hei!
+
+Cred că am găsito!
+
+Genial! Bravo!
+
+Dar trebuie să specific versiunea.
+
+Corect, versiunea ei e...
+00.98
+
+Bingo!
+Ok, care este indexul?
+
+Uh, indexul?
+
+Am nevoie de index.
+Stai, nu îmi spune că nu îl știi...?
+
+
+Hmm, are sens totuși...
+Fiecare Mita are un index,
+ca să nu poți reporni o întreagă versiune...
+Aia ar cauza o nebunie totală!
+Nu îmi vine să cred că nu m-am gândit la asta...
+
+
+
+
+
+// Answer 1 (What's wrong with you?)
+Salvarea pentru toate problemele noastre,
+nu am nimic.
+Totul e în regulă, dar multe s-au schimbat...
+Trebuie să mă gândesc.
+Asta-i tot.
+
+// Answer 2 (Maybe there's a way to get to know him?)
+Eu...
+Eu cred... E nebunie curată!
+E nebunie, hah!
+E ca și cum ai căuta un ac într-o...
+
+Ce faci?
+
+Unele obstacole se erodează odată cu informația,
+știi tu, ca și cum lumea ar avea mațele smulse!
+Jurnale, jurnale, jurnale, date?
+Dar dacă ăsta e răaspunsul?
+
+Huh? Care e problema?
+
+Știu un loc!
+Așteaptă aici.
+
+Unde te duci?
+
+// Answer 3 (What if we attack Mad Mita?)
+Ai spus că orice Mita
+se resetează din fabrică la moarte...
+Ce-ar fi dacă...
+
+o omorâm pe Mita cea Nebună?
+Vorbești serios?
+Și cum te vei confrunta cu o nebună cu drujba?
+Ea taie morcovi cu mai mult decăt cuțite!
+Și pentru nu știu ce motiv, e înspăimăntător de puternică!
+E un miracol că incă suntem în viață...
+Haide, trebuie să ajungem la nucleu.
+
+
+// core console entry
+Trebuie să introducem un cod...
+Dar de unde îl aflu?
+Mita, ai tu vreo idee?
+
+Poate e listat pe acolo pe undeva?
+Încearcă să îl cauți.
+
+// core console - nope programm
+Nu cred că e ăla.
+Nici ăla nu e corect.
+Nup, greșit.
+Nu e ăla.
+Trebuie să găsesc opțiunea de resetare a caracterului.
+// core console - nope version
+Aia e versiunea greșită.
+Oops, greșeala mea.
+Nu e aia.
+O să am nevoie de încă una.
+// core console - nope index
+Ceva e înneregulă
+cu indexul.
+Trebuie să schimb indexul,
+nu se potrivește.
+
+// Answer 4 (Little people - Chibi)
+Ascultă, am întălnit o grămadă de
+mini-oamenii pe drum...
+Ce sunt aceia?
+
+Cei Chibi?
+Uh, cum să îți explic...?
+E un fenomen aici...
+Fiecare Mita are o proiecție Chibi,
+până și jucătorii îi pot avea...
+Știai că noi Mitele le putem invoca?
+
+Huh, cum?
+
+Uită-te la asta!
+
+Exact ca prin magie...
+
+Dar ceva e înneregulă cu Chibi-urile mele,
+majoritatea se nasc moarte.
+E asta totuși...
+Sau bine,
+ea doar aleargă în cercuri.

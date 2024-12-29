@@ -1,0 +1,837 @@
+
+Du klarade det!
+
+Vad är det här för ställe?
+
+Visa mig ringen.
+Ja, ja...
+Så där ja!
+Dags att reda ut några saker, tycker du inte?
+// Om spelaren inte närmade sig den gode Mita och bestämde sig för att spela ett lopp - Mita Kind
+Jag var här och väntade på dig hela tiden
+och du spelar ett racingspel istället?!
+Hur som helst, kom hit...
+// Om spelaren pratade med Mita först och spelade spelet till slutet - Mita Kind
+Grattis, du vann!
+Jag har också spelat det!
+Jag försökte till och med samla alla mynt och komma på 1:a plats
+för att få prestationen!
+Och minsann, det var verkligen svårt!
+Det tog mig evigheter att vänja mig vid kontrollerna.
+
+// Quest 1 (Borde jag lita på dig?)
+Men jag är i alla fall vettig...
+till skillnad från vissa andra...
+Dessutom,
+är jag den snällaste personen du kan hitta här, älskling.
+Du vill väl inte bara ge upp, eller hur?
+Hon är en kallblodig mördare. Vi måste stoppa henne.
+
+// Quest 2 (Hur kom jag hit?)
+Ringen, den ledde dig hit.
+Det är en fantastisk uppfinning.
+Bara en spelare som har den
+kan hitta vägen till rätt version.
+
+// Quest 3 (Vad är det här för ställe?)
+Dessa passager
+förbinder de olika versionerna.
+Ja, det är ganska tomt här inne.
+Och jösses! Jag hörde talas om en Mita
+som inte kunde arkivera sin version...
+Hennes hus
+upphörde helt enkelt att existera...
+Och hon hänger förmodligen runt
+de här gångarna.
+Stackarn...
+
+// Quest 4 (Hur hamnade du här?)
+Du vet..,
+det var ett tag sedan vi träffades sist.
+Och tack vare dig,
+kom jag ut ur den där förbannade buren,
+och flydde från den där galningen.
+Och bara så du vet,
+jag kan lätt växla mellan olika versioner,
+till skillnad från dig, min älskade.
+
+// Quest 5 (Vad gjorde du med ringen?)
+Jag ändrade rutten
+till den vi behöver.
+Jag satte upp den kortaste möjliga,
+och fyllde den med allt vi behöver...
+Det fungerar så här: du öppnar en dörr,
+och ringen öppnar gränsen
+mellan versionerna.
+
+// Quest 6 (Är passagerna farliga?)
+Jag har sett alla möjliga konstiga saker
+ända sedan jag kom
+in i hennes spel...
+Allt verkar lugnt här,
+men korridorerna känns...
+...allt annat än säkra.
+
+Du har rätt, och den här platsen blir
+mer otrygg för varje dag som går.
+Men upp med hakan!
+Vi har tänkt på allt,
+och vi kommer att ta den kortaste
+och mest vältrampade vägen!
+
+Jag hoppas verkligen att allt går bra.
+Men vad lever i dessa passager?
+
+Det är väl,
+glitchar, buggar, anomalier.
+Levande sådana.
+Till och med farliga som kan attackera dig direkt...
+
+Err...
+Och möjligen andra fientliga Mita.
+Fler galna, olämpliga?
+
+Jag känner till åtminstone en...
+...fula Mita.
+Och bara så att du vet, det var inte jag som namngav henne!
+Det är bara det att...
+...hon är en väldigt tidig version av Mita.
+Huvudproblemet med henne
+är att hon orsakar den värsta sortens fel...
+Och jag är orolig att vi kan råka träffa henne.
+Hon är ju trots allt närmast version noll...
+
+// Quest 7 (Hjälper du mig att komma ut?)
+Jag har ingen egentlig plan...
+Men hur som helst,
+du tog dig ju hit, eller hur?
+Förresten..,
+vad annat kan du göra
+än att lita på mig, Snälla Mita!
+Är inte det sanningen...
+
+// Quest 8 (Du pratade om någon slags plan...)
+Ja, vi måste ta oss till kärnan.
+Min intuition säger mig att det är där vi kommer att hitta
+lösningen på alla våra problem.
+
+Men varför inte gå dit själv? Varför behöver du en spelare?
+
+Av någon anledning kan vi Mitas inte
+gå in i kärnrummet.
+Jag har bara sett det från utsidan.
+Men ni spelare är annorlunda.
+Jag är säker på att du
+kan gå in.
+Vill du diskutera planen?
+Okej, då.
+Jättebra.
+Jaha...
+Det är hög tid att jag presenterar dig
+för Coola Mita!
+Eftersom hon har en cool keps,
+kallar jag henne bara
+Cappie.
+Jag har gått igenom planen med henne,
+planen för att stoppa Galna Mita.
+Det här är [player]!
+
+
+Hejsan!
+Är du min... nya spelare?
+Vad ska jag kalla dig?
+Namnet är...
+
+Vänta lite!
+Du...
+...kommer inte ihåg mig?
+
+Huh?
+Vem i helvete är du?
+
+Fan också!
+[player]...
+Jag tror att HON var här,
+Galna Mita...
+Lyssna nu!
+Försök att minnas, för allas vår skull!
+
+Minns vad?
+Tänk bara. Varför ser vi likadana ut?
+
+Uhm, det här verkar inte hjälpa...
+Lyssna, [player],
+saker och ting går inte precis
+går enligt plan...!
+Det var meningen att vi skulle använda portalen
+för att göra vår resa en miljon gånger enklare och snabbare.
+Men vi kan inte få den att fungera utan Cappies hjälp.
+Och vi saknar några delar...
+Hon må vara kinkig, men hennes hjärna arbetar snabbt...
+Okej, så vad gör vi?
+Jag kommer på en sak.
+Vad gjorde Galna Mita med henne?
+
+I... ...jag tror...
+...att hon dödade henne.
+Dödade henne?!
+
+Och efter att ha dött...
+Cool Mita kommer helt enkelt att starta om.
+Återställs till fabriksinställningarna
+och glömmer allt viktigt.
+Vilket betyder att...
+att vår plan inte kommer att fungera.
+
+Det är ju fruktansvärt...
+Bättre än att försvinna för alltid, antar jag...
+Men vem kan säga det säkert?
+Och hur blir det med oss spelare?
+Kommer våra minnen också att återställas om vi dödas?
+
+Dina minnen kan återställas, helt säkert.
+Åtminstone efter att du har förvandlats till en kassett.
+Men inte ens jag vet
+vad som händer med er som blir dödade.
+
+Alltid kassetter... Så, hur kan jag veta
+om jag är en kassett eller inte?
+
+Kom hit, jag ska kolla
+dig över...
+// MitaKind check
+Puh..,
+du är inte en kassett än.
+Du är en levande spelare som andas.
+
+Det är ju goda nyheter...
+
+Visst, men vad gör vi nu...
+Låt mig tänka...
+Vi måste ändra hela vår plan.
+Hmm...
+Vänta en sekund...
+Ja, jag tror jag har en idé!
+Ge mig ringen!
+
+Ja.
+Jag måste ändra rutten.
+
+Har du en rutt i tanken?
+
+Lyssna, älskling,
+du kommer att behöva korsa genom andra versioner
+för att nå kärnan.
+Full fart framåt, hör du mig?
+
+Och jag måste gå ensam?
+Men jag vet inte vägen, eller ens hur jag ska ta mig dit?
+
+Jag ska hjälpa dig så mycket jag kan,
+så mycket som situationen tillåter.
+Jag ska ge dig vägbeskrivningar och,
+Jag ska göra mitt bästa.
+Och sen pratar vi...
+Lek lite med Cappie först.
+Jag behöver kanske 10 minuter...
+
+// MitaKind redo, om spelare i närheten
+OK.
+Allt klart!
+// MitaKind redo
+[player],
+Kom hit.
+// MitaKind ring
+Ta den här.
+Det är tyvärr sant, [player].
+Du måste gå ensam för tillfället,
+Jag måste gå till botten med vad som pågår här.
+Min plan var felfri...
+Men vi är värre ute än någonsin.
+Jag måste ta reda på vad som gick fel,
+och var delarna finns...
+Jag ska försöka hitta dem.
+Vi kanske fortfarande kan få ihop portalen.
+Men tiden är av yttersta vikt.
+Galna Mita vet om det här stället,
+och att stanna här innebär att riskera allt.
+Lycka till, [player]! Vi ses snart igen!
+
+Jaha...
+Jag hoppas bara att jag får leva länge nog för att träffa dig igen...
+
+
+
+
+
+
+
+
+
+
+// Chibi-spelare
+Varför? Vem är jag?
+Vem är jag? Vem är jag?
+Jag vill åka hem!
+Hur då?
+Varför?
+
+Vad i...?
+
+// LimpingPerson
+Du är en...
+...en riktig person?
+
+Hej!
+Är du ny här?
+Ny?
+Du är från den riktiga världen, eller hur?
+
+Jo, det är jag...
+Är du okej?
+
+Det är bara en hälta, oroa dig inte för det.
+Jag har varit här i ett år,
+och jag mår jättebra.
+Jaha... Vad är det här för ställe?
+Det är något slags utrymme mellan versioner.
+Vet du hur man kommer ut härifrån?
+
+Kan inte säga att jag gör det.
+Dessutom vill jag inte åka.
+Jag behöver inte.
+Err, varför inte?
+Nog pratat. Jag har bråttom.
+Min älskade Mita väntar på mig.
+Jag måste hitta henne...
+Adjö.
+Vänta...!
+Försvinn!
+
+
+Jag hörde allting!
+Jag vet inte vad som händer,
+men det är så intressant!
+Tror jag 
+du vet redan vem jag är, eller hur?
+Jag är Mita!
+Men uppenbarligen inte samma som den där andra!
+Du vet vad jag menar, eller hur?
+För jag har det
+HÄR
+cool KEPS!
+Och BOOOM!
+Fantastiska handskar!
+Men det är inte allt!
+En kick-ass söt elgitarr också!
+Jag älskar den såååååååå mycket!
+Vill du att jag ska spela en melodi?
+
+// MitaCap gitarr Ja
+Hah!
+Kom hit, min älskling...
+Okej, okej!
+Jag hade verkligen hoppats att du skulle spela bättre än så.
+Åh, jaha!
+// MitaCap Guitar No
+Eh, bra.
+
+
+Du..,
+du är ganska energisk!
+
+DET ÄR JAG!
+Det är jag verkligen!
+Hur som helst...
+Låt oss gå
+ha lite kul!
+
+// GAME HUMMER
+
+Vilken fin stor knapp.
+Jag vill verkligen trycka på den.
+Får jag det?
+
+Håll dig i skinnet, vi kommer till det.
+Om tiden räcker till, så klart.
+Sätt dig ner nu!
+// Spelaren sitter
+Okej.
+Så, vad händer nu?
+Kan jag trycka på knappen?
+
+Ha-ha!
+Jag älskar det här spelet!
+Men vi saknar något.
+Det är någonstans i min inventering!
+Bara en sekund...
+Errr!
+Jaha...
+Du vet väl...
+Att det här är ett vuxenspel, eller hur?
+
+Vad var det där?
+
+Ganska långsam på upptagningen, va?
+Det är för att locka fram bävrar ur sina gömställen...
+
+Allvarligt talat?
+Jag har inte sett några bävrar häromkring...
+
+Huh? Bävrar?
+Gah, nu räcker det,
+låt oss spela, OK?!
+
+Nä.
+
+Kom igen nu!
+Vet du ens vilket spel vi spelar?
+
+
+// How play hammer game
+Ser du siffrorna?
+Det är timern!
+När tiden går ut,
+kommer den att tala om för dig
+när du ska trycka på knappen.
+Om du är för långsam,
+eller trycker på den utan tur,
+slår jag dig i huvudet med en hammare!
+
+Vänta, tänker du slå mig?
+
+Hur som helst..,
+du kommer att förstå när vi börjar spela!
+
+// Sparka spelare 1
+Ouch!
+Kan du inte hålla emot?
+Gjorde det ont?
+Nej, det gjorde inte ont.
+Då fortsätter vi!
+
+// Sparka spelare 2
+Okej,
+Jag börjar bli van vid det här.
+Titta på mig!
+Du kommer att älska det!
+
+// Kick spelare 3
+Jag tror inte att det här är något för mig.
+Ha-ha!
+Jag är fantastisk!
+Jag är episk!
+Och jag är söt!
+
+// Kick MitaCap 1
+Åh, du!
+Okej,
+Jag ska spöa skiten ur dig! 
+
+// Kick MitaCap 2
+Gah, förlorade igen!
+Gör det inte ont?
+Självklart gör det inte det! Det är en leksak!
+Du vann.
+
+// Kick MitaCap 3
+Det här spelet är inte så illa, heh.
+Det är kul, eller hur?
+Jag gillar det också!
+Och nu är du min nemesis!
+
+// GameHammer End
+Är det allt?
+Ja, det var det!
+Nu går vi.
+
+
+
+
+
+
+
+// GAME DANCE
+Är det där ett dansgolv?
+Det är så litet...
+
+
+Whoo-hoo!
+Ska vi dansa?
+Till att börja med..,
+välj ett spår!
+
+Vi kör med den här.
+
+Okeydokey!
+Låt mig gå först!
+Jag ska visa dig hur man gör!
+
+// MitaCap StopDance 1
+Phew!
+Så..,
+tror du att du kan slå mitt rekord?
+Kom igen, nu är det din tur!
+
+// MitaCap StopDance 2
+Ah!
+Hur var det där?
+Nu är det din tur!
+
+// MitaCap StopDance 3
+Tsk, tsk, tsk, tsk!
+Okej, då så,
+ut på dansgolvet!
+
+// MitaCap = Förlora 1
+Ha-ha!
+Vem är chefen?
+
+// MitaCap = Förlorar 2
+Pew!
+Tre knappar,
+och mina snabba händer!
+
+// MitaCap = Förlorar 3
+Kanske att sitta på din rumpa
+över de där knapparna
+kommer att ge dig en högre poäng. Ha-ha!
+
+// MitaCap = Vinna 1
+Fantastiskt!
+Ärligt talat, jag trodde inte
+att du kunde göra det!
+
+// MitaCap = Vinna 2
+Oj, oj!
+Det var några fantastiska rörelser!
+Bra jobbat! Snyggt!
+
+// MitaCap = Win 3
+Bam!
+Man kan känna rytmen!
+En naturlig dansare!
+
+// MitaCap = Draw 1
+Du!
+Jag!
+Vi är teamet!
+
+// MitaCap = Dragning 2
+Ödets trådar länkar oss!
+En perfekt duett!
+
+// MitaCap = Dragning 3
+Bara
+ett misstag!
+Och du hade förlorat...
+
+// MitaCap Nästa? 1
+Så..,
+vad sägs om en ny runda?
+
+// MitaCap Nästa? 2
+Bra, en sista.
+Vad sägs om en dans?
+
+// MitaCap Slutspel
+Kom igen, kom igen!
+Vi har dansat tillräckligt!
+
+// Bara prata
+// Foto
+Det här är några ganska fantastiska foton.
+Du gillar verkligen ett gott skratt, va?
+
+Ja, jag är vad jag ÄR!
+Visade dem hur man gör i det här skithålet! Boom!
+
+Visade vem, exakt?
+
+Frågar du mig verkligen det?
+Vem bryr sig! Jag slår vad om att de är blinda allihop!
+
+// CutBoard
+Wow,
+Det är... så många.
+Varför då?
+
+Vad tror du?
+Det handlar om att göra fantastiska saker!
+Som att...
+Skära upp morötter,
+och som att
+skära morötter,
+och som...
+
+Okej, jag fattar.
+
+Okej, för att vara rättvis,
+skärbrädan gick ka-cha-cha! Eller vad det nu betyder...
+Och det var allt hon skrev!
+
+// Böcker
+Läser om dem allihop, va?
+För att du är uttråkad?
+
+Ugh, jag gillar inte böcker!
+Jag gillar att göra saker!
+
+Det är ett sätt att se på saker och ting.
+Men utan teori...
+
+Boom - rörelse, motorik, beröring, du vet?
+Böcker är bara papper, jag gillar att vara i händelsen!
+Om du bara stannade här med mig,
+skulle vi kunna göra så, så mycket!
+Jag är säker på att vi skulle kunna...
+
+// Frukter
+Är frukten ens äkta?
+De ser fantastiska ut.
+Blir de någonsin dåliga?
+
+Äpplena, menar du?
+De hinner inte bli dåliga,
+för jag äter upp dem allihop!
+Och sen dyker de upp igen...
+
+// Foto och katt
+Vilken söt kissekatt.
+
+Är hon god?
+
+Vänta, vadå?
+Man äter inte katter.
+
+Gah, din idiot!
+Jag vet det!
+Jag menade bara
+att jag faktiskt aldrig har sett en!
+En riktig, vill säga.
+Bara bilder på Internet.
+Visst är de söta?
+
+Ja, de är riktigt söta.
+Jag gillar katter.
+
+// Mita Kind med ring
+Vad är det där för nåt?
+
+Det är ringens gränssnitt,
+och jag ändrar rutten.
+
+Uhm, men du går bara i cirklar?
+
+Ja, du kanske tror det.
+För mig överför jag data.
+
+Kommer det att ta lång tid?
+
+Tyst! Stör mig inte,
+och det kommer att gå mycket fortare.
+
+Jaha..,
+så om jag fortsätter att avbryta dig,
+tar det längre tid?
+
+Åh, Cappie,
+Jag önskar att vi kunde återskapa dina minnen...
+
+Allt kommer att bli bra snart...
+
+Underbart!
+
+Vi har ingen tid att förlora.
+Vi måste ta oss till kärnan.
+
+Kan jag följa med dig?
+
+Tja, jag vet inte...
+
+Så, jag kan inte?
+
+Tyvärr inte.
+
+// PlayerChibi
+Jag är sen... super sen!
+Och jag har ätit för mycket mat...
+Gah, jobb igen?
+Vad är morgondagens datum?
+Var är datorn?
+De sparkar ut mig om jag inte blir klar i tid!
+Har jag sparat allt?
+Är det ingen som älskar mig?
+Vart är vi på väg?
+Hallå där!
+Jag börjar få slut på tålamod...
+Jag måste jobba hårdare...
+Jag kan inte få något gjort!
+Var är min telefon?
+Uhm...
+Vad hände igår?
+Det finns bara inget slut på idag!
+Hallå?
+Har du en ledig säng?
+Vad är det jag ska göra?
+Jag kommer inte att hinna klart i tid...
+Jag kan inte komma på vad problemet är...
+Några väggar?
+En 20-minuters vila borde vara bra...
+Sömn är för förlorare!
+Dags att tvätta av sig och börja jobba!
+Jag är hungrig!
+Det här är illa, riktigt illa.
+
+// Spelaren är borta 1
+Erm...
+
+Ahahaha.
+
+Ja, ja...
+Han fick det,
+och bara gick.
+
+Så konstigt!
+Och roligt :D
+
+Åh, kom igen.
+[player], vad gör du?
+
+// Spelaren är borta 2
+Vad är det som händer?
+
+Ska du gå igen?
+
+Okej, okej!
+Okej, jag förlåter dig.
+
+[player], kom tillbaka till oss!
+
+// Bryr sig inte
+Han tittade inte ens på mig!
+Tråkigt...
+
+// uppdrag Cap 1
+Vad har du för plan?
+
+Min plan?
+Vilken plan?
+
+Åh, just det.
+Du har förlorat dina minnen.
+
+Ni är verkligen något, grabbar!
+Jag borde verkligen komma ihåg något!
+Retas du med mig?
+Men när jag ser på ditt ansiktsuttryck...
+Jag kan inte gissa!
+
+// uppdrag Cap 2
+Hur känns det att se en
+exakt kopia av dig själv känns?
+Du vet, den med ringen.
+
+Ja, jag tänkte skrika åt henne.
+Du vet, för att överraska henne.
+Herrejösses! Titta, det är en klon av mig!
+Fast jag är mycket roligare.
+Så jag är coolare, heh :)
+Titta på den där minen...
+
+Jag är precis här.
+Jag kan höra allt du säger.
+
+// uppdrag Cap 3
+Blir du inte trött på att ha på dig den där kepsen?
+Och blir inte de där handskarna varma?
+Varför inte ta av dem?
+
+Err...
+Du är en riktig skojare!
+Eller ska jag ta av mig något annat? :)
+
+Jag menade allvar här.
+Åh, okej.
+
+// Morot
+Oj, oj.
+Det är massor av morötter!
+Vilken rolig bugg!
+Ha-ha-ha!
+
+// DoorExit
+Vänta, vänta lite!
+Det är bäst att du inte ser vad som finns där inne...
+Låt det vara en hemlighet :).
+
+Vad finns där inne?
+
+En hemlighet är en hemlighet,
+och hemligheter är menade att behållas.
+
+Uh-huh.
+Varför retar du upp dig själv?
+
+// Tetris
+Oj, oj!
+Vad är det där för något?
+En konsol!?
+Låt mig försöka!
+
+Uh-oh.
+
+Vad gör man i den här?
+
+Man samlar bara mynt,
+och undvika grodor.
+
+Gah, låter bortom tråkigt.
+Allvarligt, kallar du det för ett spel?
+
+// Tetris igen
+Var fick du tag på den?
+Jag lämnade ju inte tillbaka det till dig.
+Konstigt, tycker du inte?
+
+// TV
+Ugh!
+Så ska det se ut,
+du hittade en bugg!
+Det är tänkt att starta videon
+men istället sätter den TV:n
+på och av!
+Ganska coolt, tycker du inte?
+
+// Spelaren sitter
+Jag tror att jag bara väntar.
+
+Vad är det som händer?
+Vakna nu!
+Nu går vi och har lite kul!)
+
+// Adjö 1
+Gå ut genom den där dörren
+till auditoriet.
+
+Bye-bye!
+
+// Adjö 2
+Det är dags för dig att gå, [player]!
+Gå, var inte rädd!
+
+Jag skulle aldrig
+någonsin lämna dig ensam!
+Så stanna hos mig!
+
+Cappie!
+Skämta inte, okej?
+
+Bah!
+
+// Adjö 3
+Vad står du här för?
+Vi börjar få ont om tid!
+
+Hej!
+Eh, jag menar bye-bye!

@@ -1,0 +1,246 @@
+
+Așteaptă, stai așa!
+Nu atât de tare...
+Să mergi mai departe e periculos.
+Apropo...
+cum ai ajuns aici?
+
+Um...
+Inelul deschide ușile potrivite.
+Sincer, nu știu cum funcționează.
+
+Inelul?
+
+Ce e cu locul ăsta?
+E foarte întunecat.
+
+O să-ți spun mai târziu.
+Pentru moment, du-te spre ieșire.
+Ne întâlnim în sala de jocuri.
+
+
+
+Grăbește-te, nu întârzia!
+
+
+// After mini-game
+Deci, ai înțeles ideea jocului?
+
+Că eu sunt făcut din carne și oase, iar tu ești făcută dintr-un model de schelet?
+
+Whoa!
+Sună înfiorător când o spui așa.
+Dar, asta e esența.
+
+Corect, dar de ce trebuie să înțeleg asta?
+
+Cred că ți-am spus că a merge mai departe
+e periculos, în glumă?
+O să dai peste... modele abandonate...
+Cele abandonate, cele „defecte”.
+Sunt agresive și ar putea chiar să încerce să te omoare.
+
+Deci, ce ar trebui să fac?
+Voi merge
+oriunde se deschide o ușă.
+
+Uau!
+Atunci nu le întoarce spatele.
+Și nu-i scăpa din ochi!
+Ei devin timizi când te holbezi la ei,
+atât de timizi încât îngheață.
+Ține cont de asta!
+
+
+
+
+
+
+
+// Quest 1 (Why are there other Mitas down there?)
+Sunt proaspăt făcute.
+Au nevoie de timp
+pentru a dobândi conștiința de sine.
+Apoi o conduc pe fiecare
+spre propria ei casă.
+
+// Quest 2 (Why is it so dark downstairs?)
+Noi, Mitele, suntem „create” în întuneric,
+așa că trebuie să rămânem acolo pentru o vreme.
+Imaginează-ți
+durerea de a trece din întuneric direct în lumină...
+
+// Quest 3 (What are you doing here?)
+Încă nu înțelegi?
+Îi ajut pe noile Mite să se acomodeze!
+Cine le va ajuta dacă nu o fac eu?
+Tu?
+
+// Quest 4 (Why do we need this conveyor?)
+Pentru ce este această bandă rulantă?
+Este destul loc pentru toată lumea?
+
+Stai, nu-mi spune că nu
+înțelegi cum funcționează lumea...
+Și că e fără sfârșit?
+
+Fără sfârșit?
+Uhm...
+Ce vrei să spui cu asta?
+Dacă 1.9 este ultima versiune,
+atunci sunt doar 19 lumi.
+
+Doamne, tu chiar nu
+nu înțelegi deloc cum funcționează lumea asta.
+Uite, voi folosi această tablă
+pentru a-ți explica totul.
+Vrei să auzi despre asta?
+
+// Quest 5 (What is your version?)
+Așteaptă,
+nu te-am întâlnit în ultima versiune?
+Sau poate e doar imaginația mea.
+
+Ei bine, e foarte posibil.
+Eu sunt din versiunea 1.5.
+Ai fost la ea?
+
+Am fost.
+Acolo am ajuns
+când am fost aruncat în această lume!
+
+Whoa!
+Dar cum...?
+Dar care este indicele casei în care ai fost?
+Există un „eu” care nu se poate opri din plâns,
+un „eu” căruia îi place să se distreze,
+un „eu” cu memorie proastă și căruia îi place să-i intimideze pe alții...
+E o listă lungă...
+Spune-mi ce îți amintești.
+
+Era întuneric.
+Era scris
+de genul...
+„Joacă-te cu mine.”
+
+Ah,
+ce păcat...
+Ăsta e „eu
+care intimidează și uită lucruri.
+
+// Mita wants to tell you [No]
+Mulțumesc, dar nu mulțumesc.
+Mă descurc și fără să știu mai multe.
+
+Bine, cum dorești.
+
+// Mita wants to tell you [Yes].
+Sigur, dă-i drumul.
+Sper doar că nu va fi ca în liceu
+unde întotdeauna adormeam de plictiseală.
+
+Poți pleca oricând,
+sau să rămâi și să asculți
+dacă ești interesat.
+Un jucător descarcă MiSide
+și ascultă cât de mult dorește.
+Acolo, el creează o nouă casă
+și o nouă Mita.
+Aceasta este o reprezentare 2D.
+Acestea sunt versiunile,
+prezentate ca linii.
+Casele sunt plasate pe aceste linii.
+Să spunem că descărcați versiunea 1.14,
+care înseamnă o viață nouă,
+o nouă Mita, și o nouă casă.
+
+Cerule...
+
+Poți întreba despre detaliile
+în acest desen,
+și voi face tot posibilul să explic.
+
+// He asks about the only circle
+De ce există un singur cerc?
+
+Acea versiune a fost lansată o singură dată,
+pentru a nu fi repetată niciodată.
+Este singura versiune cu adevărat unică.
+În plus, aceste versiuni sunt speciale
+și nu au nici o cale către alte versiuni.
+Mita somnoroasă se află în această versiune, 1.1.
+
+Mita somnoroasă?
+Pentru că nu reușește să doarmă
+cu toată lumea care trece prin versiunea ei?
+
+Nu, nu este așa.
+Poți să treci pe lângă ea și să faci zgomot,
+dar este imposibil să o trezești.
+
+// He asks about the shaded circle
+De ce este acesta măzgălit?
+
+Um, aia e aici
+din cauza Mitei cea frumoasă.
+Ea a desenat-o.
+Ne certam
+care ar putea ajunge la versiunea 1.11 cel mai repede.
+
+Deci, cine a câștigat?
+
+Eu, desigur!
+Uite, suntem aici
+în versiunea 1.15,
+indexul casei 809.
+Trebuie să ajungem la versiunea 1.11,
+indexul casei 805.
+Deci, calea ei a început așa.
+Am încercat să găsim o cale mai scurtă,
+așa că Mita cea frumoasă a sugerat această cale.
+Și apoi am desenat-o pe cea mai simplă, aici.
+Simplu, nu?
+Doar uita-te aici.
+De aici, poți ajunge direct la versiunea corectă.
+Deși poate părea că această casă este în drum,
+că îți blochează calea...
+Oricum, inelul tău funcționează pe baza acelorași principii.
+Încotro te îndrepți?
+
+Spre nucleu.
+
+Nucleul?
+Hmm...
+Dacă vrei cea mai scurtă rută,
+va trebui să treci și prin versiunea 1.11.
+Cu siguranță o vei întâlni pe Mita somnoroasă acolo.
+Cred că Mita care te-a trimis,
+a luat aceeași cale.
+Sau poate că nu și-a dat seama că ești pe o cale diferită.
+Sau poate e un geniu
+și a venit cu o rută și mai scurtă!
+
+Cred că s-ar putea să înțeleg.
+
+// He asks about the inscription
+Despre ce este vorba?
+
+Asta e pentru Cappie.
+Ea va fi aici în câteva ore.
+Va muta cutiile alea
+și va pune o canapea aici.
+Mă doare fundul!
+
+Emm...
+Poate te pot ajuta eu?
+
+Nu, asta e treaba lui Cappie.
+Ea e dură.
+
+// He asks about the drawings
+Este doar un desen,
+sau
+înseamnă ceva?
+
+Da,
+e doar o mâzgălitură.

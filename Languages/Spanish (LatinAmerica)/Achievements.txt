@@ -1,15 +1,15 @@
 Leche Agria
-Chasquido en la Oscuridad 
+Chirrido en la Oscuridad 
 Jugo Muerto
 ¡Pingüineitor!
-El seguro de Vida
+Seguro de Vida
 La Victoria de la Mosca
 ¡Oh, Gran Mita!
 ¡Te encontré!
-El Dulce Amor
+Delicioso amor
 Condiciones Cumplidas
 ¡Acelera!
-¡Palmada en la cabeza!
+¡Martillazo en la cabeza!
 ¡Atrápalos a Todos!
 Hola, Mita
 ¿Este es el Fin?
@@ -22,5 +22,5 @@ Registros Fase 1
 Registros Fase 2
 ¡Victoria Tremenda!
 ¡¿Sin recibir daño?!
-Una Zanahoria!?
+¡¿Zanahoria?!
 Jugador Experto

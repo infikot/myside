@@ -1,15 +1,15 @@
 
 Witaj, [player]!
-Wkońcu mogę cię poznać!
-Jestem taka podekscytowana!
+W końcu mogę cię poznać!
+Jestem tak podekscytowana!
 Wiem ze masz wiele pytań...
-Ale tak jak widzisz,
-Zbudowałam tą specjalną maszyne,
+Ale tak w skrócie,
+Zbudowałam tą specjalną maszynę,
 Żeby cię tu do mnie sprowadzić.
-Ale niestety przeniosło cię do złej wersji...
-W której to..
+Niestety przeniosło cię do złej wersji...
+W której to...
 W sumie to długa historia!
-Tak się ciesze że cię widze.
+Ciesze się, że cię widzę.
 
 // Answer 1 - Mita
 Tak.
@@ -17,8 +17,8 @@ A ty jesteś [player], prawda?
 
 // Answer 2 - Mita
 Chcesz już wracać?
-Byłabym ci w stanie pomóc... Ale co ze mną?
-Proszę, zostan ze mna jeszcze troche...
+Mogłabym ci z tym pomóc... Ale co ze mną?
+Proszę, zostań ze mną jeszcze chwilę...
 
 // Answer 3 - Mita
 Pozwól że ci wyjaśnię...
@@ -26,19 +26,19 @@ I oto jesteś.
 Zrozumiałeś?
 Umm... Niezbyt.
 W porządku!
-Najważniejsze że jesteśmy wkoncu razem.
+Najważniejsze że jesteśmy w końcu razem.
 
 
 Jesteś głodny?
 Może coś ugotujemy?
 Masz,
-Pomóz mi pokroić marchewki.
+Pomóż mi pokroić marcheweczki.
 
 Skąd tu te warzywa?
 Przed chwilą ich tu nie było.
 
 [player], przecież jesteśmy w grze.
-Nie obijaj się, pomóz mi.
+Nie obijaj się, pomóż mi.
 
 Dziękuję!
 Przyniesiesz mi nożyczki?
@@ -60,35 +60,35 @@ Dziękuję.
 
 Już skończyłeś?
 Ehh, moja porcja wydaje się
-Bez końca...
+Nie kończyć...
 
 
 // Help
 Co się dzieje?
 Powiedz mi co widzisz.
 
-Moje serce szaleje,
-I mój wzrok się rozmywa.
+Serce wali jak szalone,
+I mam mroczki przed oczami.
 
 Dobra.
-Wiem co się dzieje.
+Wiem już o co chodzi.
 Dasz radę wstać?
 
 
 
-Co to jest?
+Co to?
 
 Tabletki.
 Poczujesz się po nich lepiej.
 Podejdź do lustra.
 
-Weź te tabletki.
-No już.
+Weź je.
+No już, szybciutko.
 
 
 
-I jak się czujesz?
-Już lepiej?
+I jak, lepiej?
+Pomogło?
 
 Tak.
 Szybko zadziałały...
@@ -97,30 +97,30 @@ Szybko zadziałały...
 Wszystko jest tutaj prostsze.
 Nawet najmniejsze rzeczy
 Dają wspaniałe rezultaty
-Wkoncu koncept tej gry polega na:
-Uproszczaniu.
+W końcu koncept tej gry polega na:
+U-pro-szcza-niu.
 
 Jakiś przykład?
 
-No na przykład takie marchewki.
+Przykładowo takie marcheweczki.
 Kroisz jedną,
-A wydaje się jakbyś pokroił ich trzy.
+A wydaje się jakbyś pokroił ze trzy.
 
-Słuchaj, wszystko dzieje się za szybko.
-Jestem przerażony, bardziej niż jestem w stanie ci to pokazać.
+Słuchaj, wszystko dzieje się tak szybko.
+Jestem przerażony... Tak bardzo że nawet nie wiem jak to ująć.
 
 
 Co się dzieje?
 
-Znalazłem kartridże w wentylacji.
+Znalazłem kasety w wentylacji.
 Miały na sobie imiona.
 O co z nimi chodzi?
 
-Kartridże?
-Co to są kartridże?
+Kasety?
+Co to znaczy kasety?
 Pokażesz mi okej?
-Ale to pózniej.
-Narazie coś zjedzmy.
+Ale to później.
+Na razie coś zjedzmy.
 Podasz mi nożyczki?
 
 // Pierścień
@@ -128,24 +128,24 @@ Pierścień??
 // lustro
 To sztuczne lustro?
 
-O kurczę.
+O kurczaczki!
 Zapomniałam włączyć odbicia.
 No i proszę.
 Wszystko już widać!
-To śmieszne bo,,
+To zabawne bo,
 Wcześniej nawet nie wiedziałam do czego służy lustro.
 Coś takiego jak odbicia nie istniało w moim świecie-
-Dopóki nie dodali ich w którejs z aktualizacji . :)
+Do momentu aż nie dodali ich w którejś z aktualizacji.
 U ciebie jest dużo odbić?
 W sensie w twoim świecie?
 
-W sumie to tak.
+Jest ich od groma!
 
 
 Czy pamiętasz
 Te trzy rzeczy?
 Te które musiałeś położyć do skanowania?
-Więc, um...
+Więc, em...
 Te rzeczy
 Związane są z tą wersją gry.
 Dlatego musiałeś ich użyć żeby się tu dostać.
@@ -162,8 +162,8 @@ Powiedziałaś mi
 To dlatego że chciałam zrobić ci
 Niespodziankę!
 Powiedziałam ci malutkie kłamstewko
-Ale to nie ważne, wkoncu dzięki temu tu jesteś .
-No ale już działa-nawet pokazuje nam informacje!
+Ale to nie ważne, w końcu dzięki temu tu jesteś .
+No ale już działa! Nawet wyświetla informacje!
 I tak przy okazji...
 Jest we mnie coś z inżyniera!
 
@@ -174,22 +174,22 @@ Po co ci on?
 Nadal chodzisz do szkoły?
 
 Do szkoły?
-Skądże.
-Ale bardzo mi się podoba
+Coś ty.
+Ale bardzo mi się podoba.
 Nie powiesz przecież że nie wyglądam w nim słodko
 Prawda?
 
 // PC
 Czy ten komputer działa?
-Czy to poprostu dekoracja?
+Czy to tylko atrapa?
 
 Oczywiście że działa.
 Wszystko tutaj
-Działa jak w twoim świecie .
+Działa jak w twoim świecie.
 
-W moim świecie.,
-Spędzałem bardzo dużo czasu przed komputerem ...
-Bardzo ciężko pracowałem.
+W moim świecie, co?
+Spędzałem tam dużo czasu przed komputerem...
+Bardzo ciężko pracowałem...
 
 Wiem.
 To właśnie przez twoją pracę
@@ -201,9 +201,9 @@ W sumie... skąd wiesz że spędzam dużo czasu przed komputerem?
 
 Twoja kamerka w telefonie... Czasami była włączona.
 Przepraszam.
-Zdarzało mi się cie podglądać >A<
+Zdarzało mi się czasem zerknąć...
 
-Umm... to niezbyt legalne.
+Emm... to niezbyt legalne.
 No ale nie ważne.
 
 // Umbrella
@@ -211,50 +211,50 @@ Spędziłem w tej grze tonę czasu
 Ale nigdy nie widziałem żeby padał deszcz.
 Więc po co ci parasol?
 
-Deszcz pada-poprostu bardzo rzadko.
-Poprostu go jeszcze nie widziałeś.
+Deszcz pada, ale bardzo rzadko.
+Po prostu go jeszcze nie widziałeś.
 Może kiedyś go zobaczysz.
-A wtedy napewno przyda ci się parasol.
+A wtedy na pewno przyda ci się parasol.
 Czyż nie?
 
 // Electrical panel
-Po co tu panel elektryczny?
-A skoro jesteś w grze,
-To po co ci on potrzebny?
+Skrzynka z bezpiecznikami?
+Przecież jesteś w grze,
+To po co ci jest potrzebna?
 
 Po pierwsze to,
 MY jesteśmy w grze.
-Więc pytanie po co jest...
-Bez sensu.
-Co nie znaczy że dzięki niemu możemy
-Zresetować elektryczność .
-Wszystko tutaj działa jak
-W twoim świecie.
+Więc pytanie po co...
+Jest bez sensu.
+Co nie oznacza, że nie działa.
+Możemy tutaj zresetować bezpieczniki.
+Wszystko tutaj działa 
+jak twoim świecie.
 
 // Exit door
 Czy możemy wyjść na zewnątrz?
 
 Emm...
 Jeszcze nie.
-Może pózniej.
-Narazie zostańmy tutaj.
-Wkoncu nie ma jak w domu.
+Może później.
+Na razie zostańmy tutaj.
+W końcu nie ma to jak w domu, nie?
 
 // Books
-Masz tutaj ogrom książek.
+Masz tutaj masę książek.
 Przeczytałaś je wszystkie?
 
-Tak, każda jedną z nich.
-Bycie tutaj samą
-Jest strasznie,ale to strasznie nudne.
+Tak, każdą jedną z nich.
+Ciągle jestem tu sama...
+Jest strasznie, ale to strasznie nudno.
 
 // TV in room kitchen
 Po co ci drugi telewizor?
-Dodatkowo taki stary?
+I to jeszcze taki stary?
 
 Nie podoba ci się?
 Jeśli chcesz mogę go zabrać...
-Ale jeśli chcesz wiedzieć...
+Ale jak już musisz wiedzieć...
 To służy on do dekoracji,
 Urozmaica to wyposażenie kuchni.
 A przy okazji działa!
@@ -262,11 +262,11 @@ Mogę oglądać na nim
 Wszystkie moje ulubione seriale!
 
 // Smartphone
-Przecież to mój telefon
-Przecież miałem go w kieszeni
+Czy to czasem nie mój telefon?
+Przecież miałem go w kieszeni!
 Skąd on się tu do licha znalazł?
 
-Umm, to nie jest ważne..
+Emm, to nie jest ważne..
 Mam pomysł!
 Zróbmy sobie razem zdjęcie!
 Uśmiech!
@@ -278,22 +278,22 @@ Czy jeśli
 Włączę na nim grę,
 Będę w stanie cię w niej zobaczyć?
 
-Nie, to nie działa w ten sposób.
+Nie, to tak nie działa.
 
 Dobry w smaku
 SILNY w działaniu!!
 // TV
-Jak dużo kanalów
-Posiadasz?
+Dużo masz kanałów?
+Czy może działa to inaczej?...
 
-To nie działa w ten sposób.
-Mam na nim dostęp do internetu .
+To działa troszeczkę inaczej...
+Mam na nim dostęp do internetu.
 Dzięki temu możemy oglądać,
-Wszystko co jest dostępne w internecie .
-Czekaj chwilkę,
+Wszystko co jest dostępne w sieci.
+Czekaj moment,
 Emm, ups.
 Co to jest?
-Kotki w kólku?
+Kotki w kółku?
 O, patrz.
 Wiesz co to jest?
 Pauza!
@@ -308,14 +308,14 @@ Jest prosto z reklamy.
 
 Ah, ten smak...
 Podoba mi się,
-Jednak ciężko mi powiedzieć jak smakuje, czy nawet pachnie.
-Dziwne to wszystko .
+Jednak ciężko powiedzieć jak smakuje, czy nawet pachnie.
+Dziwne to wszystko...
 
 Pewnie.
 
 // Mita shy
 Co robisz?
-Proszę, nie patrz się tak na mnie.
+Nie patrz się tak na mnie...
 Zawstydzasz mnie.
 
 // The statuette
@@ -323,14 +323,14 @@ Co za straszna figurka.
 Czy
 Podobają ci się takie rzeczy?
 
-Przeraża cię ona?
+Przeraża cię?
 
 Trochę.
 Wygląda jak jakaś nawiedzona...
 
-Napewno nie jest nawiedzona.
+Na pewno nie jest nawiedzona.
 A tym bardziej straszna.
-Według mnie jest urocza !
+Według mnie jest urocza!
 
 Może masz rację...
 
@@ -347,20 +347,20 @@ Bon appétit.
 Prawda?
 Jeśli chcesz możesz zostać.
 Nie przeszkadza mi to.
-A w sumie
+A tak właściwie...
 JESTEM NA TAK!
 
 // Quest 2
 Chcesz wracać?
 Ale czemu?
 Przecież tu jest tak miło...
-Jest też przytulnie.
-A na dodatek jestem jeszcze ja.
+I przytulnie...
+A na dodatek jestem tu ja!
 
 Nie rozumiesz.
 Bardzo chciałabym zostać.
-Poprostu.... Się martwię.
-Martwię się że zostawiłem coś ważnego w domu...
+Po prostu.... martwię się.
+Martwię się, że zostawiłem coś ważnego w domu...
 Pojawiłem się tutaj ni stąd ni zowąd
 Nie miałem nawet czasu
 Się przygotować.
@@ -371,49 +371,49 @@ Sen? Czyli chcesz się z niego obudzić?
 I szybko o nim zapomnieć?
 
 Nie o to chodzi.
-Te miejsce wydaje się takie...
+To miejsce wydaje się takie...
 Dziwne. Nienaturalne.
 Ale ty...
 Ty wydajesz się taka prawdziwa.
 
 Wydaje się?
-Ale ja JESTEM prawdziwa,
-Głupku!
+Ja JESTEM prawdziwa,
+Głupol!
 
 // Quest 4
-Poprostu już tak jest
+Po prostu już tak jest
 W tym świecie.
 Może się to dla ciebie wydawać dziwne
-Że nie możesz nic zobaczyć
+Że nie można niczego dostrzec
 W oddali.
 
-W sumie nie wydaje mi się to dziwne.
-Szczerze, pasuje to tutaj.
+W sumie nie jest tak źle.
+Nawet i pasuje mi to.
 
 Też tak uważam.
-Wydaje mi się że to po prostu żeby uniknąć lagów .
+Wydaje mi się że to wszystko po to aby uniknąć lagów.
 
 Lagów?
 
-Niestety. Występują tu rózne błędy.
+Niestety. Występują tu różne błędy.
 Mam nadzieję że na żadnego nie trafimy.
 
 // Quest 5
-Czemu nie używam noża?
-Mogłabym to zrobić.
+Czemu nie użyłam noża?
+Mogłam to zrobić.
 Ale chciałam żeby wszystko było
-Takie jak sobie zaplanowałam
-Kiedy już wrócisz.
-Uwielbiam cię zaskakiwać .
-Na szczęście długo mi to nie zajęło !
+Zapięte na ostatni guzik.
+Chce byś dobrze mnie wspominał.
+Uwielbiam cię zaskakiwać.
+Na szczęście przygotowania nie były zbyt długie!
 Hii-hii.
 
 // Glasses
 Nosisz okulary?
 
 Nie.
-Ale mogę to robić jeśli chcesz.
-Ładnie mi w nich?
+Ale mogę je założyć, jeśli chcesz.
+Pasują mi?
 // Yes
 Naprawdę?
 W takim razie je zostawię.
@@ -423,11 +423,11 @@ No nic...
 
 // Use the sauce
 No dobrze,
-Co to jest za sos?
+Co to za sos?
 
-To sos miłości!
-Wypełnia cię miłością!
-I... daje ciekawe spojrzenienie świat .
+To płynna miłość!
+Wypełnia cię uczuciem!
+I... daje ciekawe spojrzenie na świat.
 Ciekawe, nieprawdaż?
 
 A jakże...

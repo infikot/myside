@@ -1,9 +1,9 @@
 Leche Agria
-Chasquido de Oscuridad
-Jugo Muerto
+Chasquido en la Oscuridad
+Zumo Muerto
 ¡Pingüineitor!
-Caja Fuerte de la Vida
-La victoria de la mosca
+Seguro de Vida
+La Victoria de la mosca
 ¡Oh, Gran Mita!
 ¡Te encontré!
 Amor Delicioso
@@ -18,8 +18,8 @@ Hola, Mita
 El Gran Baile
 Una Larga, Larga Cola
 ¡No pasarás!
-Fase 1 Registros
-Fase 2 Registros
+Registro Fase 1
+Registro Fase 2
 ¡Victoria Infernal!
 ¡¿Sin Recibir Daño?!
 ¿Zanahorias?

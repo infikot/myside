@@ -401,7 +401,7 @@ werde ich dir mit dem Hammer eine überziehen!
 Du wirst mich schlagen?
 
 Nun ja,
-im Laufe des Spiels wirst-du-es-erfahren!
+im Laufe des Spiels wirst du es her-aus-fin-den!
 
 // Kick player 1
 Autsch,

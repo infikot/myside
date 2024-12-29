@@ -1,0 +1,92 @@
+
+Mila! Nu! Ești nebună!
+
+Ha-ha! CE-I ASTA?
+Văd o expresie nouă?
+Haide, lasă-mă să văd mai mult!
+Să privesc același chip vechi devine atât de plictisitor!
+
+// Mita arena "Hello"
+Ce mai faci, micul meu rătăcitor neliniștit?
+Încă mai alergi? Nu ți-a ajuns încă?
+
+Ce i-ai făcut lui Mila?
+
+O, deci nu ești obosit încă!
+Perfect! Hai să mai jucăm un joc!
+
+Tu...
+
+Să începem cu un mic test!
+Să-ți testăm coordonarea!
+Acum abilitatea ta de a acționa!
+Dacă e ceva în neregulă cu tine!?
+Dacă nici măcar nu meriți acea PIELE
+pe care ești atât de mândru să o porți!?
+
+// Show knifes
+Ia uită-te puțin...
+Care îți atrage atenția?
+Cel din dreapta?
+Sau
+cel din stânga?
+
+// Throw knifes
+Oh, serios?
+Are vreo importanță?
+Doar mă jucam cu tine!
+Înjunghierile sunt știri vechi, oricum.
+În fine!
+Am plănuit jocuri mult mai bune,
+cum ar fi...
+// Show recorder
+Fii atent la asta!
+Avem nevoie de niște muzică!
+Ce părere ai de melodia asta?
+Îmi face sângele să pompeze!
+Voi începe
+cu regulile!
+// Show rules
+În timp ce melodia este redată,
+te poți mișca.
+Dar când muzica se oprește,
+SĂ NU TE MIȘTI!
+Sau ești mort. Ai înțeles?
+E simplu: ajungi la sfârșit
+înainte ca melodia să se termine.
+Să începem!
+Încă mai stai pe aici, eh?
+Fugi, scumpule, fugi!
+
+// Ready recorder
+Oh!
+Uită-te la tine! Atât de ascultător!
+Un mic specimen perfect.
+Te vreau pentru mine!
+Asta a fost mult prea ușor, nu-i așa?
+
+Lasă-mă să plec!
+
+Nu te simți prea confortabil!
+Mai avem multe jocuri de jucat!
+Iată-l pe următorul:
+Am să închid ochii...
+Și când îi voi deschide,
+ai face bine să fi plecat!
+Ai înțeles?
+Dacă te văd, te pedepsesc!
+Bun! Să începem!
+
+Asta nu are sens...
+
+// Ready hide
+Ai reușit!
+Te descurci grozav - devine interesant!
+Dar acum va deveni mai greu.
+FOARTE greu.
+Ascunde-te, fugi, învârte-te-
+
+Ah, să te ia naiba!
+
+// Player falls
+Cred că am scăpat...

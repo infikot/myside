@@ -1,4 +1,4 @@
-Mita?
+¿Mita?
 ¿Eh? ¿Ya estás despierto?
 ¿Cómo llegaste aquí?
 Estabas justo al lado mío hace un momento.
@@ -42,7 +42,7 @@ Es mi turno.
 
 
 
-¡OK!
+¡BIEN!
 ¡Tu turno!
 Ajá.
 ¡Es tu turno!
@@ -55,7 +55,7 @@ Ajá.
 ¡Ganaste!
 ¡Ganaste!
 Me venciste.
-Oh, tú…
+Oh, tú...
 
 ¡Gané!
 ¡Soy la ganadora!
@@ -91,7 +91,7 @@ Golpes, como si hubiera alguien ahí dentro.
 Pero...
 No hay nadie ahí...
 
-Me gustaría abrirlo y comprobar.
+Me gustaría comprobarlo.
 Me da un poco de miedo.
 
 ¿Pero por qué...?
@@ -132,7 +132,7 @@ Lo entiendo.
 Otra vez esto...
 Si quieres revisar el armario,
 entonces hazlo,
-¡y averigua qué hay ahí dentro!
+¡y averigua qué hay dentro!
 
 
 
@@ -223,7 +223,7 @@ de internet.
 Quería darle un toque al exterior.
 Pero resultó
 que el archivo
-tenía algo malo.
+estaba dañado.
 Lo arreglaré más tarde.
 
 ¿Es por eso que no podemos salir de la casa?
@@ -348,8 +348,8 @@ Está bien.
 // Juego leche
 ¡Este es un juego de lucha!
 ¡A ver quién se amarga primero!
-¡Qué juego!
-Ya hemos tenido suficiente leche por ahora, hagamos otra cosa.
+¡Qué buen juego!
+Ya hemos tenido suficiente leche por hoy, hagamos otra cosa.
 // Juego pingüinos
 En este juego, eres un pingüino
 deslizándote por ahí.
@@ -397,4 +397,4 @@ Pfft, eres tan lento.
 
 // Tetris - Mita
 ¿Para qué necesitas eso?
-¿Tanto gamer?
+¿Qué eres, un adicto a los juegos o algo así?

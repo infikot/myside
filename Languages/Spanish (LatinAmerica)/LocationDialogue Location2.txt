@@ -5,5 +5,5 @@ Espera... ¿estoy dentro del juego?
 // Player try open the door
 ¿Cerrado?
 // Player in dark
-Esta oscuro aquí.
+Está oscuro aquí.
 No puedo ver nada.

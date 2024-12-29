@@ -1,0 +1,9 @@
+// Player start
+Unde sunt?
+Locul ăsta pare familiar.
+Stai... Sunt în joc?
+// Player try open the door
+Încuiat?
+// Player in dark
+E întuneric aici.
+Nu pot să văd nimic.

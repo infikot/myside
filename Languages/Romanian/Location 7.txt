@@ -1,0 +1,19 @@
+// Track names (Numele pieselor)
+Cracker
+Bubble drink
+Balloon
+// Quest none (Nicio misiune)
+Lasă.
+// Quest "Meeting Kind Mita" (Misiune "Întâlnind-o pe Mita cea bună")
+Ar trebui să am încredere în tine?
+Cum am ajuns aici?
+Ce este locul asta?
+Cum ai ajuns aici?
+Ce ai făcut cu inelul?
+Pasajele sunt periculoase?
+Ma vei ajuta să scap?
+Ai menționat un plan.
+// Quest MitaCap (Misiune MitaCap)
+Îți mai amintești ceva?
+Ce parere ai de Mita cea cu inele?
+Mereu porți palăria aia?

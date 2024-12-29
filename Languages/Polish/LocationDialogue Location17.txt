@@ -23,7 +23,7 @@ Jakimi przełącznikami?
 Daj mi spać...
 Albo przynieś mi kawę.
 
-Maszyna do kawy powinna gdzieś tu być.
+Ekspres do kawy powinien gdzieś tu być.
 Mita?
 Mi-ita!
 
@@ -31,13 +31,13 @@ Mi-ita!
 
 // Player gives away the coffee
 Mita,
-Masz swoją kawe.
+Masz swoją kawusie.
 
 
 
 // MitaDreamer exercise
 Przełączniki...
-mówisz?
+powiadasz...
 
 Tak.
 
@@ -52,7 +52,7 @@ muszę usiąść.
 No i?
 
 Nie wiem co powiedzieć...
-Ale muszę iść dalej,
+Muszę iść dalej,
 pierścień wskazuje mi drogę.
 
 Masz jej pierścień?
@@ -97,7 +97,7 @@ Odliczać.
 I pociągniemy dźwignię razem.
 Okej?
 
-Poprostu nie zaśnij, OK!
+Po prostu nie zaśnij, OK?
 Zaczynaj.
 
 
@@ -136,7 +136,7 @@ Idę spać...
 
 // Why kitchen?
 Czemu idziemy do kuchni?
-Jak zasne na zimnej podłodze,
+Jak zasnę na zimnej podłodze,
 to będzie twoja wina.
 
 // Why bathroom?

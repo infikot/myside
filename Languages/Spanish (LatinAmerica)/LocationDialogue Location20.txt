@@ -1,58 +1,58 @@
 
-¡Mila! ¡No!
+¡Mila! ¡No! ¡Estás loca!
 
-¡Ja-ja! ¡TE ENCONTRE!
-¿Es esa una nueva expresión?
+¡Ja-ja! ¡TE ENCONTRÉ!
+¿Acaso estoy viendo una nueva expresión?
 Vamos, ¡muéstrame mas!
-¡Ver la misma cara se volvió tan aburrido!
+¡Ver la misma cara siempre se volvió tan aburrido!
 
 // Mita arena "Hello"
-Como estas, ¿mi pequeño e inquieto excursionista?
+¿Cómo estas, mi pequeño e inquieto excursionista?
 ¿Sigues corriendo por ahí? ¿No has tenido suficiente?
 
 ¿Qué hiciste con Mila?
 
-Oh, ¡así que no estas cansado!
-¡Perfecto! ¡Vamos a jugar otro juego!
+Oh, ¡así que aún no estás cansado!
+¡Perfecto! ¡vamos a jugar otro juego!
 
-Tu...
+Tú...
 
 ¡Empecemos con una prueba!
 ¡Probaremos tu coordinación!
-¡y tu habilidad de actuar!
-¡¿Que pasa si hay algo malo contigo!?
+¡y tu habilidad para reaccionar!
+¡¿Qué pasa si hay algo malo contigo!?
 ¿¡Qué pasa si ni siquiera mereces esa PIEL
-que estas tan orgulloso de portar!?
+que estás tan orgulloso de portar!?
 
 // Show knifes
 Mira un poco...
 ¿Cuál prefieres?
-La derecha?
+¿El de la derecha?
 o
-la izquierda?
+¿el de la izquierda?
 
 // Throw knifes
-Oh, ¿lo dices enserio?
-¿Tan siquiera importa?
+Oh, ¿lo dices en serio?
+¿Siquiera importa?
 ¡Solo estaba jugando contigo!
-Las puñaladas son un poco anticuadas, de todas formas.
+De todos modos, las puñaladas pasaron de moda.
 ¡No importa!
-Tengo juegos aun mejores planeados,
+Tengo juegos aún mejores para tí,
 como...
 // Show recorder
 ¡Mira esto!
-¡Necesitamos algo de musica!
+¡Necesitamos algo de música!
 ¿Qué piensas de esta melodía?
 ¡Hace que se me acelere el corazón!
 Te explicaré
-las reglas!
+las reglas.
 // Show rules
-Mientras la canción esta tocando,
+Mientras la canción esta sonando,
 puedes moverte.
 Pero si la música se detiene,
 ¡NO TE MUEVAS!
-O estarás muerto. ¿Lo entiendes?
-Es simple, llega a el final
+O estarás muerto. ¿Entendido?
+Es simple, llega el final
 antes de que la canción termine.
 ¡Empecemos!
 Aún sigues ahí parado, ¿eh?
@@ -62,18 +62,18 @@ Aún sigues ahí parado, ¿eh?
 ¡Oh!
 ¡Mírate! ¡Tan obediente!
 Un espécimen perfecto.
-¡Te quiero para mi misma!
+¡Te quiero para mí sola!
 Pero eso fue muy fácil, ¿no es así?
 
 ¡Déjame ir!
 
 ¡No te pongas tan cómodo!
-¡Aun tenemos mucho por jugar!
-Éste es el siguiente:
+¡Aún tenemos mucho por jugar!
+Este es el siguiente:
 Voy a cerrar mis ojos...
 y cuando los abra,
 ¡mas te vale esconderte!
-¿Lo entiendes?
+¿Entendido?
 Si te veo, ¡voy a castigarte!
 ¡Bien! ¡Vamos a empezar!
 
@@ -81,10 +81,10 @@ Esto es inútil...
 
 // Ready hide
 ¡Lo lograste!
-Lo estas haciendo bien
+¡Lo estás haciendo bien, esto se está poniendo emocionante!
 Pero ahora será mas difícil.
-MUCHO MAS difícil.
-Escóndete, corre, rueda
+MUCHO MÁS DIFÍCIL.
+¡Escóndete, corre, rueda!
 
 ¡Maldita seas!
 

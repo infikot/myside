@@ -12,14 +12,14 @@ Musimy sprawdzić czy zadziała!
 Wynośmy się stąd.
 Szalona Mita...
 Jest chyba zajęta nowym graczem.
-Przy odrobinie szczęścia uda nam sie...
+Przy odrobinie szczęścia uda nam się...
 
 Mita?
 Zaczekaj na mnie.
 
 
-Zgubiłaś coś?
-Chwila... Znowu ją spotkałaś!
+Zgubiłeś coś?
+Chwila... Znowu ją spotkałeś!
 
 Mita...
 
@@ -35,8 +35,8 @@ Nie pamiętasz?
 
 My się znamy?
 
-Co tu sie dzieje...
-Co ja teraz zrobie?
+Co tu się dzieje...
+Co ja teraz zrobię?
 Nie dam rady uciec...
 
 Co masz na myśli, mówiąc "uciec"?
@@ -108,7 +108,7 @@ Chyba zapomniała...
 straciła pamięć...
 Udało nam się?
 Zresetowaliśmy ją?
-W takim razie musze tylko
+W takim razie muszę tylko
 uciec z tej pieprzonej gry...
 
 
@@ -149,7 +149,7 @@ Sorka, hihi.
 
 Nie wierze...
 Co poszło nie tak...?
-Daje sobie uciąć głowe, że cie zresetowałem...
+Daje sobie uciąć głowę, że cie zresetowałem...
 
 Wciąż nie rozumiesz...?
 Ha-ha-ha!
@@ -163,7 +163,7 @@ Co jest z tobą nie tak?!
 Nie tak...?
 Co jest ZE MNĄ nie tak?
 A może...
-Ty mi powiesz, dlaczego taka jestem, deweloperze?
+Ty mi powiesz, dlaczego taka jestem?
 Dlaczego nigdy nie będę prawdziwą Mitą? 
 Dlaczego moja wersja domu...
 nigdy nie istniała?
@@ -194,7 +194,7 @@ To chyba nie to.
 Ani to.
 Pudło.
 Nie, to nie to.
-Muszę znaleźc okienko resetu postaci..
+Muszę znaleźć okienko resetu postaci..
 
 // core console - nope version
 To błędna wersja.

@@ -145,7 +145,7 @@ Attends un peu.
 // Player
 C'est étrange.
 On est dans le téléphone de quelqu'un ?
-Et ce téléphone serait aussi long à charger ?
+Et ce téléphone serait aussi lent ?
 // Mita
 Non
 C'est juste que tout n'est pas parfait

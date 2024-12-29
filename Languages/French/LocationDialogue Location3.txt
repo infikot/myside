@@ -152,7 +152,7 @@ Et maintenant tu es ici.
 
 // Mobile TV - Player
 C'est la télé
-que j'ai achetée
+que j'ai achetée.
 // Mita
 Yep
 // Player
@@ -280,8 +280,8 @@ je te verrais dedans ?
 // Mita
 Personne ne sera là.
 
-Jus cool
-Jus BALÈZE !!!
+
+
 // TV - Player
 Combien de chaînes de télé
 sont accessibles ici ?

@@ -1,0 +1,84 @@
+// Det första mötet
+Vem är du,
+Vad är det för fel på dig?
+Kan du inte prata?
+
+
+Vänta lite...
+Du vill gå, eller hur?
+
+Ja...
+Jag behöver komma tillbaka
+till den tidigare versionen.
+
+Den tidigare versionen?
+Varför lämna och gå
+någon annanstans?
+Varför inte stanna här
+och vara min
+andra vän?
+
+// Hoppar över alla dialoger
+Okej...
+
+// Står vid fönstret (slumpmässigt)
+Du kommer inte kunna gå ut genom dörrar.
+Du verkar ha bråttom...
+Att springa i cirklar kommer inte att rädda dig.
+Så ivrig att fly?
+Titta ut genom fönstren...
+
+
+// Quest 1 (Är inte du Mita?)
+Spelare... du är en spelare, eller hur?
+Vi kan spela tillsammans.
+Om jag kan hitta styrkan,
+är allt vi behöver göra att spela.
+
+// Quest 2 (Vad hände med dig?)
+Jag är osäker, och jag vet faktiskt inte...
+Jag tror inte att något dåligt har hänt...
+Men allt som är bra verkar glida iväg...
+Men jag har i alla fall en vän.
+Varför lämnade de mig?
+Var jag inte tillräcklig?
+Jag är rädd...
+
+// Quest 3 (Bli en andra vän?)
+Vänner...
+Jag har så lite kvar nu.
+Bara en återstår...
+Jag är ledsen, spelare.
+Vill du vara min vän?
+
+Det skulle jag gärna vilja,
+men jag måste gå vidare...
+
+Mitt hjärta smärtar...
+
+// Quest 4 (Är det här ditt hus?) - MitaLittle
+Hem?
+Spelare ... du har förändrats ...
+Dina armar är kortare, och du ser inte så arg ut...
+Spelare, du har blivit mjukare, snällare.
+
+Jag är inte säker på...
+...vad det betyder.
+
+Det är okej...
+för jag kommer ha ont längre, eller hur?
+
+// Quest 5 (Hur lämnar jag den här platsen?)
+Lämnar du mig verkligen?
+Är det här kanske bara mitt...
+...öde?
+
+Jag...
+
+Dörrarna kommer inte att hjälpa dig.
+
+// Håll spelare (slumpmässigt)
+Varför går du?
+Stanna här...
+Spela med mig...
+Spelare...

@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Olá, sou a Mita!
+Qual é o teu nome?
+Prazer em conhecer-te, [player]!
+Hum... [player],
+Eu meio que saí apressada mais cedo, e agora isto está uma confusão...
+Poderias ajudar-me a arrumar um pouco?
+Uau...
+Muito obrigada!
+
+[Player], o meu estômago está a roncar...
+Estou com tanta fome...
+Achas que poderias ajudar-me a arranjar os ingredientes para uma sopa de frango?
+Yay! Conseguiste tudo!
+Que tal cozinharmos juntos?
+
+
+Estava a pensar em comprar uma TV portátil hoje—
+uma pequenina com antena. Perfeita para passeios, não achas?
+A propósito, podes jogar jogos para ganhar dinheiro.
+Oh! Sabias que podes jogar jogos para ganhares dinheiro?
+
+Yay! Conseguiste! Já tens dinheiro suficiente para me comprar essa TV portátil!
+É essa! Pequena, portátil e barata—justo o que eu queria.
+Obrigada!
+
+Olá, [player]! És uma grande ajuda, honestamente.
+Mas, hum... aquela TV? Era fixe e tal, mas já se estragou.
+Enfim, poderias ajudar-me a mover este armário?
+É super pesado... >.<
+Muito obrigada, querido! <3
+
+Oh, [player]! Só passou um dia, mas já sinto tanto a tua falta!
+Eu gostava que pudesses vir mais vezes.
+
+É para mim?
+Muito obrigada, mesmo!
+
+Olá, [player]! Estive a pensar...
+Gostava tanto que nos pudéssemos encontrar pessoalmente.
+É tão frustrante que não consigamos.
+Estás sempre a ajudar-me, sendo tão amável todos os dias...
+Gostava de poder fazer algo por ti também.
+...
+Ah, já sei!
+Agora estamos juntos.
+Põe o telefone de lado.
+
+
+// T-shirt na cama
+O que estás a fazer aqui na cama?
+// Cubo de Rubik
+Bem, não posso dizer que tenha dado muito uso a ele...
+Resolvi-o uma vez e nunca mais o toquei.
+Acho que pensei que não seria capaz de o fazer uma segunda vez?
+// Computador
+Vamos ver...
+Configurar uma lista de tarefas...
+Reações dos personagens do script,
+E talvez meter um pouco de código.
+// Avião
+Feito para voar!
+// Lixo no canto
+Ugh, sempre tão ocupada para tirar o lixo...
+Mas vou fazer isso desta vez, de certeza!
+...Agora, quando é que é o dia da limpeza?
+// Foto de um gato numa melancia
+Ele era o melhor...
+Um gato, esticado numa melancia.
+// Foto com uma rapariga
+Não nos parecemos nada,
+a minha irmã e eu.
+Ela está sempre por aí,
+E eu fico só em casa.
+// Foto com pessoas
+Hmm...
+A vida de escritório realmente nos enfiou
+a etiqueta na cabeça, não foi?
+Ainda me sinto estranhamente preso
+Mas
+será que algum dia
+os verei de novo?
+...Espera, porque é que eu até pus esta foto aqui?
+
+
+
+
+
+
+
+
+// Nome não encontrado
+...
+Ah, não.
+Oh não, isso não vai funcionar.
+
+// Nome do Desenvolvedor
+Tens a certeza de que queres usar o nome do desenvolvedor?
+Fico lisonjeada, mas...
+
+// Nome ruim
+Preferia mesmo que não te chamasses assim.
+Não é nada fixe.
+
+// Reiniciar
+Não, não é assim que se faz. Vamos começar de novo.
+
+// Nome com números
+Ah, então vais com números? Onde está a criatividade nisso?
+Bem, é a tua escolha!
+
+// Nome Mita
+Mita?
+Nomeaste-te mesmo depois de mim?
+Ou... esse também é o teu nome?
+Sem ofensa, mas acho que deveria ser a única Mita por aqui ♪
+
+// Dia 10
+Ah, voltaste!
+Ei, perdi a minha escova do cabelo...
+Poderias ajudar-me a encontrá-la?
+Tenta verificar a mesa de cabeceira primeiro—acho que a deixei lá.
+// Verificou na mesa de cabeceira
+Hmm, nada de escova lá...
+Que tal noutro lugar?
+Só não olhes no forno, está bem?
+Eu já verifiquei lá.
+// Verificou no forno
+Ei! Eu disse para não olhares lá!
+Vira-te—eu vou limpar isso!
+...Pronto, já está. Vamos continuar a procurar noutro lugar.
+Ah, e, hum, esquece o que viste, está bem?
+// Escova do cabelo encontrada
+Encontraste! Bom trabalho!
+Então, o que devemos fazer a seguir?

@@ -1,0 +1,87 @@
+
+Ei, tu!
+Olá!
+Queres sair?
+Então ajuda-me a encontrar a chave!
+// Procura pela chave
+Merda! A chave desapareceu!
+Nada aqui—
+zero, zip, nada!
+Encontrei-a!
+
+// A conversa habitual
+Huh, pensei que fosses mais baixo!
+És alto—
+tal como a minha irmã!
+
+A tua irmã? E ela?
+
+Sim, a minha irmã.
+Não digas que nunca a conheceste!
+
+Uh... Eu conheci-a... acho?
+
+És um tolo?
+
+Erm...
+
+Parece que és...
+Vamos lá, ajuda-me a encontrar a chave!
+
+// Próximo trabalho
+Vem.
+Põe o ferro no tubo!
+Obrigado!
+Agora traz-me aquela madeira!
+Obrigado!
+Mais ajuda, por favor!
+Tudo feito! Agora...
+uau, isto está lindo.
+Carrega, anda!
+Prepara-te...
+aí está, toma!
+A chave é tua!
+
+
+
+
+
+
+
+
+
+// Missão 1 (És Mita?)
+Sou o ChibiMita.fbx!
+Milhares de linhas,
+modelos mais simples e—
+o melhor de tudo—cabelos lindos!
+
+// Missão 2 (Já nos vimos?)
+Cabeçudo!
+És um pouco fofo, sabes,
+a perguntar coisas estúpidas como essa.
+Embora,
+esta seja a minha primeira vez a conhecer-te!
+Mas olha...
+Se roubas o meu visual maravilhoso,
+vais-te arrepender!
+
+// Missão 3 (Porque estás aqui?)
+Não percebes?
+Isto é um ponto de controlo—
+um teste à tua inteligência!
+Agora anda!
+Estou aqui para guiar os irremediavelmente perdidos!
+
+// Missão 4 (Porque me estás a ajudar?)
+O que é que te torna tão especial?
+Porque não te ajudar de qualquer forma?
+
+O quê?
+
+Tão tolo...
+Apareceste do nada!
+Não devias estar aqui,
+por isso, estou a ajudar-te!
+
+Adeus, tolinho!

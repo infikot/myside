@@ -1,0 +1,233 @@
+﻿
+A gyűrűd!
+
+// Answer 1 (Where have you been all this time?)
+A lehető legrövidebb utat próbáltam keresni neked,
+hogy épségben a Maghoz érhess.
+Ez volt a terv, nem?
+Téboly-Mitát mindenáron megkerülni,
+mindent megtudni e világ működéséről,
+túlélni...
+Nem ez volt a terv?
+
+Hát... biztos.
+Szerintem nem üzemelt rendesen a gyűrű.
+Olyan világokat jártam meg, amik telis-tele voltak hibákkal.
+Arról nem is beszélve, hogy majdnem az életemet adtam nekik.
+Úgy tudtam megmenekülni,
+hogy a végtelen sötétségbe vetettem magam.
+
+Ne haragudj, nem igazán részleteztem,
+hogy pontosan hogy fogsz idejutni.
+Igen, végig az volt a terv,
+hogy különböző verziókon
+vészeled magad át ide.
+És látom, sikerült neked! Ügyi vagy!
+Innentől könnyű dolgunk lesz.
+
+// Answer 2 (How did you get here?)
+Én az a Mita vagyok,
+amelyik különböző verziókon át tud mozogni.
+Nem emlékszel?
+Sok mindenen mehettél keresztül, hogy ezt elfelejtetted.
+
+Ezt nem tudja minden Mita, igaz?
+Láttam olyan Mitákat,
+akik menekülni akartak, de nem tudtak.
+
+Az ő verziójuk meg lettek rongálva,
+a világuk nem funkcionáltak. Ezt mind már elmondtam.
+Jesszus.
+Azt legalább tudod, hogy ki állhat emögött?
+Téboly-Mita.
+
+Igen, mindenképpen ő.
+
+// Answer 3 (Who was this Mita just now?)
+Ő Rusnya-Mita.
+Egy erőszakos bumburnyák változata a Mitáknak.
+Nincs ki éppen mind a négy kereke,
+és csak Téboly-Mitára hallgat.
+
+Észrevettem.
+
+Gyerünk, el kell jutnunk a Maghoz.
+
+// Answer 4 (How does the ring work?)
+Csak a gyűrűvel
+juthattam ide a Maghoz?
+
+Igen.
+Vagyis, ha a portál
+működött volna,
+seperc alatt ide érhettünk volna.
+
+Tud mást is a gyűrű?
+
+Hát persze!
+Megjegyzi azokat a verziókat,
+ahová eddig jártál,
+és simán visszajuthatsz oda.
+És nem fáj miatta az ujjad.
+
+// Answer 5 (Why does Mad Mita need me?)
+Mi rosszat tettem Téboly-Mitának?
+Életveszélynek tett ki engem a tébolyult játékaival,
+ahelyett, hogy azonnal megöljön engem.
+
+Arra tippelek,
+hogy egy olyan játékos után kutat,
+aki elfogadja őt, olyannak, amilyen.
+Mita egy... Mita,
+nyilvánvalóan nem fog találni olyan játékost,
+aki viszont szeretné őt,
+ezért mindenkit kazettává alakít.
+Legalább is ez a teóriám.
+Na, koncentráljunk a lényegre!
+
+// Answer 6 (Is this the core?)
+Ez lenne az?
+A Mag?
+
+Igen, ez a Mag.
+Ti játékosokat nem a világ teremtette meg,
+így szerintem gond nélkül be tudsz térni a kapun át.
+Vagyis azt hiszem, hogy ez így van.
+Én abban a hitben élek,
+hogy minden problémánkra
+itt leljük, ebben a szobában
+a megoldást.
+[player], nyomás befelé.
+El sem hiszem, hogy ide sikerült érned.
+
+// Look on CoreMita
+Vigyázz, [player].
+Téged figyel.
+
+Kicsoda?
+
+Én sem tudom...
+
+Az jó...
+
+
+Mit kér?
+Na?
+
+Szerintem megvan.
+
+Ügyi vagy!
+
+De verziószámot kér.
+
+Máris mondom...
+0.98.
+
+Tökéletes!
+Karakterindex?
+
+Hogy index?
+
+Az indexet is kéri.
+Vagy nem tudod?
+
+
+Végülis van benne logika.
+Minden Mita rendelkezik külön indexszel.
+Nagy gondot okozna,
+ha egy egész verziót állítanál vissza.
+Hogy erre miért nem gondoltam...
+
+
+
+
+
+// Answer 1 (What's wrong with you?)
+Jól, de most ne ezzel törődjünk.
+A slamasztikát kéne rendbe tenni.
+Azt hittem, sínen vagyunk...
+Csak gondolkodni kell,
+és minden rendben lesz.
+
+// Answer 2 (Maybe there's a way to get to know him?)
+Most...
+Komolyan?
+Ez őrület!
+Mintha egy szénában akarnád keresni...
+
+Miről beszélsz?
+
+A hibák extra információkat is kiszivárogtatnak…
+Tudod, mint amikor kibelezünk egy világot...
+Benne naplók, naplók, naplók, adatok...
+És mi van ha ebben rejlik a válasz?
+
+Micsoda? Nem értek semmit.
+
+Tudok egy helyet.
+Itt várj!
+
+Hová mész?
+
+// Answer 3 (What if we attack Mad Mita?)
+Említetted,
+ha egy Mita meghal, búcsút mondhat emlékének...
+Mi lenne, ha...
+
+Szerinted képes lennél
+a saját kezeddel megölni Téboly-Mitát?
+Arról a Mitáról beszélünk, 
+aki láncfűrészt tart a lakásában!
+Ő nemcsak répákat szeletelget.
+Rettentően veszélyes megközelíteni őt!
+Az a csoda, hogy még életben vagyunk!
+
+
+// core console entry
+Bejelentkezési adatok szükségesek...
+De milyen adatok?
+Mita, te nem tudod?
+
+Lehet valahol ki van írva.
+Nézz körbe, talán megtalálod.
+
+// core console - nope programm
+Szerintem nem ez lesz az.
+Ez sem az.
+Rossz helyen keresem...
+Nem ez az.
+Olyat kell találnom, ami azt írja, hogy karakter-visszaállítás.
+// core console - nope version
+Nem ez a verzió.
+Hoppá, nem ezt akartam.
+Nem, nem ez az.
+Nem.
+// core console - nope index
+Nem jó,
+rossz az index.
+Nem jó,
+nem fér ki.
+
+// Answer 4 (Little people - Chibi)
+Láttam egy dobozt,
+tele apró emberkékkel...
+Azok mik voltak?
+
+Mármint a csibikkel?
+Hol is kezdjem...?
+Minden Mitának
+van csibikivetülése,
+és játékosok is rendelkeznek ilyesmivel.
+Mi a miénket bármikor meg tudjuk őket idézni.
+
+Mi, tényleg?
+
+Aham, ezt nézd!
+
+Mintha varázslat lenne...
+
+Az én csibijeimmel gondok vannak.
+A legtöbbjük halottként érkeznek meg.
+Persze van egy olyan,
+ami, nos,
+körbe-körbe karikába kalandozik.

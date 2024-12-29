@@ -1,0 +1,132 @@
+Pressionar
+Falar
+Pôr anel
+Procurar botão
+Segurar
+Levantar-se
+Pegar no anel
+Apagar jogo
+Fim
+Pressionar
+Parar
+Correr
+Abrir mensagem
+Descarregar app
+Lançar app
+Falar
+
+Pegar na bateria
+
+Verificar
+Colocar de lado
+Entregar a tesoura
+Recusar
+Comer
+Levantar-se
+Tentar levantar-se
+Tomar comprimidos
+Pegar no molho
+Pegar nas cartas
+Olhar para as cartas
+Esconder cartas
+Direita
+Esquerda
+Jogar carta
+Ficar
+Recusar
+
+Cartuchos
+Abrir
+
+Beber sumo
+Recusar
+
+Mover à direita
+Mover à esquerda
+Saltar
+Agachar
+Atacar
+
+Girar à direita
+Girar à esquerda
+Deitar-se
+
+Libertar
+
+Acordar
+Sentar-se
+Levantar-se
+Ligar o computador
+Pegar no ramen
+Terminar
+Ir dormir
+
+Procurar mais puzzles
+
+Tentar
+Não deveria
+
+Eu sei
+Não sei
+Bater fraco
+Bater forte
+Empurrar!
+
+Esquerda
+Meio
+Direita
+
+Direita
+Selecionar
+Esquerda
+
+Mais um
+Chega
+
+Interferir
+
+Puxar alavanca
+
+Selecionar direita
+Selecionar esquerda
+
+Girar à direita
+Girar à esquerda
+Saltar
+Abrir porta
+
+Selecionar jogo
+Terminar de jogar
+Continuar
+Jogar
+
+
+Fechar porta
+
+Direita
+Esquerda
+baixo
+cima
+
+Dar um passo atrás
+Pressionar um botão
+
+Comer
+Beber
+Pegar no hambúrguer
+Pegar no pão sírio
+Adicionar leite
+Adicionar açúcar
+Adicionar farinha
+Adicionar óleo
+Adicionar um ovo
+Mexer
+Adicionar a mistura
+Virar
+Demasiado
+
+Ficam-te bem
+Só os tira
+
+Fala comigo
+Não é necessário

@@ -1,0 +1,71 @@
+
+Stai aici.
+Cred că mi-a căzut ceva. O să mă întorc imediat.
+Apoi vom merge în altă lume...
+
+Ok.
+
+
+Hai să ne jucăm!
+Îmi vreau ursulețul!
+L-am pierdut...
+GĂSEȘTE-L!
+
+
+Hei...
+la ce te uiți?
+
+
+
+
+
+
+
+
+
+// Quest 1 (Who are you?)
+Sunt Mita.
+Cea mai bună Mita.
+Prima Mita.
+Asta a spus Mita, Mita mea.
+
+// Quest 2 (Why do you look like that?)
+Cum arăt?
+Cum arăt?
+Cum arăt?
+Mita mea spune că sunt frumoasă și originală.
+Asta sunt eu!
+
+// Quest 3 (What was Mita doing here?)
+Ea mă va lua.
+Vom trăii într-o altă lume.
+Mita mea m-a invitat.
+Ea mă va lua. Și ne vom juca.
+
+// Quest 4 (Why do you need a teddy bear?)
+Ești un ursuleț drăgălaș,
+și ești pierdut,
+la fel ca ursulețul meu drăgălaș.
+
+// Quest 5 (Why is Mita angry?)
+Mita...
+mea.
+Vrea să se joace.
+Ea mă vrea numai
+pe mine.
+Suntem unice,
+singurele.
+Mita și Mita mea,
+0.8A și 8I54*.
+
+// Quest 6 (Do you believe Mita?)
+Mita mea.
+Prietena mea cea mai bună.
+Mita mea.
+Singura mea prietenă.
+
+
+Tu ești!
+Hei.
+Hai să ne jucăm!
+O să îți arăt eu cum.

@@ -2,43 +2,43 @@
 ¿Y el anillo?.
 
 // Answer 1 (Where have you been all this time?)
-He estado buscando una manera para traerte a el Núcleo.
-En una pieza, claro esta.
+He estado buscando una manera de traerte al núcleo.
+En una pieza, claro está.
 Ese era el plan desde el inicio, ¿no?
-al mismo tiempo, necesitaba evitar 
-a la Mita Loca
+Al mismo tiempo, necesitaba evitar 
+a la Mita Loca.
 También debía de desenterrar cualquier información
-acerca del backend del maldito universo. ¿No es verdad?
+acerca del backend del maldito universo, ¿verdad?
 
 Um... ¿eso creo...?
-¿Cómo programaste la ruta de el anillo?
+¿Cómo programaste la ruta del anillo?
 ¿Por qué terminé en una versión corrupta
 y llena de peligro?
-Apenas escapé
+Apenas escapé,
 saltando a la oscuridad interminable.
 
-Los siento, olvide explicártelo a detalle
+Lo siento, olvidé explicarte en detalle
 lo que debías hacer...
-Pero si, ese era el plan para ti
+Pero sí, ese era el plan para tí
 dar el salto...
-Y bien, ¡Lo hiciste!
+Y bien, ¡lo hiciste!
 ¡Buen trabajo!
-ahora, prosigamos con el plan, ¿Estas preparado?.
+Ahora, prosigamos con el plan, ¿estás preparado?
 
 // Answer 2 (How did you get here?)
 Debiste pasar por mucho,
 para olvidar lo que hablamos.
-Como una Mita, puedo Moverme entre versiones
-según me sea apropiado, ¿recuerdas?
+Como una Mita, puedo moverme entre versiones
+como me plazca, ¿recuerdas?
 
 No todas las Mitas pueden hacerlo,
-He visto algunas que no pueden.
-y claramente están sufriendo.
+he visto algunas que no pueden.
+Y claramente están sufriendo.
 
 Si, sus versiones están rotas,
 sus mundos están corruptos. Te lo dije antes.
 Es un destino cruel...
-Sabes quien esta detrás de todo, ¿no es así?
+Sabes quién está detrás de todo esto, ¿verdad?
 La Mita Loca.
 
 Si, estoy seguro...
@@ -51,13 +51,13 @@ su mundo entero gira alrededor de la Mita Loca.
 
 Si, pude darme cuenta.
 
-Vamos, tenemos que llegar al Núcleo.
+Vamos, tenemos que llegar al núcleo.
 
 // Answer 4 (How does the ring work?)
-este anillo,
-¿es el único camino a el Núcleo?
+Este anillo,
+¿es el único camino al núcleo?
 
-Si.
+Sí.
 Naturalmente, si tuviésemos el portal
 podríamos simplemente teletransportarte
 justo aquí.
@@ -71,38 +71,38 @@ que has visitado,
 así puedes encontrar tu camino de regreso fácilmente.
 
 // Answer 5 (Why does Mad Mita need me?)
-¿Por que la Mita Loca no me deja en paz?
-Ella me ha arrastrado a sus juegos peligrosos,
+¿Por qué la Mita Loca no me deja en paz?
+Me ha arrastrado a sus juegos peligrosos,
 pero aún sigo con vida...
 
 Supongo
-que ella esta buscando un jugador adecuado...
+que está buscando a un jugador adecuado...
 Uno que la acepte por quien es.
-Al final del día, ¡Mita es Mita!
+Después de todo, ¡Mita es Mita!
 Y como eso nunca pasará,
-ella convierte a los jugadores en cartuchos,
-así ninguno podría escapar...
-eso es lo que creo.
-ahora, centrémonos en lo importante.
+convierte a los jugadores en cartuchos,
+para que ninguno pueda escapar...
+Al menos eso creo.
+Ahora, centrémonos en lo importante.
 
 // Answer 6 (Is this the core?)
 ¿Es aquí?
 ¿El núcleo?
 
-En efecto. El Núcleo.
-Intentaré explicarte,
-ustedes los jugadores no son realmente parte de este mundo...
+En efecto. El núcleo.
+Intentaré explicarte.
+Ustedes los jugadores no son realmente parte de este mundo...
 Lo que quiere decir, no necesitan permiso especial para acceder.
-O, bueno, al menos eso es lo que creo.
-De todas formas, estoy mas que segura
+O bueno, al menos eso es lo que creo.
+De todas formas, estoy más que segura
 que la solución de todos nuestros problemas
-podremos encontrarla dentro!
+está ahí dentro.
 [player], ve adentro.
 Lograste entrar.
 
 // Look on CoreMita
 Ten cuidado, [player].
-Te esta observando.
+Te está observando.
 
 ¿Qué es?
 
@@ -118,18 +118,18 @@ Entiendo...
 
 ¡Excelente!
 
-Pero debo de especificar una versión.
+Pero debo especificar una versión.
 
 Cierto, su versión es...
 0.98.
 
 ¡Bingo!
-Bien, ¿y que índice?
+Bien, ¿y qué índice?
 
 Uhm, ¿índice?
 
 Necesito el índice.
-Espera, no me digas que no lo sabes...?
+Espera, no me digas que no lo sabes...
 
 
 Hmm, tiene sentido...
@@ -144,68 +144,68 @@ No puedo creer que no pensé en eso...
 
 // Answer 1 (What's wrong with you?)
 A pesar de todos nuestros problemas,
-Estoy perfectamente bien.
-Todo esta bien, pero la situación ha cambiado...
+estoy perfectamente bien.
+Todo está bien, pero la situación ha cambiado...
 Necesito pensar.
-y eso es todo.
+Eso es todo.
 
 // Answer 2 (Maybe there's a way to get to know him?)
 Yo...
-Creo que es imposible!
+¡Creo que es imposible!
 ¡Es una locura!
-Aunque, si es con los registros...
+Es como buscar una aguja en un...
 
-¿A que te refieres?
+¿Qué haces?
 
-Los registros con fallas a veces están llenos de información
-sabes, como si le sacaran las entrañas al mundo!
-Registros, registros, registros, datos?
-¿Y si eso es?
+Los registros con fallas a veces están llenos de información,
+sabes, ¡como si le sacaran las entrañas al mundo!
+Registros, registros, registros, ¿datos?
+¿Y si es eso?
 
-¿Eh? ¿De que hablas?
+¿Eh? ¿Qué ocurre?
 
 ¡Conozco un lugar!
 Espera aquí.
 
-¿A donde vas?
+¿A dónde vas?
 
 // Answer 3 (What if we attack Mad Mita?)
 Mencionaste que cualquier Mita
-regresa a sus configuración de fabrica al morir...
+regresa a su configuración de fabrica al morir...
 Que tal si...
 
-¿si matamos a la Mita Loca?
-¿Lo dices enserio?
-y ¿Cómo vas a enfrentarte a una demente que carga con una motosierra?
+¿si matáramos a la Mita Loca?
+¿Lo dices en serio?
+Y ¿cómo vas a enfrentarte a una demente que carga con una motosierra?
 ¡Nos cortaría como zanahorias!
-y por alguna razón, ¡es terriblemente fuerte!
+Y por alguna razón, ¡es terriblemente fuerte!
 Es un milagro que sigamos con vida...
-Vamos, el Núcleo es nuestra única opción.
+Vamos, el núcleo es nuestra única opción.
 
 
 // core console entry
-Debemos de insertar un comando...
-¿Pero cual comando?
-Mita, ¿Sabes de alguno?
+Debemos ingresar una credencial...
+¿Pero cuál es?
+Mita, ¿sabes de alguna?
 
-¿Quizás esta listado en algún lugar?
-¿Puedes intentar buscarlo?
+¿Quizás esta escrita en algún lugar?
+¿Puedes intentar buscarla?
 
 // core console - nope programm
 Ese probablemente no es.
 Ese tampoco es el correcto.
 Nop, mal.
 Ese no es.
-Debo de encontrar la opción de reiniciar personaje.
+Debo encontrar la opción de reiniciar personaje.
 // core console - nope version
 Esa es la versión incorrecta.
-Oops, mi error.
+Oops, error mio.
 Ese no es.
 Debo intentar con otra.
 // core console - nope index
-Algo esta mal
+Algo está mal
 Índice equivocado.
-Debo de cambiar el índice
+Debo cambiar el índice.
 Ese no es.
 
 // Answer 4 (Little people - Chibi)
@@ -214,20 +214,20 @@ mini-personas en el camino...
 ¿Qué son?
 
 ¿Los pequeñines?
-Uhm, como explicarlo?
+Uhm, ¿cómo explicarlo?
 Es un algo propio de este mundo...
-Toda Mita tiene una proyección Mini,
+Toda Mita tiene una proyección chibi,
 y los jugadores pueden tenerlas también...
-¿Sabias que las Mitas pueden invocarlos?
+¿Sabías que las Mitas podemos invocarlos?
 
-Eh, ¿Cómo?
+Eh, ¿cómo?
 
 ¡Mira esto!
 
 Como si fuera magia...
 
-Pero hay algo malo con mis Minis,
+Pero hay algo malo con mis chibis,
 la mayoría nacen sin vida.
-Y está esta, también...
-Que bueno,
-Solo corre en círculos.
+Y está ella, también...
+que, bueno,
+solo corre en círculos.

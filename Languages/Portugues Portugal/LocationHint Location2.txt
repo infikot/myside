@@ -1,0 +1,6 @@
+Dá uma olhada ao redor.
+Encontra os objetos necessários e coloca-os no scanner.
+Faz a digitalização dos objetos e inicia a máquina.
+Vai até à caixa de fusíveis ao lado da porta da frente.
+Encontra e devolve as baterias em falta à máquina.
+Liga a máquina.

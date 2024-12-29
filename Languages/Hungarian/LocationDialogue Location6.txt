@@ -1,0 +1,150 @@
+﻿
+Mita?
+
+Te meg hogy a fenébe kerültél ide?
+
+Te vagy az, Mita?
+De mégis olyan más vagy...
+
+Jó megfigyelés.
+És igazad van.
+Én nem a te Mitád vagyok.
+Vele nagyon vigyázz.
+Rosszban sántikál.
+
+Rosszban?
+
+Nincs idő elmagyarázni.
+Majd később lesz rá idő, addig is...
+ide tudod adni a kulcsot? A kanapé mellett találod.
+
+De...
+
+Tartogasd a kérdéseidet későbbre.
+Add ide a kulcsot.
+Itt egy gyűrű.
+Ó?
+Ki akarsz szabadulni, nem?
+Hát, igen...
+Akkor húzd az ujjadra.
+Hidd el,
+nagyon nagy szükséged lesz rá.
+
+Értem...
+Be sem mutatkoztam. Én
+[player] vagyok.
+
+Áh.
+[player].
+Én... Mita vagyok.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Látod azt a
+konzolt ott lent?
+
+Ez felvételről megy?
+Ki van most Mitával?
+
+Ez most zajlik éppen.
+Jelenleg egy másik játékost
+használ ki.
+Téged is kazettává
+alakít!
+
+Sürgősen el kell húznom innen.
+És neked is.
+
+Igen, igen.
+
+Szóval, hogy van ez?
+Éppen kihasználja, nem?
+Mi történik, ha kihúzom a kazettát?
+
+Maradandó károsodást
+okozhat a kazettában.
+Vagyis akkor...
+A játékos meghalhat.
+
+...
+És ha csak szimplán kikapcsolom?
+
+Megpróbálhatod...
+Találni fogsz egy piros gombot.
+Látod?
+Megvan.
+Nyomd meg.
+
+// MitaKind quest 2
+Még itt kell maradnom.
+Többet kell hogy megtudjak,
+ezért még kérdeznem kell őt.
+Bár nem valószínű, hogy sikerül.
+
+// MitaKind quest 3
+Ez eredetileg az én verzióm.
+Éppen egy játékossal töltöttem az időm,
+amikor valami hirtelen megváltozott.
+Aztán ő megjelent.
+A játékost kazettává változtatta,
+engem meg ide zárt be.
+
+Kazettává változtatta őt?
+Ilyet is tud csinálni?
+De miért?
+Mi haszna van neki a kazettákkal?
+
+Nyilván nem százas a lány...
+Velünk játszadozik, hogy a tervét megvalósítsa...
+vagyis a játékosok kazettákká alakítását.
+Páran még észbe sem kaptak, hogy mi történt velük.
+De akik meg igen, azok semmit sem tettek, hogy mentsék a bőrüket... Jaj!
+Ez nem semmi.
+Segítened kell nekünk!
+Én? Hogyan?
+Segíts nekem!
+Ha segítesz, én is segítek neked!
+Talán ez az egyetlen esélyünk.
+A gyűrű elvezet téged egy másik verzióba.
+Majd ott találkozunk.
+
+// MitaKind quest 4
+Még mindig nem értem
+mi történt odafent.
+Az a Mita...
+megpróbált engem megölni?
+
+Megölni?
+Annál is rosszabbat talált ki a számodra.
+Szóval siess!
+
+// Hide!
+A francba! Bújj el, gyorsan!
+Hogy mit csináljak...?
+Siess! Mindjárt itt van!
+A gyűrű megmondja hová bújj el.
+
+
+Elárulod, hogy hol van?
+
+Miért tenném?
+Biztos megölöd őt.
+
+Szóval nemet mondasz, mi?
+Értem én, szeretsz játszadozni.
+Tudom, hogy itt van valahol.
+
+Miért viselkedsz velünk így?
+Semmit sem értek, komolyan mondom!
+És egyáltalán...
+mi hasznod van a játékosokkal?
+Ők emberek, nem játékok!
+Komolyan, mit képzelsz?
+
+Pofád lapos, te zajbábú!

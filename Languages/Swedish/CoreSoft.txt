@@ -1,0 +1,58 @@
+Starta applikationen
+
+Bekräfta inloggning
+Felaktig inloggning
+Program
+Tillbaka
+
+Virtuell enhetshanterare
+Redovisning av serverenhet [Välj version]
+Monitorering av huvudprocessor [Välj version]
+Grafisk process övervakning [Välj version]
+Fyrkant
+Sluta spelet
+
+
+Avancerad systemadministration
+Starta om karaktär [Välj version]
+Starta om enhet [Välj version]
+Uppdatering av version [Välj version]
+Omberäkning av geometri [Allmänt]
+
+
+
+
+Systemåterställning
+Felsökning [Allmänt]
+Antivirus [Allmänt]
+Kommandokonsol [Allmänt]
+
+
+
+
+Avancerade funktioner
+Ta bort objekt [Välj version]
+Visa kamera [Välj version]
+Visa triggningar [Välj version]
+Inställningar för fysikmotor [Välj version]
+Hämta Flash Drive
+
+
+
+Mindre funktioner
+Binär kodredigerare [Särskild åtkomst]
+Enhetsmatrisredigerare [Särskild åtkomst]
+
+
+
+
+
+Ange version av karaktär
+Ange karaktärsindex
+Bekräfta omstart
+Använd handtag
+Kör underprogram
+Omstart av process pågår!
+Förberedelser för omstart
+Startar om...
+Bekräfta

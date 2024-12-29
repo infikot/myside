@@ -9,30 +9,30 @@ Więc zostawiłam cię w spokoju.
 Czemu rozmieszczenie pokoi się zmieniło?
 
 Przemeblowałam pokoje.
-Żebyś mógl się poczuć bardziej jak w domu,
+Żebyś mógł się poczuć bardziej jak w domu,
 Na szczęście,
 Tutaj możemy aranżować pokoje
 Jak tylko chcemy.
 
 Nie musiałaś.
 Prawie się już przyzwyczaiłem.
-W każdym razie, uważam że w ten sposób będzie nam tu lepiej .
-// Mita card gamę
+W każdym razie, uważam że w ten sposób będzie nam tu lepiej.
+// Mita card game
 Dobrze
 Zagramy?
-Gra się to w ten sposób:
-Czip dyktuje które statystyki są najważniejsze,
+Zasady gry są proste:
+Moneta dyktuje które na które statystyki gramy,
 Na przykład zdrowie:
 Każdy z nas wystawia kartę,
 I jeśli na twojej karcie
 Symbol zdrowia ma większą wartość
 Niż u mnie,
-To ty wygrywasz.
+To wygrywasz.
 Weź swoje karty.
 Moja kolej.
-Woow!
-Trafiły mi się niezłe karty!
-Będę pierwsza!
+Wow!
+Trafiły się niezłe karty!
+Ja pierwsza!
 
 
 
@@ -47,15 +47,15 @@ Twoja kolej!
 No nie.
 Twoja kolej!
 
-Zdrowie wygrywa !
-Teraz chodzi tylko o atak!
+Zdrowie wygrywa!
+Teraz tylko atak!
 Skup się na obronie!
 
 
 Wygrałeś!
 Wygrałeś!
 Tym razem ci się udało.
-Oż ty...
+Ożesz ty...
 
 Wygrałam!
 Tym razem to ja wygrałam!
@@ -83,8 +83,8 @@ Ten z szafy.
 
 Dźwięk?
 Jaki dźwięk?
-Ja nic nie słyszałam .
-Co słyszałeś?
+Ja nic nie słyszałam.
+A ty coś słyszałeś?
 
 Jakieś pukanie, jakby ktoś tam był.
 
@@ -95,7 +95,7 @@ Chciałbym to sprawdzić.
 Trochę mnie to przeraża.
 
 Ale czemu...?
-Znowu to...
+Znowu to samo...
 
 
 
@@ -103,20 +103,20 @@ Znowu to...
 
 
 
-Co z tobą nie tak!?
-To poprostu szafa...
+Co jest z tobą nie tak!?
+To zwykła szafa...
 Trzymam tam swoją bieliznę ...!
 
 Coś przede mną ukrywasz?
 
-Czemu mi nie uwierzysz?
+Czemu mi nie wierzysz?
 Co znów robię źle?
-Poprostu chce...
-Poprostu chcę żebyś że mną został.
+Ja chce tylko...
+chcę żebyś że mną został...
 
 Chciałbym, ale...?
 
-Czemu tak się uparłeś na tą szafę?!
+Dlaczego tak się uparłeś na tą szafę?!
 
 Chce cholera jasna wiedzieć co to za odgłos!
 
@@ -124,12 +124,12 @@ Czy to dlatego
 Że ten świat
 Ma tylko cztery pokoje?
 To dla ciebie za mało?
-Czemu poprostu nie możesz ze mną zostać?
+Czemu po prostu nie możesz ze mną zostać?
 
 
-// Doń't stay with Mita
+// Don't stay with Mita
 Rozumiem.
-Kolejny raz to samo...
+Znowu to samo...
 Skoro tak bardzo chcesz się przekonać,
 Co w niej jest,
 To sobie sprawdź!
@@ -139,11 +139,11 @@ To sobie sprawdź!
 
 Co do...
 
-Czasami się to zdarza .
-Pokój nie zdążył się załadować .
+Czasami się to zdarza.
+Pokój nie zdążył się załadować.
 Poczekaj chwilkę.
 
-Ale to dziwne.
+Dziwne.
 Jesteśmy w czyimś telefonie?
 Może w jakimś słabym, z słabym procesorem?
 
@@ -151,23 +151,23 @@ Nie o to chodzi.
 Niestety nie wszystko jest tutaj
 Idealne...
 Jesteśmy ładowani
-Przez jądro świata.
+Przez rdzeń świata.
 
-Jądro świata?
+Rdzeń świata?
 
 Typowe nie sądzisz?
 
 
 
-Nie ważne
+Nie ważne.
 Możemy pograć na konsoli
-Albo poprostu w karty.
+Albo w karty.
 Wybieraj.
 
 
 
 // Mita play fight
-Chcesz walczyć?
+Chcesz zawalczyć?
 Musisz wygrać
 Cztery razy.
 No dawaj.
@@ -187,7 +187,7 @@ Zobaczymy czy uda ci się
 Pokonać mnie teraz!
 
 Jesteś
-Poprostu
+Normalnie
 Niesamowity! Musisz chyba dużo grać!
 
 
@@ -200,9 +200,9 @@ Grasz na serio?
 Ehh,
 Weź się w garść albo będę cię nazywać przegrywem!
 
-Co dziś tobą ?
-Wytarłam tobą podłogę .
-Nie dałeś z siebie poprostu wszystkiego-
+Co z tobą?
+Wytarłam tobą podłogę.
+Nie dałeś z siebie wszystkiego-
 Dlatego wygrałam!
 
 
@@ -221,32 +221,32 @@ Przepraszam...
 Chyba pobrałam coś
 Z internetu.
 Chciałam trochę urozmaicić
-Obszar wokól domu.
+Obszar wokół domu.
 Ale jak widać
 Musiało być coś nie tak z tym plikiem.
-Naprawię to pózniej.
+Później to naprawię.
 
 Dlatego nie mogę opuścić domu?
 Dokładnie.
 // Mita shy
 Hej...
-Co jest z tobą ?
+Co się dzieje?
 Czegoś potrzebujesz?
 
 
 
 // Wall Clock
-A to jest zegar,
-Który czas pokazuje ?
-Aktualny czas w grze?
-Czy jest połączony z moim telefonem?
+Hej, ten zegar,
+Pokazuje aktualny czas?
+Czy może czas z gry?
+Jest połączony z moim telefonem?
 
 A więc, umm...
 Szczerze to nie wiem.
 Ale czas nie ma tu znaczenia...
-Nie ważne czy jest wcześnie czy pózno,
+Nie ważne czy jest wcześnie czy późno,
 Dziewczyna jak ja
-Jest zawsze pełna energii -
+Jest zawsze pełna energii-
 Nigdy się nie męczę!
 Możemy mieć wieczną wiosnę,
 Lub urządzić sobie wieczny romantyczny wieczór!
@@ -259,16 +259,16 @@ Stać ciągle w czasie, na zawsze...
 
 // Photos of Mita
 Ładne zdjęcia.
-Strzelam że to ty?
+Obstawiam, że to ty?
 
-Tia.
+Ano.
 Też mi się podobają.
 
 Kto je zrobił?
 Czyli są tutaj jeszcze inne osoby?
 
 Można tak powiedzieć.
-Kiedyś ci ich przedstawię .
+Kiedyś ci je przedstawię.
 Ale jeszcze nie teraz.
 Teraz, chcę cię mieć tylko dla siebie.
 
@@ -277,10 +277,10 @@ Teraz, chcę cię mieć tylko dla siebie.
 
 // Portal
 Gdzie jest portal?
-Albo jak kolwiek to nazywałaś?
+Albo jakkolwiek się to nazywało?
 
 Użyłam odrobinę
-Magi
+Magii
 I przeniosłam go
 Gdzieś indziej.
 Nie potrzebujemy go już.
@@ -288,30 +288,30 @@ Tylko nam przeszkadzał.
 
 
 // Mirror in the bedroom
-Patrzenie w lustro
-Nie widząc odbicia jest trochę niepokojące.
+Lustro bez odbić...
+To naprawdę niepokojące...
 
 Możemy włączyć odbicia
 Jeśli tylko chcesz .
 Ale czy naprawdę ich potrzebujemy?
 
 Oczywiście że tak.
-Chyba że.. ma to jakieś konsekwencje?
+Chyba że... ma to jakieś konsekwencje?
 
 Tak.
-Będziemy się zacinać i poruszać się wolniej.
-Widziałeś kiedyś jakaś kreskówke z niskimi klatkami na sekundę?
-Będzie to tak wyglądało cały czas.
+Będziemy się zacinać i wolniej poruszać.
+Widziałeś kiedyś jakaś kreskówkę z niskimi klatkami na sekundę?
+Będzie tak mniej więcej cały czas.
 
 Rozumiem.
-Może lepiej zostawić je wyłączone ...
+Może lepiej zostawmy je wyłączone...
 
 Ej, [player],
-Naprawdę lubisz lustra co?
+Serio lubisz lustra co?
 Masz nadzieję że zobaczysz tam swój uśmiech?
 
 Co? Nie...
-Jestem poprostu zmęczony
+Jestem po prostu zmęczony
 Po całej tej pracy.
 
 
@@ -322,22 +322,22 @@ To twoje?
 Nie, te są twoje.
 Nie pamiętasz?
 
-Nie przypominam sobie żebym takie posiadał.
+Nie przypominam sobie żebym takie miał.
 
-Teraz już masz.
+To teraz już masz.
 Możesz je nosić
 Gdy wyjdziemy na dwór.
 
 A co z ubraniami?
 Wszystko co mam
-To ten ubrania które mam na sobie.
-Czy jest możliwość żebym zdobył jakieś inne?
+To tylko te, które mam na sobie.
+Można tu jakoś zdobyć inne?
 
 Oczywiście.
-Niestety widziałam co nosisz -
+Widziałam co nosisz-
 I jeśli mam być szczera to masz słaby gust.
 W każdym razie, pomogę ci się porządnie ubrać.
-Ale jeszcze nie teraz.
+Ale wszystko w swoim czasie.
 Obiecuję.
 
 Okej.
@@ -345,24 +345,24 @@ Okej.
 
 // Games on TV
 W co chcesz pograć?
-// Gamę milk
+// Game milk
 To bijatyka!
-Zobaczmy kto kogo zbije na kwaśne jabłko pierwszy
+Zobaczmy kto kogo pierwszy stłucze na kwaśne jabłko. 
 Nieźle ci poszło!
-Myślę że mamy dość mleka na ten moment, może zagramy w coś innego?
+Myślę że wystarczy już mleka na ten moment, może zagramy w coś innego?
 // Gamę penguins
 W tej grze jesteś pingwinem
-I się ślizgasz.
-Dokładnie o to tu chodzi.
+Musisz się ślizgać i zbierać śnieżki.
+Dokładnie o to w tym chodzi.
 
 // Stay with Mita
-Co, naprawdę?
+Czekaj, naprawdę?
 Mówisz serio? Myślałam że mnie...
 Jestem taka szczęśliwa!
 I trochę zszokowana...
 Ale...
-Proszę bądź ze mną -
-Już zawsze i na zawsze.
+Będziemy już razem-
+Już zawsze i na zawsze...
 
 
 

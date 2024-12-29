@@ -1,31 +1,31 @@
 ¿Mita?
 Ah, ¿ya despertaste?
 ¿Cómo llegaste aquí?
-Estabas junto a mi hace un instante.
+Estabas junto a mí hace un instante.
 
 No, no lo estaba.
 Te congelaste frente al espejo.
 Así que me fui. 
-¿Por que cambiaron los cuartos? 
+¿Por qué cambiaron los cuartos? 
 
 Reorganicé el lugar 
-para hacerte sentir mas como en casa.
+para hacerte sentir más como en casa.
 Aquí,
 podemos cambiar los cuartos
 como queramos.
 
-No debiste.
-Me estaba acostumbrando a el diseño.
-De cualquier manera, creo que te sentirás mas cómodo con este acomodo.
+No te hubieras molestado.
+Me estaba acostumbrando al diseño.
+De cualquier manera, creo que te sentirás mas cómodo así.
 // Mita card game
 Bien,
-¿Jugamos?
+¿jugamos?
 El juego funciona así: 
-La ficha indica un tipo,
+La ficha indica un atributo,
 por ejemplo, salud: 
 Cada uno juega una carta,
 y si tu carta tiene un nivel mas alto
-de vida
+de salud
 que la mía,
 tu ganas.
 Toma tus cartas.
@@ -47,24 +47,24 @@ Es mi turno.
 Uh-huh.
 ¡Tu turno!
 
-¡Gana quien tenga mas salud!
-¡Todo es sobre el ataque!
+¡Gana quien tenga más salud!
+¡Ahora manda el ataque!
 ¡Solo enfócate en la defensa!
 
 
-¡Tu ganas!
+¡Tú ganas!
 ¡Ganaste!
 Me atrapaste.
-Oh tu...
+Oh tú...
 
 ¡Yo gano!
 ¡Soy la ganadora!
 ¡Gané!
-¡Ja!, te tengo
+¡Ja, te tengo!
 
-Eso es empate.
+Es un empate.
 ¡Todo igual!
-¡Ahora eso es un empate!
+¡Eso sí que es un empate!
 El mismo valor...
 
 
@@ -92,7 +92,7 @@ Pero...
 No hay nadie ahí...
 
 Me gustaría ir a revisar.
-Me alarma un poco.
+Me tiene un poco asustado.
 
 ¿Pero por qué...?
 Esto otra vez...
@@ -109,39 +109,39 @@ Es mi armario...
 
 ¿Me estás escondiendo algo?
 
-¿Por qué no solo crees en mi?
+¿Por qué no me crees y listo?
 ¿Qué estoy haciendo mal?
 Lo que quiero...
-Todo lo que quiero es que estés conmigo.
+lo único que quiero es que estés conmigo.
 
-También querría eso, ¿pero aun así...?
+También me gustaría, ¿pero aún así...?
 
-¡¿Por que estas tan enfocado en el armario?!
+¡¿Por qué estas tan enfocado en el armario?!
 
-¡Solo quiero saber cual es ese sonido!
+¡Solo quiero saber qué es ese sonido!
 
-Es acaso por que
+Es acaso porque
 este mundo
-solo tiene estos cuatro cuartos?
-¿No es suficiente para ti?
-¿Por que no puedes solamente estar conmigo?
+¿solo tiene estos cuatro cuartos?
+¿No es suficiente para tí?
+¿Por qué no puedes solamente estar conmigo?
 
 
 // Don't stay with Mita
 Lo entiendo.
-otra vez...
+Esto otra vez...
 Si tanto quieres revisar el armario,
 entonces hazlo,
-¡Y Descubre que hay dentro!
+¡y descubre que hay dentro!
 
 
 
 
 Pero qué...
 
-Eso pasa algunas veces.
+Eso pasa a veces.
 El cuarto no tuvo suficiente tiempo para cargar.
-solo espera un momento.
+Solo espera un momento.
 
 Esto es muy raro.
 ¿Estamos dentro del teléfono de alguien?
@@ -162,17 +162,17 @@ Típico, ¿no lo crees?
 De todas formas, podemos
 jugar un juego en la consola
 o solo jugar a las cartas.
-Tu elige.
+Elige tú.
 
 
 
 // Mita play fight
 ¿Quieres pelear?
 Tienes que ganar 
-Cuatro veces.
+cuatro veces.
 ¡Venga!
-No te preocupes, me contendré
-contigo para empezar.
+No te preocupes,
+te lo pondré fácil de momento.
 
 
 Eres un buen peleador.
@@ -183,26 +183,26 @@ Bien, muy bien.
 Voy a ponerme seria.
 
 ¡Wow!
-Veamos si puedes 
+¡Veamos si puedes 
 vencerme ahora!
 
-Tu eres
+Tú eres
 simplemente
-¡Increíble! ¡Tienes gran habilidad!
+¡increíble! ¡Tienes mucho talento!
 
 
 ¿Cuál es el problema?
-Vamos, ¡No seas aburrido!
+Vamos, ¡no seas aburrido!
 
 Bueno,
 eso fue todo. Fatality por cierto.
 
 Ahora,
-¡Ve enserio o serás un perdedor por siempre!
+¡ve en serio o serás un perdedor por siempre!
 
 ¿Qué te pasó?
 Barrí el suelo contigo.
-No diste todo tu ser
+No diste todo lo que tenías
 ¡por eso gané!
 
 
@@ -213,8 +213,8 @@ Están en el dormitorio.
 
 
 // Door > [ERROR]
-Eh, ¿Qué esta pasando?
-Donde esta...?
+Eh, ¿qué esta pasando?
+¿Dónde está...?
 
 Uh-oh.
 Lo siento...
@@ -227,7 +227,7 @@ que había algo mal con el archivo.
 Lo arreglaré después.
 
 ¿Es por eso que no podemos dejar la casa?
-Si, es por eso.
+Sí, es por eso.
 // Mita shy
 Oye...
 ¿Qué pasa contigo?
@@ -237,49 +237,49 @@ Oye...
 
 // Wall Clock
 Este reloj de aquí,
-¿Qué hora está mostrando?
+¿qué hora está mostrando?
 ¿El tiempo dentro del juego?
-¿o esta sincronizado con mi teléfono?
+¿o está sincronizado con mi teléfono?
 
 Bueno, uhm...
 Honestamente no lo sé.
 Pero el tiempo no importa aquí...
 Sin importar si es temprano o tarde,
 una chica fuerte como yo
-está siempre llena de energía
+está siempre llena de energía.
 ¡Nunca me canso!
 Podemos tener una eterna primavera,
 o una tarde interminable!
 
 Eso es interesante...
-Y a la vez un poco aterrador.
+y a la vez un poco aterrador.
 Estar atrapado en el mismo momento, por siempre...
 
 
 
 // Photos of Mita
 Lindas fotos.
-¿Supongo que son de tuyas?
+¿Supongo que son tuyas?
 
 Sip.
-Me gustan también.
+También me gustan.
 
 ¿Quién las tomó?
 ¿Hay otros en este mundo también?
 
-Podrías decir eso.
+Digamos que sí.
 Te los presentaré, eventualmente.
-Solo no ahora.
-Por el momento, hay que estar juntos, solo nosotros dos.
+Solo que aún no.
+Por ahora, solo quiero estar contigo a solas.
 
 
 
 
 // Portal
-¿A donde se fue el portal
-O como sea que lo llamas?
+¿A doónde se fue el portal?
+¿O como sea que lo llamaste antes?
 
-Use un pequeño
+Usé un pequeño
 truco de magia
 y lo moví
 a otro lugar.
@@ -288,7 +288,7 @@ Solo estaría en nuestro camino.
 
 
 // Mirror in the bedroom
-Mirar a través de un espejo sin
+Mirar un espejo sin
 ver un reflejo da miedo.
 
 Podría activar los reflejos
@@ -296,19 +296,19 @@ si de verdad lo quieres.
 Pero, ¿realmente los necesitamos?
 
 Pero claro que los necesitamos.
-O... ¿Activarlos atrae consecuencias?
+O... ¿activarlos trae consecuencias?
 
-Si.
-Nosotros nos moveríamos mas lento y con tirones.
+Sí.
+Nos moveríamos mas lento y entrecortados.
 ¿Alguna vez has visto una caricatura con bajos fotogramas?
-Seria como eso para nosotros, todo el tiempo.
+Sería como eso para nosotros, todo el tiempo.
 
 Entiendo.
-Entonces es mejor así...
+Entonces es mejor tenerlas apagadas...
 
 Oye, [player],
-De verdad te gustan los espejos, ¿No es así?
-¿Te asustaría ver una sonrisa en esa cara tuya?
+te gustan mucho los espejos, ¿no es así?
+¿Tienes miedo de ver una sonrisa en esa cara tuya?
 
 ¿Eh? No realmente...
 Solo estoy cansado
@@ -326,21 +326,21 @@ No recuerdo tener zapatos como esos.
 
 Ahora los tienes.
 Podrás usarlos
-Cuando salgamos afuera.
+cuando salgamos afuera.
 
 ¿Qué hay sobre la ropa?
 Todo lo que tengo en este mundo
 son las prendas que estoy vistiendo.
-¿Hay alguna manera para conseguir nuevas?
+¿Hay alguna manera de conseguir nuevas?
 
 Por supuesto que hay.
 Aunque, he visto lo que vistes
 y honestamente, no tienes buen gusto.
 De cualquier forma, te ayudaré a conseguir algunas.
 Solo que no justo ahora.
-Lo prometo.
+Es una promesa.
 
-Esta bien.
+Está bien.
 
 
 // Games on TV
@@ -348,21 +348,21 @@ Esta bien.
 // Game milk
 ¡Este es un juego de peleas!
 ¡Vamos a ver quien se cuaja primero!
-¡Es un gran juego!
+¡Que buena partida!
 Ya tuvimos suficiente leche por ahora, vamos a hacer otra cosa.
 // Game penguins
-En este juego, tu eres un pingüino
+En este juego, eres un pingüino
 que se desliza alrededor.
-Bien, ese fue el juego.
+Bien, eso es todo.
 
 // Stay with Mita
-Eh, ¿Qué?
-¿Lo dices enserio? Creí que dirías...
+Eh, ¿qué?
+¿Lo dices en serio? Creí que dirías...
 ¡Estoy llena de alegría!
 Y un poco desconcertada...
 Pero...
 Por favor, quédate conmigo
-Por y para siempre.
+por y para siempre.
 
 
 
@@ -378,23 +378,23 @@ Por y para siempre.
 // A game about penguins
 Es muy simple:
 solo recoge las bolas de nieve.
-quien recoja mas, ¡gana!
-Vamos a jugar dos rondas, ¿Esta bien?
+Quien recoja más, ¡gana!
+Vamos a jugar dos rondas, ¿está bien?
 // The first map
-Wow, ¿Cómo conseguiste tantas?
-¡Yo tengo la mayoría de las bolas de nieve!
+Wow, ¿cómo conseguiste tantas?
+¡Jiji! ¡Conseguí mas bolas de nieve que tú!
 ¡Mas te vale remontar!
-¡Ja!, 1:1!
+¡Ja, 1:1!
 // The second map
-¡Tu eres un pingüino por naturaleza!
-¡Deberíamos llevarte sobre hielo de vedad!
+¡Tú eres un pingüino por naturaleza!
+¡Deberíamos llevarte sobre hielo de verdad!
 Pfft, eres tan lento.
-¿Aun piensas de la ultima ronda?
-Wow, ¡un empate! ¡Eso si que es raro!
+¿Sigues pensando en la última ronda?
+Wow, ¡un empate! ¡Eso sí que es raro!
 // The game is over
 Bien, ¿quieres jugar algo mas?
 ¿O ya tuviste suficiente?
 
 // Tetris - Mita
-¿Para que necesitas eso?
+¿Para qué necesitas eso?
 ¿Eres tan buen jugador?

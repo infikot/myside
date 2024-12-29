@@ -1,0 +1,35 @@
+Skanning krävs!
+Kräver
+Version
+Antal ben
+Ingen entitet hittades. Skanning krävs!
+Skanning slutförd
+
+
+
+
+
+
+
+
+
+
+// Handledning slutförd
+Whoo-hoo!
+Du gjorde det!
+
+// Handledning
+Så, vad gör jag här?
+Jag måste komma till din skärm...
+Nu...
+Så!
+Du måste se till att den här prototypen är den rätta.
+Skanna den först.
+Nu, kolla versionen och benskelettet.
+Ta den här prototypens data och jämför med standardversionen.
+Det är en perfekt matchning! Låt oss nu kontrollera känslorna.
+Exemplaret visar framgångsrikt känslor! Dags att testa beteendet.
+Okej, vi har kollat allt och allt matchar! Dra nu upp spaken.
+Jippi! Nu är huden på! Ge henne lådan med kläder.
+Så där ja! Ser du lamporna där uppe? En av dem blev grön, vilket betyder att vi gjorde rätt!
+Din tur! Jag kommer tillbaka när alla lampor lyser grönt. Lycka till!

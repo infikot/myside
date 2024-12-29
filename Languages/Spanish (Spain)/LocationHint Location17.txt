@@ -2,4 +2,4 @@ Encuentra una forma de salir.
 Intenta despertar a Mita.
 Prepara café.
 Dale el café a Mita.
-Lleva a Mita hacia los interruptores.
+Lleva a Mita hacia las palancas.

@@ -75,7 +75,7 @@ Mostrar pistas
 Voz del jugador
 Discord
 Perfil de personaje añadido
-Ángulo de cámara
+Campo de visión
 Voz
 Desactivado
 La mano se extiende hacia la puerta
@@ -90,7 +90,7 @@ Mita somnolienta
 Mita 2D
 Mila
 Mita espeluznante
-Mita esencial
+Mita Núcleo
 Mita fantasmal
 Mita chibi
 Mita maniquí
@@ -143,12 +143,12 @@ Socios de publicación
 Marketing del juego
 Testers
 Jugaron y encontraron todo tipo de errores.
-Esta traducción fue realizada por miembros apasionados de la comunidad y añadida al juego a su petición.
+Esta traducción fue hecha por miembros apasionados de la comunidad y fue agregada al juego bajo su petición.
 El juego incluye "screamers" con sonidos intensos y efectos visuales intermitentes. Algunas partes del juego pueden ser peligrosas para personas con problemas cardíacos o que padezcan de epilepsia. Le recomendamos tomar precauciones.
 ¡Ya puedes acceder al modo pacífico!
 
 Modo foto
-Modo Foto: Se eliminan todas las restricciones de vuelo, permitiéndote explorar áreas normalmente inaccesibles.
+Modo Foto: Se eliminan todas las restricciones de movimiento, permitiéndote explorar áreas normalmente inaccesibles.
 Salir del modo foto
 Ocultar interfaz
 Mantener pulsado para mover la cámara

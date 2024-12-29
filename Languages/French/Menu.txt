@@ -144,11 +144,11 @@ Marketing
 Testeurs
 Ont joué et fait remonter les problèmes.
 Cette traduction a été réalisée par des membres passionnés de la communauté et fut ajoutée au jeu à leur demande.
-Le jeu contient des screamers accompagnés de sons forts et d'effets visuels clignotants. Certains passages du jeu peuvent présenter un danger pour les personnes atteintes de problèmes cardiaques, ou ceux souffrant d'épilepsie. Merci d'être vigilant.
+Attention ! Ce jeu contient des screamers accompagnés de sons forts et d'effets visuels clignotants. Il n'est à ce titre pas recommandé pour les personnes atteintes de problèmes cardiaques, ou ceux souffrant d'épilepsie.
 Le Mode Pacifique est désormais disponible !
 
 Mode Photo
-Mode Photo : Caméra libre disponible, vous permettant de regarder là où vous ne le pouviez pas.
+Mode Photo : Caméra libre disponible, vous permettant d'explorer les endroits jusqu'ici inaccessibles.
 Quitter le Mode Photo
 Masquer l'interface
 Maintenir pour déplacer la caméra

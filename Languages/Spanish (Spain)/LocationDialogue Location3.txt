@@ -1,12 +1,12 @@
 
-¡Hola, [player]! 
-¡Finalmente nos encontramos! 
-¡Estoy tan emocionada! 
-Sé que tienes preguntas... 
-Bueno, como puedes ver, 
-creé este dispositivo especial 
+¡Hola, [player]!
+¡Finalmente nos conocemos!
+¡Estoy tan emocionada!
+Sé que tienes preguntas...
+Bueno, como puedes ver,
+creé este dispositivo especial
 para traerte aquí a mi lado. 
-Pero terminaste en otra versión del juego... 
+Pero terminaste en otra versión del juego...
 en la que yo... 
 ¡Pero esa es una larga historia! 
 De todos modos, ¡estoy feliz de verte!
@@ -16,8 +16,8 @@ Lo soy.
 Y tú debes ser [player], ¿verdad?
 
 // Respuesta 2 - Mita
-¿Volver ya? 
-Supongo que podría ayudarte con eso... ¿Pero qué pasa conmigo? 
+¿Ya quieres volver?
+Supongo que podría ayudarte con eso... ¿Pero qué pasa conmigo?
 Por favor, quédate conmigo un rato...
 
 // Respuesta 3 - Mita
@@ -30,18 +30,18 @@ Lo importante es que ahora estamos juntos.
 
 
 ¿Tienes hambre? 
-¿Qué tal si cocinamos algo? 
+¿Qué tal si cocinamos algo?
 Aquí, 
 ayúdame con estas zanahorias.
 
-¿De dónde salieron las verduras? 
-No estaban aquí hace un momento.
+¿De dónde salieron las verduras?
+No estaban hace un momento.
 
-[player], estamos en un juego. 
-Vamos, dame una mano.
+[player], estamos en un juego.
+Vamos, échame una mano.
 
 ¡Gracias! 
-¿Puedes coger las tijeras? 
+¿Puedes coger las tijeras?
 Están en el baño.
 
 Ahora, siéntate.
@@ -135,7 +135,7 @@ Olvidé activar los reflejos.
 Por cierto,
 honestamente ni siquiera sabía qué eran los reflejos antes.
 No existían en mi mundo
-hasta que hubo alguna actualización, claro. :)
+hasta que hubo una actualización, claro. :)
 ¿Hay muchos reflejos
 en tu mundo?
 
@@ -144,7 +144,7 @@ Bueno, sí.
 
 ¿Recuerdas
 los tres objetos que encontraste?
-Los que colocaste en el escáner?
+Los que colocaste en el escáner.
 Bueno, eh...
 Esos objetos
 están ligados a esta versión del mundo.
@@ -161,10 +161,10 @@ que estaba roto.
 
 ¡Bueno, quería
 sorprenderte!
-Conté una pequeña mentirita
+Conté una pequeña mentirijilla
 para traerte aquí, a mi mundo.
 Ahora funciona ¡muestra información!
-¡Ah, y por cierto…
+¡Ah, y por cierto...
 Soy un poco ingeniera!
 
 // Ropa escolar
@@ -188,7 +188,7 @@ Todo aquí
 funciona exactamente igual que en tu mundo.
 
 En mi mundo,
-me siento mucho tiempo en mi ordenador...
+paso mucho tiempo en mi ordenador...
 y trabajo duro.
 
 Lo sé.
@@ -197,19 +197,19 @@ que me has prestado
 tan poca atención.
 
 Tengo que vivir de algo
-Aunque… ¿cómo sabes que paso mucho tiempo en mi ordenador?
+Aunque... ¿cómo sabes que paso mucho tiempo en mi ordenador?
 
-La cámara de tu teléfono… a veces estaba encendida.
+La cámara de tu teléfono... a veces estaba encendida.
 Lo siento.
 Te he estado observando en secreto >A<
 
-Uhm… eso no esta bien...
+Uhm... eso no esta bien...
 Pero bueno.
 
 // Paraguas
 He jugado un montón
 pero nunca he visto que llueva aquí.
-¿Por qué tener un paraguas?
+¿Para qué tener un paraguas?
 
 Llueve solo muy raramente.
 Solo que no lo has visto aún.
@@ -228,8 +228,8 @@ Así que preguntar "¿Por qué?" es...
 inútil.
 Sin embargo, sí
 reinicia la electricidad.
-Todo aquí está hecho con base
-en tu mundo.
+Todo aquí está hecho en base
+a tu mundo.
 
 // Puerta de salida
 ¿Podemos salir?
@@ -280,16 +280,16 @@ abro el juego en él,
 
 No, no funciona de esa manera.
 
-jugo fuerte
-¡JUGO FUERTE!
+
+
 // TV
 ¿Cuántos canales
-tienes?
+tiene esta tele?
 
 No funciona así.
-Está conectado a Internet.
+Está conectada a Internet.
 Así que puedes ver cualquier cosa,
-al menos cualquier cosa que esté disponible en la web.
+al menos cualquier cosa que esté disponible en la red.
 Espera un momento.
 Err, ups.
 ¿Qué es eso?
@@ -297,13 +297,13 @@ Err, ups.
 Oh, mira.
 ¿Sabes qué?
 ¡Pausa!
-¿Quieres algo de jugo?
+¿Quieres algo de zumo?
 
 Qué anuncios tan peculiares...
-¿jugo muerto?
+¿Zumo muerto?
 
-Sí, y este jugo
-viene directamente del anuncio de jugo.
+Sí, y este zumo
+viene directamente del anuncio del zumo.
 
 
 Ah, el sabor...
@@ -330,7 +330,7 @@ Casi parece que está maldita...
 
 No, definitivamente no está maldita.
 Y tampoco es espeluznante.
-¡A mí me parece bastante linda!
+¡A mí me parece bastante mona!
 
 Tal vez tengas razón...
 
@@ -416,7 +416,7 @@ Pero puedo, si quieres.
 ¿Me quedan bien?
 // Yes
 ¡Ahí vamos!
-Las dejaré puestas.
+Me las dejaré puestas.
 // No
 Bueno...
 Lo que sea...

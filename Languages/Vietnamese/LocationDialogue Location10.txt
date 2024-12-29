@@ -26,7 +26,7 @@ Nào, nhanh lên!
 // After mini-game
 Sao rồi, hiểu ý nghĩa của trò chơi này chưa?
 
-Người anh là xương là thịt, còn em thì sao? Hình nộm à?
+Anh đây bằng xương bằng thịt, còn em thì sao? Hình nộm à?
 
 Thôi nào!
 Đừng nói chuyện đáng sợ thế chứ.
@@ -67,12 +67,12 @@ về nhà của họ.
 // Quest 2 (Why is it so dark downstairs?)
 Mita chúng em được "sinh ra" trong bóng tối
 và tồn tại trong bóng tối một thời gian.
-Anh có thể tưởng tượng được không?
+Anh tưởng tượng được không?
 Việc đột ngột phải nhìn thấy ánh sáng sẽ đau đớn đến nhường nào...
 
 // Quest 3 (What are you doing here?)
 Vẫn chưa hiểu sao?
-Em ở đây để giúp Mita tội nghiệp kia ổn định lại tinh thần!
+Em ở đây để giúp những Mita tội nghiệp ấy ổn định lại tinh thần!
 Ngoài em ra, họ còn có thể dựa vào ai chứ?
 Anh hả?
 
@@ -82,7 +82,7 @@ Phía cuối băng chuyền có phòng cho mọi người à?
 
 Khoan đã, anh chẳng hiểu gì về
 cách thế giới này vận hành nhỉ...
-Cái này là vô tận đó?
+Băng chuyền này là vô tận đó?
 
 Vô tận?
 Ừm...
@@ -107,7 +107,7 @@ Anh đã từng đến đó chưa?
 
 Anh rồi.
 Lần đầu tiên anh đến thế giới này
-là phiên bản 1.5 ấy!
+là phiên bản 1.5!
 
 Whoa!
 Ra là thế...
@@ -115,7 +115,7 @@ Em tò mò không biết anh vào nhà số mấy.
 Có một "em" lúc nào cũng than vãn,
 một "em" cực kỳ thích chơi đùa,
 một "em" đãng trí lại còn xấu tính...
-Ưm, kể mãi không hết...
+Ừm, kể mãi không hết...
 Anh có nhớ được gì không?
 
 Trong nhà lúc đó tối om.
@@ -123,7 +123,7 @@ Nhưng có dòng chữ viết
 đại loại là...
 "Chơi không anh?"
 
-À,
+À.
 Tệ thật...
 Là nhỏ đó.
 Nhỏ đó vừa đãng trí vừa xấu tính.
@@ -154,7 +154,7 @@ Khi anh tải phiên bản 1.14 về
 giống như việc tạo ra một sinh mệnh mới...
 một Mita mới, và một ngôi nhà mới trên phiên bản đó.
 
-Hừm...
+Hm...
 
 Có câu hỏi chi tiết nào cứ hỏi nhé. 
 Về những gì được vẽ ở đây.
@@ -174,7 +174,7 @@ Mita Buồn Ngủ?
 Có phải là do mọi người cứ qua lại nơi đó
 nên cô ấy không thể ngủ ngon được?
 
-Hừm.
+Hm.
 Chỉ là đi ngang qua cửa thôi
 nên lẽ ra có gây phiền phức gì đâu.
 
@@ -195,8 +195,8 @@ phiên bản 1.15,
 nhà số 809.
 Bọn em đang cố gắng đi đến phiên bản 1.11,
 nhà số 805.
-Ban đầu, tuyến đường cô ấy định đi là theo đường này,
-nhưng bọn em cần một tuyến đường ngắn hơn nữa.
+Ban đầu, cô ấy định đi theo tuyến đường này,
+nhưng bọn em cần một tuyến đường ngắn hơn.
 Và Mita Đáng Yêu ấy đề xuất như thế này.
 Nhưng em lại nghĩ ra cách đơn giản hơn nhiều. 
 Rõ quá còn gì?
@@ -209,8 +209,8 @@ Nó đang dẫn anh tới nơi nào vậy?
 
 Anh đang đi tới Lõi.
 
-Lõi ấy hử?
-Hừmm...
+Lõi ấy hả?
+Hmm...
 Nếu anh muốn đi đường tắt
 thì buộc phải đi qua phiên bản 1.11 nữa.
 Chắc chắn anh sẽ gặp Mita Buồn Ngủ ở đó.
@@ -231,7 +231,7 @@ Dọn dẹp mấy cái thùng này
 và mang ghế sofa qua đây.
 Chứ em ngồi đau hết mông rồi!
 
-Ừm thì...
+Vậy...
 Anh có thể giúp gì không?
 
 Không cần đâu, Mita Phong Cách ấy lo liệu được.
