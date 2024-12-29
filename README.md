@@ -1,4 +1,4 @@
-# NOT OFICIAL MiSide Game Localization Repository
+# NOT OFICIAL Repository For MiSide Game Localization
 
 ## Disclaimer
 
