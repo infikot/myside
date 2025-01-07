@@ -16,7 +16,7 @@ Che succede in questo posto?
 
 Te lo dirò più tardi.
 Per ora, vai verso l'uscita.
-Incontriamoci nella sala giochi.
+Incontriamoci nel cabinato.
 
 
 
@@ -26,7 +26,7 @@ Sbrigati, non fare tardi!
 // After mini-game
 Allora, hai capito il senso del gioco?
 
-Che io sono fatto di carne e ossa e tu sei fatto di uno schema scheletrico?
+Che io sono fatto di carne e ossa e tu sei fatta di uno schema scheletrico?
 
 Wow!
 Sembra inquietante detto così.
@@ -34,14 +34,14 @@ Ma il succo del discorso è questo.
 
 Giusto, ma perché devo capirlo?
 
-Pensavo di averti detto che andare oltre
-era pericoloso, non è uno scherzo.
+Ti ho detto che andare oltre
+era pericoloso, e non sto scherzando.
 Ti imbatterai in... modelli abbandonati...
 Quelli abbandonati, quelli “difettosi”.
 Sono aggressivi e possono anche tentare di ucciderti.
 
 Quindi, cosa dovrei fare?
-Andrò
+Andrò...
 ovunque si apra una porta.
 
 Wow!
@@ -58,7 +58,7 @@ Tienilo a mente!
 
 
 // Quest 1 (Why are there other Mitas down there?)
-Sono appena stati creati.
+Sono appena state create.
 Hanno bisogno di tempo
 per acquisire consapevolezza di sé.
 Poi guido ognuna
@@ -78,10 +78,10 @@ Tu?
 
 // Quest 4 (Why do we need this conveyor?)
 A cosa serve questo nastro trasportatore?
-C'è abbastanza spazio per tutti?
+Non c'è abbastanza spazio per tutti?
 
 Aspetta, non dirmi che non capisci
- come funziona il mondo...
+come funziona il mondo...
 E che è infinito?
 
 Infinito?
@@ -98,20 +98,20 @@ Vuoi sapere come funziona?
 
 // Quest 5 (What is your version?)
 Aspetta,
-non ti ho incontrato nell'ultima versione?
+non ti ho forse incontrata nell'ultima versione?
 O forse è solo la mia immaginazione.
 
 Beh, è abbastanza possibile.
 Vengo dalla versione 1.5.
 Ci sei stato?
 
-Sì, l'ho fatto.
+Sì, ci sono stato.
 È lì che sono arrivato
 quando sono stato gettato in questo mondo!
 
 Wow!
 Ma come...?
-Ma in quale indice di casa ti trovi?
+Ma in quale indice di casa ti trovavi?
 C'è una “me” che non riesce a smettere di lamentarsi,
 una “me” che ama divertirsi,
 una "me" con una pessima memoria e che ama fare la prepotente con gli altri...
@@ -125,11 +125,11 @@ come...
 
 Ah,
 che peccato...
-Questo è la “me"
+Quella era la “me"
 che fa la prepotente e dimentica le cose.
 
 // Mita wants to tell you [No]
-Grazie di niente.
+Grazie ma no grazie.
 Me la caverò anche senza saperne di più.
 
 Va bene, fai come vuoi.
@@ -144,7 +144,7 @@ o rimanere ad ascoltare
 se ti interessa.
 Un giocatore scarica MiSide
 e gioca quanto vuole.
-Lì, crea una nuova casa
+Cosi, crea una nuova casa
 e una nuova Mita.
 Questa è una rappresentazione in 2D.
 Queste sono le versioni,
@@ -168,9 +168,9 @@ per poi non essere mai più ripetuta.
 È l'unica versione veramente unica.
 Inoltre, queste versioni sono speciali
 e non hanno alcun percorso verso altre versioni.
-Sleepy Mita risiede in questa versione, la 1.1.
+Mita Dormigliona risiede in questa versione, la 1.1.
 
-Mita addormentata?
+Mita Dormigliona?
 Perché non riesce mai a dormire
 con tutti quelli che passano per la sua versione?
 
@@ -182,7 +182,7 @@ ma è impossibile svegliarla.
 Perché questa sfera è tutta scura?
 
 Uhm, questa è qui
-per via della Pretty Mita.
+per via di Mita Carina.
 L'ha disegnata lei.
 Stavamo discutendo su
 chi riusciva a raggiungere la versione 1.11 più velocemente.
@@ -197,7 +197,7 @@ Dobbiamo raggiungere la versione 1.11,
 indice 805.
 Quindi, il suo percorso è iniziato così.
 Abbiamo cercato di trovare un percorso più breve,
-così Pretty Mita ha suggerito questo percorso.
+così Mita Carina ha suggerito questo percorso.
 E poi ho disegnato quello più semplice, qui.
 Facile, vero?
 Basta guardare qui.
@@ -213,7 +213,7 @@ Il nucleo?
 Hmm...
 Se vuoi il percorso più breve,
 devi passare anche per la versione 1.11.
-Lì incontrerai sicuramente Sleepy Mita.
+Lì incontrerai sicuramente Mita Dormigliona.
 Credo che la Mita che ti ha mandato,
 abbia seguito lo stesso percorso.
 O forse non si è resa conto che stai seguendo un percorso diverso.
@@ -225,16 +225,16 @@ Credo di aver capito.
 // He asks about the inscription
 Di cosa si tratta?
 
-È per Cool Mita.
+È per Mita Tosta.
 Sarà qui tra qualche ora.
 Sposterà quelle scatole
 e metterà un divano qui.
-Mi fa male il culo!
+Mi fa male il sedere!
 
 Emm...
 Forse potrei aiutare?
 
-No, quello è il lavoro di Cool Mita.
+No, quello è il lavoro di Mita Tosta.
 Lei è una dura.
 
 // He asks about the drawings
@@ -242,5 +242,5 @@ Lei è una dura.
 o
 significa qualcosa?
 
-Sì, è solo uno scarabocchio,
+Sì,
 è solo uno scarabocchio.

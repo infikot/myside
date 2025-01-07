@@ -1,4 +1,4 @@
-Iniciar a aplicação
+Iniciando Aplicação
 
 Confirmar o início da conexão
 Conexão incorreta
@@ -14,10 +14,10 @@ Fim do jogo
 
 
 Administração Avançada do Sistema
-Reiniciando Personagem [Selecionar Versão]
-Reiniciando Dispositivo [Selecionar Versão]
-Atualização de Versão [Selecionar Versão]
-Recalculando Geometria [Geral]
+Reiniciar Personagem [Selecionar Versão]
+Reiniciar Dispositivo [Selecionar Versão]
+Atualizar Versão [Selecionar Versão]
+Recalcular Geometria [Geral]
 
 
 

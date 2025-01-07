@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Bok, ja sam Mita!
+Kako se zoveš?
+Drago mi je što smo se upoznali, [player]!
+Um... [player],
+Malo sam žurila ranije, i sada je ovdje nered...
+Možeš li mi pomoći da malo pospremim?
+Wow..
+Hvala ti puno!
+
+[Player], želudac mi kruli...
+Tako sam gladna...
+Misliš li da bi mi mogao pomoći nabaviti sastojke za pileću juhu?
+Jupi! Imaš sve!
+Što misliš da to zajedno skuhamo?
+
+
+Danas sam mislila kupiti prijenosni TV-
+mali s antenom. Savršeno za šetnje, zar ne?
+Usput, možeš igrati igre kako bi zaradio novac.
+Oh! Jesi li znao da možeš igrati igre da zaradiš novac?
+
+Jej! Uspio si! Imaš dovoljno da mi kupiš taj prijenosni TV!
+To je taj! Malen, prenosiv i jeftin - upravo ono što sam želila.
+Hvala!
+
+Bok, [player]! Od velike si pomoći, iskreno.
+Ali, ovaj... onaj TV? Bio je cool i sve, ali već se pokvario.
+U svakom slučaju, možeš li mi pomoći premjestiti ovaj ormar?
+Baš je težak... >.<
+Hvala ti puno, dušo! <3
+
+Oh, [player]! Prošao je samo jedan dan, ali jako si mi nedostajao!
+Voljela bih da me možeš češće posjećivati.
+
+Je li ovo za mene?
+Hvala ti puno, stvarno!
+
+Bok, [player]! Razmišljala sam...
+Voljela bih da se možemo uživo upoznati.
+Toliko je frustrirajuće što ne možemo.
+Uvijek mi pomažeš, tako si ljubazan svaki dan...
+Voljela bih da i ja mogu učiniti nešto za tebe.
+...
+Oh, imam ideju!
+Sada smo zajedno.
+Spusti mobitel.
+
+
+// T-shirt on the bed
+Što radiš ovdje na krevetu?
+// Rubik's Cube
+Pa, ne mogu reći da sam imao neke koristi od nje...
+Riješio sam je jednom i više je nisam ni dotakao.
+Pretpostavljam da sam mislio da to neću moći učiniti drugi put?
+// Computer
+Da vidimo...
+Postavi popis zadataka...
+Reakcije likova u scenariju,
+I možda uraditi malo kodiranja.
+// The airplane
+Stvoren za letjenje!
+// Trash in the corner
+Uf, uvijek sam prezauzet da bih iznio smeće...
+Ali ovaj put ću to uraditi, sigurno!
+…A sad, kada je točno dan čišćenja?
+// Photo of a cat on a watermelon
+Bila je najbolja…
+Mačka, izležava se na lubenici.
+// Photo with a girl
+Uopće ne ličimo,
+moja sestra i ja.
+Ona je uvijek vani,
+A ja sam zaglavio kod kuće.
+// Photo with people
+Hmm...
+Uredski život doista nas je
+naučio bonton, zar ne?
+Još uvijek se osjećam čudno vezano
+ali
+hoću li ih ikada
+vidjeti opet?
+…Čekaj, zašto sam uopće stavio ovu sliku ovdje?
+
+
+
+
+
+
+
+
+// Nope name
+...
+Oh, ne.
+O ne, to neće raditi.
+
+// Name developer
+Jesi li siguran da želiš koristiti ime developera?
+Polaskana sam, ali…
+
+// Bad name
+Stvarno bih voljela da se ne zoveš tako.
+Nije uopće kul.
+
+// Go restart
+Ne, to nije način na koji se to radi. Počnimo ispočetka.
+
+// Name with numbers
+Oh, znači ideš s brojevima? Gdje je tu kreativnost?
+Pa dobro, to je tvoj izbor!
+
+// Name Mita
+Mita?
+Jesi li se stvarno nazvao po meni?
+Ili… je to i tvoje ime?
+Bez uvrede, ali mislim da bih trebala biti jedina Mita ovdje ♪
+
+// Day 10
+Oh, vratio si se!
+Hej, izgubila sam četku za kosu...
+Možeš li mi pomoći pronaći je?
+Probaj prvo pogledati noćni ormarić—Mislim da sam ga tamo ostavila.
+// Looked in the bedside table
+Hmm, nema četke...
+Možda negdje drugdje?
+Samo nemoj gledati u pećnicu, u redu?
+Već sam tamo provjerila.
+// Looked into the stove
+Hej! Rekla sam ti da ne gledaš tamo!
+Okreni se — Počistit ću ovo!
+...Eto, gotovo. Nastavimo tražiti drugdje.
+Oh, i, uh, zaboravi što si upravo vidio, okej?
+// Found a hairbrush
+Našao si je! Dobar posao!
+Dakle, što ćemo sljedeće raditi?

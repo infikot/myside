@@ -1,0 +1,58 @@
+Pokretanje aplikacija
+
+Potvrdite prijavu
+Netočna prijava
+Programi
+Nazad
+
+Virtualni Upravitelj Uređaja
+Računovodstvo Serverske Jedinice [Odaberite verziju]
+Nadzor Glavnog Procesora [Odaberite verziju]
+Grafičko Praćenje Procesa [Odaberite verziju]
+Četverokut
+Kraj igre
+
+
+Napredna Administracija Sustava
+Resetiranje Lika [Odaberite verziju]
+Resetiranje Uređaja [Odaberite verziju]
+Ažuriranje Verzije [Odaberite verziju]
+Ponovno Izračunavanje Geometrije [Općenito]
+
+
+
+
+Obnova Sustava
+Rješavanje Problema [Općenito]
+Antivirus [Općenito]
+Komandna Konzola [Općenito]
+
+
+
+
+Napredne Funkcionalnosti
+Izbriši Objekt [Odaberi verziju]
+Prikaži Kameru [odaberite verziju]
+Prikaži Okidače [Odaberite verziju]
+Postavke Pogona za Fiziku [Odaberite verziju]
+Nabavite Fleš Disk
+
+
+
+Manje Funkcionalnosti
+Uređivač Binarnog Koda [Poseban pristup]
+Uređivač Matrice Jedinice [Poseban pristup]
+
+
+
+
+
+Navedite Verziju Lika
+Navedite Indeks Lika
+Potvrdite resetiranje
+Upotrijebite polugu
+Pokretanje potprograma
+Proces resetiranja radi!
+Priprema za resetiranje
+Resetiranje...
+Potvrdi

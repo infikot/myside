@@ -1,0 +1,14 @@
+// Quest none
+Nema veze.
+// Quest "First"
+Gdje si bila?
+Kako si dospjela ovdje?
+Tko je bila ta Mita maloprije?
+Kako prsten radi?
+Zašto me treba Luda Mita?
+Je li to Jezgro?
+// Quest "Second"
+Što je bilo?
+Postoji li ikakav način da se prepozna?
+Što ako bi napali Ludu Mitu?
+Mini ljudi

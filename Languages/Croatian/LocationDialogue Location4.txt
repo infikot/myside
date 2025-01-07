@@ -1,0 +1,400 @@
+Mita?
+Ah, već si budan?
+Kako si dospjela ovdje?
+Upravo si bila odmah pored mene.
+
+Ne, nisam.
+Smrznuo si se pred ogledalom.
+Pa sam otišla.
+Zašto su se sobe promijenile?
+
+Preuredila sam
+da se osjećaš više kao kod doma.
+Ovdje,
+možemo promijeniti sobe
+kako god želimo.
+
+Nisi trebala.
+Navikavao sam se na raspored soba.
+U svakom slučaju, mislim da ćeš se osjećati opuštenije s ovim rasporedom.
+// Mita card game
+U redu,
+hoćemo li igrati?
+Igra se ovako:
+Ovaj čip označava vrstu,
+kao što je zdravlje.
+Svatko igra kartu,
+a ako tvoja karta ima veću
+jedinicu zdravlja
+nego moja,
+pobijedio si.
+Uzmi svoje karte.
+Ja sam na redu.
+Wow!
+Dobila sam baš dobre karte!
+Ja ću prva!
+
+
+
+
+
+
+
+
+
+Okej!
+Tvoj red!
+Aha.
+Tvoj red!
+
+Najveća jedinica zdravlja pobjeđuje!
+Sve je u napadu!
+Samo se usredotoči na odbranu!
+
+
+Pobjedio si!
+Pobjedio si!
+Dobio si me.
+Oh ti...
+
+Pobjedila sam!
+Ja sam pobjednik!
+Pobjedila sam te!
+Hah, dobila sam te!
+
+Neriješeno je.
+Sve jednako!
+Neriješeno je!
+Ista vrijednost...
+
+
+
+
+
+
+
+
+
+
+
+// The card game is interrupted
+Kakav je to zvuk?
+Dolazi iz ormara.
+
+Zvuk?
+Kakav zvuk?
+Nisam ništa čula.
+Što si mislio da si čuo?
+
+Kucanje, kao da je netko unutra.
+
+Ali...
+Tamo nema nikoga...
+
+Htio bih ga otvoriti i provjeriti.
+Malo mi je jezivo.
+
+Ali zašto...?
+Opet ovo...
+
+
+
+
+
+
+
+Što je s tobom!?
+To je ormar...
+Tu mi je donje rublje...!
+
+Kriješ li nešto od mene?
+
+Zašto mi jednostavno ne vjeruješ?
+Što radim krivo?
+Ono što želim...
+Sve što želim je da budeš sa mnom.
+
+I ja bih volio to, ali ipak...?
+
+Zašto si toliko zapeo za taj ormar?!
+
+Želim znati što je zaboga bilo to kucanje!
+
+Je li to zato što
+ovaj svijet
+ima samo ove četiri sobe?
+Zar ti to nije dovoljno?
+Zašto jednostavno ne možeš biti sa mnom?
+
+
+// Don't stay with Mita
+Shvaćam.
+Opet ovo...
+Ako želiš pogledati u ormar,
+onda učini to,
+i saznaj što je unutra!
+
+
+
+
+Što je...
+
+To se ponekad dogodi.
+Soba je zapela pri učitavanju.
+Samo pričekaj sekundu.
+
+Ovo je tako čudno.
+Jesmo li u nečijem mobitelu?
+Možda neki spori s dugim vremenima učitavanja?
+
+Ne.
+Ali nije sve savršeno
+u ovom svijetu...
+Učitavamo se
+zajedno sa jezgrom svijeta.
+
+Jezgrom svijeta?
+
+Tipično, zar ne?
+
+
+
+Svejedno, možemo
+igrati igrice na konzoli
+ili samo karte.
+Ti biraj.
+
+
+
+// Mita play fight
+Želiš se boriti?
+Moraš pobijediti
+četiri puta.
+Hajde!
+Ne brini, ja ću
+biti blaža u početku.
+
+
+To je dobar dečko.
+Bolje se usredotoči!
+
+Wow!
+Dobro, u redu.
+Uozbiljit ću se.
+
+Wow!
+Da vidimo možeš li
+me pobijediti sad!
+
+Ti si
+jednostavno
+nevjerojatan! To je vještina!
+
+
+Što je bilo?
+Huh, to je dosadno.
+
+Pa,
+to je to. Vjeruješ li u sudbinu?
+
+Vidi,
+saberi se ili ćeš zauvijek biti gubitnik!
+
+Što je s tobom danas?
+Obrisala sam pod tobom.
+Nisi dao sve od sebe-
+zato sam pobijedila!
+
+
+U redu, onda.
+Šta kažeš da se igramo malo s kartama?
+One su u spavaćoj sobi.
+
+
+
+// Door > [ERROR]
+Huh, što se događa?
+Gdje je...
+
+Uh-oh.
+Oprosti...
+Preuzela sam nešto
+s neta.
+Htjela sam malo dotjerati
+izgled vani.
+Ali ispade da
+nešto nije bilo u redu s datotekom.
+Popravit ću to kasnije.
+
+Zato ne možemo izaći iz kuće?
+Da, zato.
+// Mita shy
+Hej...
+Što je s tobom?
+Želiš li nešto?
+
+
+
+// Wall Clock
+Ovaj ovdje sat,
+koje vrijeme pokazuje?
+Trenutno vrijeme u igri?
+Ili je sinkronizirano s mojim telefonom?
+
+Pa, uhm...
+Iskreno ne znam.
+Ali vrijeme ovdje nije bitno...
+Bilo kasno ili rano,
+snažna djevojka poput mene
+uvijek je puna energije-
+Nikad se ne umorim!
+Možemo imati vječno proljeće,
+ili beskrajno popodne!
+
+To je zanimljivo...
+ali i pomalo jezivo.
+Zaglavljen u istom trenutku, zauvijek...
+
+
+
+// Photos of Mita
+Lijepe fotke.
+Pretpostavljam da su ovo tvoje?
+
+Da.
+I meni se sviđaju.
+
+Tko ih je slikao?
+Postoje li drugi u ovom svijetu?
+
+Moglo bi se reći.
+Upoznat ću te nekad.
+Samo ne još.
+Za sada samo želim biti sama s tobom.
+
+
+
+
+// Portal
+Gdje je nestao portal?
+Ili kako god si ga zvala?
+
+Koristila sam
+malo magije
+i pomaknula sam ga
+negdje drugdje.
+Ne treba nam više.
+Samo bi smetao.
+
+
+// Mirror in the bedroom
+Gledanje u ogledalo bez
+da vidim odraz — jezivo je.
+
+Možemo uključiti odraze
+ako baš želiš.
+Ali, trebaju li nam oni doista?
+
+Naravno da trebaju.
+Ili... hoće li njihovo uključivanje imati posljedice?
+
+Da.
+Štekat ćemo i kretati se sporije.
+Jesi li ikada vidjeo crtani film s malo sličica po sekundi?
+Tako će nam biti, stalno.
+
+Shvaćam.
+Onda je možda bolje da odrazi ostanu isključeni...
+
+Hej, [player],
+baš voliš ogledala, zar ne?
+Bojiš si vidjeti osmijeh na tom svom licu?
+
+Ha? Ne baš...
+Samo sam umoran
+nakon svog posla.
+
+
+
+// Blue Sneakers
+Jesu li ove tvoje?
+
+Ne, tvoje su.
+Zar se ne sjećaš?
+
+Ne sjećam se da sam imao takve tenisice.
+
+Znaš sada.
+Možeš ih nositi
+kad krenemo van.
+
+Što je s odjećom?
+Sve što imam u ovom svijetu
+je odjeća koju nosim.
+Ima li načina da nabavim novu?
+
+Naravno da ih ima.
+Ipak, vidjela sam što nosiš—
+i iskreno, tvoj ukus nije sjajan.
+U svakom slučaju, pomoći ću ti da nabaviš nešto.
+Samo ne sada.
+To je obećanje.
+
+U redu.
+
+
+// Games on TV
+Što želiš igrati?
+// Game milk
+Ovo je borbena igra!
+Da vidimo tko će se prvi skiseliti!
+Kakva igra!
+Dosta nam je mlijeka za sada, idemo raditi nešto drugo.
+// Game penguins
+U ovoj igrici si pingvin
+klizeći uokolo.
+Točno, to je ta igra.
+
+// Stay
+Ha, molim?
+Ozbiljan si? Mislila sam da...
+Presretna sam!
+I pomalo zbunjena...
+Ali...
+Molim te, ostani sa mnom-
+uvijek i zauvijek.
+
+
+
+
+
+
+
+
+
+
+
+
+// A game about penguins
+Jako je jednostavno:
+samo skupljaj grudve snijega.
+Onaj tko skupi više, pobjeđuje!
+Igrajmo dvije runde, može?!
+// The first map
+Wow, kako si ih dobio toliko?
+Tee-hee! Ja imam najviše snježnih gruda!
+Bolje sustigni!
+Ha, 1:1!
+// The second map
+Ti si pravi pingvin!
+Trebali bismo te staviti na pravi led!
+Pff, tako si spor.
+Još uvijek razmišljš o prošloj rundi?
+Wow, izjednačeno! To je rijetko!
+// The game is over
+Dobro, želiš igrati nešto drugo?
+Ili ti je dosta?
+
+// Tetris - Mita
+Što ti to treba?
+Baš si toliki gamer?

@@ -1,0 +1,84 @@
+// The first meeting
+Sino ka?
+Anong nangyari?
+Hindi ka ba makapagsalita?
+
+
+Sandali...
+Gusto mo bang umalis, diba?
+
+Oo...
+Kailangan kong bumalik
+sa nakaraang bersyon.
+
+Nakaraang bersyon?
+Bakit aalis at pupunta
+sa ibang lugar?
+Kung pwede ka naman dito
+at maging
+ikalawang kaibigan ko?
+
+// Skipping all dialogs
+Okay...
+
+// Standing by the window (Random)
+Hindi mo matatagpuan ang daan palabas sa pamamagitan ng mga pinto.
+Mukhang nagmamadali ka...
+Hindi ka pa rin ligtas kahit tumakbo ka pa nang pabalik balik.
+Gusto mo talagang tumakas?
+Tumingin ka sa labas ng mga bintana...
+
+
+// Quest 1 (Ikaw ba si Mita?)
+Player... player ka, di ba?
+Pwede tayong maglaro nang magkasama.
+Kung makakakita ako ng lakas,
+ang kailangan lang natin gawin ay maglaro.
+
+// Quest 2 (Anong nangyari sayo?)
+Hindi ako sigurado, at hindi ko talaga alam...
+Parang wala namang masamang nangyari...
+Pero parang lahat ng mabuti ay unti-unting nawawala...
+Kahit na, mayroon pa akong kaibigan.
+Bakit nila ako iniwan?
+Hindi ba sapat ako?
+Natatakot ako...
+
+// Quest 3 (Maging pangalawang kaibigan?)
+Mga kaibigan...
+Kaunti na lang ang natira.
+Isa na lang ang natira...
+Malungkot ako, player.
+Pwede mo ba ako maging kaibigan?
+
+Gusto ko sanang maging kaibigan,
+pero kailangan kong magpatuloy...
+
+Nananakit ang puso ko...
+
+// Quest 4 (Bahay mo to?) - MitaLittle
+Bahay?
+Player... nagbago ka...
+Mas maikli na ang mga braso mo, at hindi ka na mukhang galit...
+Player, naging mas malambot ka, mas mabait.
+
+Hindi ako sigurado...
+kung anong ibig sabihin nun.
+
+Ayos lang...
+dahil hindi na ako masasaktan, hindi ba?
+
+// Quest 5 (Paano ako makakaalis dito?)
+Iiwan mo ba talaga ako?
+Baka ito lang ang aking...
+tadhana?
+
+ako...
+
+Walang kwenta, di ka tutulungan ng mga pinto na yan.
+
+// Hold player (Random)
+Bakit ka aalis?
+Dito ka lang...
+Maglaro tayo...
+Player...

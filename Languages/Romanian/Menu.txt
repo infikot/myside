@@ -4,9 +4,9 @@ Meniul principal
 Ieși
 Setări
 Realizări
-Credite
+Generic
 Înapoi
-Încarcă
+Capitole
 Limbă
 Se încarcă...
 Grafici
@@ -18,7 +18,7 @@ Mod Windowed
 Efecte grafice
 Efecte de culoare
 Umbre ușoare
-Blurare
+Încețoșare 
 Glare
 Anti-aliasing
 Umbre
@@ -36,8 +36,8 @@ Resetează
 Înapoi
 Stânga
 Dreapta
-Interacție
-Sensitivitatea mouse-ului
+Interacțiune
+Sensibilitatea mouse-ului
 Ieși din joc?
 Da
 Nu
@@ -66,8 +66,8 @@ Mite
 Ești sigur că dorești să ștergi tot progresul și să începi de la 0?
 Generând umbre, timp de așteptare estimat: 2 ore.
 2 ore?! E prea mult! Am sărit la final pentru tine!
-Crearea de umbre realiste cu shadow-tracing dureaza aproximativ 10 minute.
-Glumesc, nu folosim chestii asa sofisticate aici.
+Crearea de umbre realiste cu shadow-tracing durează aproximativ 10 minute.
+Glumesc, nu folosim chestii așa sofisticate aici.
 Ăăă...
 A, suntem gata!
 Balansare în timpul mersului
@@ -98,7 +98,7 @@ Mita păpușă
 
 
 // Name load location
-Sunt intr-un joc?
+Sunt într-un joc?
 Împreună în final
 Lucrurile devin dubioase.
 Subsolul
@@ -107,7 +107,7 @@ Repetiția
 Mini Mita
 Păpuși și puzzle-uri uitate
 Ea doar vrea să doarmă
-Nuvele
+Romane vizuale
 Citind cărți, distrugând erori
 Fugi și ascunde-te!
 Versiunea veche
@@ -117,16 +117,16 @@ Pălărie
 Fantomă
 Lumea reală
 În afara nucleului!
-Jucator 1
-Jucator 2
-Jucator 3
-Jucator 4
-Jucator 5
-Jucator 6
-Jucator 7
-Jucator 8
-Jucator 9
-Jucator 10
+Jucător 1
+Jucător 2
+Jucător 3
+Jucător 4
+Jucător 5
+Jucător 6
+Jucător 7
+Jucător 8
+Jucător 9
+Jucător 10
 
 Modul pacifist
 Acest mod este încă în curs de dezvoltare! Este atât de expansiv încât dezvoltatorii nu au reușit încă să îl finalizeze. Dar nu vă faceți griji - ei au promis că va fi inclus într-o actualizare majoră care va veni în curând. Și uită-te la tine, deja ai luat-o înainte prin deblocarea accesului! Acum nu mai rămâne decât să aștepți...
@@ -134,7 +134,7 @@ Deci, ce este Modul pacifist? Este șansa ta de a te reconecta cu Mita într-un 
 
 
 Cenzurarea scenelor cu caracter violent
-Multumiri:
+Mulțumiri:
 Iconografiile Realizărilor: Iceсloud
 Fotografii: Nineko Hori
 Translator
@@ -144,15 +144,15 @@ Marketing-ul jocului
 Testatori
 S-au jucat și au găsit o mulțime de erori.
 Această traducere lingvistică a fost realizată de entuziaști din comunitatea fanilor și adăugată în joc la cererea lor.
-Avertisment! Jocul conține screemers , conținând sunete puternice și efecte vizuale intermitente. Unele momente din joc pot fi periculoase pentru persoanele care au probleme cardiace sau suferă de crize de epilepsie. Vă rugăm să fiți atenți.
-Accesul la modul pace este deschis!
+Avertisment! Jocul conține jumpscare-uri, conținând sunete puternice și efecte vizuale intermitente. Unele momente din joc pot fi periculoase pentru persoanele care au probleme cardiace sau suferă de crize de epilepsie. Vă rugăm să fiți atenți.
+Accesul la modul pacifist este deschis!
 
 Modul poză
-Modul foto: Toate restricțiile de zbor sunt ridicate, astfel încât puteți vedea lucruri pe care nu ar trebui să le vedeți.
+Modul poză: Toate restricțiile de zbor sunt ridicate, astfel încât puteți vedea lucruri pe care nu ar trebui să le vedeți.
 Ieși din modul poză
 Ascunde interfața
 Ține apăsat pentru a muta camera
-Accelerează miscarea
+Accelerează mișcarea
 Mișcare lină
 Viteză
 Efecte

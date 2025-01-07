@@ -1,19 +1,19 @@
 
 Otur.
-Bir şey düşürdüm sanırım. Hemen gelirim.
-Sonra da başka bi dünyaya gideriz...
+Bir ÅŸey dÃ¼ÅŸÃ¼rdÃ¼m sanÄ±rÄ±m. Hemen gelirim.
+Sonra da baÅŸka bi dÃ¼nyaya gideriz...
 
 Tamam.
 
 
-Hadi oynayalım!
-Ayıcığımı istiyorum!
+Hadi oynayalÄ±m!
+AyÄ±cÄ±ÄŸÄ±mÄ± istiyorum!
 Kaybettim...
 Bul ONU!
 
 
 Hey...
-Neye bakıyorsun?
+Neye bakÄ±yorsun?
 
 
 
@@ -26,26 +26,26 @@ Neye bakıyorsun?
 // Quest 1 (Who are you?)
 Ben Mita.
 En en iyi Mita.
-İlk Mita.
-Mita öyle dedi yani, Benim Mita'm.
+Ä°lk Mita.
+Mita Ã¶yle dedi yani, Benim Mita'm.
 
 // Quest 2 (Why do you look like that?)
-Nasılmışım?
-Nasılmışım?
-Nasılmışım?
-Mita'm güzel ve orjinal olduğumu söylüyor.
-İşte ben!
+NasÄ±lmÄ±ÅŸÄ±m?
+NasÄ±lmÄ±ÅŸÄ±m?
+NasÄ±lmÄ±ÅŸÄ±m?
+Mita'm gÃ¼zel ve orjinal olduÄŸumu sÃ¶ylÃ¼yor.
+Ä°ÅŸte ben!
 
 // Quest 3 (What was Mita doing here?)
-Beni götürecek.
-Yeni bir dünyada yaşayacağız.
+Beni gÃ¶tÃ¼recek.
+Yeni bir dÃ¼nyada yaÅŸayacaÄŸÄ±z.
 Mita'm beni davet etti.
-Beni götürecek ve oyun oynayacağız.
+Beni gÃ¶tÃ¼recek ve oyun oynayacaÄŸÄ±z.
 
 // Quest 4 (Why do you need a teddy bear?)
-Sen bir ayıcıksın,
-ve kaybolmuşsun,
-tıpkı benim ayım gibi.
+Sen bir ayÄ±cÄ±ksÄ±n,
+ve kaybolmuÅŸsun,
+tÄ±pkÄ± benim ayÄ±m gibi.
 
 // Quest 5 (Why is Mita angry?)
 benim...
@@ -53,19 +53,19 @@ Mita'm.
 Oynamak istiyor.
 Sadece.
 Beni istiyor.
-Biz eşsiziz.
+Biz eÅŸsiziz.
 Tekiz.
 Mita ve benim Mita'm,
-0.8A ve 8Ì54*.
+0.8A ve 8ÃŒ54*.
 
 // Quest 6 (Do you believe Mita?)
 Benim Mita'm.
-En yakın arkadaşım.
+En yakÄ±n arkadaÅŸÄ±m.
 Benim Mita'm.
-Tek arkadaşım.
+Tek arkadaÅŸÄ±m.
 
 
 Sensin!
 Hey.
-Hadi oynayalım!
-Sana göstereceğim.
+Hadi oynayalÄ±m!
+Sana gÃ¶stereceÄŸim.

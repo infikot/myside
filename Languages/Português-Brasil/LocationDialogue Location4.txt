@@ -5,7 +5,7 @@ Você estava bem do meu lado agora mesmo.
 
 hmhm...
 Você congelou na frente do espelho.
-Então eu sai.
+Então eu saí.
 Por que os cômodos estão diferentes?
 
 Eu só fiz umas mudanças
@@ -139,13 +139,13 @@ e descubra o que tem lá dentro!
 
 Mas o que...
 
-Ah é, isso acontece as vezes.
+Ah é, isso acontece ás vezes.
 O cômodo tá carregando.
 É só esperar um pouco.
 
 Isso é tão estranho.
 Estamos dentro do telefone de alguém?
-Talvez um lento? Com demora no carregamento?
+Talvez um meio ruinzinho? Com pouca memória?
 
 hmhm.
 Mas nem tudo é perfeito aqui
@@ -201,7 +201,7 @@ Então,
 dá um jeito de se animar ou você não vai sair do fundo do poço!
 
 O que tá rolando com você?
-A gente limpou o chão junto.
+Hih, esfreguei o chão com a sua cara!
 Você não deu o seu melhor—
 É por isso que eu ganhei!
 
@@ -264,8 +264,8 @@ Acho que são suas?
 Aham.
 Eu também gosto.
 
-Quem os levou?
-Há outros neste mundo também?
+Quem tirou elas?
+Tem outros neste mundo também?
 
 É...Pode se dizer que sim.
 Eu vou introduzir vocês eventualmente.
@@ -289,14 +289,14 @@ Ele só atrapalharia.
 
 // Espelho no quarto
 Olhar para o espelho sem 
-vem o próprio reflexo é assustador.
+ver o próprio reflexo é assustador.
 
 Eu posso ativar os reflexos
 Se você quiser tanto.
 Mas... A gente precisa dele?
 
 É claro que precisamos.
-Ou....Liga-los vai gerar consequências?
+Ou....Ligá-los vai gerar consequências?
 
 Uhum.
 A gente vai falar estranho e se mover bem devagar.
@@ -347,11 +347,11 @@ Okay.
 E ai, o que você quer jogar?
 // Jogo do Leite
 Esse aqui é jogo de luta!
-Vamos ver quem azeda primeira!
+Vamos ver quem azeda primeiro!
 Mas que jogo!
 Chega de leite, vamos fazer outra coisa.
 // Jogo do pinguin
-Nesse jogo, você é um pinguin
+Nesse jogo, você é um pinguim
 escorregando por ai.
 Uhum, isso ai!
 
@@ -375,7 +375,7 @@ Para sempre.
 
 
 
-// Um jogo sobre penguins
+// Um jogo sobre pinguins
 É super simples:
 É só coletar as bolinhas de neve.
 Quem coletar mais, ganha!
@@ -386,7 +386,7 @@ Tee-hee! Eu peguei mais bolas!
 Espero que me alcance!
 Sheesh, 1:1!
 // Segundo mapa
-Você nasceu para ser um pinguin!
+Você nasceu para ser um pinguim!
 A gente devia ir esquiar de verdade!
 Pfft, você é muito lento.
 Ainda tá pensando no round passado?

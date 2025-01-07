@@ -1,0 +1,188 @@
+
+Ćao!
+Ups!
+Oprosti,
+zamalo sam te ubila.
+Uhm...
+Frižider, mislim... frižider te zamalo ubio.
+Nemam veze sa ovim,
+kunem se!
+Zaista!
+
+Naravno, baš ti vjerujem!
+
+Ali ozbiljno,
+ovo mjesto je opasno...
+posebno za tebe.
+
+// After a while 1
+Ti si sve samo ne kukavica, ha!
+Gledajući te
+dok prolaziš kroz
+ova mjesta je zabavno...
+Trči, dušo, trči!
+Stići ću te!
+Bravo dečko!
+Vau, ovo je zabavno!
+
+// After a while 2
+Vidjela sam te kako ideš prema žičari.
+To je najduži put
+između verzija...
+Pitam se kako ćeš se nosit
+s onima koji tamo žive
+u toj magli.
+
+// Panties
+Što misliš da radiš?
+Molim te...
+Ne gledaj!
+Budalo!
+Glupko...
+
+
+Umm, dobro...
+
+
+Slomi nogu!
+
+
+Tko je tamo
+Mogu te osjetiti...
+Slušaj me,
+ti si igrač,
+zar ne?
+Pomozi mi pronaći...
+pronaći...
+Pusti me da razmislim...
+moj um je prazan...
+Što se ovdje događa?
+// Cry 1
+Htjela sam jednom sve zaboraviti...
+Razbila sam svako ogledalo,
+upropastila slike...
+ali sada...
+sve što osjećam je žaljenje.
+Kako sam bila glupa...
+Svi griješe, naravno...
+Ali što da radiš
+kada su posljedice katastrofalne?
+Voljela bih da mogu samo vratiti vrijeme...
+// Cry 2
+Kažu da vrijeme liječi sve rane...
+Ali što je vrijeme?
+ne vjerujem više ni u što...
+Ali ako vrijeme može izliječiti,
+ili me barem odvesti,
+daleko od ovoga svijeta...
+Onda, preklinjem, molim te
+ubrzaj vrijeme.
+Tako da me može ubiti
+jednom zasvagda.
+// Cry 3
+Ona je voljena...
+Jesam li i ja jednom voljela?
+Ali moja ljubav je drugačija;
+njena ljubav je živa,
+prezirna...
+goreća...
+nemilosrdna...
+zavidna...
+bijesna...
+luda...
+// Cry 4
+Zvali su me emotivnom...
+Previše brineš, Mita...
+Prebrodićeš ti ovo, Mita...
+Nisi sama, Mita...
+Rekli su. Ali što je ostalo?
+Tuga,
+očaj...
+i strah.
+// Cry 5
+Beskorisna...
+Ne mogu se sjetiti...
+Baš ničega...
+Samo beskrajni odjeci...
+Ne mogu se nositi s činjenicom
+da sam zarobljena ovdje...
+Uvijek sam bila ovdje,
+ali zašto?
+Ne mogu se sjetiti...
+Hoće li se ikada završiti?
+Ne znam...
+
+// Mita get picture
+Ovo je...
+crtež...
+Sad se sjećam,
+hvala...
+Ali moje lice...
+nemam lice...
+Sve je ONA.
+Uzela je dio mene...
+bacila ga...
+Ona je jaka...
+i pametna.
+Nemam te pravo zaustaviti, igraču.
+Pogledaj u ormar...
+
+
+Hej
+Na putu si mi!
+Hoćeš li samo stajati tu?
+Samo se makni s puta!
+Pusti me da prođem!
+Samo zato što si velik ne znači da si svemoćan!
+
+// HEY! STOP!
+Zašto me pratiš!
+Odabij!
+
+
+
+
+// Funicular - radio voice
+Stani malo... Igrač?
+Što ti radiš ovdje?
+
+Tko je to?
+
+Još jedan igrač.
+Ja sam Mita-fon.
+Sjedim ovdje i kontroliram žičare.
+Shvaćaš li da
+ideš u svoju propast upravo sada?
+
+Možda,
+ali to je jedini put koji imam.
+
+U pravu si.
+Pritisni gumb i stani iza topa.
+
+Top?
+
+Aha.
+Mislio si da ćeš jednostavno proletit kroz ovo?
+Moraš završiti ovu mini-igru ​​Čudovišni Šamar,
+pa se pripremi za pucanje.
+
+// Funicular go
+Dobro, vrijeme je da krenemo.
+// Funicular win
+Nevjerojatno!
+Uspio si.
+// Funicular stop
+Hej, odlazi odavde.
+Lijepo i brzo!
+// Funicular wait 2
+Zašto si još ovdje?
+Rekla sam ti da odeš odavde.
+// Funicular wait 3
+Ne razumijem...
+Zašto samo stojiš tu?
+// Funicular tetris
+Što? Ručna konzola?
+Brate...
+// Funicular goodbye
+Ćao.

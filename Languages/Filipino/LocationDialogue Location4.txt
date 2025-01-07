@@ -1,0 +1,400 @@
+Mita?
+Ah, gising ka na pala?
+Paano ka nakarating dito?
+Katabi mo lang ako kanina ah.
+
+Hindi, hindi ako.
+Nanigas ka sa harap ng salamin.
+Kaya umalis ako.
+Bakit nagbago ang mga silid?
+
+Inayos ko ulit ang lugar
+para mas maging feel at home ka.
+Dito,
+pwede na tayong magpalit ng kwarto
+kung sa paano natin gusto.
+
+Hindi mo kailangang gawin ito.
+Nasasanay na ako sa layout.
+Sa alinmang paraan, sa tingin ko mas magiging komportable ka sa layout na ito.
+// Mita card game
+Tama,
+laro tayo?
+Ang laro ay gumagana na kung saan:
+Ang chip na ito ay nagpapahiwatig ng isang uri,
+tulad ng health.
+Bawat isa sa atin ay kukuha ng tig isang baraha,
+at kung ang baraha mo ay may mas mataas
+na health stat
+kaysa sa akin,
+panalo ka.
+Kunin mo yung mga baraha.
+Ako na.
+Aba!
+Nakuha ko rin!
+mauuna na ako!
+
+
+
+
+
+
+
+
+
+OK!
+Ikaw na!
+Uh-huh.
+Ikaw na!
+
+Ang may pinakamataas na Health stat ay mananalo!
+Ito ay tungkol sa pag-atake!
+Pokus sa depensa!
+
+
+Nanalo ka!
+Nanalo ka!
+Nakuha mo'ko.
+Oh ikaw...
+
+Panalo ako!
+Ako ang nanalo!
+Nanalo ako!
+Hah, nakuha mo!
+
+Pantay-pantay.
+Lahat pantay-pantay!
+Ngayon ay isang draw na!
+Ang parehong halaga...
+
+
+
+
+
+
+
+
+
+
+
+// The card game is interrupted
+Anong tunog yan?
+Galing ito sa aparador.
+
+Tunog?
+Anong tunog?
+Wala akong narinig.
+Ano sa tingin mo ang narinig mo?
+
+May kumakatok, parang may tao.
+
+Pero...
+Walang tao doon...
+
+Gusto kong buksan at suriin.
+Medyo kinikilabutan ako.
+
+Pero bakit...?
+Ito na naman tayo...
+
+
+
+
+
+
+
+Anong problema mo!?
+Ito ay isang aparador...
+Hoy nandito mga suot panloob ko...!
+
+May tinatago ka ba sa akin?
+
+Bakit hindi ka na lang maniwala sa akin?
+Anong maling nagawa ko?
+Ang gusto ko...
+ang gusto ko lang naman ay makasama ka.
+
+Gusto ko yan, pero...?
+
+Bakit mo ba iniisip ang aparador na yan?!
+
+Gusto kong malaman kung ano ang katok na yun!
+
+Dahil ba
+ang mundong ito
+ay apat lang ang kwarto?
+Hindi pa ba sapat yun para sa'yo?
+Bakit hindi mo'ko kayang samahan?
+
+
+// Don't stay with Mita
+Naiintindihan ko.
+Ito naman...
+Kung gusto mong tingnan ang aparador,
+edi gawin mo at alamin mo,
+kung ano ang nasa loob nito!
+
+
+
+
+Ano ang...
+
+Nangyayari yan minsan.
+Nagloload ang silid.
+Sandali lang.
+
+Kakaiba ito.
+Nasa loob ba tayo ng selpon ng isang tao?
+Siguro isang mabagal na may mahabang oras ng paglo-load?
+
+Hindi naman.
+Ngunit hindi lahat ay perpekto
+sa mundong ito...
+Kinakarga kami
+kasama ang core.
+
+Core?
+
+Tipikal, hindi ba?
+
+
+
+Anyway, gusto mo bang
+maglaro ng console game?
+O mga baraha?
+Pumili ka.
+
+
+
+// Mita play fight
+Gusto mong lumaban?
+Kailangan mong manalo
+apat na beses.
+Ilabas mo.
+Huwag kang mag-alala, di muna kita
+pahihirapan sa simula ng laban.
+
+
+Mabait na bata.
+Magpokus ka!
+
+Aba!
+Tama, okay.
+Magseseryoso na ako.
+
+Wow!
+Tingnan natin kung kaya mo,
+talunin mo ako ngayon!
+
+Ang simple
+mo
+Kahanga-hanga! Ang galing mo!
+
+
+Ano ang problema?
+Huh, nakakatamad.
+
+Well,
+yun lang. Naniniwala ka ba sa tadhana?
+
+Pagkatapos,
+kumilos ka o ikaw ay magiging isang talunan magpakailanman!
+
+Ano bang problema mo?
+Pinunas ko pagmumukha mo sa sahig.
+Hindi mo naman ibinigay ang lahat—
+kaya ako nanalo!
+
+
+Sige, kung ganun.
+Paano kaya kung maglaro tayo ng ilang mga baraha?
+Nasa kwarto sila.
+
+
+
+// Door > [ERROR]
+Huh, anong nangyayari?
+Nasaan...
+
+Uh-oh.
+Sorry...
+May na-download ako
+mula sa net.
+Gusto kong magpaganda
+sa labas ng kaunti.
+Ngunit mukhang
+may mali sa file.
+Aayusin ko nalang mamaya.
+
+Kaya ba hindi tayo makalabas ng bahay?
+Oo, kaya lang.
+// Mita shy
+Hoy...
+Ano bang problema mo?
+May gusto ka ba?
+
+
+
+// Wall Clock
+Dito na ang orasan,
+anong oras ipinapakita nito?
+Ang kasalukuyang oras sa laro?
+O naka-sync ba ito sa aking telepono?
+
+Well, uhm...
+Sa totoo lang hindi ko alam.
+Ngunit ang oras ay hindi mahalaga dito ...
+Maaga man o huli,
+isang malakas na babaeng tulad ko
+laging puno ng enerhiya—
+Hindi ako napapagod!
+Maaari tayong magkaroon ng walang hanggang tagsibol,
+o walang katapusang hapon!
+
+Interesting yan...
+pero medyo creepy din.
+Natigil sa parehong sandali, magpakailanman...
+
+
+
+// Photos of Mita
+Ganda ng mga pics.
+Hulaan ko, sayo ba itong mga pics?
+
+Oo.
+Nagustuhan ko rin ang mga iyan.
+
+Sino ang kumuha ng mga litrato?
+May iba pa bang mga tao sa mundong ito?
+
+Masasabi mo yan.
+Ipapakilala kita sa wakas.
+Hindi pa sa ngayon.
+Sa ngayon, gusto lang kitang makasama.
+
+
+
+
+// Portal
+Saan napunta ang portal?
+O kung ano man ang tawag sa iyo noon?
+
+Gumamit ako ng
+maliit na magic
+at inilipat ito
+sa ibang lugar.
+Hindi na natin iyon kailangan.
+Gambala lang yan dito.
+
+
+// Mirror in the bedroom
+Nakatingin sa salamin na walang
+nakakakita ng repleksyon—nakakatakot.
+
+Maaari nating i-on ang mga repleksyon
+kung gusto mo talaga.
+Ngunit, kailangan ba talaga natin iyon?
+
+Syempre lahat tayo.
+O... may kahihinatnan ba ang pag-on sa kanila?
+
+Oo.
+Tayo ay mauutal at mas mabagal ang paggalaw.
+Nakakita na kaba ng cartoon na may mababang frame sa bawat segundo?
+Magiging ganoon para sa atin, sa lahat ng oras.
+
+Nakuha ko.
+Kung gayon marahil mas mabuting panatilihin nating patayin ang mga pagmuni-muni...
+
+Hoy, [player],
+siguradong mahilig ka sa salamin, di ba?
+Natatakot kang makakita ng ngiti sa iyong mukha?
+
+Ha? Hindi talaga...
+Pagod lang ako
+Pagkatapos ng lahat ng gawain.
+
+
+
+// Blue sneakers
+Sa iyo ba ito?
+
+Hindi, sa'yo yan.
+Hindi mo ba naaalala?
+
+Wala akong matandaang may sneakers na ganyan.
+
+Ngayon oo.
+Maaari mong isuot ang mga ito
+paglabas natin.
+
+Paano ang tungkol sa mga damit?
+Lahat ng meron ako sa mundong ito
+yung mga damit na suot ko.
+Anumang paraan para makakuha ako ng mga bago?
+
+Syempre meron.
+Kahit na, nakita ko ang suot mo—
+and honestly, hindi maganda ang taste mo.
+Alinmang paraan, tutulungan kitang makakuha ng ilan.
+Hindi lang ngayon.
+Ito ay isang pangako.
+
+Okay.
+
+
+// Games on TV
+Ano ang gusto mong laruin?
+// Game milk
+Ito ay isang larong panlaban!
+Tingnan natin kung sino ang unang umasim!
+What a game!
+Sapat na ang gatas natin sa ngayon, gumawa tayo ng iba.
+// Game penguins
+Sa larong ito, isa kang penguin
+na dumudulas sa paligid.
+Tama, iyon ang laro.
+
+// Stay with Mita
+Huh, ano?
+Seryoso ka? Akala ko ikaw ay...
+Tuwang tuwa ako!
+At medyo nalilito...
+Pero...
+Manatili ka sa akin—
+palagi at magpakailanman.
+
+
+
+
+
+
+
+
+
+
+
+
+// A game about penguins
+Ito ay sobrang simple:
+mangolekta ka lang ng snowballs.
+Ang mangolekta ng higit pa ang siyang panalo!
+Maglaro tayo ng dalawang rounds, okay?!
+// The first map
+Wow, paano ka nakakuha ng ganyan karami?
+Tee-hee! Mayroon akong pinakamaraming snowballs!
+Mas mabuting abutin!
+Ha, 1:1!
+// The second map
+Isa kang natural na penguin!
+Dapat ka naming dalhin sa totoong yelo!
+Pfft, ang bagal mo naman.
+Iniisip mo pa ba ang huling round?
+Woah, isang kurbata! Ngayon ay bihira na!
+// The game is over
+Tama, gusto mong maglaro ng iba?
+O tapos ka na?
+
+// Tetris - Mita
+Ano ang kailangan mo diyan?
+Sobrang hilig mo ba talaga sa laro?

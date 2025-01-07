@@ -17,16 +17,16 @@ soprattutto per te.
 
 // After a while 1
 Sei tutt'altro che un codardo, eh!
-Ti guardo
+Guardarti
 mentre attraversi
 questi luoghi è divertente...
-Corri, zucca, corri!
-Ti raggiungo!
-Bravo!
+Corri, zucchetta, corri!
+Ti raggiungerò!
+Coraggio, vai!
 Woah, è divertente!
 
 // After a while 2
-Ti ho visto andare verso il treno.
+Ti ho visto andare verso la funivia.
 È il percorso più lungo
 tra le versioni...
 Mi chiedo come ti comporterai
@@ -182,7 +182,7 @@ Ti ho detto di andartene.
 Non capisco...
 perché te ne stai lì impalato?
 // Funicular tetris
-Perché Tetris?
+Cosa? Una console portatile?
 Amico...
 // Funicular goodbye
 Ciao.

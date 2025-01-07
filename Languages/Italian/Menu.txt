@@ -3,14 +3,14 @@ Continua
 Menu principale
 Esci
 Impostazioni
-Risultati
+Obiettivi
 Crediti
 Indietro
 Carica
 Lingua
 Caricamento...
 Grafica
-Suono
+Volume
 Tastiera e mouse
 Controller
 Risoluzione
@@ -48,9 +48,9 @@ Stile dell'ombra
 Vestiti
 Interfaccia
 Modelli 3D (2%)
-Video di gioco
+Volume Voce
 Pausa
-Menu
+Menù
 Congratulazioni! Hai completato il gioco!
 Il tuo tempo:
 Sottotitoli
@@ -62,38 +62,38 @@ Personaggi - Mita
 Personaggi - Cartucce
 Cartucce
 Mita
-Ricominciare da zero
+Ricomincia da zero
 Sei sicuro di voler cancellare completamente tutti i tuoi progressi e ricominciare da zero?
 Compilazione degli shader, tempo di attesa stimato: 2 ore.
-2 ore di compilazione?! Questo è falso! Abbiamo saltato la coda per voi!
+2 ore di compilazione?! Impossibile! Abbiamo saltato la coda per voi!
 Creazione di un tracciamento realistico delle ombre: tempo stimato di 10 minuti.
 Scherzo, qui non usiamo queste cose sofisticate.
 Umm...
 Oh, siamo pronti!
-Oscillare mentre si cammina
+Oscilla mentre cammini
 Mostra suggerimenti
-Voce del giocatore
+Voce giocatore
 Discord
 Aggiunta del profilo del personaggio
-Angolo della telecamera
+Campo Visivo
 Voce
 Spento
-Mano tesa verso la porta
+Tendere la mano verso la porta?
 Animazione
 Abilita la voce del giocatore
 Mita
 Mita dai capelli corti
-Mita gentile
-Mita con berretto
-Mita piccola
-Mita dormigliona
+Mita Gentile
+Mita Tosta
+Mita Piccola
+Mita Dormigliona
 Mita 2D
 Mila
-Mita inquietante
-Core Mita
-Mita fantasma
+Mita Deforme
+Mita del Nucleo
+Mita Fantasma
 Chibi Mita
-Mita manichino
+Mita Manichino
 
 
 
@@ -133,25 +133,25 @@ Questa modalità è ancora in fase di sviluppo! È così ampia che gli sviluppat
 Allora, cos'è la Modalità Pacifica? È la possibilità di riconnettersi con Mita in un modo completamente diverso! Mita sarà felicissima di trascorrere più tempo con voi, dalla mattina alla sera, in un mondo pieno di divertimento e sorprese. Aspettatevi conversazioni sincere a tu per tu, condivisione di biscotti, giochi e tanti momenti esilaranti insieme.
 
 
-Gore
+Censura Sangue
 Ringraziamenti speciali:
 Icona dei risultati: Iceсloud
 Fotografia: Nineko Hori
-Traduttore
-Converte il testo del gioco in un'altra lingua.
+Traduttori
+Hanno convertito il testo del gioco in un'altra lingua.
 Partner editoriale
 Marketing del gioco
 Tester
-Gioca e trova ogni sorta di bug.
+Giocano e trovano ogni sorta di bug.
 Questa traduzione è stata realizzata da appassionati della comunità dei fan e aggiunta al gioco su loro richiesta.
 Attenzione! Questo gioco include jump scares, suoni improvvisi e acuti e occasionali sfarfallii dello schermo. Si consiglia ai giocatori affetti da epilessia fotosensibile, disturbi cardiaci o problemi di salute simili di non giocare.
 Modalità pacifica ora disponibile!
 
 Modalità foto
-Modalità foto: Eliminazione delle restrizioni di volo della fotocamera. È possibile esplorare aree normalmente inaccessibili.
+Modalità foto: Restrizioni di volo della fotocamera rimosse. Ora puoi esplorare aree normalmente inaccessibili.
 Esci dalla modalità Foto
 Nascondi interfaccia
-Tenere premuto per muovere la fotocamera
+Tieni premuto per muovere la fotocamera
 Movimento rapido
 Movimento fluido
 Velocità
@@ -160,6 +160,6 @@ Controllo del tempo di gioco
 Luminosità
 Contrasto
 Vignetta
-Screenshot effettuato!
-Accedere alla cartella degli screenshot
+Effettua uno screenshot!
+Accedi alla cartella degli screenshot
 Angolo della fotocamera

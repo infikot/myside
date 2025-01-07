@@ -1,0 +1,92 @@
+
+Mila! Hindi! Isa ka ngang baliw!
+
+Ha-ha! ANO TO?
+Bagong expression ba yang nakikita ko?
+Gusto ko yan, pakitaan mo pa ako!
+Nakakainip panoorin ang pagmumukha mo!
+
+// Mita arena "Hello"
+Kamusta na, aking isang hindi mapakaling na munting manlalakbay?
+Tumatakbo ka parin? Hindi pa ba sapat?
+
+Anong ginawa mo kay Mila?
+
+Oh, hindi ka pa rin napapagod!
+Perpekto! Maglaro pa tayo!
+
+Ikaw...
+
+Simulan natin sa pamamagitan ng kaunting pagsusulit!
+Subukan natin ang iyong koordinasyon!
+Ngayon ang iyong kakayahang pagkilos!
+Paano kung may mali sayo!?
+Paano kung hindi mo nga karadapat makuha yang BALAT
+na ipinagmamalaki mong suotin!?
+
+// Show knifes
+Tignan mo...
+Alin dito ang nakuhanan mo ng pansin?
+Yung kanan?
+O
+Yung kaliwa?
+
+// Throw knifes
+Oh, seryoso?
+Mahalaga pa ba ito?
+Ginugulo lang kita!
+Sabagay, ang mga pananaksak ay lumang balita.
+Bahala na!
+Marami pa akong planong para sa magandang laro na ito,
+tulad ng...
+// Show recorder
+Tingnan mo!
+Kailangan natin ng Musika!
+Ano sa palagay mo ang melodyang ito?
+Nakakapagpasigla ng dugo ko!
+Magsisimula ako
+sa mga patakaran!
+// Show rules
+Habang tumutugtug ang musika,
+pwede kang gumalaw.
+Pero kapag huminto ang musika,
+WAG KANG GAGALAW!
+O mamamatay ka. Nakuha mo?
+Simple lang: Makarating ka sa dulo
+bago matapos ang musika.
+Simulan na natin!
+Tatayo ka lang diyan?
+Takbo, aking mahal, takbo!
+
+// Ready recorder
+Oh!
+Tingnan mo ang sarili mo! Napaka masunurin!
+Isang perpektong halimbawa.
+Gusto kita para sa sarili ko!
+Yun ay napakamadali, tama?
+
+Pakawalan mo na ako!
+
+Huwag kang masyadong maging komportable!
+Meron pa tayong lalaruin!
+Ito ang susunod:
+Tatakpan ko ang aking mga mata…
+at pagbukas ko,
+dapat hindi na kita makikita!
+Nakuha mo?
+Kung makita kita, ikaw ay paparusahan ko!
+Mabuti! Simulan na natin!
+
+Walang silbe ang lahat ng ito...
+
+// Ready hide
+Nagawa mo!
+Maganda ang ginawa mo, nakaka-excite!
+Pero ito'y mas magiging mahirap.
+Napaka MAHIRAP.
+Tago, Takbo, Ikot—
+
+Gah, hayop ka!
+
+// Player falls
+Nakatakas yata ako...

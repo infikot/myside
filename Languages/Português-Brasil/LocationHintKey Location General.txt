@@ -1,8 +1,8 @@
 Pressionar
 Falar
-Coloque o Anel
+Colocar anel
 Procurar o botão
-Segurar
+Apertar
 Ficar de pé
 Pegar o Anel
 Deletar jogo
@@ -22,7 +22,7 @@ Colocar de volta
 Entregar a tesoura
 Recusar
 Comer
-Levantar-se
+Levanta-se
 Tenta ficar em pé
 Tomar os comprimidos
 Aceitar o molho
@@ -57,20 +57,20 @@ Acordar
 Sentar-se
 Levanta-se
 Ligar o computador
-Pegar o rámen
+Comer o miojo
 Terminar
 Ir dormir
 
-Encontrar mais quebra-cabeças
+Encontrar mais peças
 
-Tentar
+Toca aí!
 Melhor não
 
 Eu sei
 Eu não sei
 Bater fraco
 Bater com força
-Empurrar!
+Apertar!
 
 Esquerda
 Meio
@@ -80,8 +80,8 @@ Direita
 Selecionar
 Esquerda
 
-Mais um
-É o Bastante
+Mais uma
+É o bastante
 
 Interferir
 
@@ -96,7 +96,7 @@ Pular
 Abrir porta
 
 Selecionar o jogo
-Terminar o jogo
+Parar de jogar
 Continuar
 Jogar
 
@@ -126,7 +126,7 @@ Vire
 Demais
 
 Eles ficam bem em você
-Só tire-os
+Só tira isso
 
 Fala comigo
 Não precisa

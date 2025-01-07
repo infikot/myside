@@ -59,7 +59,7 @@ Nereye gittiğini sanıyorsun?
 // Player check exit
 Neye baktın? 
 
-Tabii kolay olurdu
+Tabii, kolay olurdu
 Bu nedir?
 
 Ne bekliyordun ki—
@@ -295,7 +295,7 @@ Hiç görmedim.
 Sanırım
 bir yolu olmalı.
 
-Bayağı hırslısın.
+Baya hırslısın.
 Komikmiş.
 
 // Ask about books
@@ -360,9 +360,9 @@ Aptal.
 // Make long eye contact 3
 Hadi ama.
 Niye dikizliyorsun?
-Bayanım ben UwU
+Bayanım ben!
 
-Terbiye almadın mı?
+Ne tarz bir terbiye anlayışın var?
 Kış!
 
 // Whispers 1
@@ -384,7 +384,7 @@ Bir şey mi dedin?
 Meşgul olduğumu
 nasıl söylerim?
 Misafir istemiyorum...
-Ya giderse? Bana ne niye umursayayım?
+Ya giderse? Bana ne? Niye umursayayım?
 
 // Whispers 5
 Anne... Baba...

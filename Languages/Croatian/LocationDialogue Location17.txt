@@ -1,0 +1,161 @@
+// Igrač razmišlja + Skuhaj kavu
+Ovdje će mi trebati nečija pomoć.
+Nadam se da ova Mita ne grize...
+
+Na što ja gubim vrijeme...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, probudi se!
+Mita!
+
+Mita, buđenje!
+Trebam tvoju pomoć.
+
+Tko si tiiiiii?
+
+Pomozi mi s prekidačima.
+
+Kakvim prekidačima?
+Pusti me da spavam...
+Ili mi donesi kavu.
+
+Aparat za kavu je tamo.
+Mita?
+Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita,
+evo tvoje kave.
+
+
+
+// MitaDreamer exercise
+Prekidači,
+kažeš?
+
+Da.
+
+Kako to da znaš za njih?
+Iako, zašto uopće pitam...
+S obzirom da si ovdje,
+trebao bi već dosta toga znati...
+
+Samo trenutak,
+moram sjesti.
+
+I?
+
+Ne znam što da kažem...
+Ali moram nastaviti,
+nastaviti slijediti smjernice prstena.
+
+Imaš njezin prsten?
+Nije ni čudo
+što si pronašao ovo mjesto.
+
+Tako je.
+Dakle, možeš li mi pomoći?
+Sa prekidačima?
+
+Može.
+Hoću.
+Sa prekidačima...
+
+
+Mita, hajde...
+Hajdemo više.
+
+Uh?
+U redu.
+Idemo.
+
+
+// MitaDreamer fall
+Ustani.
+Jesi li toliko pospana?
+
+// MitaDreamer again sleep
+Probudi se.
+Stigli smo.
+
+
+// Switches
+U redu,
+Ja sam spremna.
+
+I ja sam spreman.
+
+Dobro.
+Ja ću početi
+odbrojavanje.
+I zajedno ćemo povući prekidače.
+U redu?
+
+Samo ostani budna, okej!
+Kreni.
+
+
+3
+2
+1
+
+// Player lose 1
+Jesi li se zamislio?
+Hajde
+idemo ponovo...
+
+// Player lose 2
+Još jedan pokušaj?
+Hajde,
+ja ću...
+zaspat ću ovdje...
+
+// Player lose 3
+Samo što ne zaspim...
+
+
+
+Odlično,
+hvala, Mita.
+
+Mm-hmm.
+
+
+Vrata...
+tako...
+spora...
+
+
+Ja idem u krevet...
+
+// Why kitchen?
+Zašto idemo u kuhinju?
+Ako zaspem na hladnom podu,
+ti si kriv.
+
+// Why bathroom?
+Ne razumijem...
+s kojim prekidačima trebaš moju pomoć ovdje?
+
+// Put button
+Ništa se nije dogodilo?
+Što onda ovaj gumb radi ovdje?
+
+// Cofee
+Još malo kave?
+Ili ćeš opet zaspati.
+
+Što?
+Neee...
+Ova kava ima grozan okus...
+Totalno sam dobro...
+
+// Button
+Mita? Gumb ne radi... Čuješ li me?
+Halo?

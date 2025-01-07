@@ -11,7 +11,7 @@ Ciao, sono Mita!
 Come ti chiami?
 Piacere di conoscerti, [player]!
 Um... [player],
-sono andata via di fretta prima, e ora questo posto è un disastro...
+Sono andata via di fretta prima, e ora questo posto è un disastro...
 Potresti aiutarmi a riordinare un po'?
 Woah...
 Grazie mille!
@@ -20,13 +20,13 @@ Grazie mille!
 Ho tanta fame...
 Pensi di potermi aiutare a trovare gli ingredienti per un po' di zuppa di pollo?
 Evviva! Hai preso tutto!
-Che ne dici di cucinarlo insieme?
+Che ne dici di cucinarla insieme?
 
 
 Oggi pensavo di comprare una TV portatile...
-una piccola con un'antenna. È perfetta per le passeggiate, non credi?
-A proposito, si può giocare per guadagnare soldi.
-Oh! Sapevi che si può giocare per guadagnare soldi?
+Una piccola con un'antenna. È perfetta per le passeggiate, non credi?
+A proposito, puoi giocare per guadagnare soldi.
+Oh! Sapevi che puoi giocare per guadagnare soldi?
 
 Evviva! Ce l'hai fatta! Hai abbastanza soldi per comprarmi quel televisore portatile!
 È quello giusto! Piccolo, portatile ed economico: proprio quello che volevo.
@@ -77,7 +77,7 @@ Era la migliore...
 Un gatto che si sdraia su un'anguria.
 // Photo with a girl
 Non ci assomigliamo affatto,
-mia sorella ed io.
+io e mia sorella.
 Lei è sempre in giro,
 e io sono bloccato a casa.
 // Photo with people
@@ -104,7 +104,7 @@ Oh no, non funzionerà.
 
 // Name Developer
 Sei sicuro di voler usare il nome dello sviluppatore?
-Sono lusingato, ma...
+Sono lusingata, ma...
 
 // Bad name
 Preferirei davvero che non ti chiamassi così.
@@ -131,7 +131,7 @@ Prova a controllare prima sul comodino: credo di averla lasciata lì.
 // Looked in the bedside table
 Hmm, non ci sono spazzole lì...
 Che ne dici di un altro posto?
-Non guardare nel forno, ok?
+Ma non guardare nel forno, ok?
 Ho già controllato lì.
 // Looked into the stove
 Ehi! Ti avevo detto di non guardare lì dentro!
@@ -139,5 +139,5 @@ Girati, pulisco io!
 ...Ecco, tutto fatto. Continuiamo a guardare altrove.
 Oh, e dimentica quello che hai appena visto, ok?
 // Found a hairbrush
-L' hai trovato! Bel lavoro!
-Allora, cosa dobbiamo fare adesso?
+L' hai trovata! Bel lavoro!
+Allora, cosa facciamo adesso?

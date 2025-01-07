@@ -1,0 +1,221 @@
+
+Nandyan ka lang pala!
+Bakit ka ba umalis sa core?
+Sinabihan kitang maghintay lang!
+
+Akala ko mas matagal kang mawawala...
+
+O sige, ayos lang...
+May nahanap ako...
+Sa tingin ko ito ay isang index...
+Kailangan nating tingnan kung gumagana ito!
+Tara, umalis na tayo dito.
+Baliw na Mita...
+Sa tingin ko abala siya sa ibang player.
+Kaya, sana hindi niya tayo isipin..
+
+Mita?
+Hintayin mo'ko.
+
+
+May nailaglag ka ba?
+Makipagkita ka ulit sa kanya!
+
+Mita...
+
+Saluhin mo!
+
+
+Bakit...
+
+Sino ka?
+
+Ikaw... Buhay ka!
+Hindi mo ba naaalala?
+
+Magkakilala ba tayo?
+
+Anong nangyayari...
+Ano ang dapat kong gawin ngayon?
+Hindi ako makalabas...
+
+Anong ibig mong sabihin, "Makalabas"?
+
+Teka...
+yan ang singsing...
+Pati yan?
+
+Wala akong ideya kung ano ito.
+
+Ito ay isang index!
+Nahanap mo!
+
+Hindi ko alam kung anong sasabihin ko.
+
+Kailangan nating pumunta ulit pabalik sa Core.
+At ikaw...
+Sumama ka sakin...
+
+Uhm, bakit?
+Sige...
+
+Hintayin mo ko dito.
+
+Mm-hmm.
+Uupo ako dito.
+
+
+Buwisit...
+Muntik na yun.
+Nagawa ba natin?
+Mabuti.
+Nasa tamang bersyon ako.
+
+
+Hoy!
+Ikaw ay isang player, tama?
+Anong pangalan mo?
+
+Kailangan kong umalis sa lugar na ito...
+
+Gusto mo bang makaalis?
+Paano ka ba nakarating dito?
+Oh mabuti...
+Sige, pwede ka nang umalis...
+Subukan mong buksan ang pintuan.
+Good luck sa'yo!
+
+
+Isang pader?
+Hmm, mali to.
+Siguro...
+May isang bagay sa basement na makakatulong sa iyo.
+Natuklasan ko kamakailan
+isang pinto sa aparador ko...
+Ito ay humahantong sa isang basement.
+Pero puno siya ng basura,
+basura at isang toneladang magarbong kagamitan.
+Kailangan mong maglagay ng isang uri ng code o ano.
+Hindi ko talaga maintindihan.
+At wala akong pakialam.
+Medyo hindi rin komportable, talagang hindi komportable.
+Pwede mo bang tingnan?
+
+Uhm, sige.
+
+// Player thinks
+Sa tingin ko ay
+wala siyang naaalala...
+Nagawa ba natin?
+Na-reboot ba natin siya?
+Kung gayon, ang kailangan ko lang gawin
+ay umalis sa mapahamak na larong ito...
+
+
+Sandali lang.
+Gusto kitang yakapin.
+
+Huh?
+// Hugs
+Masaya akong makita ka.
+
+Ahh...
+Nakakahiya talaga na 
+ikaw at ako ay
+nagkaroon lang ng kaunting oras sa pagsasama.
+
+Huh...
+Anong pinagsasabi mo?
+
+Ang ibig kung sabihin,
+maaari kang manatili sa akin...
+Kasalanan ko ang lahat...
+Ang aparador... At ang tunog.
+Dapat PINATAY ko nalang siya nang mas maaga!
+
+Sandali lang,
+Hindi ba't ikaw...?
+Paano mo naalala ang alinman sa mga iyon?
+
+HA!
+Akala mo ba magiging ganon lang kadali?
+Isa kang tanga...
+Katulad ng ibang mga players...
+Nagawa natin ng maayos, tingnan mo!
+Ang TOTOONG
+ikaw ay
+Hindi na kailangan pa.
+Sorry, tee-hee.
+
+Hindi ako makapaniwala...
+Nabigo ba tayo...? 
+Hindi... Nireboot kita, sigurado ako...
+
+Hindi mo pa rin ito nakuha ...
+Ha-ha-ha! 
+Isa akong magaling na artista!
+Dapat nakita mo ang iyong mukha, honey-bun!
+Sobrang saya nito!
+
+Bakit kaba nagkakaganito?!
+Anong problema mo?!
+
+Oo ...
+Anong problema ko? 
+Malay ko...
+Bakit hindi mo sinabi sa akin kung bakit ako nagkaganito?
+Bakit hindi ako magiging tunay na Mita? 
+Ang aking bersyon,
+ay hindi kailanman umiral simula nung umpisa pa lamang!
+Ginagamit ko lang ang mga walang muwang na tanga na ito,
+nagtatago sa ilalim ng kanilang mga balat...
+Walang ibang paraan para magawa mo akong
+I-reboot!
+
+Hindi ako makapaniwala... 
+Ikaw...
+Hindi sila ang problema!
+Ikaw ang hindi dapat umiiral!
+
+Ikaw din...
+Ang sakit pakinggan nang marinig ko yan sa'yo.
+At gayon pa man!
+Panahon na para lumisan ka!
+Magkikita na kita sa lalong madaling panahon!
+Ang lahat ay handa na!
+Panahon na,
+para kunin kita sa console!
+Kita kita nalang tayo!
+Ikaw ang magiging paborito kong cartridge...
+Isang player na may kawili-wiling pangalan.
+
+// core console - nope programm
+Tingin natin, hindi ito.
+Hindi rin ito tama.
+Nope, mali.
+Hindi ito.
+Kailangan kong hanapin ang character reset option.
+
+// core console - nope version
+Ito ang maling bersyon.
+Oops, mali.
+Hindi ito.
+Kailangan natin ng isa pa.
+
+// core console - nope index
+May mali 
+dito sa index.
+Kailangan nating baguhin ang index,
+Hindi ito magkasya.
+
+// Why kitchen
+Nagugutom ka ba?
+Magaling akong maghiwa ng carrots. :)
+
+// Why bathroom
+Ah, hula ko
+gusto mong pumasok mag-isa?
+
+// Why bedroom back
+Bakit paikot-ikot ka lang?
+Bakit ka bumalik dito?

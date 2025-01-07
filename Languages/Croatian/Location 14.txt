@@ -1,0 +1,5 @@
+// Snaker
+Poraz!
+Pobjeda!
+// DontWork
+Stani!

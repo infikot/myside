@@ -11,15 +11,15 @@ De verdade!
 
 Claro, eu acredito em você!
 
-Mas ai,
+Mas aí,
 esse lugar é perigoso hein...
 especialmente para você.
 
 // After a while 1
 Você é tudo menos covarde, né?
-Estou assistindo você
-enquanto passa
-esse lugar é divertido...
+Assistir você
+passar por esses
+lugares é divertido...
 Corre, docinho, corre!
 Eu vou alcançar!
 Boa!
@@ -47,7 +47,7 @@ Uhmm, Ok...
 Boa sorte!
 
 
-Quem está ai?
+Quem está aí?
 Eu consigo te sentir...
 Me escute,
 você é um jogador
@@ -63,7 +63,7 @@ Quebrei muitos espelhos,
 e rasguei muitas fotos...
 mas agora...
 tudo que eu sinto é arrependimento.
-O quão estupida eu fui...
+O quão estúpida eu fui...
 Todos cometem erros, é claro...
 Mas o que você faz
 quando as consequências são catastróficas
@@ -131,7 +131,7 @@ Procuro no guarda roupa...
 Ei!
 Você está no meu caminho!
 Você vai ficar aí parado?
-Só sai do caminho!
+Só saí do caminho!
 Me deixa passar!
 Só porque você é grandão não significa que você é o bambambã!
 
@@ -143,10 +143,10 @@ Mete o pé!
 
 
 // Funicular - radio voice
-Espera ai...Jogador?
+Espera aí...Jogador?
 O que está fazendo aqui?
 
-Quem está ai?
+Quem está aí?
 
 Outro jogador.
 Eu sou Mitaphone
@@ -155,10 +155,10 @@ Você percebeu
 que está indo na direção de sua ruina agora?
 
 Talvez,
-mas esse é o uníco caminho que eu tenho
+mas esse é o único caminho que eu tenho
 
-Ai está você.
-Aperte o botão e vá para atrás do canhão
+Aí está você.
+Aperte o botão e vá para trás do canhão
 
 O canhão?
 
@@ -174,7 +174,7 @@ Maravilhoso!
 Você conseguiu.
 // Funicular stop
 Ei, saia daqui.
-De um jeito legal e rapido!
+De um jeito legal e rápido!
 // Funicular wait 2
 Por que ainda está aqui?
 Eu disse para sair.
@@ -183,6 +183,6 @@ Eu não entendo...
 por que está aqui?
 // Funicular tetris
 Por que Tetris?
-Ai cara...
+Aí cara...
 // Funicular goodbye
 Tchau.

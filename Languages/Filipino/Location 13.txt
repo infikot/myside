@@ -1,0 +1,14 @@
+// Quest none
+Di bale.
+// Quest "First"
+Saan ka nanggaling?
+Paano ka nakarating dito?
+Sino yung Mita na yun kanina?
+Paano gumagana ang singsing?
+Bakit kailangan ako ng Baliw na Mita?
+Iyan ba ang Core?
+// Quest "Second"
+Anong problema?
+Mayroon pa bang ibang paraan para makilala siya?
+Paano kung atakihin natin ang Baliw na Mita?
+Mga maliliit na tao

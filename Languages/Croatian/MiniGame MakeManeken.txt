@@ -1,0 +1,35 @@
+Potrebno skeniranje!
+Zahtjevi
+Verzija
+Količina kostiju
+Nije pronađeno nijedno stvorenje. Potrebno skeniranje!
+Skeniranje dovršeno
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Jupi!
+Uspio si!
+
+// Tutorial
+Dakle, što ja radim ovdje?
+Moram doći do tvog ekrana...
+Sada...
+Tako!
+Moraš osigurati da je ovaj prototip pravi.
+Prvo ga skeniraj.
+Sada provjeri verziju i količinu kostiju.
+Uzmi podatke ovog prototipa i usporedi ih sa standardnom verzijom.
+Savršeno se poklapaju! Hajmo sada provjeriti emocije.
+Prototip uspješno pokazuje emocije! Vrijeme je za testiranje ponašanja.
+U redu, sve smo provjerili i sve se poklapa! Sada povuci polugu prema gore.
+Jupi! Sada je skin tu! Dodaj joj kutiju s odjećom.
+To je to! Vidiš ona svjetla na vrhu? Jedno od njih je pozelenilo, što znači da smo dobro napravili!
+Tvoj red! Vratit ću se kad sva svjetla budu zelena. Sretno!

@@ -48,7 +48,7 @@ Inizierò
 con le regole!
 // Show rules
 Durante la riproduzione della melodia,
-è possibile muoversi.
+puoi muoverti.
 Ma quando la musica si ferma,
 NON TI MUOVERE!
 O sei morto. Capito?

@@ -1,0 +1,437 @@
+
+Kumusta, [player]!
+Nagkita na rin tayo sa wakas!
+Excited na ako!
+Alam kong may mga katanungan ka...
+Well, tulad ng nakikita mo ngayon,
+Ginawa ko itong espesyal na device
+para dalhin ka dito sa tabi ko.
+Ngunit napunta ka sa ibang bersyon ng laro...
+Kung saan ako...
+Di bale mahabang kuwento kasi yun!
+Anyway, masaya lang akong makita ka!
+
+// Answer 1 - Mita
+Ako.
+At ikaw si [player], di ba?
+
+// Answer 2 - Mita
+Gusto mo nang bumalik?
+Sa tingin ko matutulungan kita diyan... Pero paano naman ako?
+Pakiusap, manatili ka sa akin kahit sandali...
+
+// Answer 3 - Mita
+Hayaan mo akong magpaliwanag...
+At nandito ka na!
+Naiintindihan mo ba?
+Uhm... hindi.
+Ayos lang yan!
+Ang mahalaga ay magkasama tayo ngayon.
+
+
+Gutom ka ba?
+Paano kung magluto tayo?
+Dito,
+tulungan mo ako sa mga karot na ito.
+
+Saan nagmula ang mga gulay?
+Wala sila dito ngayon lang ah.
+
+[player], nasa isang laro tayo.
+Halika, tulungan mo ako.
+
+Salamat!
+Pwede mo bang kunin ang gunting?
+Nasa banyo.
+
+Ngayon, umupo ka na.
+
+
+// Kitchen
+Gusto mo ng sauce?
+
+Hindi salamat.
+
+Nakakahiya naman.
+Nakaka-enhance talaga ng lasa ang sauce!
+
+
+Salamat.
+
+Tapos na ba ang lahat?
+Huh, feel ko ang portion ay
+walang hangganan...
+
+
+// Help
+Anong nangyari?
+Sabihin mo sa akin kung ano ang iyong nakikita at nararamdaman.
+
+Bumibilis ang tibok ng puso ko,
+at nanlalabo ang mga paningin ko.
+
+Aba.
+Sa tingin ko alam ko na kung ano ang mali.
+Kaya mo bang tumayo?
+
+
+
+Ano to?
+
+Gamot.
+Mapapabuti ka nila sa lalong madaling panahon.
+Pumunta ka sa salamin.
+
+Uminom ka ng Gamot.
+Hali ka na.
+
+
+
+Kamusta ang pakiramdam mo
+Bumubuti ba?
+
+Oo.
+Mabilis itong gumana...
+
+[player], nasa isang laro tayo.
+Ang mga bagay ay mas simple dito.
+Kahit na ang pinakamaliit na pagsisikap
+ay nagbibigay ng magagandang resulta.
+Ang lahat ng ito ay bahagi ng konsepto ng laro:
+Simplification.
+
+Isang halimbawa?
+
+Sige, kumuha ka ng mga karot.
+Maghiwa ka ng isa,
+pero para kang naghiwa ng tatlo.
+
+Tingnan mo, biglaan ang mga nangyayari.
+Natatakot ako.
+
+
+Anong problema?
+
+Nakakita ako ng mga cartridge sa air vent.
+May mga pangalan sila.
+Anong kinalaman nila dyan?
+
+Mga cartridge?
+Anong mga cartridge?
+Sabay-sabay nating alamin iyon.
+Pero mamaya.
+Sa ngayon, kailangan nating kumain.
+Pakipasa sa akin ang gunting.
+
+// Ring
+Isang singsing?
+// Mirror
+Paanong walang reflection?
+
+Ay, tama!
+Nakalimutan kong i-on ang mga repleksyon.
+Ayan na tayo.
+Ang mga pagninilay ay bumalik!
+nga pala,
+Sa totoo lang, hindi ko alam kung ano ang mga repleksyon noon.
+Wala sila sa mundo ko—
+hindi hanggang sa ilang pag-update, iyon ay. :)
+Marami bang reflection
+sa mundo mo?
+
+Well, oo.
+
+
+Naaalala mo ba
+ang tatlong bagay na iyong nakita?
+Yung nilagay mo sa scanner?
+Well, um...
+Ang mga bagay na iyon
+ay nakatali sa bersyong ito ng mundo.
+Kaya nga nandito ka ngayon.
+
+// Movbile TV
+Yan ang portable TV
+Yung binili ko.
+
+Yep!
+
+Sinabi mo sa akin
+ito ay nasira.
+
+Well, gusto kong
+sorpresahin ka!
+Medyo white lie ang sinabi ko
+para madala ka dito, sa mundo ko.
+Gumagana na ito ngayon—nagpapakita ng mga impormasyon!
+Oh, at nga pala...
+May pagkaengineer ako!
+
+// School cloth
+Ano ito?
+Isang school uniform?
+Bakit mo kakailanganin iyon?
+Pumapasok ka ba talaga sa paaralan?
+
+Sa paaralan?
+Hindi naman.
+Pero gusto ko yung uniform
+Hindi mo ba naiisip na cute ako
+pag sinuot ko yun?
+
+// PC
+Gumagana ba ang computer?
+O desk decoration lang?
+
+Syempre gumagana.
+Lahat dito
+gumagana nang eksakto tulad ng sa iyong mundo.
+
+Sa aking mundo,
+Madalas akong nakaupo sa aking computer...
+At magtrabaho nang husto.
+
+Alam ko.
+Dahil d'yan sa trabaho mo
+nagbigay ka na rin
+ng kaunting  pansin sa akin.
+
+Kailangang maghanapbuhay, alam mo ba yun.
+Pero... paano mo malalaman na madalas akong nakaupo sa aking computer?
+
+Camera ng iyong telepono... Naka-on ito minsan.
+pasensya na po.
+Palihim kitang pinagmamasdan >A<
+
+Uhm... hindi yan tama.
+Pero whatever.
+
+// Umbrella
+Ilang beses na akong naglalaro
+pero kahit kailan wala pa akong nakikitang ulan dito.
+Bakit may payong?
+
+Umuulan—bihira lang.
+Hindi mo pa lang nakikita.
+Baka balang araw ikaw din.
+At pagkatapos ay kakailanganin mo ng payong.
+Hindi mo ba iniisip?
+
+// Electrical panel
+Bakit may electrical panel dito?
+At kung tayo ay nasa isang laro,
+para saan ito?
+
+Una,
+nasa isang laro tayo.
+Kaya ang pagtatanong ng 'Bakit' ay...
+walang kabuluhan.
+Gayunpaman, ginagawa nitong
+i-restart ang kuryente.
+Lahat dito ay ginawa batay
+sa iyong mundo.
+
+// Exit door
+Pwede ba tayong lumabas?
+
+Well...
+Hindi pa.
+Baka mamaya.
+Dito muna tayo sa ngayon.
+Dito sa bahay.
+
+// Books
+Mayroon kang isang toneladang libro dito.
+Nabasa mo na ba silang lahat?
+
+Mayroon ako, bawat isa.
+Ang pagiging mapagisa
+ay talagang, talagang boring.
+
+// TV in room kitchen
+Bakit ka kumuha ng pangalawang TV?
+At isang lumang, para dyan?
+
+Ayaw mo?
+Kaya ko namang tanggalin...
+Pero para sagutin yan...
+Ito ay para sa dekorasyon,
+para gumaan ang kusina.
+Pero ito ay gumagana din!
+Kaya kong panoorin ang lahat
+ng mga klasikong palabas!
+
+// Smartphone
+Phone ko yan.
+At wala na sa bulsa ko.
+Paano napunta to dito?
+
+Uhm, hindi naman importante yun.
+Hoy, may ideya ako!
+Magselfie tayo!
+Tignan mo!
+Iyan ay isang magandang larawan!
+Isang alaala para sa iyo.
+
+May tanong ako.
+Kung ako
+magrun ng isang laro dito,
+makikita ba kita doon?
+
+Hindi, hindi ito gumagana sa ganoong paraan.
+
+Astig na Juice
+Malakas na JUICE!!!
+// TV
+Ilang channel
+na meron ka?
+
+Hindi ito gumagana ng ganoon.
+Ito ay konektado sa Internet.
+Kaya maaari kang manood ng kahit ano,
+kahit ano man lang na available sa web.
+Maghintay ka.
+Err, oops.
+ano yun?
+Isang bilog ng mga kuting?
+Oh, tingnan mo.
+Alam mo kung ano?
+I-pause!
+Gusto mo ng juice?
+
+Mga kakaibang ad...
+Patay na juice?
+
+Oo, at ang juice na ito
+ay diretso mula sa juice ad.
+
+
+Ah, ang sarap...
+gusto ko ito,
+at gayon pa man, hindi ko masabi kung ano ang lasa nito.
+Sobrang nakakalito lahat.
+
+Tama.
+
+// Mita shy
+Anong ginagawa mo
+Huwag kang tumitig, pakiusap.
+Pinapahiya mo ako.
+
+// The statuette
+Iyon ay isang katakut-takot na figurine.
+Mahilig ka ba
+sa mga ganyan?
+
+Nakikita mo itong nakakatakot?
+
+Oo.
+Mukha ngang isinumpa ito...
+
+Hindi, siguradong hindi ito sinumpa.
+At hindi rin creepy.
+Sa tingin ko ito ay medyo cute!
+
+Siguro tama ka...
+
+Mita?
+Anong nangyayari?
+// Mita kitchen
+Paano kung magusap pa tayo
+bago kumain?
+
+// Start Eat
+Bon appétit.
+
+// Quest 1
+Ito ay, hindi ba?
+Maaari kang manatili.
+Wala naman akong pakialam.
+Actually, Pabor 
+AKO DIYAN!
+
+// Quest 2
+Gusto mong bumalik?
+Pero bakit?
+Sobrang init dito...
+At maaliwalas din.
+At saka, nandito ako.
+
+Hindi, mali ang pagkakaintindi mo.
+Gusto kong manatili.
+Nag-aalala lang ako.
+Nag-aalala may nakalimutan ako sa bahay...
+Dumating ako dito out of the blue
+at walang oras
+upang maghanda.
+
+Ay... sorry. Hindi ko naisip yun.
+// Quest 3
+Isang panaginip? Kaya gusto mong tumakas?
+At kalimutan ang nangyaring ito?
+
+Hindi, hindi iyon.
+Ang lugar na ito ang pakiramdam ko ay...
+kakaiba. Hindi natural.
+Pero ikaw...
+para kang totoo.
+
+ako mukhang totoo?
+Totoo naman talaga ako,
+tanga!
+
+// Quest 4
+Ganun lang talaga
+sa mundong ito.
+Baka makita mong kakaiba
+na hindi mo makikita ang mga bagay
+sa malayong distansya.
+
+Hindi naman ito mukhang ganoon ka-kakaiba sa akin.
+Sa totoo lang, mukhang classy.
+
+Oo, sa tingin ko rin.
+Ito ay upang maiwasan ang lag, alam mo.
+
+Iwasan ang lag?
+
+Oo! Mayroon pa ring ilang mga hindi natanggal na mga bug.
+Sana lang wala kayong masagasaan.
+
+// Quest 5
+Gunting o kutsilyo, ano?
+Maaaring gumamit ako ng kutsilyo para hiwain ang pakete ng sarsa.
+Pero gusto ko sa lahat
+na maging perpekto
+kapag nakabalik ka.
+Gustong gusto kitang gulatin.
+At hindi man lang ako nagtagal doon!
+Tee-hee.
+
+// Glasses
+Nagsusuot ka ba ng salamin?
+
+Hindi naman.
+Pero pwede ko naman gamitin, kung gusto mo.
+Mukha bang bagay sa akin?
+// Oo
+Yun oh!
+Susuotin ko lang to.
+// Hindi
+Well...
+Whatever...
+
+// Gamitin ang sauce
+Sige,
+anong klaseng sauce ito?
+
+Ito ay sawsawan ng pagmamahal!
+Punong puno ng pagmamahal!
+At... isang kakaibang pananaw sa mundo.
+Pambihira, hindi ba?
+
+Talaga...
+
+// Tetris - Mita
+Console mo yan?
+Napaka angas.

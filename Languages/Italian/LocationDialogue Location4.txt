@@ -18,18 +18,18 @@ Non dovevi.
 Mi stavo abituando alla disposizione.
 In ogni caso, credo che ti sentirai più a tuo agio con questa disposizione.
 // Mita card game
-Bene,
-giochiamo?
+Allora,
+vogliamo giocare?
 Il gioco funziona in questo modo:
-Questa chip indica un tipo,
-come la salute:
-ognuno di noi gioca una carta,
+Questa moneta indica un tipo,
+ad esempio la salute.
+Ognuno di noi gioca una carta,
 e se la propria carta ha un valore di
 Salute
 più alta dell'altro,
 vince.
 Pesca le tue carte.
-E' il mio turno.
+È il mio turno.
 Whoa!
 Ho una bella mano!
 Comincio io!
@@ -114,7 +114,7 @@ Cosa sto facendo di male?
 Quello che voglio...
 Tutto quello che voglio è che tu stia con me.
 
-Mi piacerebbe , ma comunque...?
+Mi piacerebbe, ma comunque...?
 
 Perchè ti sei fissato con questo armadio?!
 
@@ -155,7 +155,7 @@ insieme al nucleo del mondo.
 
 Il nucleo del mondo?
 
-Tipico , non credi?
+Tipico, non credi?
 
 
 
@@ -192,7 +192,7 @@ incredibile! Che abilità!
 
 
 Qual è il problema?
-Huh, è noioso.
+Huh, che peccato.
 
 Beh,
 è cosi. Tu credi nel destino?
@@ -201,7 +201,7 @@ Allora,
 datti una regolata altrimenti sarai per sempre un perdente!
 
 Qual è il tuo problema oggi?
-Ho fatto a pugni con te.
+Ti ho completamente distrutto.
 Non hai dato il massimo
 per questo ho vinto!
 

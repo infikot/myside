@@ -39,7 +39,7 @@ Speicherkarten
 Öffnen
 
 Saft trinken
-Nicht trinken
+Ablehnen
 
 Nach rechts
 Nach links
@@ -85,7 +85,7 @@ Genug
 
 Umrühren
 
-Am Griff ziehen
+Ziehen
 
 Das rechte
 Das linke
@@ -96,7 +96,7 @@ Springen
 Tür öffnen
 
 Spiel auswählen
-Spiel beenden
+Beenden
 Fortfahren
 Spielen
 

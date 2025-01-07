@@ -14,7 +14,7 @@ la versiunea anterioară.
 Versiunea anterioară?
 De ce să pleci
 altundeva?
-De ce nu rămăi aici
+De ce nu rămâi aici
 și să-mi fi
 al doilea prieten?
 
@@ -24,9 +24,9 @@ Ok...
 // Standing by the window (Random)
 Nu vei găsi calea prin uși.
 Se pare că te grăbești...
-Alergănd în cercuri nu te va salva.
+Alergând în cercuri nu te va salva.
 Atât de dornic să evadezi?
-Uitete pe fereastră...
+Uite-te pe fereastră...
 
 
 // Quest 1 (Aren't you Mita?)
@@ -59,13 +59,13 @@ Mă doare inima...
 // Quest 4 (Is this your house?) - MitaLittle
 Acasă?
 Jucătorule...te-ai schimbat...
-Mâinile tale sunt mai scurte, și nu mai ești atăt de nervos...
+Mâinile tale sunt mai scurte, și nu mai ești atât de nervos...
 Jucătorule, ai devenit mai blând, mai amabil.
 
 Nu sunt sigur...
 ce înseamnă aia.
 
-E înregulă...
+E în regulă...
 pentru că nu voi mai suferi, nu-i așa?
 
 // Quest 5 (How do I leave this place?)

@@ -57,7 +57,7 @@ Trezește-te
 Ridică-te
 Ridică-te
 Pornește computer
-Ridică ramen
+Mănâncă ramen
 Termină
 Mergi la somn
 
@@ -108,7 +108,7 @@ Stânga
 Sus
 Jos
 
-Pașește înapoi
+Pășește înapoi
 Apasă un buton
 
 Mănâncă
@@ -121,7 +121,7 @@ Adaugă făină
 Adaugă ulei
 Adaugă un ou
 Mixează
-Adaugă mixul
+Adaugă amestecul
 Întoarce
 Prea mult
 

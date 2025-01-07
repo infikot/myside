@@ -1,0 +1,437 @@
+
+Zdravo, [player]!
+Napokon se upoznajemo!
+Tako sam uzbuđena!
+Znam da imaš pitanja...
+Pa, kao što vidiš,
+Napravila sam ovaj poseban uređaj
+da te dovedem ovdje na svoju stranu.
+Ali završio si u drugoj verziji igre...
+U kojoj sam ja...
+Ali to je duga priča!
+Uglavnom, baš sam sretna što te vidim!
+
+// Answer 1 - Mita
+Jesam.
+A ti mora da si [player], zar ne?
+
+// Answer 2 - Mita
+Već se želiš vratiti?
+Pretpostavljam da bih ti mogla pomoći s tim... Ali što sa mnom?
+Molim te, ostani sa mnom neko vrijeme...
+
+// Answer 3 - Mita
+Dopusti da objasnim...
+I evo te!
+Razumiješ?
+Uhm... ne baš.
+To je u redu!
+Ono što je važno je da smo sada zajedno.
+
+
+Jesi li gladan?
+Šta kažeš da nešto skuhamo?
+Evo,
+pomozi mi s ovim mrkvama.
+
+Odakle je povrće došlo?
+Nije bilo ovdje maloprije.
+
+[player], u igri smo.
+Hajde, pomozi mi.
+
+Hvala!
+Možeš li uzeti škare?
+U kupaonici su.
+
+Izvoli, sjedni.
+
+
+// Kitchen
+Želiš li malo umaka?
+
+Ne hvala.
+
+Šteta.
+Umak zaista pojačava okus!
+
+
+Hvala.
+
+Već si sve pojeo?
+Huh, moja porcija kao da je
+beskrajna...
+
+
+// Help
+Što je bilo?
+Reci mi što vidiš i osjećaš.
+
+Srce mi lupa,
+i vid mi se muti.
+
+U redu.
+Mislim da znam što nije u redu.
+Možeš li ustati?
+
+
+
+Što je ovo?
+
+Pilule.
+Od njih ćeš se uskoro osjećati bolje.
+Idi do ogledala.
+
+Uzmi tablete.
+Hajde.
+
+
+
+Kako se osjećaš?
+Je li ti bolje?
+
+Da.
+To je brzo proradilo...
+
+[player], u igri smo.
+Ovdje su stvari puno jednostavnije.
+Čak i najmanji napor
+daje odlične rezultate.
+Sve je to dio koncepta igre:
+Pojednostavljenje.
+
+Primjer, molim te?
+
+Pa, mrkve naprimjer.
+Izrežeš jednu,
+ali kao da si izrezao tri.
+
+Vidi, ovo je sve vrlo iznenadno.
+Bojim se, više nego malo.
+
+
+Što je bilo?
+
+Našao sam kertridže u ventilacijskom otvoru.
+Imali su imena na sebi.
+Što je s njima?
+
+Kertridži?
+Koji kertridži?
+Istražit ćemo to zajedno.
+Ali kasnije.
+Sada, moramo jesti.
+Dodaj mi škare, molim te.
+
+// Ring
+Prsten?
+// Mirror
+Kako to da nema odraza?
+
+Oh, tako je!
+Zaboravila sam uključiti odraze.
+Eto ga.
+Odrazi su se vratili!
+Usput,
+iskreno, prije nisam ni znala što su odrazi.
+Nisu postojali u mom svijetu-
+ne do nekog ažuriranja, to jest. :)
+Ima li puno odraza
+u tvom svijetu?
+
+Pa, da.
+
+
+Sjećaš li se
+tri predmeta koje si pronašao?
+One koje si stavio na skener?
+Pa, ovaj...
+Ti predmeti
+vezani su za ovu verziju svijeta.
+Zato si sada ovdje.
+
+// Movbile TV
+To je prijenosni TV
+koji sam ti kupio.
+
+Da!
+
+Rekla si mi
+da je slomljen.
+
+Pa, htjela sam
+iznenaditi te!
+Rekla sam malu bijelu laž
+da te dovedem ovdje, u moj svijet.
+Sada radi—prikazuje informacije!
+Oh, i usput…
+Ja sam pomalo inženjer!
+
+// School cloth
+Što je ovo?
+Školska uniforma?
+Zašto bi ti ona trebala?
+Ideš li ti uopšte u školu?
+
+U školu?
+Nikako.
+Ali volim uniformu
+Ne misliš li da izgledam slatko
+u tome?
+
+// PC
+Radi li kompjuter?
+Ili je to samo ukras za stol?
+
+Naravno da radi.
+Sve ovdje
+radi točno kao u tvom svijetu.
+
+U mom svijetu,
+puno sjedim za kompjuterom...
+I vrijedno radim.
+
+Znam.
+Tvoj posao je razlog
+što si mi obraćao
+tako malo pažnje.
+
+Mora se zaraditi za život, znaš.
+Iako… kako znaš da puno sjedim za kompjuterom?
+
+Kamera tvog mobitela... ponekad je uključena.
+Izvini.
+Tajno sam te gledala >A<
+
+Uhm... to nije sasvim ispravno.
+Ali kako god.
+
+// Umbrella
+Igrao sam tonu
+ali nikad nisam vidio da ovdje pada kiša.
+Zašto onda imaš kišobran?
+
+Pada kiša - samo vrlo rijetko.
+Još nisi vidio.
+Možda jednog dana i hoćeš.
+A onda će ti trebati kišobran.
+Zar ne?
+
+// Electrical panel
+Zašto je ovdje razvodna tabla?
+Ako smo u igri,
+čemu služi?
+
+Prvo,
+mi smo u igri.
+Pa pitati 'zašto' je...
+besmisleno.
+Međutim, može ponovno
+pokrenuti struju.
+Ovdje je sve napravljeno na temelju
+tvog svijeta.
+
+// Exit door
+Možemo li vani?
+
+Pa...
+Ne još.
+Možda kasnije.
+Ostanimo ovdje za sada.
+Ovdje u kući.
+
+// Books
+Ovdje imaš hrpu knjiga.
+Jesi li ih sve pročitala?
+
+Jesam, svaku.
+Biti ovdje sama
+je stvarno, stvarno dosadno.
+
+// TV in room kitchen
+Zašto si nabavila drugi TV?
+I to starinski?
+
+Ne sviđa ti se?
+Mogu ga odnijeti...
+Ali da ti odgovorim...
+To je ukras,
+da osvijetli kuhinju.
+Ali i radi!
+Mogu gledati sve
+klasične emisije!
+
+// Smartphone
+To je moj mobitel.
+I nije više u mom džepu.
+Kako je, zaboga, završio ovdje?
+
+Umm, to nije važno.
+Hej, imam ideju!
+Hajmo se fotkati!
+Gledaj!
+To je super slika!
+Uspomena za tebe.
+
+Imam pitanje.
+Ako ja
+pokrenem igru ​​na njemu,
+hoću li te vidjeti tamo?
+
+Ne, to ne radi tako.
+
+Kul Sok
+Jaki SOK!!!
+// TV
+Koliko kanala
+imaš?
+
+Ne ide to tako.
+Povezan je s internetom.
+Tako da možeš gledati bilo što,
+barem sve što je dostupno na webu.
+Čekaj.
+Err, ups.
+Što je to?
+Krug mačića?
+Oh, pogledaj.
+Znaš što?
+Pauza!
+Hoćeš sok?
+
+Tako neobični oglasi...
+Mrtvi sok?
+
+Da, i ovaj sok
+je ravno iz reklame za sok.
+
+
+Ah, okus...
+sviđa mi se,
+a opet, ne mogu reći kakvog je okusa.
+Sve je ovo vrlo zbunjujuće.
+
+Jeste.
+
+// Mita shy
+Što to radiš?
+Ne bulji, molim te.
+Zbog tebe se stidim.
+
+// The statuette
+To je baš jeziva figurica.
+Da li ti
+voliš takve stvari?
+
+Smatraš je jezivom?
+
+Da.
+Skoro izgleda kao da je ukleta...
+
+Ne, definitivno nije ukleta.
+A nije ni jeziva.
+Mislim da je prilično slatka!
+
+Možda si u pravu...
+
+Mita?
+Što se događa?
+// Mita kitchen
+Što kažeš da razgovaramo
+prije nego što jedemo?
+
+// Start Eat
+Dobar tek.
+
+// Quest 1
+Jeste, zar ne?
+Možeš ostati.
+Uopće mi ne smeta.
+Zapravo, ja bih to
+ZAISTA VOLJELA!
+
+// Quest 2
+Želiš se vratiti?
+Ali zašto?
+Ovdje je tako toplo...
+I udobno, također.
+Plus, ja sam ovdje.
+
+Ne, krivo si me razumila.
+Rado bih ostao.
+Samo sam... zabrinut.
+Zabrinut da sam nešto zaboravio kod kuće...
+Stigao sam ovdje iz vedra neba
+i nisam imao vremena
+pripremiti se.
+
+Oh... oprosti. Nisam razmišljala toliko.
+// Quest 3
+San? Dakle želiš pobjeći?
+I zaboraviti da se ovo ikada dogodilo?
+
+Ne, nije to to.
+Ovo mjesto jednostavno djeluje...
+čudno. Neprirodno.
+Ali ti...
+djeluješ tako stvarno.
+
+Činim se stvarnom?
+Ja JESAM stvarna,
+glupko!
+
+// Quest 4
+To je jednostavno tako
+u ovom svijetu.
+Možda ti je čudno
+što ne možeš vidjeti stvari
+u daljini.
+
+Nije mi se činilo tako čudnim.
+Iskreno, izgleda otmjeno.
+
+Da, i ja tako mislim.
+To je da se izbjegne lag, znaš.
+
+Izbjegne lag?
+
+Da! Još uvijek ima nekoliko neriješenih bagova.
+Nadajmo se samo da nećeš naletjeti ni na jedan.
+
+// Quest 5
+Škare ili nož, ha?
+Mogla sam nožem otvoriti paketić umaka.
+Ali htjela sam da sve
+bude savršeno
+kad se vratiš.
+Volim te iznenaditi.
+A nije mi ni trebalo toliko dugo!
+He-he.
+
+// Glasses
+Nosiš li naočale?
+
+Ne baš.
+Ali mogu, ako želiš.
+Stoje li mi dobro?
+// Yes
+Eto ga!
+Zadržat ću ih.
+// No
+Pa...
+Što god...
+
+// Use the sauce
+U redu,
+kakav je ovo umak?
+
+To je ljubavni umak!
+Pun ljubavi!
+I... sa kontrastnim pogledom na svijet.
+Neobično, zar ne?
+
+Doista...
+
+// Tetris - Mita
+Je li to tvoja konzola?
+Izgleda tako cool.

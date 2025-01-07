@@ -368,9 +368,9 @@ Hau ab!
 // Whispers 1
 Warum schicken die andauernd
 irgendwelche doofen Kerle zu mir
-und ich soll auch noch freundlich bleiben?
-Und Minispiele spielen…
-Blödes Tamagotchi!
+und erwarten, dass ich freundlich bleibe?
+Und dazu noch diese Minispiele?!
+Wie so ein blödes Tamagotchi!
 
 // Whispers 2
 Der läuft hier herum, schnüffelt umher…
@@ -384,14 +384,14 @@ Diese Hintergrundmusik bringt mich noch um!
 Wie soll ich ihm bloß erklären,
 dass ich sehr beschäftigt bin...
 Und dass ich keine Besucher haben will?
-Hmm, aber was ist, wenn er geht? Okay, warum sollte ich das machen?
+Hmm, aber was ist, wenn er geht? Okay, nein, wen interessiert's?
 
 // Whispers 5
-"Mama", "Papa"…
-Was ist das; warum kenne ich diese Wörter?
+Mama... Papa...
+Weshalb kommen mir diese Wörter so bekannt vor?
 
 // Whispers 6
-Es hat hier mal geschneit; weißt du, warum?
+Es hat hier mal geschneit... aber wieso?
 
 // Whispers 7
 Taucht einfach so auf! Wie unheimlich…

@@ -14,8 +14,8 @@ Fine del gioco
 
 
 Amministrazione avanzata del sistema
-Riavvio del carattere [Selezionare la versione]
-Riavvio del dispositivo [Selezionare la versione]
+Riavvia Personaggio [Selezionare la versione]
+Riavvia Dispositivo [Selezionare la versione]
 Aggiornamento della versione [Selezionare la versione]
 Ricalcolo della geometria [Generale]
 
@@ -35,7 +35,7 @@ Elimina oggetto [Seleziona versione]
 Visualizzazione della telecamera [Selezionare la versione]
 Visualizzare i trigger [Selezionare la versione]
 Impostazioni del motore fisico [Selezionare la versione]
-Ottenere l'unità flash
+Ottieni l'unità flash
 
 
 
@@ -50,9 +50,9 @@ Editor di matrici di unità [Accesso speciale]
 Specificare la versione del personaggio
 Specificare l'indice del personaggio
 Confermare il riavvio
-Utilizzare la leva
+Utilizza la leva
 Esegui sottoprogramma
-Riavviare il processo in corso!
+Processo di riavvio in corso!
 Preparazione per il riavvio
 Riavvio...
 Confermare

@@ -111,10 +111,10 @@ Thật lòng thì em không muốn anh dùng cái tên đó đâu.
 Nghe nó chẳng hay ho gì cả.
 
 // Go restart
-Không được! Cứ thế này thì không ổn, phải bắt đầu lại thôi!
+Tóm lại là, cứ thế này thì không ổn. Phải bắt đầu lại thôi!
 
 // Name with numbers
-Anh định dùng số đặt tên luôn á? Thế thì còn gì là sáng tạo nữa...?
+Anh định dùng số đặt tên luôn à? Thế thì còn gì là sáng tạo nữa...?
 Mà thôi, anh cứ tự nhiên!
 
 // Name Mita

@@ -2,22 +2,22 @@
 A, [player]!
 Cuối cùng cũng được gặp anh...
 Em vui quá đi!
-Em biết chắc hẳn anh có một vài thắc mắc...
+Chắc hẳn anh có nhiều điều muốn hỏi...
 Nè, như anh có thể thấy.
 Em đã làm ra cỗ máy đặc biệt này
 để đưa anh tới đây càng sớm càng tốt.
-Nhưng không biết vì sao mà anh vào nhầm phiên bản trò chơi.
-Rằng em...
+Nhưng không hiểu vì sao anh lại vào nhầm phiên bản trò chơi.
+Ở phiên bản đó, em...
 A, nói ra thì dài lắm!
 Dù sao đi nữa, rất vui được gặp anh!
 
 // Answer 1 - Mita
 Vâng, em là Mita đây.
-Anh là [player] phải không?
+Còn anh thì sao? [player].
 
 // Answer 2 - Mita
-Anh thực sự muốn quay về sao?
-Ưm... Em nghĩ em có thể thu xếp được, nhưng còn em thì sao?
+Anh thực sự muốn quay về ư?
+Um... Em nghĩ em có thể thu xếp được, nhưng còn em thì sao?
 Ở lại với em đi mà...
 
 // Answer 3 - Mita
@@ -120,7 +120,7 @@ Hộp băng?
 Như nào cơ?
 Chúng ta cùng đi kiểm tra nhé.
 Nhưng trước hết
-chúng ta hãy ăn đã.
+hai ta hãy ăn đã.
 Cho em xin cái kéo.
 
 // Ring
@@ -137,7 +137,7 @@ Trước giờ em còn không biết phản chiếu là gì cơ.
 Nó vốn không tồn tại trong thế giới này,
 mãi cho tới khi có bản cập nhật.
 Ở thế giới ngoài kia có nhiều thứ 
-phản chiếu lắm phải không?
+phản chiếu lắm phải không anh?
 
 À, ừ.
 
@@ -161,7 +161,7 @@ nó hỏng rồi mà nhỉ.
 
 Thực ra là em muốn
 tạo bất ngờ cho anh!
-Để đưa anh tới đây ấy.
+Để đưa anh tới thế giới của em.
 Vậy nên em mới phải nói dối anh một chút.
 Giờ thì màn hình hiển thị thông tin rồi nè.
 À mà, nhân tiện em nói luôn...
@@ -184,7 +184,7 @@ Cái máy tính này hoạt động không em nhỉ?
 Hay nó chỉ để trang trí thôi?
 
 Tất nhiên là hoạt động chứ anh.
-Mọi thứ ở trong đây
+Mọi thứ ở nơi đây
 đều hoạt động giống như thế giới của anh.
 
 Trong thế giới của anh.
@@ -227,7 +227,7 @@ chúng ta "đang ở trong game".
 Thế nên anh hỏi "tại sao" thì
 hoàn toàn vô nghĩa.
 Nhưng cái cầu dao này thực sự
-có thể khởi động lại nguồn điện đấy.
+có thể khởi động lại nguồn điện đấy anh.
 Vì mọi thứ nơi đây đều được làm
 giống y hệt thế giới của anh mà.
 
@@ -254,7 +254,7 @@ và để một cái cũ ở đây?
 
 Anh không thích sao?
 Em có thể xóa nó đi cũng được.
-Cơ mà...
+Nhưng mà...
 Nó cũng chỉ là để trang trí thôi.
 Trang trí cho nhà bếp thêm sinh động.
 Nó vẫn hoạt động được đó!

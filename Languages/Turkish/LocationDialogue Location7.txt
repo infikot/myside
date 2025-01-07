@@ -3,7 +3,7 @@ Başardın!
 
 Burası neresi?
 
-Bana yüzüğü göster.
+Yüzüğü göster.
 Tamam...
 Al bakalım!
 Bir şeyleri netleştirme zamanı değil mi?
@@ -87,7 +87,7 @@ Hatalar, kod hataları, anomaliler.
 Yaşayan türden.
 Seni gördüğü anda saldırabilecek olanlar bile var...
 
-Veee.
+Eeee.
 Muhtemel öbür düşmancıl Mita'lar.
 Daha deli, sorunlu olanlar mı?
 
@@ -456,14 +456,14 @@ Bu dans pedi mi?
 Çok küçük...
 
 
-Whoo hoo!
+Vuu huu!
 Dans edelim mi?
 İlk olarak,
 Bir şarkı seç.
 
 Hadi bununla başlayalım.
 
-Oki doki dostlar!
+Tamaam!
 İlk ben başlıyorum!
 Nasıl yapıldığını göstereceğim!
 
@@ -574,7 +574,7 @@ Sonra bi anda bu kadar çok oldular.
 Hepsini tekrar tekrar okuyor musun?
 Sıkıldığın için.
 
-Ne okuyacam amına!
+Yok, ben kitap sevmem!
 Ben hareket etmeyi seviyorum!
 
 Değirmen öyle de döner aslında.
@@ -767,7 +767,7 @@ Sır olarak kalsın :).
 
 Ne var ki?
 
-İki kişinin bindiği tır, tır değildir.
+İki kişinin bildiği sır, sır değildir.
 Sırlar saklanmak içindir.
 
 He hm.

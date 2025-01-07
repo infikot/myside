@@ -5,7 +5,7 @@ Móveis
 Quarto
 Roupas
 Brinquedos
-Atualizações
+Melhorias
 Sopa
 Salada
 Lanche
@@ -35,7 +35,7 @@ Plataforma
 Jogos
 
 (1) nova mensagem
-Confira esta nova versão! Você vai adorar!
+Olha essa versão nova! Vai adorar!
 Anexo
 
 Amigo: M.K.

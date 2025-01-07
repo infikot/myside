@@ -278,7 +278,7 @@ Oyunu açsam
 içinde 
 seni görür müyüm?
 
-Öyle olmuyor çakkal.
+Hayır, o şekilde çalışmıyor.
 
 
 

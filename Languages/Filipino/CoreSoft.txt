@@ -1,0 +1,58 @@
+Nagsisimula ang aplikasyon
+
+Compirmahin ang pag-login
+Maling pag-login
+Mga programa
+Bumalik
+
+Tagapamahala ng Virtual na Device
+Pag-accounting ng Yunit ng Server [Piliin ang Bersyon]
+Pangunahing Processor Monitoring [Piliin ang Bersyon]
+Pagsubaybay sa Proseso ng Grapiko [Piliin ang Bersyon]
+Quadrangle
+Tapusin ang laro
+
+
+Advanced na System Administration
+I-restart ang Karakter [Piliin ang Bersyon]
+I-restart ang Device [Piliin ang Bersyon]
+Update sa Bersyon [Piliin ang Bersyon]
+Muling pagkalkula ng Heometriya [Pangkalahatan]
+
+
+
+
+Pagpapanumbalik ng Sistema
+Pag-troubleshoot [Pangkalahatan]
+Antivirus [Pangkalahatan]
+Command Console [Pangkalahatan]
+
+
+
+
+Mga Advanced na Function
+Tanggalin ang Bagay [Piliin ang Bersyon]
+I-Display ang Kamera [Piliin ang Bersyon]
+Display Triggers [Piliin ang Bersyon]
+Mga Setting ng Physics Engine [Piliin ang Bersyon]
+Kuhain ang Flash Drive
+
+
+
+Mga Minor Functions
+Binary Code Editor [Espesyal na Access]
+Editor ng Yunit Matrix [Espesyal na Access]
+
+
+
+
+
+Tukuyin ang Bersyon ng Karakter
+Tukuyin ang Karakter Index
+Kumpirmahin ang pag reboot
+Gamitin ang lever
+Patakbuhin ang Subprogram
+Ang proseso ng pag-restart ay tumatakbo!
+Naghahanda Para sa restart
+Nagrerestart...
+Kumpirmahin

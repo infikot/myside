@@ -372,7 +372,7 @@ Că acesta este un joc 18+, nu?
 
 Ce-a fost asta?
 
-Ești destul de încet, nu-i asa?
+Ești destul de încet, nu-i așa?
 Este pentru a atrage castorii din ascunzătoare...
 
 Serios?
@@ -446,9 +446,9 @@ Da, asta e tot!
 Să mergem.
 
 // Dance - [not]
-Cracker
-Bulă
-Balon
+
+
+
 
 
 // GAME DANCE
@@ -510,7 +510,7 @@ Bună treabă! Frumos!
 // MitaCap = Win 3
 Bam!
 Poți simți ritmul!
-Un dansator înnascut!
+Un dansator înnăscut!
 
 // MitaCap = Draw 1
 Tu!
@@ -528,7 +528,7 @@ o singură greșeală!
 
 // MitaCap Next? 1
 Deci,
-ce zici de înca o rundă?
+ce zici de încă o rundă?
 
 // MitaCap Next? 2
 Grozav, încă una.

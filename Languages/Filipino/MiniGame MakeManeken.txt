@@ -1,0 +1,35 @@
+Kinakailangan ang pag-scan!
+Mga kinakailangan
+Bersion
+Dami ng buto
+Walang nakitang entity. Kinakailangan ang pag-scan!
+Kumpleto na ang pag-scan
+
+
+
+
+
+
+
+
+
+
+// Tutorial finish
+Whoo-hoo!
+Nagawa mo!
+
+// Tutorial
+So, anong gagawin ko dito?
+Kailangan kong pumunta sa screen mo...
+Ngayon...
+So!
+Siguraduhin mo na tama ang prototype na to.
+Una, I-scan mo.
+Ngayon, suriin ang bersyon at bone skeleton.
+Kunin ang data ng prototype na ito at ikompara ito sa standard bersyon.
+Perfect match! Ngayon, suriin natin ang mga emosyon.
+Ang ispesimen ay matagumpay na nagpapakita ng damdamin! Oras na upang subukan ang test behavior.
+Okay, nasuri na natin ang lahat at tumugma ang lahat! Ngayon hilahin ang lever pataas.
+Yay! Naka skin on na siya ngayon! Ibigay mo sa kanya yung kahon na may damit.
+Yun lang! Nakikita mo ba ang mga ilaw sa itaas? Ang isa sa kanila ay naging berde, ibig sabihin, tama ang ginawa natin!
+Ikaw naman! Babalik ako kapag naging berde ang lahat ng ilaw. Good luck sayo!

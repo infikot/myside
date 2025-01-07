@@ -16,7 +16,7 @@ Tá muito escuro.
 
 Eu te falo depois.
 Por enquanto, vai para a saída
-Me encontra na maquina de arcade
+Me encontra na máquina de arcade
 
 
 
@@ -65,7 +65,7 @@ Então eu guio elas
 até seus lares
 
 // Quest 2 (Why is it so dark downstairs?)
-Nos "mitas" somos criadas no escuro,
+Nós "mitas" somos criadas no escuro,
 então precisamos ficar lá por um tempo.
 Só imagina a dor de ser tirada
 da escuridão diretamente para a luz
@@ -114,7 +114,7 @@ Mas como...?
 Que tipo de index você estava?
 Tem uma "eu" que não consegue parar de chorar,
 outra que ama fazer brincadeiras,
-e uma que tem uma péssima memoria e faz coisas horríveis com os outros
+e uma que tem uma péssima memória e faz coisas horríveis com os outros
 É uma longa lista...
 Me fala o que você lembra.
 
@@ -147,7 +147,7 @@ e joga o quanto ele quer.
 Lá, ele cria uma nova casa
 e uma nova Mita
 Essa é uma representação 2D
-Essa são duas versões
+E essas são as versões
 mostradas em linhas.
 E as casas ficam nessas linhas.
 Vamos dizer que você baixou a versão 1.14
@@ -191,14 +191,14 @@ Então, quem ganhou?
 
 EU, é claro!
 Olha
-a gente tá aqui na versão 1.5
+a gente tá aqui na versão 1.15
 casa index 809.
 A gente precisa chegar na versão 1.11,
 casa index 805.
 Então a jornada dela começou desse jeito.
 A gente queria trazer uma rota mais curta então,
 Então a Mita Bonitinha sugeriu que fosse dessa forma
-E ai eu desenhei de um jeito mais simplificado aqui
+E aí eu desenhei de um jeito mais simplificado aqui
 É fácil, não é?
 Dá uma olhada.
 Daqui você pode chegar diretamente na versão correta

@@ -87,7 +87,7 @@ Bol şans!
 
 
 Duvar mı?
-Hmmi bu tamamen yanlış.
+Hmm, bu tamamen yanlış.
 Belki...
 Bodrumda sana yardımcı olabilecek bir şey vardır.
 Yeni keşfettim.
@@ -98,7 +98,7 @@ Ama tamamen çöp dolu.
 Bir tür kod gibi bir şey istiyor.
 Pek anlamam ben.
 Umrumda da değil açıkçası.
-Ayrıca rahatsız edici, yani, bayağı rahatsız edici.
+Ayrıca rahatsız edici, yani, baya rahatsız edici.
 İlgilenir misin?
 
 Ehm. Tabii.
@@ -112,7 +112,7 @@ Artık yapmam gereken tek şey
 Koduğumun oyunundan çıkmak...
 
 
-O kadar hızlı değil.
+Dur biraz.
 Sarılmak istiyorum.
 
 He?
@@ -197,15 +197,15 @@ Bu değil.
 Karakter sıfırlama seçeneğini bulmam gerek.
 
 // core console - nope version
-Yanlış versiyon.
+Yanlış sürüm.
 Ah, benim hatam.
 Yanlış girdim.
 Başka daha deneyelim.
 
 // core console - nope index
-Sıra numarasında
-bir şey yanlış.
-Sıra numarasını değiştirmeliyim,
+Hatalı.
+Bir şey yanlış.
+Sıra numarasını girmeliyim.
 Uyumsuz.
 
 // Why kitchen

@@ -3,7 +3,7 @@ Lumina orbitoare îmi venea în ochi.
 Nu mă puteam mișca, doar am așteptat până când mi s-a limpezit vederea.
 Lumina arzătoare de vară trecea prin ferestrele familiare din hol.
 După o vreme, amețeala s-a mai ameliorat, și m-am uitat în jur.
-Dar de îndată ce m-am mișcat în scaun, o înțepătură ascuțită mi-a făcut inima să bată mai repede,bătându-mi practic prin cămașă.
+Dar de îndată ce m-am mișcat în scaun, o înțepătură ascuțită mi-a făcut inima să bată mai repede, bătându-mi practic prin cămașă.
 
 
 Ceva era cu siguranță în neregulă… Sunt—2D?! Sunt într-o versiune 2D?!
@@ -34,7 +34,7 @@ Dar… nimic. La naiba...! De ce nu funcționează!
 Și stai—unde e inelul! Să-mi bag...
 
 
-M-am oprit, realizănd că nu are rost.
+M-am oprit, realizând că nu are rost.
 Interfața era intangibilă, de parcă nici nu era acolo.
 Singura mea opțiune este să mă întorc în sufragerie.
 Trebuie neapărat să găsesc acel inel.
@@ -44,13 +44,13 @@ Apoi, când am făcut un pas, o fetiță drăguță a apărut de nicăieri.
 Și-a fluturat codițele scurte, cu o sclipire răutăcioasă în ochi,
 mă privea de la câțiva pași distanță. Simțeam entuziasmul în aer,
 fapt care mă neliniștea.
-> Clar, e dracu înpielițat <
+> Clar, e dracu împielițat <
 Mi-am zis în gând.
 
 Am înțepenit,
 încă nu eram obișnuit cu teleportările astea paranormale.
 A oftat puternic și și-a dat ochii peste cap.
-Asta m-a derutat și, în cele din urmă, am decis să fiu eu cel care să înceapa să vorbească.
+Asta m-a derutat și, în cele din urmă, am decis să fiu eu cel care să înceapă să vorbească.
 
 
 M-Mita?
@@ -103,7 +103,7 @@ devenind jucăușă și curioasă.
 M-am simțit de parcă mi s-a ridicat o piatră de pe inimă.
 A trecut furtuna, și acum părea… seducătoare.
 Înainte părea o panteră feroce, iar acum doar o pisicuță blândă.
-Am clipit, iar în acel moment, Mita bidimensională dispăruse, lăsănd doar un gol în locul ei.
+Am clipit, iar în acel moment, Mita bidimensională dispăruse, lăsând doar un gol în locul ei.
 
 
 Hei!
@@ -112,11 +112,11 @@ Am strigat iritat.
 Bucătărie
 Dormitor
 // Description kitchen:
-Nu mai era nimic de făcut decăt să o caut pe Mita.
+Nu mai era nimic de făcut decât să o caut pe Mita.
 Ea îmi avea inelul, și fără acel artefact, nu puteam schimba nimic.
 M-am îndreptat mai întâi spre bucătărie,
-aproape intrănd prin ușă în graba mea.
-Bucătaria era și mai luminoasă decât camera anterioară,
+aproape intrând prin ușă în graba mea.
+Bucătăria era și mai luminoasă decât camera anterioară,
 plină de mirosul familiar de morcovi proaspeți.
 Dar nici un semn de Mita 2D.
 Am fugit afară, am intrat în hol și am ocolit cu îndemânare canapeaua—un mic obstacol—înainte de a mă opri în fața ușii dormitorului.
@@ -208,7 +208,7 @@ Mita 2D părea dea dreptul îngrozită.
 Mita cea Nebună se uita la noi cu o privire ascuțită și a început să vorbească într-un ton ciudat, aproape de mustrare:
 
 [player], ce cauți aici?
-Câte Mite mai trebuie sa găsești pâna să te potolești?
+Câte Mite mai trebuie sa găsești până să te potolești?
 Care e faza cu asta?
 Urăsc lumea asta plată.
 E plictisitoare...
@@ -256,4 +256,4 @@ Caseta de dialog a Mitei 2D a pâlpâit și a început sa afișeze o frază pe c
 
 
 
-Torturi? Nu le suport! Hai să radem niște morcovi,ok?
+Torturi? Nu le suport! Hai să radem niște morcovi, ok?

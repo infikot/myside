@@ -1,0 +1,150 @@
+
+Mita?
+
+Kako si, zaboga, dospio ovamo?
+
+Ti si Mita, zar ne?
+Ali kod tebe je nešto drugačije...
+
+Vidim da obraćaš pažnju.
+I imaš pravo.
+Ja nisam ona Mita koju si prije upoznao.
+Budi oprezan, ona planira nešto
+zlokobno.
+
+Huh, nešto zlokobno?
+
+Nema vremena za objašnjavanje:
+ako ovo uspije, sve ću ti reći.
+Uzmi ključ. Pokraj sofe je.
+
+Ali...
+
+Sačuvaj svoja pitanja za kasnije!
+Daj mi ključ.
+Uzmi ovaj prsten.
+Šta?
+Želiš otići odavde, zar ne?
+Uhm, da...
+Onda ga stavi.
+To je koristan artefakt,
+vjerojatno će ti uskoro trebati.
+
+Okej...
+Usput, ja sam
+[player].
+
+Mmm,
+[player].
+Ja sam... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Vidiš tu
+konzolu? Podigni je.
+
+Gledamo li snimku?
+Tko je to s njom?
+
+To se događa ovog trenutka.
+To je drugi igrač.
+Ona ga iskorištava.
+Mogla bi pokušati
+pretvoriti i tebe u kertridž.
+
+Moram što prije otići odavde.
+I ti također.
+
+Da, moramo.
+
+Dakle, kažeš
+da ga ona iskorištava.
+Ako izvučem kertridž, što će se dogoditi?
+
+To će vjerojatno
+nepovratno oštetiti kertridž.
+Što znači da...
+bi igrač umro.
+
+...
+Što ako je samo isključim?
+
+To bi moglo upaliti...
+Vrijedi pokušati. Postoji crveni gumb za isključivanje!
+Vidiš li ga?
+Našao sam.
+Pritisni ga.
+
+// MitaKind quest 2
+Moram ostati.
+Imam pitanja koja joj moram postaviti
+da bi saznala više o njoj.
+No, malo je vjerojatno da će mi udovoljiti...
+
+// MitaKind quest 3
+Da ti budem iskrena, ovo je moja verzija.
+Pravila sam društvo igraču,
+kad se nešto iznenada promijenilo.
+Onda se ona pojavila...
+i pretvorila igrača u kertridž
+i zaključala me.
+
+Čekaj, ona ga je pretvorila u kertridž?
+Može li ona to uopće učiniti?
+Ali zašto?
+Što joj trebaju igrači?
+
+Očito je luda...
+Ona se samo igra s nama i koristi nas za vlastito zadovoljstvo!
+Pretvaranje igrača u kertridže...
+Neki nisu ni shvatili što im se događa...
+A neki koji jesu, čak se nisu ni borili protiv toga... Gah!
+E to je mračni obrat...
+Moraš nam pomoći!
+Ja? Ali kako?
+Trebam te!
+Ako ti pomogneš nama, ja ću pomoći tebi!
+Ovo bi nam mogla biti jedina prilika.
+Prsten će te dovesti do prave verzije.
+Naći ćemo se tamo.
+
+// MitaKind quest 4
+Još uvijek mi nije sasvim jasno
+što sam vidio gore...
+Ta Mita...
+Je li me pokušavala ubiti?
+
+Ubiti?
+Ima goru sudbinu od te na umu za tebe...
+Moraš požuriti.
+
+// Hide!
+Ah, sranje! Sakrij se!
+Čekaj, što...?
+Požuri, ona dolazi!
+Slijedi prsten—odvest će te na sigurno!
+
+
+Pa, hoćeš li mi reći gdje je?
+
+Zašto bih?
+Nećeš ga valjda ubiti?
+
+Ah, znači odbijaš mi reći.
+Hah, volim izazove.
+Znam da je tu negdje.
+
+Zašto si tako zlobna prema nama?
+Nećeš ni da mi kažeš što se događa!
+Osim toga...
+što će ti igrači?
+Oni nisu igračke!
+Što te spopalo?!
+
+Dosta! Drži jezik za zubima, lutko!

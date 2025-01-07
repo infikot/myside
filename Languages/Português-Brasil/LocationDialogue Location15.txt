@@ -72,7 +72,7 @@ Então... nós conseguimos?
 Estou na versão correta.
 
 
-Ola!
+Olá!
 Você é o novo jogador, não é?
 Qual o seu nome?
 
@@ -95,9 +95,9 @@ uma porta no guarda-roupa...
 E acabou que ela leva para um porão.
 Mas tá cheio de lixo,
 lixo e um monte de equipamento chique.
-Tem que colocar algum tipo de codigo
+Tem que colocar algum tipo de código
 Eu não entendo.
-E não dou a minima.
+E não dou a mínima.
 É meio desconfortável...Quero dizer...muito desconfortável
 Você pode dar uma olhada?
 
@@ -105,7 +105,7 @@ Uhm, tá bom.
 
 // Player thinks
 Ela não parece
-se lembrar de algo...
+se lembrar de nada...
 A gente fez isso mesmo?
 A gente realmente reiniciou ela?
 Então tudo que eu preciso fazer
@@ -138,13 +138,13 @@ Você não...?
 Como você consegue se lembrar de algo assim?
 
 haha!
-Achou mesmo que ia ser facil?
+Achou mesmo que ia ser fácil?
 Você é tão bobinho...
 Assim como todos os outros...
 Mas deu certo, olha!
 A sua
 versão real
-não é mais necessaria.
+não é mais necessária.
 Desculpinha, tee-hee :P
 
 Eu não acredito...
@@ -217,5 +217,5 @@ Ah, Eu acho
 que queria ir sozinho
 
 // Why bedroom back
-Por que estamos andando em circulos?
+Por que estamos andando em círculos?
 Por que voltar aqui?

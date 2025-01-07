@@ -287,10 +287,10 @@ bist du neu hier?
 Neu?
 Du kommst aus der echten Welt, stimmt's?
 
-Ja…
-Was ist los mit dir?
+Äh, ja…
+Geht es dir gut?
 
-Stör dich nicht daran, dass ich so träge bin.
+Ich humple nur ein wenig, keine Sorge.
 Ich bin seit etwa einem Jahr hier
 und mir geht es großartig.
 Hmm... Was ist das für ein Ort?
@@ -304,8 +304,8 @@ Aber wieso?
 Ist egal, ich bin in Eile.
 Meine teure Mita erwartet mich…
 Ich muss sie finden…
-Tschüss.
-Warte…
+Auf Wiedersehen.
+Warte…!
 Hau ab!
 
 

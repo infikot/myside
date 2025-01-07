@@ -10,7 +10,7 @@ Credo di aver trovato qualcosa...
 Credo sia un indice...
 Dobbiamo vedere se funziona!
 Andiamocene da qui.
-Crazy Mita...
+La Mita Folle...
 Credo sia impegnata con un nuovo giocatore.
 Quindi speriamo che sia troppo occupata per badare a noi...
 
@@ -19,7 +19,7 @@ Aspettami.
 
 
 Ti è caduto qualcosa?
-Aspetta, l'hai incontrata di nuovo!
+Conoscila di nuovo!
 
 Mita...
 
@@ -61,14 +61,14 @@ Certo...
 
 Aspetta qui.
 
-Siediti qui.
-Mi siedo qui.
+Mh-hmm.
+Mi siederò qui.
 
 
 Merda...
 C'è mancato poco.
 Allora... ce l'abbiamo fatta?
-Bene. Sono nella versione corretta.
+Bene.
 Sono nella versione corretta.
 
 
@@ -92,9 +92,9 @@ Forse...
 c'è qualcosa nel seminterrato che può aiutarti.
 Di recente ho scoperto
 una porta nel mio armadio...
-Si è scoperto che porta a un seminterrato.
+Ho scoperto che porta a un seminterrato.
 Ma è pieno di cianfrusaglie,
-di cianfrusaglie e di un sacco di attrezzature di lusso.
+di spazzatura, e di un sacco di attrezzature di lusso.
 Bisogna inserire una specie di codice o qualcosa del genere.
 Non lo capisco proprio.
 E non mi interessa.
@@ -106,7 +106,7 @@ Uhm, ok.
 // Player thinks
 Non credo che
 si ricordi qualcosa...
-L'abbiamo fatto?
+Ce l'abbiamo fatta?
 L'abbiamo riavviata?
 Allora tutto quello che devo fare è
 uscire da questo dannato gioco...
@@ -163,7 +163,7 @@ Cosa c'è di sbagliato in te?!
 Già...
 Cosa c'è che non va in me?
 Non lo so...
-Perché non mi dici perché sono così?
+Perché non mi dici tu perché sono così?
 Perché non sarò mai una vera Mita?
 La mia versione, non è mai
 esistita!
@@ -194,13 +194,13 @@ Probabilmente non è così.
 Non è nemmeno giusto.
 No, sbagliato.
 Non è questo.
-Devo trovare l'opzione di ripristino del personaggio.
+Devo trovare l'opzione di riavvio del personaggio.
 
 // core console - nope version
 È la versione sbagliata.
 Ops, errore mio.
 Non è questa.
-Ne serve un'altra.
+Non è quella giusta.
 
 // core console - nope index
 C'è qualcosa di sbagliato

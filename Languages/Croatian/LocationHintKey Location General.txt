@@ -1,0 +1,132 @@
+Pritisni
+Pričaj
+Stavi prsten
+Potraži gumb
+Drži
+Ustani
+Uzmi prsten
+Izbriši igru
+Kraj
+Pritisni
+Stani
+Trči
+Otvori poruku
+Preuzmi aplikaciju
+Pokreni aplikaciju
+Razgovaraj
+
+Uzmi bateriju
+
+Provjeri
+Spusti dolje
+Predaj škare
+Odbij
+Jedi
+Ustani
+Pokušaj ustati
+Uzmi tablete
+Uzmi umak
+Uzmi karte
+Pogledaj karte
+Sakrij karte
+Desno
+Lijevo
+Odigraj kartu
+Ostani
+Odbij
+
+Kertridži
+Otvori
+
+Popij sok
+Odbij
+
+Kreći desno
+Kreći lijevo
+Skoči
+Čučni
+Napadni
+
+Okreni desno
+Okreni lijevo
+Spusti
+
+Oslobodi
+
+Probudi se
+Sjedni
+Ustani
+Uključi računalo
+Uzmi ramen
+Završi
+Idi na spavanje
+
+Pronađi još komada
+
+Sviraj
+Ne bi trebala
+
+Znam
+Ne znam
+Udari slabo
+Udari jako
+Gurni!
+
+Lijevo
+Sredina
+Desno
+
+Desno
+Odaberi
+Lijevo
+
+Još jednom
+Dovoljno
+
+Ometaj
+
+Povuci polugu
+
+Odaberi desno
+Odaberi lijevo
+
+Skreni desno
+Skreni lijevo
+Skoči
+Otvori vrata
+
+Odaberi igru
+Završi igranje
+Nastavi
+Igraj
+
+
+Zatvori vrata
+
+Desno
+Lijevo
+Dolje
+Gore
+
+Odmakni se
+Pritisni tipku
+
+Jedi
+Popij
+Uzmi pljeskavicu
+Uzmi kruh
+Dodaj mlijeko
+Dodaj šećer
+Dodaj brašno
+Dodaj ulje
+Dodaj jaje
+Miješaj
+Dodaj smjesu
+Preokreni
+Previše
+
+Dobro ti stoje
+Samo ih skini
+
+Objasni
+Nema potrebe

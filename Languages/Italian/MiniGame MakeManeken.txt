@@ -30,6 +30,6 @@ Prendi i dati di questo prototipo e confrontali con la versione standard.
 È una corrispondenza perfetta! Ora controlliamo le emozioni.
 L'esemplare mostra con successo le emozioni! È ora di testare il comportamento.
 Ok, abbiamo controllato tutto e tutto corrisponde! Ora tira la leva verso l'alto.
-Evviva! Ora la pelle è indossata! Passale la scatola dei vestiti.
+Evviva! Ora che la pelle è indossata, passale la scatola dei vestiti.
 Ecco fatto! Vedi quelle luci in alto? Una di esse è diventata verde, il che significa che hai fatto bene!
 Tocca a te! Tornerò quando tutte le luci saranno verdi. Buona fortuna!

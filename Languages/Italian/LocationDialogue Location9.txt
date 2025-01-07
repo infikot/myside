@@ -4,9 +4,9 @@ Ciao!
 Vuoi uscire da qui?
 Allora aiutami a trovare la chiave!
 // Key Search
-Merda! La chiave è sparita!
+Mannaggia! Nessuna chiave qui!
 Non c'è niente qui...
-zero, zero, nada!
+Zero, zero, nada!
 L'ho trovata!
 
 // The usual conversation
@@ -21,7 +21,7 @@ Non dire che non l'hai mai incontrata!
 
 Uh... l'ho conosciuta... Credo...
 
-Sei uno sciocco?
+Sei uno sciocco percaso?
 
 Ehm...
 
@@ -36,7 +36,7 @@ Ora portami la legna!
 Grazie!
 Un altro aiuto, per favore!
 Tutto fatto! Ora...
-wow, è bellissimo.
+Wow, è bellissimo.
 Premi, forza!
 Pronti...
 Ecco, prendila!

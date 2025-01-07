@@ -1,0 +1,9 @@
+// Player start
+Nasaan ako
+Parang pamilyar ang lugar na'to.
+Teka... nasa laro ako?
+// Player try open the door
+Naka-lock?
+// Player in dark
+Ang dilim dito.
+Wala akong makita.

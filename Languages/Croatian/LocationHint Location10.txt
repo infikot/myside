@@ -1,0 +1,4 @@
+Pogledaj okolo.
+Idi do arkadnog stroja.
+Provjeri sve Mita modele.
+Vrati se natrag niz stepenice.

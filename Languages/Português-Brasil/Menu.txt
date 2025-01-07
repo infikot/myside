@@ -7,7 +7,7 @@ Conquistas
 Créditos
 Voltar
 Carregar
-Idioma - Azazel
+Idioma
 Carregando...
 Gráficos
 Som
@@ -26,7 +26,7 @@ Qualidade de Exibição de Mundo
 Programação
 Animação
 Efeitos Sonoros
-Musica
+Música
 Partículas
 Texturas
 Modelo 3D (98%)
@@ -48,7 +48,7 @@ Estilo de Sombra
 Roupas
 Interface
 Modelo 3D (2%)
-Vídeo do Jogo
+Volume das Vozes
 Pausar
 Menu
 Parabéns! Você completou o jogo!
@@ -75,7 +75,7 @@ Mostrar Dicas
 Voz do jogador
 Discord
 Perfil de personagem adicionado
-Ângulo de Câmera
+Campo de Visão
 Voz
 Desligado
 Estender mão até a porta
@@ -91,7 +91,7 @@ Mita 2D
 Mila
 Mita Assustadora
 Mita Núcleo
-Mita Feiosa 
+Mita Fantasmagórica 
 Mita Chibi
 Mita Manequim
 
@@ -101,22 +101,22 @@ Mita Manequim
 Estou dentro de um jogo?
 Finalmente juntos
 As coisas ficaram estranhas
-O porão
+O Porão
 Além do mundo
-O ciclo
+O Ciclo
 Mini Mita
-Manequins e quebra-cabeças esquecidos
+Manequins e Quebra-Cabeças Esquecidos
 Ela só quer dormir
 Novels
 Lendo livros, destruindo falhas
 Corra e se esconda!
-Versão antiga
-O mundo real?
+Versão Antiga
+Seja Sincero
 Recomeço
-
-
-
-
+Boininha
+Mita Fantasmagórica
+O Mundo real
+Saía do núcleo!
 Jogador 1
 Jogador 2
 Jogador 3
@@ -129,11 +129,11 @@ Jogador 9
 Jogador 10
 
 Modo Pacífico
-Este modo ainda está em desenvolvimento! É tão expansivo que os desenvolvedores ainda não conseguiram terminá-lo. Mas não se preocupe – eles prometeram que será incluído em uma grande atualização em breve. E olhe para você, já está quase para desbloquear o acesso! Agora só falta esperar...
+Este modo ainda está em desenvolvimento! É tão expansivo que os desenvolvedores ainda não conseguiram terminá-lo. Mas não se preocupe – eles prometeram que será incluído em uma grande atualização em breve. E olhe para você, já se adiantou e tá quase desbloqueando o acesso! Agora só falta esperar...
 Então, o que é o modo pacífico? É a sua chance de se reconectar com Mita de uma forma completamente diferente! Ela ficará muito feliz em passar mais tempo com você, de manhã à noite, em um mundo repleto de diversão e surpresas. Espere conversas sinceras, compartilhamento de biscoitos, jogos e muitos momentos engraçados juntos.
 
 
-Gore
+Censurar Sangue
 Agradecimentos Especiais:
 Ícone de Conquistas: Iceсloud
 Fotografias: Nineko Hori
@@ -142,4 +142,24 @@ Traduziram o texto do jogo para outro idioma.
 Parceiro de publicação
 Marketing
 Testadores
-Joguei e encontrei todos os tipos de bugs.
+Jogaram e encontraram todos os tipos de bugs.
+Esta tradução foi feita por entusiastas da comunidade de fãs e adicionada ao jogo a pedido deles.
+Aviso! Este jogo inclui sustos, sons agudos repentinos e oscilações ocasionais na tela. Jogadores com epilepsia fotossensível, problemas cardíacos ou problemas de saúde semelhantes são aconselhados a não jogar.
+Modo Pacífico disponível!
+
+Modo Foto
+Moto Foto: Restrições de controle de câmera removidas. Você pode explorar áreas normalmente inacessíveis.
+Sair do Modo Foto
+Esconder Interface
+Segure para mover a câmera
+Movimento rápido
+Movimento suave
+Velocidade
+Efeitos
+Controlar tempo no jogo
+Brilho
+Contraste
+Vinheta
+Tirar foto!
+Acessar pasta de fotos
+Ângulo de Câmera

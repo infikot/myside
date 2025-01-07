@@ -4,7 +4,7 @@ Ce e aia?
 
 
 Te-am prins!
-M-am distrat atât de mult jucandu-mă cu tine!
+M-am distrat atât de mult jucându-mă cu tine!
 Săreai peste tot!
 Chiar te-ai prefăcut că ești mohorât și trist!
 Deși, e un lucru care nu-mi place la tine:
@@ -63,7 +63,7 @@ Dragă, avem destul timp.
 O să-ți dai seama.
 Doar stai și fii al meu, numai al meu.
 
-Nu voi lasa asta să se întâmple!
+Nu voi lăsa asta să se întâmple!
 Eu plec de aici!
 
 șșș, șșș, șșș...
@@ -138,7 +138,7 @@ Cum te simți în legătură cu aceste zile teribil de plictisitoare între ace�
 Aceste zile nesfârșite... Nu te plictisești?
 
 // Quest 1
-Ce încercerci să realizezi?
+Ce încerci să realizezi?
 Prefer să fac ce vreau eu.
 
 // 1

@@ -49,7 +49,7 @@ bắt đầu đọc luật chơi nào!
 // Show rules
 Trong khi nhạc đang phát
 anh có thể di chuyển.
-Nhưng mà khi nhạc dừng á
+Nhưng mà khi nhạc dừng á...
 ĐỪNG DI CHUYỂN!
 Không là chết luôn đấy.
 Nào, hãy cố gắng tiến tới mục tiêu.

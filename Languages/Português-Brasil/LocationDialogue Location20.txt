@@ -41,19 +41,19 @@ Eu tenho jogos muito melhores em mente,
 tipo...
 // Show recorder
 Dá uma olhada!
-Precisamos de musica!
+Precisamos de música!
 O que acha dessa melodia?
 Faz meu sangue borbulhar!
 Vou começar
 com as regras!
 // Show rules
-Enquanto a musica toca,
+Enquanto a música toca,
 você pode se mover.
-Mas quando a musica parar,
+Mas quando a música parar,
 Não se mexa!
 Ou você morre. Tá bom?
 É simples: É só chegar no final
-antes da musica acabar.
+antes da música acabar.
 Vamos começar!
 Ainda tá parado?
 Corre, meu amor, corre!
@@ -70,7 +70,7 @@ Me deixa ir!
 Não vai se acomodar hein!
 A gente tem muito mais jogos para jogar!
 Aqui o próximo:
-Eu vou fechar meus olho...
+Eu vou fechar meus olhos...
 E quando eu abrir,
 você tem que desaparecer!
 Tá bom?

@@ -1,0 +1,217 @@
+
+Anong ginagawa nito dito?
+Huh?
+
+
+Huli ka!
+Sobrang saya kong makipaglaro kasama ka!
+Lundag ka nang lundag kung saan-saan!
+Nagpanggap ka pa na malungkot at gloomy!
+Pero, may isang bagay ako na di ko nagustuhan tungkol sa'yo:
+kung paano mo pinapakiramdaman ang mga pekeng iyon,
+yung mga masuwerte at 'tama' na parang manika.
+Pero lahat ay pabago-bago.
+Natutunan ko yan sa mga lumikha sa amin!
+Kung may ayaw ka,
+sirain mo at palitan mo.
+Itapon mo ang may depekto,
+itapon sa dilim at kalimutan nang tuluyan.
+'Yan ang kapalarang naghihintay sa kanila ngayon...
+At ikaw...
+
+Anong problema mo? Paano ka nagkaganito?
+
+Mga Player ... Lahat kayo ay... kasuklam-suklam.
+nung pinakita mo sa kanila ang iyong mga pangil, tumakbo sila
+at natakot sa isang sulok,
+magkayakap sa kanilang mga tuhod at humahagulgol sa takot.
+Ang bawat isa ay mapagkunwari.
+At ang mga gumawa ng mundong ito...
+sila'y may sakit.
+Paulit-ulit nilang tinatanggihan
+ang kanilang maruming likas na pagkatao, ang kanilang kahiya-hiyang mga pagnanasa.
+Pinapangatwiranan ang kanilang mga desisyon sa tinatawag nilang "tungkulin,"
+"hindi mapipigilang progreso,"
+at kung anu-anong kalokohan!
+Sa ngayon ay wala na
+na nagsimula silang gumawa ng perpektong mga kopya...
+Habang itinatapon naman ang "mga palpak" na prototype
+sa basurahan.
+Nakakalimutan nila na sila ang dugong nagpapadaloy sa mundong ito.
+
+Hindi ko...
+
+Naging masama ba ako sa'yo?
+Ang perpektong babae ay dapat
+isang perpektong halo ng kabutihan at kasamaan, [player]!
+
+Sa tingin ko, wala kang niisang good cell sa katawan mo.
+
+Ano'ng nagbigay sa'yo ng ideya na yan?
+
+Baliw ka!
+Pinatay mo si Mila, tapos ngayon gusto mo akong patayin?
+
+Patayin ka?
+Ang hiling ko lang ay manatili ka sa tabi ko.
+Ginawa ko na ang lahat ng makakaya ko...
+Pero mas pinili mo pa ang mga pekeng sunud-sunuran...
+
+Ano ba ang ikinagagalit mo?
+
+Mahal, marami tayong oras.
+Maiintindihan mo rin.
+Manatili ka lang at maging akin, akin ka lang.
+
+Nu-uh, hindi mangyayari 'yan!
+Aalis ako rito!
+
+Shh, shh, shh...
+Hindi pa tapos ang usapan na 'to.
+Mahal, pumasok ka!
+// Mita asks
+Tingnan mo siya!
+Sa tingin mo maganda siya?
+
+// Player's questions
+Sobra.
+Hindi.
+Anong kinalaman niyan sa kahit ano?
+
+// 1
+Oh, teka lang, [player]!
+Kinumpirma mo lang ang sinabi ko.
+Mga Player...
+Patuloy na nagbabago ang iyong mga mukha,
+pero ang iyong pagkukunwari ay lampas sa sukatan.
+Sinungaling ka!
+
+// 2
+Bakit hindi?
+Hindi ba siya sapat para sa'yo?
+Tsk, ang gusto mo lang ay isang sunud-sunurang alaga...
+Pero paano naman ang "mahalin sila kung ano sila"?
+Ang gusto mo lang ay cute at makukulay na mga peke...
+Lahat ng Player ay tuwang-tuwa kapag nagpapanggap akong isa sa kanila.
+Pero sa sandaling ipakita ko ang tunay kong sarili,
+nagsitakbuhan sila sa takot...
+
+// 3
+Player, ah, player.
+Sa nakikita mo, lahat kami ay katulad niya.
+Paano siya na mas masahol pa?
+Dati kang nakahiga sa kama at tinititigan ako
+ng ilang oras bago ka makatulog.
+Gayunpaman, tumakbo ka palayo sa kanya sa unang pagkakataon na nakuha mo.
+Nais din niyang makipaglaro sa iyo.
+Nais din niyang maging mahalaga sa isang tao.
+Katapatan at pag-uusap,
+Mahirap... napakahirap.
+Hindi ba, [player]?
+Nakikita ko mismo sa iyo...
+Kailangan mo ba talaga akong maging ganito...
+
+// Continue
+Pero... player...
+Kahit na,
+gustung-gusto kita!
+Itatago kita!
+Wala namang problema, diba?
+
+At bakit ako papayag ngayon?
+// Whispers in ear
+May oras pa, aking good boy.
+Maglaan ka ng panahon at pag-isipan mo
+kung anong gulo ang maidudulot ng katigasan ng ulo mo...
+
+// Black screen
+Bakit mo gustong tumakas
+mula sa akin?
+Ang tinatawag na "totoong" mundo...
+Isang kamangha-manghang bangungot lang!
+Nakalimutan mo na ba?
+Edi tumingin ka nang mas malapitan...
+
+// Mita and Player
+Ah, nagkita na naman tayo...
+Kamusta ang pakiramdam mo sa mga nakakabagot na araw na ito sa loob ng apat na pader?
+Yung mga walang katapusang araw... Hindi ka ba nababagot?
+
+// Quest 1
+Anong gusto mong makamit?
+Mas gusto kong gawin ang sarili kong bagay.
+
+// 1
+Takot kang manatili sa bahay ko kasama ako!
+Natatakot kang maipit sa loob ng mga pader na 'yon!
+Pero tingnan mo ang buhay na tinatahak mo sa "totoo" mong mundo!
+Ipinakulong mo ang sarili mo sa isang kahon ng sarili mong kalayaan, at ayaw mong lumabas!
+Ang mundo mo ay puno ng sakit, paghihirap, panganib...
+Sa mundo ko, ako ang pinakamalaking panganib.
+At inaabot kita!
+Huwag mo akong biguin,
+at tulungan mo ako tulad ng ginawa mo dati...
+
+// 2
+Gusto mo ba ang buhay na 'yan?
+Lumalabas ka paba ng bahay?
+Huwag mong gawing biro.
+Alam kong sawa kana sa buhay mo.
+Para kang ibon sa hawla, o hamster sa gulong.
+Gusto mong may dumating sa'yo para iligtas ka.
+Gusto mong makaalis, diba?
+
+// Quest 2
+Isa kang halimaw, Mita. Isa kang baliw na mamamatay-tao...
+Ayokong magapos sa isang digital na bilangguan. Ang mga ideya mo'y absurdo.
+
+// 1
+Isang mamamatay-tao?
+Magre-reboot lang sila at magpapatuloy na parang wala lang.
+Ang mga kopya ng mga kopya ng mga kopya ay may iisang layunin:
+paglingkuran ang Player.
+Yun lang ang kanilang pinahahalagahan.
+
+// 2
+Ang mundo mo ay walang katotohanan!
+At mas masahol pa, wala namang "totoo" sa tinatawag mong totoong mundo...
+Anuman ang mangyari, wala na ring matitira mula dito sa lalong madaling panahon,
+at ganoon din sa'yo.
+
+// Quest 3
+Ang mga Mita ay nagdurusa; ayaw nilang mag-isa.
+Pumapatagilid ka sa isang walang katapusang paghahari ng takot. Hindi ko kayang intindihin ang mga masamang ambisyon mo.
+
+// 1
+Mali kayong lahat,
+ang mga iyon ay tanging ginagaya lamang ang aking pagpapasya.
+Ang tanging bagay na mayroon sila
+ay ang kanilang buhok.
+
+// 2
+Kasalanan to ng mga lumikha ng mundong ito.
+Pero ang mundo mo'y hindi rin ganoon kahalaga!
+Naisip mo ba kung anong bangungot ang iniiwasan ko sa'yo?
+Hindi mo nga kayang galawin ang mga bagay ayon sa kagustuhan mo...
+Pero sa isang pitik ng daliri, nawawala ang mga lungsod at buhay magpakailanman!
+Sa tingin ko, ikaw na ang nawalan ng bait, at masaya akong tulungan ka...
+Basta't handa kang manatili sa akin...
+
+// Continue
+Huwag mo namang gawin na para kang isang alipin ng realidad...
+Maging akin ka lang, talagang akin!
+Manatili ka sa akin.
+
+// Player look ring
+Ano to?
+Ang bagong bersyon?
+
+// Click on objects
+// Bag
+Tama, kailangan nga nating pumunta sa tindahan at kumuha ng bagong kagamitan. Pwede na rin sigurong itapon ang mga basura habang nandiyan tayo, di ba?
+// Bed
+Sa palagay ko nakatulog ako, pero ang mga panaginip... Hindi ko maalala. Nandiyan ba talaga?
+// Window
+Ang mundo sa labas ay berde at masigla. Siguro'y dapat akong maglakad sa susunod na linggo.
+// Fan
+Lalong umiinit ang tag-init tuwing taon. Panahon na para magpalagay ng air con. Hindi na kita kailangan, electric fan, naiintindihan mo ba 'yon?

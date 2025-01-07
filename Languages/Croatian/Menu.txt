@@ -1,0 +1,165 @@
+Nova igra
+Nastavi
+Glavni Meni
+Izlaz
+Postavke
+Postignuća
+Zasluge
+Nazad
+Učitaj
+Jezik
+Učitavanje...
+Grafike
+Zvuk
+Tipkovnica i miš
+Kontroler
+Rezolucija
+Prozorski način rada
+Grafički efekti
+Efekti boja
+Meke sjene
+Zamućenje
+Odsjaj
+Anti-aliasing
+Sjene
+Kvaliteta prikaza svijeta
+Programiranje
+Animacija
+Zvučni efekti
+Glazba
+Čestice
+Teksture
+3D modeli (98%)
+Skripta
+Resetiraj
+Naprijed
+Nazad
+Lijevo
+Pravo
+Interakcija
+Osjetljivost miša
+Napusti igru?
+Da
+Ne
+Povratak na glavni meni
+Glatko okretanje
+Postavke igre
+Stil sjene
+Odjeća
+Sučelje
+3D modeli (2%)
+Glasnoća glasa
+Pauza
+Meni
+Čestitke! Završili ste igru!
+Vaše vrijeme:
+Titlovi
+Svjetlina
+V-sink
+Sačuvano
+Likovi
+Likovi - Mite
+Likovi - Kertridži
+Kertridži
+Mite
+Počnite od početka bez napretka
+Jeste li sigurni da želite u potpunosti izbrisati sav svoj napredak i početi od nule?
+Sastavljanje shadera, procijenjeno vrijeme čekanja: 2 sata.
+2-satna kompilacija?! To je glupost! Preskočili smo red za tebe!
+Stvaranje realističnog iscrtavanja sjene—procjenjuje se da će trajati 10 minuta.
+Šalim se, ovdje ne koristimo te otmjene stvari.
+Umm...
+Oh, spremni smo!
+Ljuljanje u hodu
+Prikaži savjete
+Glas igrača
+Diskord
+Dodan profil lika
+Kut kamere (FOV)
+Glas
+Isključeno
+Ruka se pruža prema vratima
+Animacija
+Omogući glas igrača
+Mita
+Kratkokosa Mita
+Ljubazna Mita
+Mita s kapom
+Mala Mita
+Pospana Mita
+2D Mita
+Mila
+Jeziva Mita
+Mita Jezgra
+Sablasna Mita
+Chibi Mita
+Lutka Mita
+
+
+
+// Name load location
+U igri sam?
+Napokon zajedno
+Stvari postaju čudne
+Podrum
+Izvan svijeta
+Petlja
+Mini Mita
+Lutke i zaboravljene zagonetke
+Ona samo želi spavati
+Romani
+Čitanje knjiga, uništavanje gličeva
+Bježi i sakrij se!
+Stara verzija
+Budite iskreni
+Ponovno pokretanje
+Kapica
+Duh Mita
+Stvarni svijet
+Napusti Jezgro!
+Igrač 1
+Igrač 2
+Igrač 3
+Igrač 4
+Igrač 5
+Igrač 6
+Igrač 7
+Igrač 8
+Igrač 9
+Igrač 10
+
+Miran način igranja
+Ovaj mod je još uvijek u razvoju! Toliko je opsežan da ga programeri još nisu uspjeli dovršiti. Ali ne brinite—obećali su da će biti uključen u veliko ažuriranje koje uskoro dolazi. I pogledaj se, već si u prednosti otključavanjem pristupa! Sad samo preostaje čekati...
+Dakle, što je mirni način igranja? To je tvoja prilika da se ponovno povežeš s Mitom na potpuno drugačiji način! Bit će presretna što će sa tobom provoditi više vremena, od jutra do mraka, u svijetu prepunom zabave i iznenađenja. Očekujte iskrene razgovore u četiri oka, dijeljenje kolačića, igranje igrica i mnoštvo urnebesnih zajedničkih trenutaka.
+
+
+Cenzura krvi
+Posebne zahvale:
+Ikona postignuća: Icesloud
+Fotografija: Nineko Hori
+Prevoditelj
+Prevodili tekst igre na drugi jezik.
+Partner izdavač
+Marketing igre
+Tester
+Igrali i pronašali sve moguće bugove.
+Prijevod na ovaj jezik napravili su entuzijasti iz zajednice obožavatelja i dodan je igri na njihov zahtjev.
+Upozorenje! Ova igra uključuje iznenadna zastrašivanja, iznenadne oštre zvukove i povremeno titranje zaslona. Igračima s fotoosjetljivom epilepsijom, srčanim problemima ili sličnim zdravstvenim problemima savjetuje se da ne igraju.
+Mirni način igranja sada dostupan!
+
+Foto Mod
+Foto Mod: Uklonjena su ograničenja letenja kamere. Možete istraživati ​​područja koja su inače nedostupna.
+Izađite iz foto moda
+Sakrij sučelje
+Držite za pomicanje kamere
+Brzo kretanje
+Glatko kretanje
+Brzina
+Efekti
+Kontrolirajte vrijeme u igri
+Osvjetljenje
+Kontrast
+Vinjeta
+Snimka zaslona napravljena!
+Pristupite folderu sa snimkama zaslona
+Kut kamere

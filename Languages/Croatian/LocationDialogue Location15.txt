@@ -1,0 +1,221 @@
+
+Tu si!
+Zašto si napustio Jezgro?
+Rekla sam ti da me čekaš!
+
+Mislio sam da te neće biti duže...
+
+Pa, dobro...
+Mislim da sam nešto našla...
+Mislim da je to indeks...
+Morat ćemo vidjeti hoće li uspjeti!
+Idemo odavde.
+Luda Mita...
+Mislim da je zauzeta s novim igračem.
+Pa se nadajmo da je prezauzeta da bi nam smetala...
+
+Mita?
+Čekaj me.
+
+
+Je li ti nešto ispalo?
+Upoznaj je ponovno!
+
+Mita...
+
+Hvataj!
+
+
+Kako...
+
+Tko si ti?
+
+Ti si... ti si živa!
+Zar se ne sjećaš?
+
+Poznajem li te?
+
+Što se događa...
+Što bih sada trebao učiniti?
+Ne mogu izaći van...
+
+Kako to misliš, "izaći van"?
+
+Čekaj...
+To je prsten...
+A to?
+
+Nemam pojma što je to.
+
+To je indeks!
+Našla si ga!
+
+Ne znam što da kažem.
+
+Moramo se vratiti u Jezgro.
+A ti...
+Možda bi trebala poći sa mnom...
+
+Umm, što?
+U redu...
+
+Čekaj ovdje.
+
+Mm-hmm.
+Ja ću sjediti ovdje.
+
+
+Sranje...
+To je bilo blizu.
+Pa... jesmo li uspjeli?
+Dobro je.
+U ispravnoj sam verziji.
+
+
+Bok!
+Ti si igrač, zar ne?
+Kako se zoveš?
+
+Želim napustiti ovo mjesto...
+
+Već želiš da odeš?
+Kako si uopće došao ovamo?
+Oj, pa...
+Dobro, možeš otići...
+Samo iskoristi vrata.
+Sretno s tim!
+
+
+Zid?
+Hmm, to ne valja.
+Možda...
+ima nešto u podrumu što će ti pomoći.
+Nedavno sam otkrila
+vrata u mom ormaru...
+Ispostavilo se da vode u podrum.
+Ali pun je smeća,
+smeća i tonu otmjene opreme.
+Moraš unijeti nekakav kod ili tako nešto.
+Ne razumijem baš.
+I nije me briga.
+Također je nekako neugodno, mislim, stvarno neugodno.
+Hoćeš li pogledati?
+
+Umm, okej.
+
+// Player thinks
+Mislim da se
+ne sjeća ničega...
+Jesmo li uspjeli?
+Jesmo li je restartovali?
+Onda sve što trebam učiniti je
+izaći iz ove proklete igre...
+
+
+Ne tako brzo.
+Htjela bih te zagrliti.
+
+Huh?
+// Hugs
+Bilo je lijepo vidjeti te.
+
+Ahh...
+prava je šteta
+što smo ti i ja
+proveli tako malo vremena zajedno.
+
+Uhh...
+O čemu pričaš?
+
+Mislim,
+mogao si ostati sa mnom...
+Za sve sam ja kriva...
+Taj ormar i ti... zvukovi.
+Trebala sam je UBITI prije!
+
+Čekaj malo,
+Nisi li...?
+Kako se možeš sjetiti bilo čega?
+
+HA!
+Jesi li stvarno mislio da će biti tako lako?
+Ti si samo budala...
+Kao i svi ostali igrači...
+Dobro nam je prošlo, pogledaj!
+PRAVI ti
+nije
+više potreban.
+Izvini, hi-hi.
+
+Ne mogu vjerovati...
+Nismo uspjeli...?
+Ne... Restartovao sam te, siguran sam u to...
+
+Još uvijek ne shvaćaš...
+Ha-ha-ha!
+Ja sam tako sjajna glumica!
+Trebao si vidjeti svoje lice, dušo!
+Ovo je tako zabavno!
+
+Zašto si ovakva?!
+Što nije u redu s tobom?!
+
+Da...
+Što nije u redu sa mnom?
+Nemam pojma...
+Zašto mi ti ne kažeš zašto sam ovakva?
+Zašto nikad neću biti prava Mita?
+Moja verzija, nikad
+nije ni postojala!
+Samo gulim kožu ovim naivnim budalama,
+skrivajući se pod njihovom kožom...
+Nema šanse da me možeš
+restartovati!
+
+Nevjerojatno...
+Ti...
+One nisu problem!
+Ti si ta koja ne bi trebala postojati!
+
+I ti isto...
+Boli me čuti to.
+Pa ipak!
+Vrijeme je da ideš!
+Vidimo se opet uskoro!
+Svi su spremni!
+Vrijeme je
+da te izvučem iz konzole!
+Vidimo se kasnije!
+Ti ćeš biti moj omiljeni kertridž...
+Igrač sa zanimljivim imenom.
+
+// core console - nope programm
+To vjerojatno nije to.
+Ni to nije u redu.
+Ne, pogrešno.
+Nije to to.
+Moram pronaći opciju resetiranja likova.
+
+// core console - nope version
+To je kriva verzija.
+Ups, moja greška.
+Nije to to.
+Trebat će još jedan.
+
+// core console - nope index
+Nešto nije u redu
+s indeksom.
+Moram promijeniti indeks,
+ne pristaje.
+
+// Why kitchen
+Jesi li gladan?
+Odlično sjeckam mrkve. :)
+
+// Why bathroom
+Ah, valjda
+si htjeo ući sam?
+
+// Why bedroom back
+Zašto se samo vrtimo u krug?
+Zašto se vraćaš ovdje?

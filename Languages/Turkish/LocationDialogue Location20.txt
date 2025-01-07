@@ -67,7 +67,7 @@ Bu çok kolaydı değil mi?
 
 Bırak gideyim!
 
-Götün kalkmasın.
+Hemen havalara girme.
 Daha oynayacak oyunlarımız var!
 Sıradaki:
 Gözlerimi kapatıyorum...
@@ -86,7 +86,7 @@ Ama işler zorlaşacak.
 BAYA zorlaşacak.
 Saklan, kaç, dön...
 
-Ağzımı bozduracak.
+Ah, cehenneme git!
 
 // Player falls
 Kurtuldum herhalde.

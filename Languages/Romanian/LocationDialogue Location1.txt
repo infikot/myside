@@ -74,7 +74,7 @@ Dar o voi face de data asta, cu siguranță!
 ...Acum, când este mai exact ziua curățeniei?
 // Photo of a cat on a watermelon
 Ea era cea mai bună…
-O pisică, intinzându-se pe un pepene.
+O pisică, întinzându-se pe un pepene.
 // Photo with a girl
 Nu semănăm deloc,
 sora mea și cu mine.
@@ -119,17 +119,17 @@ Ei bine, e alegerea ta!
 
 // Name Mita
 Mita?
-Chiar ți-ai pus numele dupa mine?
+Chiar ți-ai pus numele după mine?
 Sau ăla e și numele tău?
 Fără supărare, dar cred că ar trebui să fiu singura Mita pe aici ♪
 
 // Day 10
 O, te-ai întors!
-Hei, mi-am pierdut pieptănul…
+Hei, mi-am pierdut pieptenele…
 Mă ajuți să îl găsesc?
 Încearcă să-l cauți în noptieră-cred că l-am lăsat acolo.
 // Looked in the bedside table
-Hmm, niciun pieptăne acolo...
+Hmm, niciun pieptene acolo...
 Încearcă să cauți altundeva
 Doar nu te uita în cuptor, ok?
 Deja m-am uitat acolo.

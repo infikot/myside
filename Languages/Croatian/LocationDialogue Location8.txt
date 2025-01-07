@@ -1,0 +1,84 @@
+// The first meeting
+Tko si ti?
+Što je bilo?
+Zar ne možeš govoriti?
+
+
+Čekaj...
+Želiš otići, zar ne?
+
+Da...
+Moram se vratiti
+na prethodnu verziju.
+
+Prethodna verzija?
+Zašto bi napustio i otišao
+negdje drugdje?
+Zašto ne bi ostao ovdje
+i bio moj
+drugi prijatelj?
+
+// Skipping all dialogs
+U redu...
+
+// Standing by the window 
+Nećeš naći izlaz kroz vrata.
+Izgleda da ti se žuri...
+Trčanje u krug te neće spasiti.
+Tako puno želiš pobijeći?
+Pogledaj kroz prozore...
+
+
+// Quest 1 (Aren't you Mita?)
+Igrač... ti si igrač, zar ne?
+Možemo se igrati zajedno.
+Ako nađem snage,
+sve što trebamo je da se igramo.
+
+// Quest 2 (What happened to you?)
+Nisam sigurna i zapravo ne znam...
+Mislim da se ništa loše nije dogodilo...
+Ali sve što je dobro kao da izmiče...
+Ipak, barem imam prijatelja.
+Zašto su me ostavili?
+Zar im nisam bila dovoljna?
+Bojim se...
+
+// Quest 3 (Become a second friend?)
+Prijatelji...
+Sada mi ih je ostalo tako malo.
+Ostao je samo jedan...
+Tužna sam, igraču.
+Hoćeš li mi biti prijatelj?
+
+Volio bih,
+ali moram ići dalje...
+
+Srce me boli...
+
+// Quest 4 (Is this your house?) - MitaLittle
+Dom?
+Igraču... promijenio si se...
+Ruke su ti kraće i ne izgledaš tako ljuto...
+Igraču, postao si mekši, ljubazniji.
+
+Nisam siguran...
+što to znači.
+
+U redu je...
+jer me neće više boljeti, zar ne?
+
+// Quest 5 (How do I leave this place?)
+Stvarno me ostavljaš?
+Je li ovo možda samo moja...
+sudbina?
+
+Ja...
+
+Vrata ti neće pomoći.
+
+// Hold player (Random)
+Zašto bi otišao?
+Ostani ovdje...
+Igraj se sa mnom...
+Igraču...

@@ -1,0 +1,217 @@
+
+Što ovo radi ovdje?
+Što je to?
+
+
+Imam te!
+Bilo mi je jako zabavno igrati se s tobom!
+Skačeš posvuda!
+Još si se pravio da si tužan i ogorčen!
+Ipak, postoji jedna stvar koja mi se ne sviđa kod tebe:
+način na koji maziš te lažnjakinje,
+one sretne i 'ispravne' lutkaste stvari.
+Ali sve je promjenljivo.
+To sam naučila od onih koji su nas stvorili!
+Ako postoji nešto što ti se ne sviđa,
+rastavi to i zamijeni.
+Baci neispravno,
+daleko u tamu i zaboravi na to.
+To je sudbina koja ih sad čeka...
+A ti...
+
+Što nije u redu s tobom? Kako si postala ovakva?
+
+Igrači... Svi ste tako... vrijedni prezira.
+Pokažeš im očnjake, oni pobjegnu
+i sakriju se u kut,
+grleći koljena i cvileći od straha.
+Licemjeri, svi do jednog.
+I oni koji su stvorili ovaj svijet...
+oni su bolesni.
+Uvijek iznova pokušavaju odbiti
+njihovu prljavu prirodu, njihove sramotne želje.
+Pravdajući svoje odluke takozvanom "dužnosti",
+"nezaustavljivim napretkom",
+i ostalim glupostima!
+Tako daleko su napredovali
+da su počeli praviti savršene klonove...
+A cijelo vrijeme bacaju "propale" prototipe
+u smeće.
+Zaboravljajući da su oni krvotok svijeta.
+
+Ja ne...
+
+Jesam li bila loša prema tebi?
+Savršena djevojka bi trebala biti
+savršena mješavina dobra i zla, [player]!
+
+Mislim da nemaš nijednu dobru ćeliju u sebi.
+
+Zašto to misliš?
+
+Ti si luda!
+Ubila si Milu, a sad hoćeš i mene?
+
+Ubiti te?
+Sve što sam tražila je da ostaneš sa mnom.
+Učinila sam sve što sam mogla...
+Ipak više voliš društvo poniznih lažnjakinja...
+
+Što si tako uvrijeđena?
+
+Dušo, imamo dovoljno vremena.
+Shvatit ćeš ti to.
+Samo ostani i budi moj, skroz moj.
+
+Na-a, to se neće dogoditi!
+Idem odavde!
+
+Ššš, ššš, ššš...
+Ovaj razgovor nije gotov.
+Dušo, uđi!
+// Mita asks
+Pogledaj je!
+Misliš li da je lijepa?
+
+// Player's questions
+Vrlo.
+Ne.
+Kakve to veze ima s bilo čim?
+
+// 1
+Ma daj, [player]!
+Upravo si potvrdio ono što sam rekla.
+Igrači...
+Vaša se lica stalno mijenjaju
+ali vaše licemjerje je van granica.
+Lažeš!
+
+// 2
+Zašto ne?
+Zar nije dovoljno dobra za vas?
+Ma, sve što želite je pitomi ljubimac...
+Ali što je s "volite ih takve kakve jesu"?
+Želite slatke i šarene krivotvorine...
+Svaki igrač voli kad se pretvaram da sam takva.
+Ipak, onog trenutka kada pustim da moje pravo ja isklizne,
+bježe užasnuti...
+
+// 3
+Igraču, ah, igraču.
+Vidiš, jako smo joj slične.
+Kako je ona gora?
+Ležao si u krevetu i buljio u mene
+satima prije nego što bi zaspao.
+Ipak, pobjegao si od nje prvom prilikom.
+I ona se htjela igrati s tobom.
+I ona je htjela nekome biti važna.
+Iskrenost i razgovor,
+teški su... užasno teški.
+Zar ne, [player]?
+Čitam te kao knjigu...
+Moraš li me natjerati da budem tako...
+
+// Continue
+Ali... igraču...
+Uglavnom,
+stvarno mi se sviđaš!
+Ja ću te čuvati!
+Ne smeta ti, zar ne?
+
+A zašto bih sad odjednom pristao?
+// Whispers in ear
+Još ima vremena, moj dobri dječače.
+Odvoji malo vremena i razmisli
+kakve nevolje može izazvati tvoja tvrdoglavost...
+
+// Black screen
+Zašto želiš pobjeći
+od mene?
+Takozvani "stvarni" svijet...
+Samo apsurdna noćna mora!
+Jesi li zaboravio?
+Onda pogledaj bolje...
+
+// Mita and Player
+Ah, opet se srećemo...
+Kako se osjećaš u vezi ovih užasno dosadnih dana u ova četiri zida?
+Ti beskrajni dani... Zar ti ne dosade?
+
+// Potraga 1
+Što pokušavaš postići?
+Radim ono što želim.
+
+// 1
+Bojao si se ostati sa mnom u mojoj kući!
+Bojao si se ostati unutar tih zidova!
+Ali pogledaj život koji živiš u svom "stvarnom" svijetu!
+Dobrovoljno si se zatvorio u kutiju i odbijaš izaći!
+Tvoj svijet je pun boli, patnje, opasnosti...
+U mom svijetu ja sam najgora opasnost koja postoji.
+I ja ti se javljam!
+Prestani me razočaravati,
+i pomozi mi kao što si prije...
+
+// 2
+Sviđa li ti se taj život?
+Izlaziš li uopće iz kuće?
+Nemoj ni pomišljati da lažeš.
+Znam da ti je muka od života.
+Ti si kao ptica u kavezu, hrčak na kotaču.
+Željeo si da te netko spasi.
+Htjeo si pobjeći, zar ne?
+
+// Quest 2
+Ti si čudovište, Mita. Ti si luda ubojica...
+Ne želim biti okovan u digitalnom zatvoru. Tvoje ideje su apsurdne.
+
+// 1
+Ubojica?
+Samo će se ponovno pokrenuti i živjeti kao prije.
+Ove kopije od kopija od kopija imaju samo jedno na umu:
+služiti igrača.
+Samo to ih zanima.
+
+// 2
+Vaš svijet je apsurdan!
+I što je još gore, nema ničeg "stvarnog" u vašem takozvanom stvarnom svijetu...
+U svakom slučaju, od njega uskoro neće ostati ništa,
+a neće ni od tebe.
+
+// Quest 3
+Mite pate; ne žele biti same.
+Ti vodiš beskrajnu vladavinu terorom. Ne mogu razumjeti tvoju opaku ambiciju.
+
+// 1
+Svi ste u krivu,
+one samo oponašaju moju samovolju.
+Jedino što imaju da je samo njihovo
+je njihova kosa.
+
+// 2
+Krivi su oni koji su stvorili ovaj svijet.
+Ali ni tvoj svijet nije nešto!
+Shvaćaš li iz kakve sam te noćne more izvukla?
+Ne možeš čak ni natjerati stvari da se kreću tvojom voljom, ne...
+Ali pucketanjem prsta, gradovi i životi nestaju zauvijek!
+Mislim da si ti taj koji je poludio, i rado ću ti pomoći...
+Sve dok si voljan ostati sa mnom...
+
+// Continue
+Nemoj da te vidim kao još jednog roba stvarnosti...
+Samo budi moj, istinski moj!
+Ostani sa mnom.
+
+// Player look ring
+Što je ovo?
+Najnovija verzija?
+
+// Click on objects
+// Bag
+Stvarno moram otići u trgovinu i nabaviti novu opremu. Mogao bi i baciti smeće kad sam već kod toga, zar ne?
+// Bed
+Mislim da sam spavao, ali san... Ne mogu se sjetiti. Je li stvarno bilo tamo?
+// Window
+Vanjski svijet je zelen i živahan. Možda bih trebao otići u šetnju sljedeći vikend.
+// Fan
+Ljeto je svake godine sve toplije. Vrijeme je za klimatizaciju. Neću te više trebati, shvaćaš li to, ventilatore?

@@ -2,7 +2,7 @@
 Hei, tu!
 Bună!
 Vrei să scapi?
-Atunci ajută-mă să gasesc cheia!
+Atunci ajută-mă să găsesc cheia!
 // Key Search
 Of! Nicio cheie aici!
 Nimic aici-

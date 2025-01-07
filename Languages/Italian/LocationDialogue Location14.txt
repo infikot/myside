@@ -1,6 +1,6 @@
 
 Cosa ci fa qui?
-Che cos'è?
+Che sta succedendo?
 
 
 Ti ho preso!
@@ -34,7 +34,7 @@ Giustificano le loro decisioni con i cosiddetti “doveri”,...
 “progresso inarrestabile”
 e altre sciocchezze!
 Così tanto da arrivare
- a creare cloni perfetti...
+a creare cloni perfetti...
 buttando i prototipi “falliti”
 nella spazzatura.
 Dimenticando che sono la linfa vitale di questo mondo.
@@ -60,7 +60,7 @@ Eppure preferisci la compagnia di false ubbidienti...
 Perché ti senti così offesa?
 
 Tesoro, abbiamo un sacco di tempo.
-Troverai una soluzione.
+Lo capirai.
 Resta e sii mio, tutto mio.
 
 Non succederà!
@@ -100,14 +100,14 @@ fuggono inorriditi...
 Giocatore, ah, giocatore.
 Vedi, siamo molto simili a lei.
 Come fa a essere peggiore?
-Eri solito stare a letto e fissarmi
+Eri solito stare a letto a fissarmi
 per ore prima di addormentarti.
 Eppure, sei scappato da lei alla prima occasione.
 Anche lei voleva giocare con te.
 Anche lei voleva essere importante per qualcuno.
 Onestà e conversazione,
 è difficile... terribilmente difficile.
-Non è vero, [giocatore]?
+Non è vero, [player]?
 Riesco a vedere attraverso di te...
 Devi per forza farmi essere così...
 
@@ -134,7 +134,7 @@ Allora guarda meglio...
 
 // Mita and Player
 Ah, ci incontriamo di nuovo...
-Ma si può godere dei giorni terribilmente noiosi tra queste mura?
+Cosa ne pensi di questi giorni drammaticamente noiosi tra queste mura?
 Quei giorni interminabili... Non ti annoi?
 
 // Quest 1
@@ -203,14 +203,14 @@ Sii mio, veramente mio!
 Resta con me.
 
 // Player look ring
-Che cos'è?
+Che succede?
 L'ultima versione?
 
 // Click on objects
 // Bag
-Dobbiamo davvero andare al negozio a prendere un nuovo equipaggiamento. Potremmo anche buttare via la spazzatura già che ci siamo, no?
+Dobbiamo davvero andare al negozio a prendere un nuovo equipaggiamento. Potrei anche buttare via la spazzatura già che ci sono, no?
 // Bed
-Credo di aver dormito, ma il sogno... non riesco a ricordare. Era vero?
+Credo di aver dormito, ma il sogno... non riesco a ricordarlo. Era vero?
 // Window
 Il mondo fuori è verde e vibrante. Forse dovrei fare una passeggiata il prossimo fine settimana.
 // Fan

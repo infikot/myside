@@ -1,6 +1,6 @@
-Condizione: Completare la storia principale.
-Giocare a un gioco per console.
-Provare la salsa.
-Evitare di guardare nel condotto di aerazione.
-Raccogliere i magneti del frigorifero.
-Evitare di guardare nel forno.
+Condizione: Completa la storia principale.
+Gioca alla console.
+Prova la salsa.
+Evita di guardare nel condotto.
+Raccogli i magneti del frigorifero.
+Evita di guardare nel forno.

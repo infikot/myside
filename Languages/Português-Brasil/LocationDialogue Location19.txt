@@ -6,7 +6,7 @@ Você me assustou!
 Caramba.
 Meu save—Ah, não..
 Eu não entendo...
-cade o jogo?
+cadê o jogo?
 Você acabou com a minha rota!
 O que você quer?
 
@@ -36,7 +36,7 @@ Huh?
 Mita?
 Ah, por favor!
 Eu não ligo para ela!
-Não é a primeira, nem a ultima!
+Não é a primeira, nem a última!
 
 Mas você é uma Mita também...
 
@@ -59,11 +59,11 @@ Tá achando que pode só ir embora assim?
 // Player check exit
 Achou que ia encontrar alguma coisa aqui?
 
-Mas que droga?
+Mas que droga!
 O que é isso?
 
 Estava esperando o que?—
-O Pais das Maravilhas?
+O País das Maravilhas?
 
 Como eu saio daqui?
 Deve haver uma saída aqui.
@@ -109,7 +109,7 @@ Eu tô tomando banho, caramba!
 O que que foi isso?
 Seu sem vergonha!!
 
-Por que você invadiu o banheiro de repente?
+Por que você foi para o banheiro logo agora?
 Você poderia ter esperado
 até eu sair!
 
@@ -123,7 +123,7 @@ Uhum...
 bom, se minha casa tá de pé,
 Assumo que você se livrou do bug na cozinha
 
-Eu meio que fiz.
+Parece que sim.
 
 Que bom. Agora tem minha permissão
 para ir no banheiro.
@@ -176,7 +176,7 @@ Olha o que eu posso fazer!
 O quão perigosa eu sou!
 E você nem pisca.
 
-Você tá falando serio?!
+Você tá falando sério?!
 
 O que foi?
 Não foi convincente?
@@ -214,10 +214,10 @@ Você está agindo estranha.
 
 Tá bom! Hunf!
 Sobre o negocio de esmurrar—
-Eu não tava falando serio.
+Eu não tava falando sério.
 E eu não sou estranha
-Eu sou unica!
-Eu quer ser diferente das outras garotas.
+Eu sou única!
+Eu quero ser diferente das outras garotas.
 
 Você não precisa tentar tanto.
 Confie em mim — você já é bem diferente.
@@ -234,7 +234,7 @@ Ai!
 unhééé!
 Que fisica estupida...
 Você fala de realismo,
-E ai...
+E aí...
 Só acontece!
 Você tá falando que EU sou estranha?
 Cabeção!
@@ -245,7 +245,7 @@ Conseguimos, Mila!
 
 
 Boaa,
-Meu heroi!
+Meu herói!
 
 Oh, meu Deus!
 
@@ -254,7 +254,7 @@ Desculpa—Eu não queria.
 
 Está tudo bem, Mila. Já posso seguir agora.
 
-Olha, eu preciso que você vá...
+Olha, eu sei que você precisa ir...
 mas você não pode ficar
 só um pouquinho?
 
@@ -278,7 +278,7 @@ Se eu puder?
 
 Por favor, fica comigo...
 É tão legal estar com você, porque eu não me sinto sozinha...
-E se eu...Não conseguir?
+E se você...não conseguir?
 
 Eu vou. Só falta mais um pouco.
 // If the player clicks on the computer
@@ -373,7 +373,7 @@ Com joguinhos?!
 Que nem um Tamagotchi idiota!
 
 // Whispers 2
-Ele tá só vagando por ai...
+Ele tá só vagando por aí...
 Enxerido.
 
 // Whispers 3
@@ -391,7 +391,7 @@ Mãe...Pai...
 Por que essas palavras são tão...familiares?
 
 // Whispers 6
-Nevou aqui uma vez...Mas por que?
+Nevou aqui uma vez...Mas por quê?
 
 // Whispers 7
 Nossa aparece do nada! Estranho.
@@ -400,7 +400,7 @@ E se... não tiver nada lá?
 // Nearby 1
 E aqui estamos nós,
 parados...
-em silencio...
+em silêncio...
 Por que a gente tá parado aqui?
 O gato comeu sua lingua?
 Ou,
@@ -408,7 +408,7 @@ só não sabe o que falar?
 
 // Nearby 2
 Aai, chega disso
-Serio, declarando guerra.
+Sério, declarando guerra.
 Você sabe o que essa coisa faz
 com a linda pele de uma garota?
 
@@ -422,7 +422,7 @@ Tão me deixando louca!
 // Nearby 4
 Eu não gosto de excêntricos
 Amante de cenoura, amante de gatos...
-E ai está você, coletando bugs.
+E aí está você, coletando bugs.
 Sinceramente, você é a pessoa mais estranha que eu já conheci!
 
 // Nearby 5
@@ -437,8 +437,8 @@ não tem ideia do quanto a minha mão coça
 de sentar e tomar um chá com você!
 
 // Nearby 7
-Nem com oculos,
-Não consigo enxergar o por que,
+Nem com óculos,
+Não consigo enxergar o porquê,
 dessa sua determinação.
 
 // Nearby 8
@@ -471,15 +471,15 @@ Você sabe do que eu estou falando—você raspou a cabeça!
 // Nearby 13
 E se não tiver nada atrás da porta?
 E essa casa e eu ...
-não tivessemos motivos para existir?
+não tivéssemos motivos para existir?
 Então por que você tem tanta certeza?
-Já ouviu falar da hipotese dos 5 minutos?
+Já ouviu falar da hipótese dos 5 minutos?
 
 
 
 // Last glitch ready - player exit
 Que corredor bizarro...
-Você vai entrar mesmo ai?
+Você vai entrar mesmo aí?
 
 Uhum.
 
@@ -499,11 +499,11 @@ okay.
 Isso é uma katana de brinquedo?
 
 NÃO é uma katana de brinquedo!
-Um toque dessa lamina
+Um toque dessa lâmina
 e você vai sangrar.
-Diferente de você, eu sou uma otima espadachim!
+Diferente de você, eu sou uma ótima espadachim!
 É melhor se cuidar—
-eu não gostaria de ver você arrancando seus proprios dedos.
+eu não gostaria de ver você arrancando seus próprios dedos.
 
 // Mirror
 Espelho...
@@ -579,7 +579,7 @@ Ah, voltou.
 Sua visão é ruim?
 Por que você precisa de óculos?
 
-O que—não gosta deles?
+O quê—não gosta deles?
 É estilo!
 E minha visão é perfeita, tá?
 
@@ -587,7 +587,7 @@ E minha visão é perfeita, tá?
 Mi-La?
 Por que não...
 Mi-Ka?
-Or Mi-Sa?
+Ou Mi-Sa?
 
 Eu sou a Mila. É isso. Por que?
 

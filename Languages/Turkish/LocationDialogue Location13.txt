@@ -98,7 +98,7 @@ Neyse, bütün problemlerimizin
 çözümünün içeride olduğuna
 adımın Mita olduğundan daha eminim.
 [player], içeri gir.
-Aslında, ben de bir keresinde girmiştim.
+Gerçekten de girdin.
 
 // Look on CoreMita
 Dikkatli ol, [player].
@@ -184,12 +184,12 @@ Hadi, çekirdeğe girmeliyiz.
 
 
 // core console entry
-We need to enter a command prompt...
-But what command prompt?
-Mita, do you know?
+Bir komut girmemiz lazım...
+Ama ne komudu?
+Mita, sen biliyor musun?
 
-Maybe it's listed somewhere?
-Can you try looking it up?
+Belki bir yerde yazıyordur?
+Bakamaz mısın?
 
 // core console - nope programm
 Muhtemelen bu değil.

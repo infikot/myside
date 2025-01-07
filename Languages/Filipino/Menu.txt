@@ -1,0 +1,165 @@
+Bagong Laro
+I-continue
+Main menu
+Umalis
+Settings
+Mga achievements
+Mga kredito
+Bumalik
+Magload
+Wika
+Naglo-load...
+Mga graphic
+Tunog
+Keyboard at mouse
+Controller
+Resolusyon
+Naka Windowed mode
+Mga Epekto ng Grapiko
+Mga Epekto ng Kulay
+Malambot na anino
+Kalabuan
+Liwanag na nakasisilaw
+Anti-aliasing
+Mga Anino
+Kalidad ng World display
+Programming
+Animasyon
+Mga sound effect
+Musika
+Mga particle
+Mga texture
+3D models (98%)
+Script
+I-reset
+Pasulong
+Pabalik
+Kaliwa
+Kanan
+Pakikipag-ugnayan
+Mouse sensitivity
+Itigil ang laro?
+Oo
+Hindi
+Bumalik sa Main Menu
+Smooth na pagliko
+Game settings
+Estilo ng Anino
+Mga damit
+Interface
+3D models (2%)
+Voice volume
+Pause
+Menu
+Congrats! Nakumpleto mo ang laro!
+Ang iyong oras ng paglalaro:
+Mga subtitle
+Liwanag
+Vertical sync
+Nai-save
+Mga tauhan
+Mga tauhan - Mga Mita
+Mga tauhan - Mga Cartridge
+Mga Catridge
+Mga Mita
+Magsimula sa malinis na slate
+Sigurado ka na gusto mong idelete lahat ng progress at magsimula ulit?
+Pag-compile ng mga shader, tinantyang oras ng paghihintay: 2 oras.
+2 oras na compilation?! Budol yan! Nilaktawan na namin ang queue para sa iyo!
+Gumagawa ng makatotohanang shadow tracing—tinatayang aabot ng 10 minuto.
+Biruin mo, hindi naman namin ginagamit ang mga bagay na masyadong magarbo dito eh.
+Umm...
+Oh, handa na pala tayo!
+Mag-sway habang naglalakad
+Ipakita ang mga hints
+Boses ng player
+Discord
+Nagdagdag ng profile ng character
+Kamera angle (FOV)
+Boses
+Naka-off
+Iniabot ang kamay sa pintuan
+Animasyon
+I-enable ang boses ng player
+Mita
+Mita na maikli ang buhok
+Mabait na Mita
+Mita na may cap
+Maliit na Mita
+Antukin na Mita
+2D Mita
+Mila
+Nakakatakot na Mita
+Core Mita
+Makamulto na Mita
+Chibi Mita
+Dummy Mita
+
+
+
+// Name load location
+Nasa loob ako ng laro?
+Magkasama rin sa wakas
+Nagiging kakaiba ang mga bagay
+Ang basement
+Higit pa sa Mundo
+Ang loop
+Maliit na Mita
+Mga dummy at nakalimutang mga palaisipan
+Gusto lang niyang matulog
+Mga nobela
+Pagbabasa ng mga libro, pagsira ng mga glitches
+Tumakbo ka at magtago!
+Lumang Bersyon
+Maging tapat
+I-reboot
+Cappie
+Multo na Mita
+Ang totoong mundo
+Umalis sa Core!
+Player 1
+Player 2
+Player 3
+Player 4
+Player 5
+Player 6
+Player 7
+Player 8
+Player 9
+Player 10
+
+Peaceful Mode
+Ang mode na ito ay nasa in development pa rin! Sa sobrang lawak nito ay hindi natapos ng mga developer ang mode. Ngunit huwag mag-alala—nangako sila na isasama ito sa isang malaking update na paparating. At aakalain mo, nangunguna kana sa curve sa pamamagitan ng pag-unlock ng access! Ngayon ang pwede nating gawin ay maghintay...
+Kaya, ano ang Peaceful Mode? Pagkakataon mong makipag-ugnayan muli kay Mita sa ibang paraan! Tuwang-tuwa siyang gumugol ng mas maraming oras na kasama ka, mula umaga hanggang gabi, sa mundong puno ng saya at mga sorpresa. Asahan ang taos-pusong pag-uusap, pagbabahagi ng cookies, paglalaro, at nakakatuwang sandali na magkasama.
+
+
+I-censor ang gore
+Espesyal na pasasalamat:
+Icon ng Achievement: Iceсloud
+Photograph: Nineko Hori
+Tagasalin
+Kino-convert ang teksto ng laro sa ibang wika.
+Kasosyo sa Pag-publish
+Pagmemerkado sa laro
+Tester
+Nilaro at natagpuan ang lahat ng uri ng mga bug.
+Ang pagsasalin ng wikang ito ay ginawa ng mga enthusiasts galing sa fan community at idinagdag ang laro sa kanilang kahilingan.
+Babala! Ang laro ay naglalaman ng mga screamer, malalakas na tunog, at kumikislap na visual effect. Ang ilang bahagi ng laro ay maaaring mapanganib para sa mga taong may problema sa puso o dumaranas ng epileptic seizure. Mangyaring mag-ingat.
+Bukas ang access sa peace mode!
+
+Photo mode
+Photo Mode: Ang lahat ng mga flight restrictions ay inalis, upang makita mo ang mga bagay na hindi mo dapat makita.
+Umalis sa photo mode
+Itago ang interface
+I-hold upang ilipat ang kamera
+Pabilisin ang paggalaw
+Makinis na paggalaw
+Takbo
+Mga epekto
+Kontrol sa Oras
+Liwanag
+Contrast
+Vignette
+Screenshot!
+Open screenshot folder
+Angle ng Kamera

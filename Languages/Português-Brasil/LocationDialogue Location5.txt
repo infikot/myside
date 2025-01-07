@@ -3,4 +3,4 @@ wbtbuf bfn bz
 fvsvor orvv av avavsd
 // Jogador no Escuro
 Este lugar é muito escuro.
-Está escuro como breu.
+Tá muito escuro aqui.

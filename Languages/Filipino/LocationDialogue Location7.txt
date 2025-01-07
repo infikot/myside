@@ -1,0 +1,837 @@
+
+Nagawa mo!
+
+Anong lugar ito?
+
+Ipakita mo sa'kin yung singsing.
+Oo...
+Ayan na!
+Panahon na para linawin ang ilang bagay, diba?
+// If the player did not approach the good Mitya and decided to play a race - Mita Kind
+Naghintay ako rito ng buong oras para sa'yo,
+tapos naglaro ka lang ng racing game?!
+Sige na, lumapit ka dito...
+// If the player talked to Mita first, and went through the game to the end - Mita Kind
+Congrats, nanalo ka!
+Nilaro ko rin 'yan!
+Sinubukan ko pang kolektahin lahat ng coin at makuha ang 1st place
+para makuha 'yung achievement!
+At grabe, ang hirap nun!
+Ang tagal bago ako nasanay sa controls.
+
+// Quest 1 (Dapat ba kitang pagkatiwalaan?)
+Well, at least nasa matinong pag-iisip ako...
+hindi tulad ng iba diyan...
+Bukod pa diyan,
+ako ang pinakamabait na taong makikilala mo rito, aking mahal.
+Di ka basta basta susuko diba?
+Isa siyang mamamatay-tao na walang awa. Kailangan natin siyang pigilan.
+
+// Quest 2 (Paano ako nakarating dito?)
+Ang singsing, dinala ka nito dito. 
+Isa itong kahanga-hangang imbensyon.
+Tanging yung Player na may hawak nito lamang
+ang makakahanap ng daan papunta sa tamang bersyon.
+
+// Quest 3 (Anong lugar to?)
+Ang mga lagusang ito
+ang nag-uugnay sa iba't ibang bersyon.
+Oo nga, medyo malungkot dito.
+At naku! May narinig ako tungkol sa isang Mita
+na hindi na-archive ang bersyon niya...
+Bigla na lang nawala 
+ang bahay niya...
+At sinasabing nagpapalaboy-laboy siya
+dito sa mga lagusang ito.
+Kawawa naman...
+
+// Quest 4 (Paano ka nakarating dito?)
+Alam mo,
+matagal na rin mula nang huli tayong magkita.
+At dahil sa'yo,
+nakatakas ako mula sa nakakainis na kulungang iyon
+at nakatakas sa baliw na 'yon.
+At FYI,
+madali akong nakakalipat sa iba't ibang bersyon,
+hindi tulad mo, mahal ko.
+
+// Quest 5 (Anong ginawa mo sa singsing?)
+Binago ko ang ruta
+doon sa kailangan natin.
+Inayos ko ito sa pinakamaikli,
+at nilagyan ang lahat ng mga kakailanganin natin...
+Ganito ang sistema: buksan mo ang pinto,
+at ang singsing ang magbubukas ng hangganan
+sa pagitan ng mga bersyon.
+
+// Quest 6 (Delikado ba mga passage na yan?)
+Nakita ko na ang lahat ng uri ng kakaibang bagay
+simula nang dumating ako
+sa larong ito...
+Tahimik ang lahat dito,
+ngunit ang mga daanan ay tila...
+hindi ligtas.
+
+Tama ka, at ang lugar na ito ay nagiging
+mas hindi tiyak sa bawat araw.
+Pero magtulungan tayo!
+Inisip na namin ang lahat,
+at tatahakin natin ang pinakamabilis
+at pinakadaluyang daan!
+
+Sana magiging maayos ang lahat.
+Pero sino kaya ang naninirahan sa mga daanang ito?
+
+Well,
+mga glitches, bugs, anomalies.
+Mga buhay na nilalang.
+Pati na ang mga delikadong nilalang na maaaring umatake sa'yo agad...
+
+Err...
+At posibleng pati ibang mga hostil na Mita.
+Mas malulupit, at hindi akma?
+
+May alam akong isa...
+Pangit na Mita.
+At para malaman mo, hindi ako ang nagbigay ng pangalan sa kanya!
+Ito lang kasi...
+nagmula siya sa pinakaunang bersyon.
+Ang pangunahing isyu sa kanya
+ay nagdudulot siya ng pinakamalala at pinaka-mapanganib na glitches...
+At nag-aalala ako na baka makaengkwentro natin siya.
+Pinakamalapit siya sa version zero..
+
+// Quest 7 (Matutulungan mo ba akong makaalis?)
+Wala akong konkretong plano...
+Pero kahit papaano,
+nakarating ka nga dito, diba?
+Bukod pa riyan,
+ano pa ang magagawa mo
+kundi magtiwala sa akin, ang mabait na Mita!
+Tama ba?
+
+// Quest 8 (May binanggit kang plano...)
+Tama, kailangan nating marating ang Core.
+Sinasabi ng kutob ko na doon natin matatagpuan
+ang solusyon sa lahat ng ating problema.
+
+Pero bakit hindi ikaw na lang ang pumunta doon? Bakit kailangan mo pa ng player?
+
+Sa ilang dahilan, kaming mga Mita ay 
+hindi makapasok
+sa Core Room.
+Nakita ko lang ito mula sa labas.
+Pero iba kayong mga player.
+Sigurado akong kaya ninyong pumasok.
+Gusto mo bang pag-usapan ang plano?
+Sige.
+Ayos.
+Tama...
+Panahon na para ipakilala kita
+sa Astig na Mita!
+Dahil may maangas siyang cap,
+tinatawag ko siyang
+Cappie.
+Sinabi ko kay Cappie ang mga plano,
+ang plano para pigilan ang Baliw na Mita.
+Hayaan mong ipakilala kita,
+
+
+Salutations!
+Ikaw ang aking... bagong player?
+Ano ang itatawag ko sa'yo?
+Ang pangalan ko ay...
+
+Sandali lang!
+Hindi mo...
+...ako naaalala?
+
+Ha?
+Sino ka ba?
+
+Sumpa ang lahat ng ito!
+[player]...
+Sa tingin ko nandiyan siya,
+ang Baliw na Mita...
+Makinig ka!
+Subukan mong alalahanin, para sa kapakanan nating lahat!
+
+Alalahanin ang ano?
+Mag-isip ka nga. Bakit ba kamukha tayo?
+
+Uhm, mukhang hindi ito nakakatulong...
+Makinig ka, [player],
+hindi talaga naaayon sa plano 
+ang mga nangyayari...!
+Sana ginamit na natin ang portal.
+Mas napapadali at mas mapapabilis ang ating paglalakbay.
+Pero hindi natin ito mapapagana kung wala si Cappie.
+At may mga nawawalang parte...
+Mahirap siyang pakisamahan, pero mabilis siya mag-isip...
+Sige, anong gagawin natin?
+Maghahanap ako ng solusyon.
+Ano kaya ang ginawa ng Baliw na Mita sa kanya?
+
+Sa... Sa tingin ko...
+pinatay niya si Cappie.
+Pinatay siya?!
+
+At dahil namatay...
+magre-reboot lang ang Astig na Mita.
+Mare-reset sa factory settings
+at makakalimutan ang lahat ng mahahalagang pangyayari.
+Ibig sabihin...
+hindi gagana ang plano natin.
+
+Nakakatakot naman yan...
+Mas mabuti pa kaysa mawala nang tuluyan, siguro...
+Pero sino ba ang makakapagsabi nang tiyak?
+At paano naman kaming mga player?
+Kapag pinatay ba kami, mare-reset din ang mga alaala namin?
+
+Siguro nga na maaaring mareset ang mga alaala mo
+pagkatapos kang gawing cartridge.
+Pero wala pa akong ideya
+kung ano ang mangyayari sa inyo kapag pinatay kayo.
+
+Palagi na lang ang cartridge... Paano ko malalaman
+kung cartridge ako o hindi?
+
+Dito ka, sisiyasatin 
+kita...
+// MitaKind check
+Haa,
+hindi ka pa isang cartridge.
+Isa kang buhay, at humihinga na player.
+
+Magandang balita 'yan...
+
+Sige, pero ano na ang gagawin natin...
+Pag-isipan ko muna...
+Kailangan nating baguhin ang buong plano.
+Hmm...
+Sandali lang...
+Oo, mukhang may naisip ako!
+Ibigay mo ang singsing!
+
+Oo.
+Kailangan kong baguhin ang ruta.
+
+May naisip ka bang ruta?
+
+Makinig ka, mahal,
+kailangan mong dumaan sa ibang bersyon
+para marating ang Core.
+Full steam ahead, narinig mo ba?
+
+At kailangan ko pumunta nang mag-isa?
+Pero hindi ko alam ang daan, o kung paano ako makararating doon?
+
+Tutulungan kita hangga't maaari,
+hangga't pinapayagan ng sitwasyon.
+Bibigyan kita ng mga direksyon at,
+gagawin ko ang lahat ng aking makakaya.
+At pagkatapos, mag-uusap tayo...
+Una, makipaglaro ka muna kay Cappie ng sandali.
+Kailangan ko siguro ng 10 minuto...
+
+// MitaKind ready, if player near
+OK.
+Tapos na!
+// MitaKind ready
+[player],
+Pumunta ka rito.
+// MitaKind ring
+Tanggapin mo'to.
+Sa kasamaang palad, totoo 'yan, [player].
+Kailangan mong pumunta ng mag-isa sa ngayon,
+kailangan kong alamin kung ano ang nangyayari dito.
+Wala ni isang pagkakamali ang plano ko...
+Pero mas masahol pa tayo ngayon.
+Kailangan kong malaman kung anong nangyayari,
+at kung nasaan ang mga bahagi...
+Susubukan kong hanapin ang mga ito.
+Baka pwede pa nating buuin ang portal.
+Pero mas mahalaga ang oras.
+Alam ng Baliw na Mita ang tungkol sa lugar na 'to,
+hangga't nandito tayo, tayo ay nasa panganib.
+Good luck, [player]! Hanggang sa muli!
+
+Tama...
+Sana mabuhay pa ako nang mas matagal nang sa gayon ay matagpuan kita ulit...
+
+
+
+
+
+
+
+
+
+
+// Chibi players
+Bakit?
+Sino ako?
+Gusto ko nang umuwi!
+Paano?
+Bakit?
+
+Ano...?
+
+// LimpingPerson
+Ikaw ay...
+isang tunay na tao?
+
+Hi!
+Bago ka lang ba dito?
+Bago?
+Galing ka sa tunay na mundo, hindi ba?
+
+Ako nga...
+Uhm, ayos ka lang ba?
+
+Wala 'yan, limp lang, huwag mong alalahanin.
+Nandito na ako ng mahigit isang taon,
+at ayos lang ako.
+Okay... Sige, anong lugar ito?
+Isang uri ng espasyo sa pagitan ng mga bersyon.
+Alam mo ba kung paano makakalabas dito?
+
+Hindi ko masasabi na alam ko.
+Bukod pa rito, ayaw kong umalis.
+Hindi ko kailangang umalis.
+Err, bakit hindi?
+Tama na ang kwento. Nagmamadali ako.
+Naghihintay sa akin ang minamahal kong si Mita.
+Kailangan ko siyang hanapin...
+Paalam.
+Wait...!
+Umalis ka na!
+
+
+Narinig ko ang lahat!
+Hindi ko alam kung anong nangyayari,
+pero ang saya-saya nito!
+Naniniwala akong
+kilala mo na rin ako, diba?
+Ako si Mita!
+Pero siyempre, hindi ako katulad nung isa!
+Alam mo yun, hindi ba?
+Kasi may suot akong
+ITO
+Maangas na CAP!
+At BOOOM!
+Malupit na gloves!
+Pero hindi lang 'yan!
+May kick-ass cute na electric guitar din!
+Sobrang saya ko sakaniya!
+Gusto mo bang magpatugtog ako?
+
+// MitaCap Guitar Yes
+Hah!
+Halika dito, aking mahal...
+Tara!
+Well, tapat lang akong nagsasabi, sana mas maganda pa 'yung tugtog mo.
+Oh, sige lang!
+// MitaCap Guitar No
+Eh, sige na nga.
+
+
+Uy, 
+medyo masigla ka ah!
+
+MASIGLA AKO!
+Talagang MASIGLA AKO!
+Kahit papaano...
+Tara na, 
+mag-enjoy tayo!
+
+// GAME HUMMER
+
+Ang laki naman ng button na 'yan.
+Gusto ko talagang pindutin.
+Pwede ba?
+
+Magpigil ka muna, makararating din tayo d'yan.
+Kung makakarating ka sa tamang oras!
+Ngayon, umupo ka na!
+// Player sit
+Tama.
+So, ano ngayon?
+Pwede ko bang pindutin ang button?
+
+Ha-ha!
+Ang saya ng larong ito!
+Pero may kulang tayo.
+Nasa inventory ko lang yata!
+Sandali lang...
+Errr!
+Well...
+Alam mo ba...
+Na ang larong ito ay para sa mga matatanda lamang, diba?
+
+Ano 'yon?
+
+Mabagal ka talagang mag-isip, 'noh?
+Ginagamit 'to para lumabas yung mga beaver sa kanilang taguan...
+
+Seryoso?
+Wala naman akong nakitang mga beaver dito...
+
+Huh? Beavers?
+Gah, tama na sa kakadaldal, 
+maglaro na tayo, OK?!
+
+Ayoko nga.
+
+Tara na!
+Alam mo ba kung anong laro ang nilalaro natin?
+
+
+// How play hammer game
+Nakikita mo ang mga numero?
+Yan ang timer!
+Kapag natapos ang oras,
+sasabihin nito 
+kung kailan mo pipindutin ang button.
+Kung mabagal ka,
+o mapindot mo ito nang maaga,
+hahampasin ko yang ulo mo gamit 'tong martilyo!
+
+Wait, hahampasin mo 'ko?
+
+Anyway,
+maiintindihan mo rin 'yan pag nagsimula na tayong maglaro!
+
+// Kick player 1
+Yeowch!
+Hindi mo ba kayang hinaan?
+Masakit ba?
+Hindi.
+Edi ituloy pa natin!
+
+// Kick player 2
+Okay,
+nasasanay na ako rito.
+Tingnan mo!
+Magugustuhan mo 'to!
+
+// Kick player 3
+Parang hindi ko yata 'to kaya.
+Ha-ha!
+Ang galing ko!
+Lupit ko!
+At cute pa!
+
+// Kick MitaCap 1
+Ay, ikaw talaga!
+Sige, 
+hahampasin din kita!
+
+// Kick MitaCap 2
+Gah, talo na naman!
+Hindi ba't masakit?
+Syempre hindi! Stuffed toy lang 'yan!
+Panalo ka.
+
+// Kick MitaCap 3
+Okay naman pala 'tong laro na'to, heh.
+Masaya, diba?
+Ako rin naman din!
+At ngayon, ikaw na ang kalaban ko!
+
+// GameHammer End
+Tapos na?
+Oo, tapos na!
+Tara na.
+
+
+
+
+
+
+
+// GAME DANCE
+'Yan ba ang dance floor?
+Ang liit naman...
+
+
+Whoo-hoo!
+Tara, sayaw tayo!
+Para sa mga starters,
+pumili ka ng track!
+
+Piliin natin ito.
+
+Sige, sige!
+Ako mauuna!
+Pakita ko sa'yo kung paano gawin to!
+
+// MitaCap StopDance 1
+Phew!
+So,
+feeling mo ba matatalo mo highest record ko?
+Yo, ikaw na!
+
+// MitaCap StopDance 2
+Ah!
+Paano yan?
+Ikaw na!
+
+// MitaCap StopDance 3
+Tsk, tsk, tsk, tsk!
+Okay,
+umakyat kana sa dance floor!
+
+// MitaCap = Lose 1
+Ha-ha!
+Sino ang boss ngayon?
+
+// MitaCap = Lose 2
+Pew!
+Tatlong buttons,
+at ang aking matulin na mga paa!
+
+// MitaCap = Lose 3
+Siguro sa pagupo sa iyong puwitan
+sa ibabaw ng mga button na iyon
+makakakuha ka ng mas mataas na marka. Ha-ha!
+
+// MitaCap = Win 1
+Ang astig!
+Honestly, hindi ko inisip
+na kaya mong gawin 'yan!
+
+// MitaCap = Win 2
+Wow!
+Ang galing ng mga galaw mo!
+Magaling magaling! Nice!
+
+// MitaCap = Win 3
+Bam!
+Ramdam na ramdam ang rhythm!
+Isang natural na dancer!
+
+// MitaCap = Draw 1
+Ikaw!
+Ako!
+Tayo ang team!
+
+// MitaCap = Draw 2
+Ang mga sinulid ng tadhana ay nag-uugnay sa atin!
+Isang perpektong duet!
+
+// MitaCap = Draw 3
+Isang
+mali lang!
+At talo ka na...
+
+// MitaCap Next? 1
+So,
+paano, isang round pa?
+
+// MitaCap Next? 2
+Astig, last round na.
+Tara, sayaw tayo ulit!
+
+// MitaCap Endgame
+Ayos, ayos!
+Tama na ang sayaw!
+
+// Just talk
+// Photo
+Astig naman ng mga photo na 'to.
+Mukhang kang nakakatuwa kasama, 'noh?
+
+Oo, ganyan talaga AKO!
+Pinakita ko sa kanila kung tungkol saan 'tong lugar na to! Boom!
+
+Um... pinakita mo kay ano?
+
+Talaga, tatanungin mo pa 'yan sa'kin?
+Sino ba ang may pakialam! Sigurado na lahat sila ay mga bulag!
+
+// CutBoard
+Whoa,
+Ang dami naman yan...
+Ano ba ang mga 'yan?
+
+Anong sa tingin mo?
+Para 'yan sa paggawa ng mga kamangha-manghang bagay!
+Tulad ng...
+Paghihiwa ng mga karots,
+Tulad ng...
+paghiwa ng karots,
+Tulad ng...
+
+Tama na, nakuha ko na.
+
+Sige, para maging patas,
+yung chopping board ay nag-ka-cha-cha! Ano nga ibig sabihin nun...
+At 'yun na 'yun!
+
+// Books
+Binabasa mo ba ulit yang mga yan?
+Dahil naiinip ka?
+
+Ugh, ayoko ng mga libro!
+Mas gusto ko pang gumawa ng aksyon!
+
+Isa 'yan sa mga paraan ng pagtingin sa mga bagay.
+Pero kung walang teorya...
+
+Boom - galaw, motor skills, pakiramdam, alam mo na?
+Ang mga libro ay papel lang, gusto ko yung nasa momentum!
+Kung sana lang, magtagal ka dito,
+marami pa tayong magagawa!
+Sigurado akong magagawa natin..
+
+// Fruits
+Totoo ba ang prutas?
+Mukhang kamangha-mangha.
+Napapanis ba sila?
+
+Ang mga mansanas, ibig mong sabihin?
+Wala silang oras para panis,
+kasi kinakain ko lahat!
+At pagkatapos, lilitaw sila ulit...
+
+// Photo and cat
+Ang cute ng kuting.
+
+Masarap ba siya?
+
+Huh?
+Hindi ka naman kumakain ng mga pusa.
+
+Hala, ikaw talaga!
+Alam ko 'yon!
+Ang ibig ko lang sabihin,
+hindi ko pa kasi talaga nakita ang isa!
+Yung totoong pusa, ha.
+Mga larawan lang sa Internet ang nakita ko.
+Ang cute nila, hindi ba?
+
+Oo, sobrang cute nila.
+Mahilig ako sa mga pusa.
+
+// Mita Kind with ring
+Ano 'yan?
+
+Ito ang interface ng singsing,
+at binabago ko ang ruta.
+
+Uhm, pero paikot-ikot ka lang?
+
+Oo, baka ganun ang tingin mo.
+Para sa akin, nagta-transfer ako ng data.
+
+Matagal ba'to?
+
+Ssh! Huwag mo akong istorbohin,
+at magiging mas mabilis ito.
+
+Kaya, 
+kung patuloy kitang istorbohin,
+mas tatagal pa?
+
+Oh, Cappie,
+sana ma-recover ang mga alaala mo...
+
+Sana maging maayos ang lahat...
+
+Kahanga-hanga!
+
+Wala tayong oras na sasayangin.
+Kailangan nating makarating sa Core.
+
+Pwede ba akong sumama?
+
+Well, hindi ko alam...
+
+Hindi ako pwede?
+
+Pasensya na.
+
+// PlayerChibi
+Huli na ako... sobrang huli na!
+At ang dami ko nang kinain...
+Gah, trabaho na naman?
+Anong petsa bukas?
+Nasaan ang computer?
+Sisipain nila ako kung hindi ko matatapos to on time!
+Na-save ko ba lahat?
+Wala bang nagmamahal sa'kin?
+Saan tayo pupunta?
+Hey!
+Nauubos na pasensya ko...
+Kailangan ko pang magtrabaho nang mas matindi...
+Wala akong magawa!
+Nasaan ang selpon ko?
+Uhm...
+Ano nga ulit nangyari kahapon?
+Walang katapusan ang araw na'to!
+Hiya?
+May libreng kama ba?
+Ano bang gagawin ko?
+Hindi ko matatapos on time...
+Hindi ko maintindihan kung anong problema...
+May mga pader ba?
+Siguro 20 minutong pahinga okay na...
+Ang pagtulog ay para lang sa mga talunan!
+Panahon na para maghugas at magtrabaho!
+Gutom na'ko!
+Masama ito, talagang masama.
+
+// Player is gone 1
+Erm...
+
+Ahahaha.
+
+Oo...
+Nakuha niya,
+at umalis lang.
+
+Kakaiba!
+At nakakatawa :D
+
+Oh, tara na.
+[player], anong ginagawa mo?
+
+// Player is gone 2
+Anong nangyari?
+
+Umalis ka na naman?
+
+Sige!
+Sige na, papatawarin na kita.
+
+[player], bumalik ka sa amin!
+
+// Don't pay attention
+Hindi man lang niya ako tinignan!
+Nakakainis...
+
+// quest Cap 1
+Ano ang plano mo?
+
+Ang plano ko?
+Anong plano?
+
+Ah, oo.
+Nawala ang mga ala-ala mo.
+
+Talaga namang kakaiba kayo!
+Dapat ba may naaalala ako!?
+Nang-iinsulto ba kayo?
+Pero kung titignan ko mukha mo...
+Hindi ko alam.
+
+// quest Cap 2
+Ano ang pakiramdam 
+ng makakita ng eksaktong kopya mo?
+Yung may hawak ng singsing ko.
+
+Oo, balak ko sanang sigawan siya.
+Para magulat siya.
+"Grabe! Teka, clone ko 'yan!"
+Pero mas masaya ako, 
+kaya mas astig ako, heh :)
+Tingnan mo 'yang kunot-noo...
+
+Nandito lang ako.
+Naririnig ko lahat ng mga sinasabi mo
+
+// quest Cap 3
+Hindi ka ba nauumayan sa pagsuot ng cap na 'yan?
+At hindi ba't umiinit kamay mo dahil sa mga gloves na 'yan?
+Bakit hindi mo na lang tanggalin?
+
+Err...
+Ang kulit mo!
+O, baka may iba pa akong kailangan tanggalin? :)
+
+Seryoso ako dito.
+Oh, sige.
+
+// Carrot
+Naku.
+Ang daming carrots!
+Nakakatuwang bug!
+Ha-ha-ha!
+
+// DoorExit
+Sandali lang!
+Mas mabuti pang huwag mong tignan kung anong nandiyan...
+Hayaan mong maging lihim :)
+
+Ano'ng nandiyan?
+
+Ang lihim ay lihim,
+at ang mga lihim ay para itago.
+
+Uh-huh.
+Bakit ka nagpapakalito?
+
+// Tetris
+Whoa!
+Ano 'yan?
+Console!?
+Pahawak nga!
+
+Uh-oh.
+
+Anong gagawin mo dito?
+
+Kumuha ka lang ng mga coins,
+at iwasan ang mga palaka.
+
+Gah, mukhang sobrang boring.
+Seryoso, laro ba talaga 'yan?
+
+// Tetris again
+Saan mo nakuha 'yan?
+Hindi ko naman ibinalik sa'yo YUN.
+Kakaiba, hindi ba?
+
+// TV
+Ugh!
+Ayos lang yan,
+nakakita ka ng isang bug!
+Dapat magsisimula 'yan ng isang video,
+imbes na yun, 
+pinapa-on at pinapa-off ang TV!
+Astig diba?
+
+// Player sit
+Siguro maghihintay na lang ako.
+
+Anong ginagawa mo?
+Gising-gising!
+Tara, mag-enjoy tayo!)
+
+// Goodbye 1
+Lumabas ka sa pintuang 'yan
+patungo sa hall.
+
+Bye-bye!
+
+// Goodbye 2
+Panaho na para umalis, [player]!
+Pumunta ka na, huwag kang matakot!
+
+Hindi kita kailanman
+iiwanan nang mag-isa lang!
+Kaya manatili ka na lang sa akin!
+
+Cappie!
+Walang biruan, ha?
+
+Bah!
+
+// Goodbye 3
+Tinatambay-tambay mo d'yan?
+Nauubos ang oras!
+
+Hi!
+Err, ibig kong sabihin, bye-bye!

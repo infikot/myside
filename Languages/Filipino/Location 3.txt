@@ -1,0 +1,16 @@
+// Quest none
+Di bale.
+// Quest "Unang Mita"
+Ikaw ba si Mita?
+Paano kung gusto kong bumalik?
+Paano ako nakapasok sa laro?
+// Quest "Kumain sa kusina"
+Ang iyong tahanan ay maaliwalas.
+Kailan ako makakauwi?
+Ito ay parang isang panaginip…
+Bakit ang liwanag ng mga bintana?
+Bakit naman gunting kung pwede naman kutsilyo?
+Bon appétit!
+// TV
+Astig na Juice!
+Malakas na JUICE!!!

@@ -1,0 +1,161 @@
+// Player thinks + Make coffee
+Kailangan ko ng tulong.
+Sana ung Mita dito hindi nangangagat...
+
+Bakit ba ako nagsasayang ng oras para lang dito...
+
+
+
+
+// Player tries to wake up MitaDreamer
+Mita?
+Mita, gising!
+Mita!
+
+Mita, gising na!
+Kailangan ko ng tulong mo.
+
+Sino ka ba?
+
+Tulungan mo ko sa mga switch.
+
+Anong switch?
+Hayaan mokong matulog...
+O pwede mo akong timplahan ng kape.
+
+Ang coffee-maker ay nandun lang.
+Mita?
+Mi-ita!
+
+
+
+// Player gives away the coffee
+Mita,
+ito na kape mo.
+
+
+
+// MitaDreamer exercise
+Switches,
+yung sabi mo?
+
+Oo.
+
+Bat alam mo yun?
+subalit, bat ko yun tinatanong...
+dito ka nakatira,
+maaring may alam ka dito...
+
+Teka lang,
+gusto kong umupo.
+
+At?
+
+Hindi ko alam kung paano ko ito sasabin...
+Pero kailangan kung pumunta doon,
+Sumusunod lang ako sa singsing.
+
+Meron kang singsing?
+Di nakapagtataka
+na nakita mo ako dito.
+
+Tama.
+So, pwede mo ba akong tulungan?
+Sa switches?
+
+Sige
+Tutulungan kita.
+Sa mga switches...
+
+
+Mita, sige na...
+Tara na.
+
+Uh?
+Sige.
+Tara.
+
+
+// MitaDreamer fall
+Tumayo ka.
+Ganyan ka ba talaga ka antukin?
+
+// MitaDreamer again sleep
+Gising na.
+Nandito na tayo.
+
+
+// Switches
+Okay,
+handa na ako.
+
+Handa narin ako.
+
+Mabuti.
+Sisimulan ko na
+ang pagbibilang.
+At hihilahin natin ang switch.
+Okay?
+
+Basta manatili ka lang gising, OK?
+Ngayon na.
+
+
+3
+2
+1
+
+// Player lose 1
+Lutang kaba?
+sige na,
+gawin natin ulit...
+
+// Player lose 2
+Isa pa?
+Sige na,
+ako'y...
+Inaantok na...
+
+// Player lose 3
+nakakaantok na...
+
+
+
+Magaling,
+salamat, Mita.
+
+Mm-hmm.
+
+
+Ang mga pinto...
+Ang...
+Bagal...
+
+
+Hihiga na ako...
+
+// Why kitchen?
+Bat dito sa kusina?
+Kung makakatulog ako dito sa sahig,
+kasalanan mo to.
+
+// Why bathroom?
+Hindi ko maintindihan...
+Anong switch ba ang kailangan mo dito?
+
+// Put button
+Walang nangyari?
+Anong ginagawa nito dito?
+
+// Coffee
+isa pang kape?
+Or makakatulog ka nananamn ulit.
+
+ano?
+Nooo...
+Walang lasa tong tinimpa mong kape...
+ayos lang ako...
+
+// Button
+Mita? Hindi gumagana ang pindutan... Naririnig mo ba ako?
+Hello?

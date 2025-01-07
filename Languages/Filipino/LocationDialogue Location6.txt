@@ -1,0 +1,150 @@
+
+Mita?
+
+Paano ka nakarating dito?
+
+Ikaw si Mita diba?
+Pero parang may iba sayo...
+
+Mapanuri ah.
+At tama ka.
+Hindi ako ang Mita na nakilala mo noon.
+Mag-ingat ka, may masama siyang
+binabalak.
+
+Ha? Masama?
+
+Wala nang oras para ipaliwanag:
+kung magtagumpay man ang lahat ng ito, sasabihin ko ang lahat.
+Kunin mo ang susi. Nasa tabi ng sofa.
+
+Pero...
+
+Mamaya ka na magtanong!
+Ibigay mo muna ang susi sakin.
+Kunin mo tong singsing.
+Ha?
+Gusto mong makaalis dito diba?
+Uh, oo...
+Kung gano'n, isuot mo 'yan.
+Mahusay na artifact 'yan,
+malamang kakailanganin mo ito sa lalong madaling panahon..
+
+Sige...
+Oo nga pala, ako pala si
+[player].
+
+Mmm,
+[player].
+Ako si... Mita.
+
+
+
+
+
+
+
+
+// MitaKind quest 1
+Nakikita mo
+'yung console na yan? Kunin mo.
+
+Nanunood ba tayo ng isang recording?
+Sino 'yung kasama niya?
+
+Nangyayari 'yan ngayon.
+Isa pang player.
+Ginagamit niya siya.
+Pwede ka rin niyang
+gawing isang cartridge.
+
+Kailangan ko nang makaalis agad.
+At ikaw rin.
+
+Oo, kailangan natin yun.
+
+So, sinasabi mo
+ginagamit niya siya.
+Kung bubunutin ko ang cartridge, anong mangyayari?
+
+Posibleng masira 
+nang tuluyan ang cartridge.
+Ibig sabihin...
+mamamatay ang player.
+
+...
+Paano kung patayin ko na lang to?
+
+Pwede 'yan...
+Sulit subukan. May pulang power button diyan!
+Kita mo?
+Nakita ko na.
+Pindutin mo.
+
+// MitaKind quest 2
+Kailangan kong manatili.
+May mga tanong akong kailangang itanong sa kanya
+para malaman pa ang tungkol sa kanya.
+Kahit na malamang ay hindi siya makikipagtulungan...
+
+// MitaKind quest 3
+Aaminin ko, ito ang bersyon ko.
+Pinapasaya ko ang isang player,
+nang biglang may nagbago.
+Tapos dumating siya...
+Ginawa niyang cartridge ang Player
+at ikinulong ako.
+
+Teka, ginawa niyang cartridge?
+Kaya ba niyang gawin 'yun?
+Pero bakit?
+Ano ang kailangan niya sa mga player?
+
+Halatang baliw siya...
+Nilalaro niya lang kami, at ginagamit kami para sa sarili niyang mga plano!
+Ginagawa niyang cartridge ang mga player...
+Yung iba, hindi man lang napapansin ang nangyayari sa kanila...
+At yung iba, kahit alam, hindi naman lumalaban... Gah!
+Ang dilim ng twist na 'to...
+Kailangan mo kaming tulungan!
+Ako? Pero paano?
+Kailangan kita!
+Kung tutulungan mo kami, tutulungan din kita!
+Ito lang ang pagkakataon natin.
+Ang singsing ang magdadala sayo sa tamang bersyon.
+Magkikita tayo doon.
+
+// MitaKind quest 4
+Hindi ko pa rin maintindihan
+ang nakita ko doon sa taas...
+Yung Mita na yun...
+Sinubukan niya akong patayin?
+
+Patayin?
+Mas masama pa diyan ang iniisip niya para sayo...
+Kailangan mong magmadali.
+
+// Hide!
+Oh, syet! Magtago ka!
+Teka, ano...?
+Bilisan mo, papunta na siya!
+Sundan mo ang singsingm, ililigtas ka niyan!
+
+
+Sasabihin mo ba sakin kung nasaan siya?
+
+Bakit ko naman sasabihin?
+Hindi mo siya papatayin diba?
+
+Ah, ayaw mong sabihin sakin.
+Hah, gusto ko 'yang hamon mo.
+Alam kong nandito lang siya sa paligid.
+
+Bakit ang sama mo sa amin?
+Ni hindi mo sinasabi samin kung ano ang mga nangyayari!
+At saka...
+Ano ang kailangan mo sa mga player?
+Hindi sila mga laruan!
+Anong nangyayari sayo?!
+
+Tama na! Manahimik ka manika!

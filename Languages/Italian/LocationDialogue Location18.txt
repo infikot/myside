@@ -44,7 +44,7 @@ Poi, proprio mentre facevo un passo, apparve dal nulla una bambina carina.
 Muoveva i suoi corti codini, con un luccichio malizioso negli occhi,
 che mi osservava da qualche passo di distanza. Potevo sentire l'eccitazione che si sprigionava da lei,
 e questo mi metteva a disagio.
-> È chiaro che è un diavolo travestito.
+> È chiaro che è un diavolo travestito <
 Pensai.
 
 Mi bloccai,
@@ -72,7 +72,7 @@ Non ci crederesti se te lo dicessi...
 
 Onestamente, non voglio sapere con chi stai curiosando!
 Cosa ci fai qui?
-Non puoi irrompere qui!
+Non puoi irrompere qui dentro come se nulla fosse!
 
 
 La sua voce ora era più forte,
@@ -118,12 +118,12 @@ Per prima cosa mi diressi verso la cucina,
 quasi sfondando la porta per la fretta.
 La cucina era ancora più luminosa dell'ultima stanza,
 con il familiare odore di carote fresche.
-Ma non c'era traccia di 2D Mita.
+Ma non c'era traccia di Mita 2D.
 Uscii di corsa, mi precipitai nel corridoio e mi mossi abilmente intorno al divano, un po' un ostacolo, prima di fermarmi davanti alla porta della camera da letto.
 Scricchiolò forte quando la aprii sbattendola.
 
 // Description bedroom:
-Era lì, a gambe incrociate sul letto nella posizione del loto, come se stesse aspettando che la trovassi finalmente.
+Era lì, a gambe incrociate sul letto nella posizione del loto, come se stesse aspettando che la trovassi.
 Aprì gli occhi e per un attimo guardò con calma il muro.
 Poi, con tutta l'agilità di un acrobata del circo, saltò verso di me.
 
@@ -201,11 +201,11 @@ Ma all'improvviso il nostro gioco fu interrotto da un forte bussare alla porta.
 I colpi si fecero più forti,
 ogni colpo sembrava scuotere il pavimento sotto di noi.
 Infine, la porta si aprì,
-ed entrò Crazy Mita nella sua solita forma
+ed entrò la Mita Folle nella sua solita forma
 più grande della vita, fermandosi al centro della stanza.
 Mi bloccai, sentendomi impallidire per lo shock.
 La Mita 2D sembrava davvero spaventata.
-Crazy Mita ci lanciò un'occhiata tagliente e iniziò a parlare con un tono strano, quasi di rimprovero:
+Mita Folle ci lanciò un'occhiata tagliente e iniziò a parlare con un tono strano, quasi di rimprovero:
 
 [player], che cosa ci fai qui?
 Quanti altre Mita devi trovare prima di sistemarti?
@@ -252,7 +252,7 @@ Torna qualche volta.
 
 Mentre parlava, accadde qualcosa di strano.
 Il mondo intorno a noi si spostò, ripiegandosi sulla casa.
-La finestra di dialogo di 2D Mita tremolò e iniziò a visualizzare una frase che non riuscivo a riconoscere.
+La finestra di dialogo di Mita 2D tremolò e iniziò a visualizzare una frase che non riuscivo a riconoscere.
 
 
 

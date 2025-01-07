@@ -1,0 +1,605 @@
+
+N-nakabalik nako!?
+
+Oh, Diyos ko!
+Tinakot mo'ko!
+Oh, saglit,
+Yung save-ko, hindi!
+Hindi ko maintindihan...
+Nasaan na yung laro ko?
+Sinira mo ang ruta!
+Ano ba gusto mo?
+
+Kailangan ko ang tamang bersyon...
+
+Huh?
+
+Kailangan ko bumalik sa lumang bersyon.
+
+Okay!
+Masyado akong abala
+upang aliwin ka, baliw!
+
+At ano yan? Mga laruan?
+
+Tingnan mo siya, ang bobo!
+Walang kaibigan-kaibigan sa pagitan natin.
+
+Makinig ka sakin, kailangan kong makarating sa core.
+
+Kasalanan mong nasaktan ako.
+Pahamak.
+Huh?
+
+...Kailangan kong makarating sa Core para pigilan si Mita!
+
+Mita?
+Pasensya na pero!
+Wala akong paki sa kanya!
+Hindi yung panguna, hindi rin ika-sandaan!
+
+Pero ikaw rin si Mita, diba?...
+
+Ako si Mila.
+
+Mi-Ta? La?
+
+Yeah! Puro sila Mita sa Mita,
+Mita doon, Mita dito, mga Mita sa lahat ng paligid!
+
+kaya... Ikaw si Mila?
+
+Oo, sinabi ko na sayo! Gaano ka ba kabagal?
+
+Sige, good luck, sayo, Mila...
+
+San ka pupunta?
+Sa tingin mo ba makakapasok kalang dito ng walang pahintulot?
+
+// Player check exit
+Akala mo ba may mahahanap ka sa labas?
+
+Bwiset!
+Ano ito?
+
+May inaasahan ka bang—
+Wonderland?
+
+Paano ako makakalabas dito?
+Dapat may paraan kung paano makalabas dito.
+
+Walang daanan dito palabas.
+
+Saglit, ano bang bersyon ito?
+Sa tingin ko nasa tamang landas ako.
+
+// Glitch kitchen
+Sayo ba ito?
+
+Wag Saglit lang!
+Hindi ko alam kung ano to...
+parang gawa ng glitch!
+
+Nanginginig ang aking singsing nang walang dahilan.
+
+Anong singsing?
+Singsing pang kasal?
+
+Hindi, bigay to sakin ng isa sa mga Mita na nakasulubong ko .
+Ang Mita na maaring makatulong sakin upang makalabas.
+
+At hahawakan mo 'yan?
+Alam mo ba if my house blows up, mamamatay ka rin!
+
+// Bathroom - Mila is washing
+Hoy!
+LUMABAS KA!
+Di mo ba nakikita na may tao sa CR?!
+// The player continues to stand 1
+Bakit ka pa nakatayo dyan?!
+Labas na!
+// The player continues to stand 2
+Wag mo'kong gagalitin!
+Lumabas ka!
+// The player continues to stand 3
+Bingi ka ba o nagbingi-bingihan lang?
+Naliligo ako!
+
+// Mila came out and swears
+Ano yun?
+Walang hiya, Walang respeto...
+
+Bakit ka nalang biglang pumapasok sa banyo?
+Pwede ka naman maghintay
+hanggang sa makalabas ako!
+
+Hindi ko alam kung kailan ka pa matatapos.
+Kailan ka pa ba matatapos sa mga glitches na'to, hah?
+
+Glitches?
+Meron pa?
+
+Yeah...
+Well, kung nakatayo pa tong bahay ko,
+I'm assuming na naayos mo na yung glitch sa kusina?
+
+Oo nagawa ko.
+
+Mabuti. Ngayon, you have my permission
+na pumunta sa banyo.
+
+Salamat.
+
+// Mila hides under the table
+Mila?
+Anong ginagawa mo dyan?
+
+Aray!
+Tinakot mo nanaman ako!
+Ano nananaman ba?
+
+May nakita ka pa bang mga glitch?
+
+Oh, so your problems are supposed to
+be an excuse para pigilan ako sa pagtapos ko ng pagbabasa ng libro?
+Hindi, wala pa!
+
+Sige, ako na lang maghahanap mag-isa
+
+Hold on,
+May tanong ako...
+Gusto mong makalabas dun,
+tama ba?
+
+Tama ka.
+Gusto kong makalabas sa laro na'to.
+
+This might sound strange...
+but won't you stay and read with me?
+
+Una sinisigawan mo ako, ngayon gusto mo na akong tumira dito?
+para magbasa ng libro?
+siguro gusto ko,
+pero kailangan kong umalis dito.
+
+Sige!
+Go, hanapin mo yang mga glitches mo...
+Yun na ang pangalawang beses na nasaktan ako
+dahil sayo!
+// Player saw a glitch
+Ah, Nakita ko na.
+
+// Mila stands with a sword
+Napapansin ba itong ginagawa ko?
+Fear me!
+Tingnan mo nagagawa ko to!
+Ganyan ako kapanganib!
+And yet... you didn't even blink.
+
+Seryoso ka?!
+
+Bakit may mali ba?
+Hindi ba yun nakakamangha?
+
+No...
+
+Kaya, nakita mo na ang lahat habang nilulutas ang mga errors,
+diba?
+Alam mo na ang bato ay naputol na,
+diba?
+
+No.
+Ang ano lang kasi... Nasa laro tayo.
+Dito, sa isang pitik ng daliri mo, lahat ng bagay ay posible.
+
+Oh,
+isa kang bobo!
+A snap of my fingers, huh?
+What do you think I've been reading all those books for?
+So I could snap my fingers and be done with it?
+Mas gugustuhin kong gawin ang lahat,
+exactly the way the books describe it.
+
+// Mila is doing push-ups
+Anong ginagawa mo?
+
+Can't you tell!?
+
+Oo, pero bakit mo ginagawa yan?
+
+Para lumakas ako at nang masuntok ko yang pagmumukha mo!
+
+Ano bang meron sayo?
+Para kang kakaiba.
+
+Right!
+About the punching thing—
+hindi ako seryoso.
+At hindi ako kakaiba!
+I'm unique!
+I want to be as different from everyone else as possible.
+
+Di mo naman kailangang gawin yan.
+Magtiwala ka sakin, ibang-iba ka talaga.
+
+Alam ko!
+Tingnan mo ang susunod na gagawin ko
+See that?
+And now—no hands!
+
+Alam ko na laro lang ito,
+nakakatawa at napaka unrealistic...
+
+Ouch!
+Ohh!
+Stupid physics...
+You talk about realism,
+and then,
+boom! This happens!
+At tinatawag mo AKONG isang weirdo?
+You dummy!
+
+// Last glitch ready - player exit
+Ayan yung passage.
+Nagawa natin, Mila!
+
+
+Well done,
+Aking Bayani!
+
+Ah!
+
+Ay!
+Sorry—I didn't mean to.
+
+Ok lang yun, Mila. Pwede na ako umalis.
+
+Look, I know you need to go...
+Pero, pwede bang manatili ka muna dito
+kahit saglit lang?
+
+Hindi na ako makapaghintay pa.
+Baliw na Mita isn't exactly the patient type.
+
+Ugh, Kinamumuhian ko siya!
+
+I hate her, I hate her!
+
+Mila, Makinig ka...
+
+Bakit pa ba ako nandito?
+Hindi ko maintindihan!
+Bakit ba hindi ko maintindihan?!
+At hindi ako makakalabas dito!
+
+Naiintidihan ko ang lahat ng nararamdaman mo, Mila.
+Gusto mo bang bumalik ako? Pagkatapos ng lahat?
+Kung kakayanin?
+
+Dito ka lang, Player...
+You're fun, not like being alone...
+Paano kung hindi ka magtagumpay?
+
+I will. It's just a little while longer.
+// If the player clicks on the computer
+Kakagaling ko lang sa flat na dimensyon,
+at ngayon... Nandito nanaman tayo.
+Nasasabik na akong makabalik sa totoong mundo...
+
+Ha-ha-ha! :)
+Oh,
+Ang 'totoong' mundo, huh?
+na parang urban legend!
+Never seen it myself.
+
+Sa tingin ko...
+May pabalik dito.
+
+Aren't you confident?
+What a joke!
+
+// Ask about books
+Bakit ka ba nagbabasa ng libro?
+May Internet naman...
+
+The internet? It's full of novels!
+Pero mas gusto kung magbasa ng mga nobela
+sa totoong libro.
+Ito lang ang dahilan
+kung paano ko nasimulang
+matuto...
+tungkol sa mundong ito.
+
+// Ask about the paintings
+Itong mga picture- totoo ba to?
+Sa ibang mga bersyon,
+yeah, they exist... but they're almost too intense.
+
+I'm MiLa, nakuha mo? Hindi katulad ng iba dyan.
+At ito?
+They're drawings, alam mo,
+pretending to be more than they are.
+Nakita ko na ang ibang mga Mita
+nakatayo lang sila ng parang ganito.
+
+Mila?
+Hello?
+// Mila.
+Pagkatapos ng lahat...
+Hindi ko gustong maging ganun.
+It's... disgusting!
+
+// Ask about the butterfly painting
+Nakita mo na ba ang kalikasan?
+Ang totoong mga paro-paro?
+
+No,
+but I have a book here somewhere.
+It even has a little wings pressed in it...
+At itong sining,
+Pero...
+it's a bit crooked.
+At may mantsa...
+Ah, that's better.
+
+Gusto mo ba makita ang totoong itsura niya? Like maglakad tayo sa labas?
+
+Such a silly question!
+Of course,
+Gusto ko!
+
+// Make long eye contact 1
+Bakit kaba nakatingin?
+Look away!
+
+// Make long eye contact 2
+Tama na!
+Quit it, already!
+Dummy...
+
+// Make long eye contact 3
+Come on!
+Ano bang tinitingin tingin mo diyan?
+I'm a lady, you know!
+
+Have you ever heard of manners?
+Shoo!
+
+// Whispers 1
+Bakit ba nila ako pinadala ng
+mga taong walang kaalam-alam,
+and expect me to play nice?
+With mini-games?!
+Parang isang bobong Tamagotchi!
+
+// Whispers 2
+He's just wandering around...
+Isang maliit na tanga.
+
+// Whispers 3
+May sinasabi ka ba?
+This background music is driving me crazy!
+
+// Whispers 4
+Pano ko ba sasabihin
+Na may inaabala ako?
+hindi ko kailan ng kasama...
+Pano kung aalis siya? No, why should I care?
+
+// Whispers 5
+Papa... Mama...
+Bakit ang pamilyar ng salita na yun?
+
+// Whispers 6
+Snow once fell here... pero bakit?
+
+// Whispers 7
+Just shows up out of nowhere! nakakatakot.
+What if... wala talagang nandun?
+
+// Nearby 1
+Here we are,
+Nakatayo lang...
+nang tahimik...
+Bakit ka lang nakatayo dyan?
+Cat got your tongue?
+Or,
+di mo lang alam kung anong sasabihin mo?
+
+// Nearby 2
+I'm swearing off carrots!
+Seryoso, nagdedeklara ako ng isang Sdigmaan.
+Do you know what that thing does sa babaeng
+perpekto at mala snow-white na balat?
+
+// Nearby 3
+Di nakakatulong ang mga libro ko dito, pero kung swerte ako,
+baka masolusyunan ko na ang...
+itong mga walang katapusan na karots
+sa likod ko'y 
+nakakapanindig balahibo!
+
+// Nearby 4
+Di ko talaga gusto ang mga eccentrics!
+Carrot lovers, cat lovers...
+and here you are, nangungulekta ng mga glitches.
+Honestly, ikaw ang pinaka weirdong taong nakilala ko!
+
+// Nearby 5
+Gusto mo malaman ano talaga ang paborito ko?
+...Well, nakakahiya sabihin.
+
+// Nearby 6
+Sabi nila ang pag-aaway
+ay isang CHALLENGE.
+nagtratrabaho akong diciplinado, pero ikaw
+wala kang idea kung gaano ka kati ang kamay ko
+para umupo at magcha-a kasama ka!
+
+// Nearby 7
+Kahit may salamin ako,
+Hindi ko mabasa ang walang humpay,
+na determinasyon mo.
+
+// Nearby 8
+Narinig ko ang tadhana ay parang script
+na nagdidikta
+kung anong gagawin mo sa araw na yun.
+Ha! Sinong nagsulat nun?
+Ikaw ba nagsulat?
+
+// Nearby 9
+Hindi ko talaga kaya ang mga tanga, pero ang mga baliw?
+kinamumuhian ko sila.
+
+// Nearby 10
+Ang ibang Mitas
+ang cute nila ngl...
+Guato ko silang makasalamuha
+mga clone, clones at clones.
+
+// Nearby 11
+But there's one who's a bit different.
+She's got a screw loose, though.
+
+// Nearby 12
+Walang ponytails!
+Gusto ko silang hiwain kung kaya ko!
+Nakakahiya sila!
+alam mo sinasabi ko wag ka magmaang-maangan!
+
+// Nearby 13
+What if wala talagang laman sa likod ng pintong yan?
+at itong bahay na kinatatayuan natin?
+ng walang rason?
+So, bakit siguradong-sigurado ka?
+narinig mo na ba ang limang minuto na hypothesis?
+
+
+
+// Last glitch ready - player exit
+Ang creepy ng hallway na yan...
+papasok kaba talaga dyan?
+
+Oo.
+
+// FaceStone
+Anong- isang 'thoughtful' gentleman.
+Para saan yan?
+
+Malalaman mo rin
+sa lalong madaling panahon.
+At bakit mo ginagawa ang parihong ekspresyon niya?
+Panatilihin mo na lang yang muka mong simple.
+
+Uh...
+okay.
+
+// Katana
+Laruan ba yan na katana?
+
+HINDI ito isang laruan na katana!
+Isang tusok lang nito
+at masusugatan ka.
+Isa akong mangdirigma, hindi katulad mo!
+Ingatan mo sarili mo—
+kung hindi mo gustong mahiwa yang mga daliri mo.
+
+// Mirror
+Mirror...
+At walang repleksyon?
+
+Para kang
+Tanga.
+Nagbasa ako tungkol sa mga replekyon
+sa libro!
+Pero sa bersyon ko, hindi ko magawa.
+Hindi ko yun magagawa, okay?
+
+// Switch light
+Itong switch ay ayaw gumana.
+Ang ilaw dito ay nag o-on at off sa kanilang sarili...
+na parang script!
+Pero!
+Wala ring dahilan kung bakit ang switch ng cr ay
+gumagana.
+Ang weird!
+// Switch light off
+May ilaw parin dito?
+
+// Little carrot
+Karot?
+Wait, Saan yun napunta?
+
+Ugh, kumukulo dugo ko sa karot na yon!
+Para bang may buhay!
+Sa nakikita ko,
+nagteteleport siya sa ibang lugar.
+
+// Little carrot
+Oh, Ito yung karot...
+Nawala ulit!
+Sa tingin mo ba may magagawa tayo sa karot na yon?
+
+No.
+Magtiwala ka sakin,
+Na try ko na yan!
+Wag mo na yun pansisin. Sa tingin ko
+parang cosmic joke lang yon.
+
+// Tetris
+Hoy!
+Muka ba akong isang biro para sayo?
+// Tetris
+Hindi ko to ibabalik sayo.
+Nope, never!
+
+// Soap.
+So, uh... Totoo ba itong sabon?
+O dekorasyon lang?
+
+Seryoso ka ba?
+Lahat ng bagay dito ay
+Totoo! Honestly...
+
+// BagWall
+San ka nagpunta!?
+
+Pwede ba akong pumasok dito?
+
+May nahanap ka bang mali?
+Ano ba?
+
+Parang...
+Ah, wala lang.
+
+Ah, balikan natin.
+
+// Quest 1 Glasses
+Malabo ba mga paningin mo??
+Bakit kailangan mong magsalamin?
+
+Bakit di mo ba'to nagugustuhan?
+Ang tawag dito ay STYLE!
+At malinaw ang mga mata ko, thank you.
+
+// Quest 2 Name miLa
+Mi-La?
+Bakit hindi...
+Mi-Ka?
+O Mi-Sa?
+
+Ako si Mila. Yun na yun. Bakit ba?
+
+Oh... Wala lang.
+
+// Quest 3 Evening
+Napaka ganda ng gabi.
+Kailan ba mag-gagabi dito?
+
+Gabi?
+Ugh, wag ka ngang magtanong.
+Ang walang katapusan na araw dito...
+Ay sunod-sunod,
+Parang paulit-ulit lang.
+heh...

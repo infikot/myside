@@ -31,5 +31,5 @@ Pegue os dados deste protótipo e compare-os com a versão padrão.
 O Espécime demonstra emoção com sucesso! Hora de testar o comportamento.
 Ok, verificamos tudo e está tudo de acordo! Agora puxe a alavanca para cima.
 Yay! Agora essa é a pele! Passe para ela a caixa de roupas.
-É isso! Vê aquelas luzes no topo? Um deles ficou verde, o que significa que fizemos certo!
+É isso! Vê aquelas luzes no topo? Uma delas ficou verde, o que significa que fizemos certo!
 Sua vez! Estarei de volta quando todas as luzes ficarem verdes. Boa sorte!

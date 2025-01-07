@@ -1,0 +1,233 @@
+
+Prsten.
+
+// Answer 1 (Where have you been all this time?)
+Tražila sam način da te dovedem do Jezgra.
+U jednom komadu, to jest.
+To je cijelo vrijeme bio plan, zar ne?
+Zato sam morala izbjegavati
+Ludu Mitu, zar ne?
+Također sam morala iskopati sve informacije koje sam mogla
+o bekendu prokletog svemira, zar ne?
+
+Hmm... valjda...?
+Ali kako si odredila rutu prstena?
+Zašto sam završio u baganoj verziji
+prepunoj opasnosti?
+Jedva sam pobjegao tako što sam
+skočio u beskrajnu tamu.
+
+Izvini, zaboravila sam ti detaljno reći
+što si trebao učiniti...
+Ali da, to je bio plan od početka,
+da skočiš...
+I dobro je, uspjeo si!
+Svaka čast!
+U redu, nastavimo s planom.
+
+// Answer 2 (How did you get here?)
+Mora da si prošao kroz mnogo toga,
+jer izgleda da zaboravljaš o čemu smo razgovarali.
+Ja sam Mita, mogu se kretati među verzijama
+kako god želim, sjećaš se?
+
+Ne mogu sve Mite to učiniti,
+Vidio sam neke koje ne mogu.
+I očito je da pate.
+
+Da, njihove verzije su pokvarene,
+njihovi svjetovi bagani. Rekla sam ti prije.
+K vragu...
+Znaš tko stoji iza svega ovoga, zar ne?
+Luda Mita.
+
+Da, ona je sigurno...
+
+// Answer 3 (Who was this Mita just now?)
+To je Ružna Mita.
+Agresivna i glupa.
+Ne možeš s njom razgovarati normalno,
+cijeli joj se svijet vrti oko Lude Mite.
+
+Da, primijetio sam.
+
+Hajde, moramo doći do Jezgra.
+
+// Answer 4 (How does the ring work?)
+A prsten,
+je li to jedini put do Jezgra?
+
+Da.
+Naravno, kad bismo imali portal
+mogli bismo te samo teleportirati
+do tamo tamo.
+
+Ima li prsten prednosti?
+
+Naravno!
+Lako se nosi,
+i pamti verzije
+koje si već posjetio,
+tako da se možeš lako vratiti natrag.
+
+// Answer 5 (Why does Mad Mita need me?)
+Zašto me Luda Mita ne ostavi na miru?
+Uvukla me je u svoju opasnu igru,
+ali još sam živ...
+
+Moja pretpostavka
+je da traži odgovarajućeg igrača...
+Onog koji će je prihvatiti onakvu kakva jest.
+Ipak je Mita Mita!
+Kako se to očito nikad neće dogoditi,
+ona pretvara igrače u kertridže,
+tako da nitko nikada ne može pobjeći ...
+Barem ja tako pretpostavljam.
+U svakom slučaju, usredotočimo se na ono što je važno.
+
+// Answer 6 (Is this the core?)
+Je li to to?
+Jezgro?
+
+Tako je. Jezgro.
+Pokušala sam objasniti,
+vi igrači niste dio ovog svijeta...
+Što znači, ne treba vam posebna dozvola za ulazak.
+Ili, barem ja u to vjerujem.
+U svakom slučaju, više nego sigurna sam
+da se rješenje za sve naše probleme
+može naći unutra!
+[player], uđi unutra.
+Stvarno si uspio...
+
+// Look on CoreMita
+Oprezno, [player].
+Promatra te.
+
+Tko je to?
+
+Ne znam ni ja...
+
+Super...
+
+
+Što je to?
+Hej!
+
+Mislim da sam našao!
+
+Nevjerojatno! To je super!
+
+Ali moram navesti verziju.
+
+Da, njena verzija je...
+00.98
+
+Pogodak!
+Okej, a koji indeks?
+
+Umm, indeks?
+
+Treba mi indeks.
+Čekaj, nemoj mi reći da ne znaš...?
+
+
+Hmm, to ipak ima smisla...
+Svaka Mita ima indeks,
+tako da ne možeš jednostavno restartovati cijelu verziju...
+To bi izazvalo potpuni haos!
+Ne mogu vjerovati da se toga nisam sjetila...
+
+
+
+
+
+// Answer 1 (What's wrong with you?)
+Pored svih naših nevolja,
+Sasvim sam dobro.
+Sve je super, ali puno toga se promijenilo...
+Moram razmisliti.
+I to je to.
+
+// Answer 2 (Maybe there's a way to get to know him?)
+Ja...
+Mislim... da je to ludo!
+To je ludilo, haha!
+To je kao da tražiš iglu u...
+
+Što to radiš?
+
+Neke prepreke budu nagrižene sa informacijama,
+znaš, kao da se svijetu iščupa utroba!
+Zapisi, zapisi, zapisi, podaci?
+Što ako je to to?
+
+Huh? Što je bilo?
+
+Znam mjesto!
+Čekaj ovdje.
+
+Kamo ideš?
+
+// Answer 3 (What if we attack Mad Mita?)
+Rekla si da se bilo koja Mita
+vraća na tvorničke postavke nakon smrti...
+Što ako bi mi...
+
+samo ubili Ludu Mitu?
+Ti si ozbiljan?
+A kako ćeš s luđakinjom s motornom pilom?
+Ona ne reže mrkve samo sa noževima!
+I iz nekog razloga, ona je zastrašujuće jaka!
+Pravo je čudo da smo još živi...
+Hajde, moramo doći do Jezgra.
+
+
+// core console entry
+Moramo unijeti šifru...
+Ali kako ja da to znam?
+Mita, znaš li ti?
+
+Možda je negdje navedeno?
+Možeš li je pokušati potražiti?
+
+// core console - nope programm
+To vjerojatno nije to.
+Ni to nije u redu.
+Ne, pogrešno.
+Nije to to.
+Moram pronaći opciju resetiranja likova.
+// core console - nope version
+To je kriva verzija.
+Ups, moja greška.
+Nije to to.
+Trebat će neki drugi.
+// core console - nope index
+Nešto nije u redu
+s indeksom.
+Moram promijeniti indeks,
+ne pristaje.
+
+// Answer 4 (Little people - Chibi)
+Znaš, naletio sam na hrpu
+mini-ljudi na putu...
+Što su oni?
+
+Oni Chibi?
+Hm, kako objasniti...?
+Ovdje je to fenomen...
+Svaka Mita ima Chibi projekciju,
+a mogu ih imati i igrači...
+Jesi li znao da ih mi Mite možemo prizvati?
+
+Huh, kako?
+
+Gledaj ovo!
+
+Baš poput magije...
+
+Ali nešto nije u redu s mojim Chibi-ma,
+većina se jednostavno rode mrtvi.
+Ali ima ova...
+odnosno,
+ona samo trči u krug.

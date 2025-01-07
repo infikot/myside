@@ -2,7 +2,7 @@
 Am nevoie de ajutor.
 Sper că Mita asta nu mușcă...
 
-Pe ce imi irosesc timpul...
+Pe ce îmi irosesc timpul...
 
 
 
@@ -141,7 +141,7 @@ e doar vina ta.
 
 // Why bathroom?
 Nu înțeleg...
-Cu ce manete ai nevoide de ajutor aici?
+Cu ce manete ai nevoie de ajutor aici?
 
 // Put button
 Nu s-a întâmplat nimic?

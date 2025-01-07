@@ -31,7 +31,7 @@ Guarda le carte
 Nascondi le carte
 A destra
 A sinistra
-Gioca con le carte
+Gioca la carta
 Rimani
 Rifiuta
 
@@ -64,7 +64,7 @@ Vai a dormire
 Trova altri puzzle
 
 Prova
-Non dovrei
+Non dovresti
 
 Lo so
 Non lo so
@@ -77,7 +77,7 @@ In mezzo
 A destra
 
 A destra
-Selezionare
+Seleziona
 A sinistra
 
 Ancora uno
@@ -87,8 +87,8 @@ Interferisci
 
 Tira la leva
 
-Seleziona la destra
-Seleziona la sinistra
+Seleziona destra
+Seleziona sinistra
 
 Gira a destra
 Gira a sinistra
@@ -97,7 +97,7 @@ Apri la porta
 
 Seleziona il gioco
 Finisci di giocare
-Continuare
+Continua
 Gioca
 
 

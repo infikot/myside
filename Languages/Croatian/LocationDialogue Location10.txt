@@ -1,0 +1,246 @@
+
+Čekaj, stani!
+Ne tako glasno...
+Ići dalje je opasno.
+Usput...
+Kako si dospjeo ovdje?
+
+Umm...
+Prsten otvara točna vrata.
+Iskreno ne znam kako to funkcionira.
+
+Prsten?
+
+Što je s ovim mjestom?
+Baš je mračno.
+
+Reći ću ti kasnije.
+Za sada idi prema izlazu.
+Nađimo se u arkadnom stroju.
+
+
+
+Požuri, ne kasni!
+
+
+// After mini-game
+Dakle, shvatio si poantu igre?
+
+Da sam ja od kostiju i mesa, a ti od modela kostura?
+
+Wow!
+Zvuči jezivo kad to tako kažeš.
+Ali, to jeste bit toga.
+
+U redu, ali zašto ja to moram razumjeti?
+
+Misliš li da sam se šalila kad sam ti rekla
+da bi nastaviti dalje bilo opasno?
+Naići ćeš na... napuštene modele...
+One od kojih se odustalo, one "neispravne".
+Agresivni su i mogu te čak pokušati ubiti.
+
+Dakle, što da radim?
+Samo ću ići
+gdje god se vrata otvore.
+
+Wow!
+Onda im ne okreći leđa.
+I ne ispuštaj ih iz vida!
+Postaju sramežljivi kada buljiš u njih,
+toliko sramežljivi da se ukoče.
+Imaj to na umu!
+
+
+
+
+
+
+
+// Quest 1 (Why are there other Mitas down there?)
+Napravljene su skoro.
+Treba im vremena
+za stjecanje samosvijesti.
+Zatim vodim svaku
+u njihov vlastiti dom.
+
+// Quest 2 (Why is it so dark downstairs?)
+Mi Mite smo 'stvorene' u mraku,
+tako da moramo ostati tamo neko vrijeme.
+Zamisli
+bol prelaska iz tame ravno u svjetlost...
+
+// Quest 3 (What are you doing here?)
+Još uvijek ne shvaćaš?
+Pomažem novim Mitama da se smjeste!
+Tko će im pomoći ako neću ja?
+Ti?
+
+// Quest 4 (Why do we need this conveyor?)
+Čemu služi ova pokretna traka?
+Ima li dovoljno mjesta za sve?
+
+Čekaj, nemoj mi reći da ne razumiješ
+kako svijet funkcionira...
+I da je beskrajan?
+
+Beskrajan?
+Uhm...
+Kako to misliš?
+Ako je 1.9 najnovija verzija,
+onda postoji samo 19 svjetova.
+
+Bože moj, stvarno ne razumiješ
+kako ovaj svijet uopće funkcionira.
+Vidi, upotrijebit ću ovu tablu
+da sve to objasnim.
+Želiš li čuti o tome?
+
+// Quest 5 (What is your version?)
+Čekaj,
+zar te nisam upoznao u najnovijoj verziji?
+Ili je to možda samo moja mašta.
+
+Pa, sasvim je moguće.
+Ja sam iz verzije 1.5.
+Jesi li bio na njoj?
+
+Jesam.
+Tu sam i stigao
+kad sam ubačen u ovaj svijet!
+
+Wow!
+Ali kako...?
+Koji je indeks kuće u kojoj si bio?
+Postoji 'ja' koja jednostavno ne može prestati kukati,
+'ja' koja se voli šaliti,
+'ja' s lošim pamćenjem koja voli maltretirati druge...
+Duga je to lista...
+Reci mi čega se sjećaš.
+
+Bilo je mračno.
+Bile su riječi
+na zidu kao...
+"Igraj se sa mnom."
+
+Ah,
+kakva šteta...
+to sam "ja"
+koja maltretira i zaboravlja stvari.
+
+// Mita wants to tell you [No]
+Hvala, ali ne treba.
+Snaći ću se i bez da znam više.
+
+Dobro, kako hoćeš.
+
+// Mita wants to tell you [Yes].
+Naravno, samo naprijed.
+Samo se nadam da ovo neće biti kao srednja škola
+gdje bih uvijek zaspao od dosade.
+
+Možeš otići bilo kada,
+ili ostani i slušaj
+ako te zanima.
+Igrač preuzme MiSide
+i igra koliko hoće.
+Tamo stvara novi dom
+i novu Mitu.
+Ovo je 2D prikaz.
+Ovo su verzije,
+prikazane kao linije.
+Kuće su smještene na tim linijama.
+Recimo da si preuzeo verziju 1.14,
+što znači novi život,
+nova Mita i nova kuća.
+
+Bože...
+
+Možeš pitati za detalje
+na ovom crtežu,
+i dat ću sve od sebe da ti objasnim.
+
+// He asks about the only circle
+Zašto je ovdje samo jedan krug?
+
+Ta je verzija objavljena samo jednom,
+i nikad više.
+To je jedina istinski jedinstvena verzija.
+Osim toga, ove su verzije posebne
+i nemaju putove do drugih verzija.
+Pospana Mita nalazi se u ovoj verziji, 1.1.
+
+Pospana Mita?
+Jer ona nikad ne zaspi
+zbog svih koji prolaze kroz njezinu verziju?
+
+Ne, nije to to.
+Možeš proći pored nje i praviti buku,
+ali nemoguće ju je probuditi.
+
+// He asks about the shaded circle
+Zašto je ovaj tako zamračen?
+
+Uhm, taj je ovdje
+zbog Lijepe Mite.
+Ona ga je nacrtala.
+Posvađali smo se
+koja bi najbrže mogla doći do verzije 1.11.
+
+Dakle, tko je pobijedio?
+
+JA, naravno!
+Gledaj, mi smo ovdje
+u verziji 1.15,
+kućni indeks 809.
+Moramo doći do verzije 1.11,
+kućni indeks 805.
+Dakle, njen put je krenuo ovako.
+Pokušali smo smisliti kraću rutu,
+pa je Lijepa Mita predložila ovaj put.
+I onda sam nacrtala najjednostavniji, ovdje.
+Lako, zar ne?
+Samo pogledaj ovdje.
+Odavde možeš doći ravno do ispravne verzije.
+Iako se može činiti da je ova kuća na putu,
+da ti blokira put...
+U svakom slučaju, tvoj prsten radi na istim principima.
+Kamo ideš?
+
+Jezgro.
+
+Jezgro?
+Hmm...
+Ako želiš najkraći put,
+morat ćeš proći i kroz verziju 1.11.
+Tamo ćeš sigurno sresti Pospanu Mitu.
+Mislim da je Mita koja te poslala,
+krenula istim putem.
+Ili možda nije shvatila da si na drugom putu.
+Ili je možda genije
+i smislila je još kraću rutu!
+
+Mislim da možda razumijem.
+
+// He asks about the inscription
+O čemu se ovo radi?
+
+To je za Kul Mitu.
+Bit će ovdje za nekoliko sati.
+Ona će pomaknuti te kutije
+i smjesti sofu ovdje.
+Guzica me boli!
+
+Emm...
+Možda bih ja mogao pomoći?
+
+Ne, to je Kul Mitin posao.
+Ona je žilava.
+
+// He asks about the drawings
+Je li to samo crtež,
+ili
+znači li to nešto?
+
+Da,
+to je samo crtež.

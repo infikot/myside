@@ -12,7 +12,7 @@ Eu estava aqui te esperando esse tempo todo
 e você jogando um jogo de corrida..?
 De toda forma, vem cá
 // If the player talked to Mita first, and went through the game to the end - Mita Kind
-Parabens, você ganhou!
+Parabéns, você ganhou!
 Eu também tive que jogar
 Até tentei pegar primeiro lugar
 Para ganhar uma conquista!
@@ -22,7 +22,7 @@ Me levou um século para aprender os controles.
 // Quest 1 (Should I trust you?)
 Bom, pelo menos eu não perdi a cabeça....
 Diferente de certas pessoas.
-Aliais,
+Aliás,
 Eu sou a pessoa mais gentil que vai encontrar por aqui, meu anjo
 Você não quer só desistir, né?
 Ela é uma assassina sangue frio, a gente tem que parar ela
@@ -41,7 +41,7 @@ E caramba, eu fiquei sabendo de uma Mita
 que não conseguiu arquivar a versão dela
 e a casa dela
 simplesmente deixou de existir...
-E ela supostamente vaga por ai
+E ela supostamente vaga por aí
 por essas passagens.
 Coitadinha...
 
@@ -142,7 +142,7 @@ Você por acaso é meu novo..... Jogador?
 Como eu posso te chamar?
 O nome é....
 
-Perai!
+Peraí!
 Você...
 ...não lembra de mim?
 
@@ -189,7 +189,7 @@ Mas quem pode ter certeza?
 E nós, jogadores?
 Será que nos matar também vai redefinir nossas memórias?
 
-Suas memorias com certeza podem ser resetadas
+Suas memórias com certeza podem ser resetadas
 Ao menos, após ser transformado num cartucho.
 Mas eu não faço ideia
 do que acontece com os que morrem.
@@ -239,7 +239,7 @@ Preciso de uns 10 minutos...
 OK.
 Tudo pronto!
 // MitaKind ready
-Ai, [player],
+Aí, [player],
 Vem cá.
 // Mita Gentil Anel
 Pega isso.
@@ -282,7 +282,7 @@ Mas o que...?
 Você é...
 uma pessoa real?
 
-E ai
+E aí
 Você é novo aqui?
 Novo?
 Você é do mundo real, não é?
@@ -331,7 +331,7 @@ Você quer que eu toque uma?
 Hah!
 Vem aqui, meu amorzinho...
 Okeyy!
-É... Na real eu esperava um pouquinho mais vindo de você
+Bem...Acho que eu podia ter tocado algo melhor
 Hm, bem!
 // MitaCap Guitar No
 Eh, tá bom.
@@ -342,7 +342,7 @@ Até que você é bem energética!
 
 EU SOU, né?
 Um pouquinho até DEMAIS!
-Mas ai....
+Mas aí....
 Vamo lá!
 Booora se divertiiir, iraaa!
 
@@ -357,7 +357,7 @@ Tem tempo suficiente para isso
 Agora senta!
 // Jogador senta
 Beleza.
-Então, E agora?
+Então, e agora?
 Posso apertar o botão?
 
 Ha-ha!
@@ -392,7 +392,7 @@ Você ao menos sabe que jogo a gente tá jogando?
 Tá vendo os números?
 Aquilo ali é um timer
 E quando acabar
-Eu te aviso
+ele te avisa
 para apertar o botão.
 Se você for lento demais,
 ou apertar fora do tempo, 
@@ -407,7 +407,7 @@ você vai entender assim que começar a jogar
 Ouch!
 Você não consegue se segurar?
 ihh, machucou?
-No.
+Nah.
 Então vamo continuaar!
 
 // Kick player 2
@@ -475,7 +475,7 @@ Vai! Vai! É a sua vez!
 
 // MitaCap StopDance 2
 Ah!
-E ai?
+E aí?
 Sua vez!
 
 // MitaCap StopDance 3
@@ -568,7 +568,7 @@ Ah certo, entendi.
 
 Tá, para ser justa,
 cortar as coisas naquela tabua de cha-cha-cha! Seja lá o que for...
-E é isso que ela escreveu!
+E daí ficou assim!
 
 // Books
 Relendo todos eles, hein?
@@ -591,7 +591,7 @@ As frutas são mesmo reais?
 Elas parecem incríveis.
 Elas estragam?
 
-Ahm? Tá falando das maças?
+Ahm? Tá falando das maçãs?
 Elas não estragam não
 Porque eu como todas!
 E ai elas respawnam...
@@ -628,7 +628,7 @@ Mas a verdade eu estou transferindo os dados.
 
 Quanto tempo isso demora?
 
-Dá pra fazer silencio?
+Dá pra fazer silêncio?
 Assim vai mais rápido.
 
 Okey,
@@ -636,7 +636,7 @@ então se eu continuar te interrompendo,
 vai demorar mais?
 
 Ah.. Boininha,
-Queria tanto recuperar suas memorias...
+Queria tanto recuperar suas memórias...
 
 As coisas vão melhorar logo...
 
@@ -695,7 +695,7 @@ e foi embora.
 Que estranho!
 E engraçado :D
 
-Ai, qual foi!
+Aí, qual foi!
 [player], e você? o que tá fazendo?
 
 // Player is gone 2
@@ -719,11 +719,11 @@ Meu plano?
 Que plano?
 
 Ah, verdade.
-Você perdeu sua memoria.
+Você perdeu sua memória.
 
 Aah, vocês são umas figuras!
 Eu queria lembrar de alguma coisa, sabe?
-Ai, tá me provocando é?
+Aí, tá me provocando é?
 Olhando para essa sua cara...
 Eu não consigo dizer
 
@@ -765,7 +765,7 @@ Ei, espera espera espera!
 Melhor não ver o que tá ali...
 Deixa em segredo :).
 
-O que você tem ai?
+O que você tem aí?
 
 Um segredo é um segredo
 e deve continuar assim.
@@ -796,7 +796,7 @@ Estranho, não acha?
 
 // TV
 Ugh!
-É isso ai,
+É isso aí,
 encontramos um bug!
 Era para isso aqui dar play no vídeo
 mas ao invés disso
@@ -812,7 +812,7 @@ Vamo se divertir! :)
 
 // Goodbye 1
 Vai por essa porta
-Para o auditório
+Para o corredor
 
 Tchau-Tchau!
 
@@ -830,7 +830,7 @@ Não é hora para brincar
 Uhmm!
 
 // Goodbye 3
-Por que tá parada ai?
+Por que tá paradao ai?
 O tempo tá acabando
 
 Oie! 

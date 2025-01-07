@@ -27,25 +27,25 @@ cosa stai guardando?
 Sono Mita.
 La migliore Mita.
 La prima Mita.
-» quello che ha detto Mita, la mia Mita.
+√à quello che ha detto Mita, la mia Mita.
 
 // Quest 2 (Why do you look like that?)
 Che aspetto ho?
-Come sto?
-Come sto?
+Che aspetto ho?
+Che aspetto ho?
 La mia Mita dice che sono bella e originale.
 Questa sono io!
 
 // Quest 3 (What was Mita doing here?)
-Mi porter‡ via.
+Mi porter√† via.
 Vivremo in un nuovo mondo.
 La mia Mita mi ha invitato.
-Mi porter‡ via. E giocheremo.
+Mi porter√† via. E giocheremo.
 
 // Quest 4 (Why do you need a teddy bear?)
-Sei un orso coccoloso,
+Tu sei un orsacchiotto coccoloso,
 e ti sei perso,
-proprio come il mio orsetto.
+proprio come il mio orsacchiotto.
 
 // Quest 5 (Why is Mita angry?)
 La mia...
@@ -56,7 +56,7 @@ me.
 Siamo uniche,
 le uniche.
 Mita e la mia Mita,
-0,8A e 8Ã54*.
+0,8A e 8ÔøΩ54*.
 
 // Quest 6 (Do you believe Mita?)
 La mia Mita.

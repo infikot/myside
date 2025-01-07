@@ -10,7 +10,7 @@ Bir şeyler kesinlikle yanlıştı... Ben 2B mi olmuştum? 2B bir sürümde miyd
 ...
 
 
-Aklım bulanmış, boğucu karanlık aklıma sızmış neredeyse ve içgüdüsel olarak kafamı kucağıma koydum,
+Aklım bulanmış, boğucu karanlık aklıma sızmış neredeyse ve içgüdüsel olarak ellerimi kucağıma koydum,
 nefesimi dinginleştirmeye çalıştım. Göğüsüm sıkılaşıyordu, içeri doğru sıkılıyomuş gibi.
 Dakikalar sonra, nefesim düzeldi ve sonraki hamlemi düşünmeye cesaret edebildim.
 
@@ -175,7 +175,7 @@ Hadi tic-tac-toe oynayalım!
 Zamanını bahanelere harcama!
 
 
-> Oyunları bayağı seviyorlar! <
+> Oyunları baya seviyorlar! <
 Diye düşündüm.
 
 
@@ -187,7 +187,7 @@ Sen başla, bugün cömert hissediyorum.
 // The game of tic-tac-toe
 İlk hamleyi yaptım.
 A, kendini eleverdin! Neden X'i seçtiğini ve beni O ile bıraktığını biliyorum, psikoloji! X'ler kapanmayla ilgilidir, bişeyleri saklamakla, sır tutmakla. Sen gerginsin!
-Ve anladım; benim gibi aşırı güzel birinin yanında, ölüp giderdin! Ya da O'lar benim için daha mı iyiydi? Psikoloji bana hakaret etmeye çalıştığını söslüyor. Üzücü, dostum. Çok üzücü! Ha ha ha ha!
+Ve anladım; benim gibi aşırı güzel birinin yanında, ölüp giderdin! Ya da O'lar benim için daha mı iyiydi? Psikoloji bana hakaret etmeye çalıştığını söylüyor. Üzücü, dostum. Çok üzücü! Ha ha ha ha!
 Akıllıca bir hamle yaparım sandım,
 Bu oyunu seviyorum. Şu küçük çarpılar, her şeyi ele geçirebileceklerini sanıyorlar! Ama işte, Onları yok ettim,
 ve kahraman gibi bir şeyim şu anda! N'oldu? Garip bir şey mi söylüyorum? Öyle bakıyorsun... Ha ha ha!

@@ -67,7 +67,7 @@ Biri bana benzemeye çalıştıysa,
 pişman ederim!
 
 // Quest 3 (Why are you here?)
-Anlamıyor musun
+Anlamıyor musun?
 Burası bir kontrol noktası.
 Zekanı ölçeceğin bir yer!
 Şimdi haydi!

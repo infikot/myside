@@ -42,7 +42,7 @@ Eles esquecem que nós somos a energia vital desse mundo
 Eu não...
 
 Eu fui ruim com você?
-A garota perfeito tem que ser
+A garota perfeita tem que ser
 a mistura PERFEITA ENTRE SANIDADE E A LOUCURA, [player]!
 
 Eu não acredito que tenha algo de bom em você.
@@ -84,14 +84,14 @@ Você só confirmou o que eu disse.
 Jogadores...
 Os seus rostos mudam
 mas sua hipocrisia é a mesma.
-VOCÊ TÁ MENTINDO?
+VOCÊ TÁ MENTINDO!
 
 // 2
 Por que não?
 Ela não é boa o suficiente para você?
 Tudo o que você quer é a garota perfeita né...
 Mas e aquela parte de "amar por quem ela é"?
-Você quer aquelas falas, bonitinhas e coloridas...
+Você quer aquelas falsas, bonitinhas e coloridas...
 Eles amam quando eu finjo ser uma
 Mas assim que mostro uma pequena parte de mim
 eles fogem de medo...
@@ -204,7 +204,7 @@ Por favor, fique comigo.
 
 // Player look ring
 O que é isso?
-A ultima versão?
+A última versão?
 
 // Click on objects
 // Bag

@@ -1,0 +1,19 @@
+// Track names
+Kreker
+Napitak sa mjehurićima
+Balon
+// Quest none
+Nema veze.
+// Quest "Meeting Kind Mita"
+Trebam li ti vjerovati?
+Kako sam dospjeo ovdje?
+Kakvo je ovo mjesto?
+Kako si došla ovdje?
+Što si učinia s prstenom?
+Jesu li prolazi opasni?
+Hoćeš li mi pomoći da pobjegnem?
+Spomenula si plan.
+// Quest MitaCap
+Sjećaš li se ičega?
+Što misliš o Miti s prstenom?
+Nosiš li uvijek tu kapu?

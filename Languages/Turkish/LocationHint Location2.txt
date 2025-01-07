@@ -1,6 +1,6 @@
 Etrafa bak.
 Gerekli objeleri bul ve tarayıcıya koy.
-Objeleri tarat ve mekineyi başlat.
+Objeleri tarat ve makineyi başlat.
 Kapıdaki sigortayı yeniden başlat.
 Kayıp pilleri bul ve makineye tak.
 Makineyi çalıştır.

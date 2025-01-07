@@ -22,7 +22,7 @@ Recalcularea Geometriei [General]
 
 
 
-Restaurare sistem
+Restaurare Sistem
 Depanare [General]
 Antivirus [General]
 Consola De Comandă [General]

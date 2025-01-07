@@ -1,0 +1,246 @@
+
+Sandali lang!
+Huwag kang masyadong maingay...
+Ang pagpunta dyan ay mapanganib.
+BTW...
+paano ka nakarating dito?
+
+Um...
+Ang singsing ang nagbubukas sa tamang pintuan.
+Sa totoo lang, hindi ko alam kung paano ito gumagana.
+
+Ang singsing?
+
+Anong meron sa lugar na ito?
+Sobrang dilim.
+
+Ipapaliwanag ko mamaya.
+Sa ngayon, pumunta ka muna sa labasan.
+Magkita tayo sa arcade machine.
+
+
+
+Bilisan mo, huwag magpatumpik-tumpik!
+
+
+// After mini-game
+So, nakuha mo ba ang punto ng laro?
+
+Na ako'y gawa sa laman at buto, at ikaw naman ay gawa sa skeleton model?
+
+Whoa!
+Nakakakilabot 'pag sinabi mo nang ganyan.
+Pero, yun nga ang totoo.
+
+Tama, pero bakit ko pa kailangang maintindihan lahat ng 'yan?
+
+Akala mo ba sinasabi ko lang na mapanganib ang magpatuloy
+para lang sa katuwaan?
+Maaabot mo ang... mga abandoned models...
+yung mga inabandona na, yung mga "sira."
+Sila ay agresibo, at baka subukan ka pa nilang patayin.
+
+So, anong dapat kong gawin?
+Lalakad na lang ako
+kung saan may magbubukas na pinto.
+
+Wow!
+Huwag kang tatalikod sa kanila.
+Huwag mo rin silang aalisin sa paningin mo!
+Nagiging mahiyain sila kapag tinititigan mo sila,
+sobrang hiya na napaparalisa sila.
+Tandaan mo 'yan!
+
+
+
+
+
+
+
+// Quest 1 (Why are there other Mitas down there?)
+Bago lang silang ginawa.
+Kailangan nila ng oras
+para magkaroon ng kamalayan sa sarili.
+Pagkatapos, ginagabayan ko ang bawat isa
+patungo sa kani-kanilang tahanan.
+
+// Quest 2 (Why is it so dark downstairs?)
+Kami mga Mita ay 'ginagawa' sa dilim,
+kaya kailangan naming manatili roon nang ilang panahon.
+Isipin mo
+ang sakit kapag lumipat kami mula sa kadiliman papunta sa liwanag...
+
+// Quest 3 (What are you doing here?)
+Hindi mo pa rin ba gets?
+Tinutulungan ko ang mga bagong Mita na mag-settle in!
+Sino ang tutulong sa kanila kung hindi ako?
+Ikaw?
+
+// Quest 4 (Why do we need this conveyor?)
+Para saan ang conveyor belt na ito?
+May sapat bang espasyo para sa lahat?
+
+Sandali, hindi mo ba talaga naiintindihan 
+kung paano gumagana ang mundong ito...
+At wala nang katapusan?
+
+Walang katapusan?
+Huh?
+Anong ibig mong sabihin?
+Kung 1.9 ang pinakabagong bersyon,
+ibig sabihin may 19 na mundo lang.
+
+Grabe, hindi mo talaga gets 
+kung paano gumagana ang mundong ito.
+Tingnan mo, gagamitin ko ang blackboard 
+para ipaliwanag lahat.
+Gusto mo bang pakinggan?
+
+// Quest 5 (What is your version?)
+Sandali,
+hindi ba kita nakilala sa pinakabagong bersyon?
+O baka naman imahinasyon ko lang yun.
+
+Baka nga.
+Ako'y galing sa bersyon 1.5.
+Nakapunta ka na ba doon?
+
+Oo,
+Doon ako dumating
+nang itapon ako sa mundong ito!
+
+Wow!
+Pero paano...?
+Ano ang house index na pinasukan mo?
+May isang 'ako' na hindi titigil sa pagrereklamo,
+isang 'ako' na mahilig maglaro,
+isang 'ako' na makakalimutin at mahilig mang-bully sa iba...
+Mahabang listahan yun...
+Sabihin mo kung anong naaalala mo.
+
+Madilim.
+May mga sulat
+tulad ng...
+"Makipaglaro ka sa akin."
+
+Ah,
+nakakabigo...
+Yun ang 'ako'
+na nangbubully at palaging nakakalimot.
+
+// Mita wants to tell you [No]
+Salamat, pero hindi na kailangan.
+Kaya ko naman nang hindi nalalaman ang iba.
+
+Sige, kung gusto mo.
+
+// Mita wants to tell you [Yes].
+Sige, magpatuloy ka.
+Sana hindi ito tulad ng sa high school,
+kung saan lagi akong inaantok sa pagkabagot.
+
+Pwede kang umalis anumang oras,
+o manatili at makinig
+kung interesado ka.
+Ang isang manlalaro ay magda-download ng MiSide
+at maglalaro hangga't gusto nila.
+Doon, lilikha sila ng bagong tahanan
+at bagong Mita.
+Ito ay isang 2D na representasyon.
+Ito ang mga bersyon,
+na ipinapakita bilang mga linya.
+Ang mga bahay ay inilalagay sa mga linya na ito.
+Sabihin mong ida-download mo ang 1.14 na bersyon,
+na nangangahulugang bagong buhay,
+bagong Mita, at bagong bahay.
+
+Diyos ko...
+
+Maaari mong itanong ang mga detalye
+sa pagguhit na ito,
+at sisikapin kong ipaliwanag ang lahat.
+
+// He asks about the only circle
+Bakit may isang bilog lamang?
+
+Ang bersyon na iyon ay inilabas nang isang beses lamang,
+hindi na muling iuulit.
+Ito ang tanging tunay na natatanging bersyon.
+Bukod pa rito, ang mga bersyon na ito ay espesyal
+at walang mga daan patungo sa ibang bersyon.
+Naninirahan ang Inaantok na Mita sa bersyon na ito, 1.1.
+
+Inaantok na Mita?
+Dahil ba hindi siya nakakatulog
+at lahat ng tao ay dumadaan sa bersyon niya?
+
+Hindi, hindi iyon.
+Pwede mo siyang daanan at mag-ingay,
+pero imposible na magising siya.
+
+// He asks about the shaded circle
+Bakit naka shade to?
+
+Uhm, yung isa dito
+ang maganda na Mita.
+Siya ang nagdrawing niyan.
+Nagaway-away kami
+kung sinong makakaabot sa bersyon 1.11 nang mabilisan.
+
+So, sinong panalo?
+
+AKO, siyempre!
+Tingnan mo, nandito tayo
+sa bersyon 1.15,
+house index 809.
+Kailangan nating makarating sa bersyon 1.11,
+house index 805.
+Kaya nagsimula ang kanyang landas na ganito.
+Sinubukan naming mag-isip ng mas maiikling ruta,
+kaya inisip ng maganda na Mita ang landas na ito.
+At pagkatapos, iguguhit ko ang pinakasimpleng landas, dito.
+Madali lang, diba?
+Tingnan mo to.
+Mula dito, diretso kang makararating sa tamang bersyon.
+Habang mukhang ang bahay na ito ay nakaharang,
+na parang binablock ang landas mo...
+Basta, ang iyong singsing ay gumagana batay sa parehong prinsipyo.
+Saan ka papunta?
+
+Sa Core.
+
+Ang Core?
+Hmm...
+Kung gusto mo ng pinakamabilis na ruta,
+kailangan mong dumaan sa bersyon 1.11.
+Siguradong makikita mo ang Inaantok na Mita doon.
+Sa tingin ko, ang Mita na nagpadala sa'yo,
+ay dumaan sa parehong landas.
+O baka hindi pa niya alam na nasa ibang landas ka.
+O baka naman isang henyo siya
+at nakaisip ng mas maikling ruta!
+
+Parang naiintindihan ko na.
+
+// He asks about the inscription
+Tungkol saan ito?
+
+Para sa Astig na Mita yan.
+Padarating na siya sa loob ng ilang oras.
+Ililipat niya ang mga kahon
+at maglalagay ng sofa dito.
+Ang sakit ng pwet ko!
+
+Emm...
+Baka pwede ko siyang tulungan?
+
+Hindi, trabaho 'yan ni Astig na Mita.
+Matatag siya.
+
+// He asks about the drawings
+Ito ba ay isang drawing lang,
+o 
+may ibig sabihin yan?
+
+Oo,
+drawing lang 'yan.

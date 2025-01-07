@@ -40,7 +40,7 @@ Essa sou eu!
 Ela vai me levar embora.
 Nós viveremos em um mundo novo.
 Minha Mita me convidou.
-Ela vai me levar embora. E nos vamos brincar juntas.
+Ela vai me levar embora. E nós vamos brincar juntas.
 
 // Quest 4 (Why do you need a teddy bear?)
 Você é um urso fofinho,
@@ -53,10 +53,10 @@ Mita.
 Ela quer brincar.
 Ela só quer
 eu.
-Nós somos únicos,
-os únicos.
+Nós somos únicas,
+as únicas.
 Mita e minha Mita,
-0.8A e 8 54*.
+0.8A e 8I54*.
 
 // Quest 6 (Do you believe Mita?)
 Minha Mita.

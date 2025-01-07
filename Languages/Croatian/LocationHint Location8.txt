@@ -1,0 +1,2 @@
+Podesi točno vrijeme na satu.
+Napusti ovu verziju.

@@ -1,6 +1,6 @@
 Disegnatore
 Carte
-Aprire la porta
+Apri la porta
 2D Mita
 // Quest
 Non importa.

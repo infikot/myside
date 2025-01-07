@@ -1,6 +1,6 @@
 Dai un'occhiata in giro.
 Trova gli oggetti richiesti e mettili sullo scanner.
-Eseguire la scansione degli oggetti e avviare la macchina.
+Esegui la scansione degli oggetti e avvia la macchina.
 Vai al quadro elettrico vicino alla porta d'ingresso.
 Trova e riporta le batterie mancanti alla macchina.
-Avviare la macchina.
+Avvia la macchina.

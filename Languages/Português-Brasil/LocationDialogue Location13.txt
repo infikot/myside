@@ -31,9 +31,9 @@ que esqueceu o que conversamos
 Eu sou a Mita que consegue
 viajar entre dimensões, se lembra?
 
-Nem todos as Mitas conseguem fazer isso,
-Eu vi alguns que não conseguem.
-E eles estão obviamente sofrendo.
+Nem todas as Mitas conseguem fazer isso,
+Eu vi algumas que não conseguem.
+E elas estão obviamente sofrendo.
 
 Sim, é porque suas versões estão corrompidas
 e seus mundos bugados. Eu te falei isso antes
@@ -46,7 +46,7 @@ A Mita louca
 // Answer 3 (Who was this Mita just now?)
 Essa é a feiosa
 Agressiva e burra
-Não dá para ter uma conversa logica com ela
+Não dá para ter uma conversa lógica com ela
 o mundo dela gira em torno daquela maluca
 
 Uhum, eu percebi.
@@ -98,7 +98,7 @@ De toda forma, tenho quase certeza
 de que a solução para os nossos problemas
 pode ser encontrada lá dentro!
 [player], é só entrar.
-Na verdade, eu já estive lá uma vez.
+Você conseguiu...
 
 // Look on CoreMita
 Toma cuidado, [player].
@@ -121,7 +121,7 @@ Caramba! Isso é incrível!
 Mas eu preciso de uma versão especifica.
 
 Uhum, a versão dela é...
-0.98
+00.98
 
 Bingo!
 Beleza, mas qual é o index?
@@ -184,8 +184,8 @@ Vamos, precisamos ir até o núcleo.
 
 
 // core console entry
-Precisamos colocar um prompt de comando...
-Mas que prompt de comando?
+Tá pedindo um código...
+Mas como eu vou deveria saber?
 Mita, você sabe qual é?
 
 Talvez tenha alguma lista em algum lugar?
@@ -224,7 +224,7 @@ Hm? Como?
 
 Olha só!
 
-Como magica....
+Como mágica....
 
 Mas tem alguma coisa errada com os meus chibis,
 alguns nascem mortos.

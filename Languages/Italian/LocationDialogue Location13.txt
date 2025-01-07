@@ -6,7 +6,7 @@ Ho cercato un modo per portarti al Nucleo.
 Tutto intero, ovviamente.
 Era questo il piano fin dall'inizio, no?
 È per questo che dovevo evitare
-Crazy Mita, no?
+la Mita Folle, no?
 Dovevo anche trovare tutte le informazioni che potevo
 sul retro del dannato universo, giusto?
 
@@ -39,15 +39,15 @@ Sì, le loro versioni sono rotte,
 i loro mondi sono danneggiati. Te l'ho già detto.
 Dannazione...
 Sai chi c'è dietro tutto questo, vero?
-Crazy Mita.
+Mita Folle.
 
 Sì, è lei di sicuro…
 
 // Answer 3 (Who was this Mita just now?)
-Quella è la Ugly Mita.
+Quella è Mita Deforme.
 Aggressiva e stupida.
 Non si può parlare con lei in modo sensato,
-tutto il suo mondo ruota intorno a Crazy Mita.
+tutto il suo mondo ruota intorno alla Mita Folle.
 
 Sì, l'ho notato.
 
@@ -58,8 +58,8 @@ E l'anello,
 è l'unica via per il Nucleo?
 
 Sì, è l'unica via d'accesso al Nucleo.
-Naturalmente, se avessimo il portale
-potremmo semplicemente
+Naturalmente, se avessimo avuto il portale
+avremmo potuto semplicemente
 teletrasportarci lì.
 
 C'è qualche vantaggio nell'anello?
@@ -71,8 +71,8 @@ che hai visitato in precedenza,
 in modo da poterci tornare facilmente.
 
 // Answer 5 (Why does Mad Mita need me?)
-Perché Crazy Mita non mi lascia in pace?
-Mi ha trascinato nel suo pericoloso gioco,
+Perché Mita Folle non mi lascia in pace?
+Mi ha trascinato nel suo gioco pericoloso,
 eppure sono ancora vivo...
 
 La mia ipotesi è
@@ -89,7 +89,7 @@ Comunque, concentriamoci su ciò che è importante.
 È questo?
 Il nucleo?
 
-Sisi. Il nucleo.
+Esatto. Il nucleo.
 Ho cercato di spiegarti,
 voi giocatori non fate veramente parte di questo mondo...
 Cioè, non avete bisogno di un permesso speciale per entrare.
@@ -98,7 +98,7 @@ Comunque, sono più che certa
 che la soluzione a tutti i nostri problemi
 può essere trovata all'interno!
 [player], vai dentro.
-In realtà, ci sono già stata una volta.
+C'è l'hai veramente fatta.
 
 // Look on CoreMita
 Attento, [player].
@@ -108,7 +108,7 @@ Chi?
 
 Non lo so nemmeno io...
 
-Che figata...
+Perfetto...
 
 
 Che cos'è?
@@ -116,7 +116,7 @@ Ehi!
 
 Credo di averlo trovato!
 
-Fantastico! È fantastico!
+Fantastico! Sta andando tutto bene!
 
 Ma devo specificare una versione.
 
@@ -124,7 +124,7 @@ Giusto, la sua versione è...
 0.98.
 
 Bingo!
-Ok, e quale indice?
+Ok, e qual'è l'indice?
 
 Uhm, indice?
 
@@ -143,11 +143,11 @@ Non posso credere di non averci pensato...
 
 
 // Answer 1 (What's wrong with you?)
-Salvo tutti i nostri problemi,
+Esclusi tutti i nostri problemi,
 Sto benissimo.
 Tutto va bene, ma sono cambiate molte cose...
 Ho bisogno di riflettere.
-E questo è quanto.
+Tutto qui.
 
 // Answer 2 (Maybe there's a way to get to know him?)
 Io...
@@ -174,7 +174,7 @@ Hai detto che qualsiasi Mita
 si ripristina alle impostazioni di fabbrica alla morte...
 E se noi...
 
-uccidessimo Crazy Mita?
+uccidessimo Mita Folle?
 Dici sul serio?
 E come farai ad affrontare una pazza con la motosega?
 Non usa solo coltelli per affettare le carote!
@@ -184,24 +184,24 @@ Forza, dobbiamo raggiungere il Nucleo.
 
 
 // core console entry
-Dobbiamo entrare in un prompt dei comandi...
-Ma quale prompt dei comandi?
+Devo inserire un codice...
+Ma come faccio a conoscerlo?
 Mita, lo sai?
 
-Forse è elencato da qualche parte?
-Puoi provare a cercarlo?
+Forse è scritto da qualche parte?
+Potresti provare a cercarlo?
 
 // core console - nope programm
 Probabilmente non è così.
 Non è nemmeno qui.
 No, sbagliato.
 Non è questo.
-Devo trovare l'opzione di ripristino del personaggio.
+Devo trovare l'opzione di riavvio del personaggio.
 // core console - nope version
 È la versione sbagliata.
 Ops, errore mio.
 Non è questa.
-Ne serve un'altra.
+Non è quella giusta.
 // core console - nope index
 C'è qualcosa di sbagliato
 con l'indice.
@@ -226,7 +226,7 @@ Guarda qui!
 
 Proprio come per magia...
 
-Ma c'è qualcosa che non va nelle mie Chibis,
+Ma c'è qualcosa che non va nelle mie Chibi,
 la maggior parte nasce morta.
 C'è questa, però...
 O beh..,

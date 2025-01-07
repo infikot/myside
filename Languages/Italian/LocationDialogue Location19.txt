@@ -49,7 +49,7 @@ Mita qui, Mita là, Mita dappertutto!
 
 Quindi... tu sei Mila.
 
-Sì, te l'ho detto! Quanto puoi essere lento?
+Sì, te l'ho detto! Quanto puoi essere lento a capire?
 
 Beh, allora buona fortuna, Mila...
 
@@ -86,14 +86,14 @@ Che tipo di anello?
 Un anello di fidanzamento?
 
 No, mi è stato regalato da una delle Mita, una delle migliaia di Mita.
-L'unica che potrebbe essere in grado di tirarmi fuori.
+L'unica che potrebbe essere in grado di tirarmi fuori di qui.
 
-E tu lo toccherai?
+E vorresti toccarlo?
 Sai che se la mia casa esplode, sei morto anche tu!
 
 // Bathroom - Mila is washing
 Ehi!
-Esci fuori!
+Esci FUORI!
 Non vedi che il bagno è occupato?!
 // The player continues to stand 1
 Perché sei ancora lì?!
@@ -109,7 +109,7 @@ Sto facendo la doccia!
 Sei un pervertito?
 Nessuna vergogna, nessuna coscienza...
 
-Perché sei piombato in bagno all'improvviso?
+Perché sei piombata in bagno all'improvviso?
 Avresti potuto aspettare
 che io fossi fuori dal glitch!
 
@@ -212,7 +212,7 @@ Per diventare abbastanza forte da darti un pugno in faccia!
 Che ti prende?
 Ti comporti in modo strano.
 
-Giusto!
+Ok.
 Per quanto riguarda la storia dei pugni...
 Non ero seria.
 E non sono strana!
@@ -249,7 +249,7 @@ eroe!
 
 Oh, mio Dio!
 
-Oh, mio Dio!
+Oh...
 Scusa, non volevo.
 
 Va bene, Mila. Posso andare avanti adesso.
@@ -259,7 +259,7 @@ ma non puoi restare qui
 solo un altro po'?
 
 Non posso aspettare.
-La Crazy Mita non è esattamente una tipa paziente.
+La Mita Folle non è esattamente una tipa paziente.
 
 La odio!
 
@@ -306,7 +306,7 @@ Internet? È pieno di romanzi!
 Ma preferisco avere
 un libro vero tra le mani.
 È solo attraverso
-solo attraverso di essi sto iniziando a
+di essi che sto iniziando a
 a conoscere...
 questo mondo.
 
@@ -334,7 +334,7 @@ Hai visto la natura?
 Farfalle vere come quelle?
 
 No, ma..,
-ma ho un libro qui da qualche parte.
+ho un libro qui da qualche parte.
 Ci sono anche delle piccole ali pressate...
 Questo quadro,
 però...
@@ -342,7 +342,7 @@ però...
 E c'è una macchia...
 Ah, così va meglio.
 
-Vuoi vedere la natura vera? Fare una passeggiata nella natura?
+Vorresti mai vedere la natura vera? Farci una passeggiata?
 
 Che domanda sciocca!
 Ma certo,
@@ -368,7 +368,7 @@ Sciò!
 // Whispers 1
 Perché mi mandano sempre
 degli sprovveduti,
-e si aspettano che io giochi bene?
+e si aspettano che mi comporti bene?
 Con i minigiochi?!
 Come uno stupido Tamagotchi!
 
@@ -384,7 +384,7 @@ Questa musica di sottofondo mi sta facendo impazzire!
 Come faccio a dirgli
 che sono occupata?
 Non voglio compagnia...
-E se poi ne va? No, perché dovrebbe importarmi?
+E se poi se ne va? No, perché dovrebbe importarmi?
 
 // Whispers 5
 Mamma... Papà...
@@ -402,14 +402,14 @@ Eccoci qui,
 in piedi...
 in silenzio...
 Perché stiamo qui fermi?
-Il gatto ha la lingua?
+Il gatto ti ha preso la lingua?
 Oppure,
 non sai cosa dire?
 
 // Nearby 2
 Non voglio più carote!
 Davvero, dichiaro guerra.
-Sai cosa fa quella cosa alla pelle perfetta 
+Sai cosa fanno quelle cose alla pelle perfetta 
 e candida di una ragazza?
 
 // Nearby 3
@@ -431,9 +431,9 @@ Vuoi sapere cosa mi piacerebbe fare di più?
 
 // Nearby 6
 Dicono che combattere
-la propria natura è una SFIDA.
+la propria natura sia una SFIDA.
 Sto lavorando sulla disciplina, ma non hai idea
- di quanto mi prudano le mani per
+di quanto mi prudano le mani per
 sedermi e prendere un tè con te!
 
 // Nearby 7
@@ -453,18 +453,18 @@ Posso sopportare gli sciocchi, ma i pazzi?
 Li odio.
 
 // Nearby 10
-Alcuni delle Mita
+Alcune delle Mita
 sono davvero molto carine...
 Mi piacerebbe conoscerle meglio anche se sono solo
 cloni di cloni di cloni.
 
 // Nearby 11
 Ma ce n'è una che è un po' diversa.
-Ma ha una vite in sospeso.
+Anche se ha le rotelle fuori posto.
 
 // Nearby 12
 Niente code di cavallo!
-Li taglierei se potessi!
+Le taglierei se potessi!
 Sono imbarazzanti!
 Sai cosa voglio dire... ti sei rasato la testa!
 
@@ -509,8 +509,8 @@ Non vorrei vederti tagliare le tue stesse dita.
 Specchio...
 e nessun riflesso?
 
-Tu
-Sembri così scontento.
+Sembri...
+così scontento.
 Guarda, ho letto tutto sui riflessi
 nei libri!
 Ma nella mia versione, non riesco a farli.
@@ -519,7 +519,7 @@ Non posso farlo, ok?
 // Switch light
 Questa cosa non funziona.
 Le luci qui si accendono e si spengono da sole...
-come una sorta di copione!
+come una sorta di script!
 Ma!
 Per qualche motivo, l'interruttore del bagno
 funziona.
@@ -541,7 +541,7 @@ Oh, è quella carota...
 è sparita di nuovo!
 Pensi che si possa fare qualcosa?
 
-No, non c'è niente da fare.
+No.
 Fidati di me,
 ci ho provato!
 Ignorala e basta. Penso che sia
@@ -559,13 +559,13 @@ Allora... questo sapone è vero?
 O solo un'altra decorazione?
 
 Stai scherzando?
-La maggior parte delle cose qui sono
-vere ! Sinceramente...
+La maggior parte delle cose
+qui sono vere!
 
 // BagWall
 Dove sei finito!?
 
-Posso passare di qui?
+Posso passarci attraverso?
 
 Hai trovato un nuovo bug o qualcosa del genere?
 Che cos'è?
@@ -573,7 +573,7 @@ Che cos'è?
 Sembra...
 niente.
 
-Ah, di nuovo.
+Ah, bentornato.
 
 // Quest 1 Glasses
 La tua vista non è buona?
@@ -589,7 +589,7 @@ Perché non...
 Mi-Ka?
 O Mi-Sa?
 
-Io sono Mila. Ecco, appunto. Perché?
+Io sono Mila. Tutto qui. Perché?
 
 Oh... niente.
 

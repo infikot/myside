@@ -1,0 +1,19 @@
+// Mga pangalan ng track
+Cracker
+Bubble drink
+Lobo
+// Quest none
+Di bale.
+// Quest "Pagkilala sa Mabait na Mita"
+Dapat ba kitang pagkatiwalaan?
+Paano ako nakarating dito?
+Ano ang lugar na ito?
+Paano ka nakarating dito?
+Anong ginawa mo sa singsing?
+Mapanganib ba ang mga sipi?
+Tutulungan mo ba akong makatakas?
+May binanggit kang plano.
+// Quest MitaCap
+May naaalala ka ba?
+Ano ang tingin mo sa Mita na may singsing?
+Lagi mo bang sinusuot yang cap?

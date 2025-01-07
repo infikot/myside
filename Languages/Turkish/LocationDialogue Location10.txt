@@ -26,9 +26,9 @@ Acele et, geç kalma!
 // After mini-game
 Eee, mesajı anladın mı?
 
-Benim et ve kemikten yapıldığım senin de iskelet modelinden yapıldığın mı?
+Benim et ve kemikten yapıldığım, senin de iskelet modelinden yapıldığın mı?
 
-Wow!
+Vay!
 Öyle diyince korkutucu geldi.
 Ama genel olarak öyle.
 
@@ -45,7 +45,7 @@ Kapı nereye açılırsa
 oraya giderim.
 
 Peki!
-O zaman onlara arkana dönme.
+O zaman onlara arkanı dönme.
 Gözünün önünde bulunsunlar!
 Onlara baktığında utanırlar,
 o kadar utanırlar ki donakalırlar.
@@ -154,20 +154,20 @@ Diyelim ki 1.14 sürümünü indirdin,
 bu yeni bir hayat demek oluyor.
 Yeni bir Mita yeni bir ev.
 
-Vay amq...
+İlginç...
 
-Evet
-Sorularınız varsa
-alayım.
+Çizim üzerinden
+sorun varsa alabilirim.
+Anlatmak için elimden geleni yaparım.
 
 // He asks about the only circle
 Şurada neden tek bi çember var?
 
 O sürüm bir daha çıkmamak üzere,
 bir kere çıktı.
-O sürüm tek sürüm.
-O sürümler özel
-ve başka sürümlere yolları yok.
+Bu yüzden özel bir sürüm.
+Ayrıca bu sürümlerin özelliği,
+Kaçınılmaz olmaları.
 1.1 sürümünde Uykucu Mita kalıyor.
 
 Uykucu Mita mı?
@@ -179,7 +179,7 @@ Yanından geçerken ses yapsan da,
 uyanması imkansız.
 
 // He asks about the shaded circle
-Bu küre niye tamamen boyanmış?
+Bu çember niye tamamen boyanmış?
 
 Ehm, o
 Güzel Mita yüzünden.
@@ -211,12 +211,12 @@ Nereye gidiyorsun?
 
 Çekirdeğe mi?
 Hmm...
-En kısa yolu istiyorsan.
+Eğer en kısa yoldan gidiyorsan.
 Senin de 1.1 sürümünden geçmen gerek.
 Orada kesinlikle Uykucu Mita ile karşılaşırsın.
 Seni yollayan Mita da
-aynı yolu kullandı sanırım.
-Ya da senin farklı bir yolda olduğunu anlayamadı.
+aynı yolu çizdi sanırım.
+Ya da fark edemedi ve başka yerleri de gezersin.
 Ya da belki çok zekidir
 ve daha da kısa bir yol bulmuştur!
 

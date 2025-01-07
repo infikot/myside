@@ -12,12 +12,12 @@ Ma questa è una lunga storia!
 Comunque, sono felice di vederti!
 
 // Answer 1 - Mita
-Sono io.
+Esatto.
 E tu devi essere [player], giusto?
 
 // Answer 2 - Mita
 Tornare indietro di già?
-Credo di poterti aiutare in questo... Ma che ne sarà di me?
+Credo di poterti aiutare a farlo... Ma che ne sarà di me?
 Ti prego, resta con me per un po'...
 
 // Answer 3 - Mita
@@ -58,7 +58,7 @@ La salsa esalta davvero il sapore!
 
 Grazie.
 
-Ha già finito tutto?
+Hai già finito tutto?
 La mia porzione sembra
 infinita...
 
@@ -70,7 +70,7 @@ Dimmi cosa vedi e cosa senti.
 Il mio cuore batte forte,
 e la mia vista si sta offuscando.
 
-Bene.
+Ok.
 Credo di sapere cosa c'è che non va.
 Riesci ad alzarti?
 
@@ -90,7 +90,7 @@ Forza, adesso.
 Come ti senti?
 Stai meglio?
 
-Si, si, si.
+Credo di si.
 Ha funzionato velocemente...
 
 [player], siamo in un gioco.
@@ -106,7 +106,7 @@ Prendiamo le carote.
 Ne tagli una,
 ma è come se ne tagliassi tre.
 
-Senti, sta accadendo tutto velocemente.
+Senti, sta accadendo tutto molto velocemente.
 Ho un po' paura.
 
 
@@ -173,11 +173,11 @@ Un'uniforme scolastica?
 A che ti serve?
 Vai davvero a scuola?
 
-Vai a scuola?
+Andare a scuola?
 No, per niente.
 Ma adoro l'uniforme
-Non pensi che sia carina
-con quella?
+Non pensi che sarei carina
+indossandola?
 
 // PC
 Il computer funziona?
@@ -187,7 +187,7 @@ Certo che funziona.
 Tutto qui
 funziona esattamente come nel vostro mondo.
 
-Nel  mio mondo,
+Nel mio mondo,
 mi siedo spesso al computer...
 e lavoro sodo.
 
@@ -211,7 +211,7 @@ Ho giocato molto
 ma non ho mai visto piovere qui.
 Perché avere un ombrello?
 
-Piove, solo molto raramente.
+Piove, ma molto raramente.
 Solo che non l'hai ancora visto.
 Forse un giorno lo farai.
 E allora avrai bisogno di un ombrello.
@@ -257,16 +257,16 @@ Posso portarlo via...
 Ma per risponderti...
 È per decorazione,
 per dare luce alla cucina.
-Ma funziona anche!
+Però funziona!
 Posso guardare tutti i
 classici programmi!
 
 // Smartphone
 Quello è il mio telefono.
 E non è più nella mia tasca.
-Come mai è finito qui?
+Come è possibile che sia qui?
 
-Non è importante.
+Uhm, non è importante.
 Ehi, ho un'idea!
 Facciamo una foto!
 Sorridi!
@@ -288,8 +288,8 @@ ci sono?
 
 Non funziona così.
 È collegato a Internet.
-Quindi si può guardare qualsiasi cosa,
-almeno tutto ciò che è disponibile sul web.
+Quindi puoi guardare qualsiasi cosa,
+o almeno tutto ciò che è disponibile sul web.
 Aspetta.
 Err, oops.
 Cos'è quello?
@@ -353,7 +353,7 @@ TUTTO A FAVORE!
 // Quest 2
 Vuoi tornare indietro?
 Ma perché?
-Qui fa così caldo...
+È cosi caldo qui...
 E anche accogliente.
 E poi ci sono io.
 
@@ -365,7 +365,7 @@ Sono arrivato qui all'improvviso
 e non ho avuto il tempo
 di prepararmi.
 
-Oh... mi dispiace. Non ci ho pensato.
+Oh... mi dispiace. Non ci avevo pensato.
 // Quest 3
 Un sogno? Quindi vuoi scappare?
 E dimenticare che tutto questo sia mai accaduto?

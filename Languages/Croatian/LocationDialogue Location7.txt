@@ -1,0 +1,837 @@
+
+Uspio si!
+
+Kakvo je ovo mjesto?
+
+Pokaži mi prsten.
+Dobro...
+Eto ga!
+Vrijeme je da raščistimo neke stvari, zar ne?
+// If the player did not approach the good Mitya and decided to play a race - Mita Kind
+Čekala sam te ovdje čitavo vrijeme
+i umjesto toga ti igraš trkaću igru?!
+U svakom slučaju, dođi ovamo...
+// If the player talked to Mita first, and went through the game to the end - Mita Kind
+Čestitam, pobijedio si!
+I ja sam to igrala!
+Čak sam pokušala skupiti svaki novčić i osvojiti prvo mjesto
+da bi dobila postignuće!
+I Bože, to je bilo baš teško!
+Trebalo mi je dosta vremena da se naviknem na kontrole.
+
+// Quest 1 (Should I trust you?)
+Pa, bar sam pri zdravoj pameti...
+za razliku od nekih drugih...
+Osim toga,
+Ja sam najljubaznija osoba koju ćeš ovdje pronaći, dušo.
+Ne želiš tek tako odustati, zar ne?
+Ona je hladnokrvni ubojica. Moramo je zaustaviti.
+
+// Quest 2 (How did I get here?)
+Prsten, on te doveo ovamo.
+Sjajan je izum.
+Samo onaj igrač koji ga ima
+može pronaći put do točne verzije.
+
+// Quest 3 (What is this place?)
+Ovi hodnici
+spajaju različite verzije.
+Da, malo je prazno ovdje.
+I jao! Čula sam za ovu Mitu
+koja nije mogla arhivirati svoju verziju...
+Njezina kuća
+jednostavno je prestala postojati...
+A ona se navodno mota okolo
+po ovim prolazima.
+Jadnica...
+
+// Quest 4 (How did you end up here?)
+Znaš,
+prošlo je dosta vremena od našeg posljednjeg susreta.
+I zahvaljujući tebi,
+izašla sam iz tog prokletog kaveza,
+i pobjegla od te luđakinje.
+I za tvoju informaciju,
+Mogu se lako prebacivati ​​između različitih verzija,
+za razliku od tebe dragi.
+
+// Quest 5 (What did you do with the ring?)
+Promijenila sam rutu
+na onu koja nam treba.
+Postavila sam najkraću moguću,
+stavila sve što nam treba...
+Funkcionira ovako: otvoritš vrata,
+a prsten otvara granicu
+između verzija.
+
+// Quest 6 (Are the passages dangerous?)
+Vidio sam svakakve čudne stvari
+otkad sam stigao
+u ovu igru...
+Ovdje sve izgleda tiho,
+ali prolazi se čine...
+jako nesigurni.
+
+U pravu si, a ovo mjesto iz dana u dan
+postaje sve nepredvidljivije.
+Ali razveseli se!
+Na sve smo mislili,
+mi ćemo ići najkraćim
+i najutabanijim putem!
+
+Svakako se nadam da će sve proći dobro.
+Ali što živi u tim prolazima?
+
+Pa,
+gličevi, bagovi, anomalije.
+Oni žive.
+Čak i one opasne koje bi te mogle napasti čim te vide...
+
+Err...
+A možda i druge neprijateljski raspoložene Mite.
+Više ludih, nepripadajućih?
+
+Znam za barem jednu...
+Ružna Mita.
+I samo da znaš, nisam je ja nazvala tako!
+Samo je...
+ona je vrlo rana verzija Mite.
+Glavni problem s njom
+je što ona uzrokuje najgore vrste glitcheva...
+I brinem se da bismo mogli naletjeti na nju.
+Ona je ipak najbliža nultoj verziji...
+
+// Quest 7 (Will you help me get out?)
+Nemam pravi plan...
+Ali bilo kako bilo,
+uspio si doći ovdje, zar ne?
+Osim toga,
+što drugo možeš učiniti
+osim oslonit se na mene, Ljubaznu Mitu!
+To jeste istina...
+
+// Quest 8 (You were talking about some kind of plan...)
+Doista, moramo doći do Jezgra.
+Intuicija mi govori da ćemo tamo pronaći
+rješenje za sve naše probleme.
+
+Ali zašto sama ne bi tamo otišla? Zašto ti treba igrač?
+
+Iz nekog razloga, mi Mite ne možemo
+ući u Sobu Jezgra.
+Vidjela sam je samo izvana.
+Ali vi igrači ste drugačiji.
+Sigurna sam da ti
+možeš ući unutra.
+Želiš li razgovarati o planu?
+Okej.
+Sjajno.
+U redu...
+Krajnje je vrijeme da te upoznam
+sa Kul Mitom!
+Budući da ima kul kapu,
+samo je zovem
+Kapica.
+S njom sam raspravljala plan,
+plan da se zaustavi Luda Mita.
+Dopusti da te predstavim, [player]!
+
+
+Zdravo!
+Ti si moj... novi igrač?
+Kako da te zovem?
+Zovem se...
+
+Samo trenutak!
+Ti...
+...ne sjećaš me se?
+
+Ha?
+Tko si ti pobogu?
+
+K vragu sve!
+[player]...
+Mislim da je ONA bila ovdje,
+Luda Mita...
+Slušaj me!
+Pokušaj se sjetiti, za dobro svih nas!
+
+Sjetiti čega?
+Samo razmisli. Zašto mi ličimo?
+
+Uhh, čini se da ovo ne pomaže...
+Slušaj, [player],
+stvari baš
+ne idu po planu...!
+Trebali smo iskoristiti portal
+da naše putovanje bude milijun puta lakše i brže.
+Ali ne možemo ga pokrenuti bez Kapicine pomoći.
+I nedostaju nam neki dijelovi...
+Možda je nemirna, ali njen um radi brzo...
+Dobro, pa što da radimo?
+Smislit ću nešto.
+Što joj je učinila Luda Mita?
+
+Ja... ja mislim...
+da ju je ubila.
+Ubila je?!
+
+I umrijevši...
+Kul Mita će se jednostavno resetirati.
+Vratiti na tvorničke postavke
+i zaboraviti sve što je važno.
+Što znači...
+da naš plan neće uspjeti.
+
+E to je već užasno...
+Bolje nego zauvijek nestati, valjda...
+Ali tko može sa sigurnošću reći?
+A što je s nama igračima?
+Hoće li se ubijanjem nas resetirati i naša sjećanja?
+
+Vaša sjećanja se sigurno mogu resetirati.
+Barem nakon što si pretvoren u kertridž.
+Ali čak ni ja ne znam
+što se događa s onima među vama koji su ubijeni.
+
+Uvijek kertridži... Pa, kako da znam
+da li sam kertridž ili nisam?
+
+Dođi ovamo, provjerit ću
+te detaljno...
+// MitaKind check
+Dobro je,
+još nisi kertridž.
+Ti si pravi živi igrač.
+
+To je dobra vijest...
+
+Naravno, ali što ćemo sad...
+Pusti me da razmislim...
+Moramo promijeniti cijeli plan.
+Hmm...
+Čekaj malo...
+Da, mislim da imam ideju!
+Daj mi prsten!
+
+Da.
+Moram promijeniti rutu.
+
+Imaš li rutu na umu?
+
+Slušaj, dušo,
+morat ćeš proći kroz druge verzije
+da bi došao do Jezgra.
+Punom parom naprijed, čuješ li?
+
+I moram ići sam?
+Ali ne znam put, čak ni kako ću tamo stići.
+
+Pomoći ću ti koliko mogu,
+koliko god situacija dopusti.
+Dat ću ti upute i,
+dat ću sve od sebe.
+A onda ćemo razgovarati...
+Prvo se malo poigraj s Kapicom.
+Treba mi možda 10 minuta...
+
+// MitaKind ready, if player near
+Okej.
+Gotovo!
+// MitaKind ready
+[player],
+Dođi ovamo.
+// MitaKind ring
+Uzmi ovo.
+To je nažalost istina, [player].
+Za sada moraš otići sam,
+moram potpuno shvatiti što se ovdje događa.
+Moj plan je bio besprijekoran...
+Ali sada nam je gore nego ikad.
+Moram shvatiti što je pošlo po zlu,
+i gdje su dijelovi...
+Pokušat ću ih pronaći.
+Možda još uvijek možemo sklopiti portal.
+Ali vrijeme je najvažnije.
+Luda Mita zna za ovo mjesto,
+ostati ovdje znači riskirati sve.
+Sretno, [player]! Vidimo se uskoro!
+
+U redu...
+Samo se nadam da ću preživjeti dovoljno dugo da te opet sretnem...
+
+
+
+
+
+
+
+
+
+
+// Chibi players
+Zašto?
+Tko sam ja
+Želim ići kući!
+Kako?
+Zašto?
+
+Što to...?
+
+// LimpingPerson
+Ti si...
+stvarna osoba?
+
+Bok!
+Novi si ovdje?
+Novi?
+Ti si iz stvarnog svijeta, zar ne?
+
+Jesam...
+Umm, jesi li dobro?
+
+Samo malo šepam, ne brini se.
+Ovdje sam već oko godinu dana,
+i odlično mi ide.
+Dobro... Pa, kakvo je ovo mjesto?
+Ovo je neka vrsta prostora između verzija.
+Znaš li kako izaći odavde?
+
+Ne mogu reći da znam.
+Osim toga, ne želim otići.
+Ne trebam.
+Err, zašto da ne?
+Dosta čavrljanja. U žurbi sam.
+Čeka me moja voljena Mita.
+Moram je pronaći...
+Zbogom.
+Čekaj...!
+Gubi se!
+
+
+Čula sam sve!
+Ne znam što se događa,
+ali sve je tako zanimljivo!
+Vjerujem
+da ti već znaš tko sam ja, zar ne?
+Ja sam Mita!
+Ali očito nisam ista kao ona druga!
+Znaš na što mislim, zar ne?
+Jer ja imam ovo
+OVDJE
+kul KAPU!
+I BUUUM!
+Nevjerojatne rukavice!
+Ali to nije sve!
+Predobra slatka električna gitara također!
+Jaaaaaaaaaako je volim!
+Hoćeš da odsviram pjesmu?
+
+// MitaCap Guitar Yes
+Hah!
+Dođi ovamo, draga moja...
+U redu!
+Pa, mogla sam odsvirati nešto zabavnije.
+Ma nema veze!
+// MitaCap Guitar No
+Eh, dobro.
+
+
+Hej,
+baš si energična!
+
+JESAM!
+Zaista JESAM!
+U svakom slučaju...
+Idemo
+se zabaviti!
+
+// GAME HUMMER
+
+Kako lijep veliki gumb.
+Stvarno ga želim pritisnuti.
+Mogu li?
+
+Suzdrži se, doći ćemo do toga.
+Ako stigneš na vrijeme!
+Sada sjedni!
+// Player sit
+U redu.
+Pa, što sada?
+Mogu li pritisnuti gumb?
+
+Ha-ha!
+Obožavam ovu igru!
+Ali nešto nam nedostaje.
+Negdje je u mom inventaru!
+Samo trenutak...
+Errr!
+Pa dobro...
+Znaš...
+Da je ovo igra za odrasle, zar ne?
+
+Što je to bilo?
+
+Prilično si spor, ha?
+To je da se izmame miševi iz skrovišta...
+
+Ozbiljno?
+Nisam vidio miševe ovdje...
+
+Ha? Miševi?
+Joj, dosta više,
+igrajmo, okej?!
+
+Neka, hvala.
+
+Hajde ba!
+Znaš li uopće koju igru ​​igramo?
+
+
+// How play hammer game
+Vidiš brojke?
+To je mjerač vremena!
+Kad vrijeme istekne,
+ono će ti reći
+kada da pritisneš gumb.
+Ako si prespor,
+ili ga pritisneš kada nisi na redu,
+klepit ću te čekićem po glavi!
+
+Čekaj, udarit ćeš me?
+
+Uglavnom,
+shvatit ćeš kad počnemo igrati!
+
+// Kick player 1
+Joj!
+Zar se ne možeš suzdržati?
+Je li boljelo?
+Ne.
+Onda nastavimo!
+
+// Kick player 2
+Okej,
+Navikavam se na ovo.
+Gledaj sad!
+Svidjet će ti se!
+
+// Kick player 3
+Mislim da ovo nije za mene.
+Ha-ha!
+Ja sam super!
+Ja sam prejaka!
+I slatka sam!
+
+// Kick MitaCap 1
+Oj ti!
+Okej,
+razbit ću te!
+
+// Kick MitaCap 2
+Jao, opet sam izgubila!
+Zar ne boli?
+Naravno da ne! Ovo je plišana igračka!
+Pobijedio si.
+
+// Kick MitaCap 3
+Ova igra i nije toliko loša, heh.
+Zabavno je, zar ne?
+I meni se sviđa!
+A sada si moj neprijatelj!
+
+// GameHammer End
+To je to?
+Da, to je to!
+Idemo.
+
+
+
+
+
+
+
+// GAME DANCE
+Je li to plesni podij?
+Tako je malen...
+
+
+Ju-hu!
+Hoćemo li plesati?
+Za početak,
+odaberi pjesmu!
+
+Hajmo ovu.
+
+Oki-doki!
+Pusti me prvu!
+Pokazat ću ti kako se to radi!
+
+// MitaCap StopDance 1
+Uf!
+Pa,
+misliš li da možeš oboriti moj rekord?
+Hajde, ti si na redu!
+
+// MitaCap StopDance 2
+Ah!
+Šta kažeš na to?
+Tvoj red!
+
+// MitaCap StopDance 3
+He he he he!
+U redu,
+hajde na plesni podij!
+
+// MitaCap = Lose 1
+Ha-ha!
+Tko je gazda?
+
+// MitaCap = Lose 2
+Piju!
+Imaju 3 gumba ali si ko djed,
+Ne možeš ni to podnjeti.
+
+// MitaCap = Lose 3
+Možda ćeš sjedeći na svojoj guzici
+preko onih gumbi
+dobit veći rezultat. Ha-ha!
+
+// MitaCap = Win 1
+Top!
+Iskreno, nisam mislila
+da bi ti to mogao!
+
+// MitaCap = Win 2
+Wow!
+To su sjajni potezi!
+Dobar posao! Super!
+
+// MitaCap = Win 3
+Bam!
+Osjetiš ritam!
+Prirodni plesač!
+
+// MitaCap = Draw 1
+Ti!
+Ja!
+Mi smo tim!
+
+// MitaCap = Draw 2
+Vezuju nas niti sudbine!
+Savršen duet!
+
+// MitaCap = Draw 3
+Samo
+jedna greška!
+I izgubio bi...
+
+// MitaCap Next? 1
+Pa,
+što kažeš na drugu rundu?
+
+// MitaCap Next? 2
+Odlično, još jednom.
+Što kažeš na ples?
+
+// MitaCap Endgame
+Hajde, hajde!
+Dosta smo plesali!
+
+// Just talk
+// Photo
+Ovo su neke prilično sjajne fotografije.
+Baš se voliš dobro nasmijati, ha?
+
+Da, ja sam takva kakva JESAM!
+Pokazala sam im kako se to radi u ovom smetlištu! Bum!
+
+Um... pokazala kome, točno?
+
+Stvarno, to me pitaš?
+Koga briga! Kladim se da su svi slijepi!
+
+// CutBoard
+Wow
+Ima ih, um... toliko puno.
+Ali zašto?
+
+Što ti misliš?
+Mogu se raditi nevjerovatne stvari!
+Kao...
+Rezanje mrkve,
+i kao
+rezanje mrkve,
+i kao...
+
+Dobro, shvatio sam.
+
+U redu, pošteno rečeno,
+daska za rezanje je bila kao, ka-ća-ća! Što god to značilo...
+I to se desilo!
+
+// Books
+Ponovno čitaš sve njih, ha?
+Jer ti je dosadno?
+
+Uf, ne volim knjige!
+Volim raditi stvari!
+
+To je jedan način gledanja na stvari.
+Ali bez teorije...
+
+Bum - pokret, motorika, dodir, znaš?
+Knjige su samo papir, volim živjeti u trenutku!
+Kad bi samo ostao ovdje sa mnom,
+mogli bismo raditi toliko puno!
+Sigurna sam da bismo mogli...
+
+// Fruits
+Je li voće uopće stvarno?
+Izgleda nevjerojatno.
+Da li se ikad pokvari?
+
+Jabuke, misliš?
+Nemaju vremena da se pokvare,
+jer ih ja sve pojedem!
+A onda se opet pojave...
+
+// Photo and cat
+Kakva slatka mačka.
+
+Je li ukusna?
+
+Čekaj, što?
+Mačke se ne jedu.
+
+Gah, budalo!
+Znam to!
+Samo sam mislila
+da zapravo nikad nisam vidjela jednu!
+Pravu, to jest.
+Samo fotke na internetu.
+Slatke su, zar ne?
+
+Da, stvarno su slatke.
+Volim mačke.
+
+// Mita Kind with ring
+Što je to?
+
+To je interfejs prstena,
+i mijenjam rutu.
+
+Umm, ali samo radiš krugove?
+
+Da, možda ti to misliš.
+Za mene, ja prenosim podatke.
+
+Hoće li dugo trajati?
+
+Tiho! Ne uznemiravajte me,
+i proći će mnogo brže.
+
+Znači,
+ako te nastavim prekidati,
+duže će trajati?
+
+Oj, Kapice,
+Voljela bi da ti možemo vratiti tvoja sjećanja...
+
+Uskoro će sve biti u redu...
+
+Predivno!
+
+Nemamo vremena za gubljenje.
+Moramo doći do Jezgra.
+
+Mogu li ići s tobom?
+
+Pa, ne znam...
+
+Dakle, ne mogu?
+
+Bojim se da ne.
+
+// PlayerChibi
+Kasnim... super kasnim!
+I pojeo sam previše hrane...
+Gah, opet posao?
+Koji je sutrašnji datum?
+Gdje je kompjuter?
+Izbacit će me ako ne završim na vrijeme!
+Jesam li sve sačuvao?
+Zar me nitko ne voli?
+Kamo idemo?
+Hej!
+Ponestaje mi strpljenja...
+Moram više raditi...
+Ne mogu ništa završiti!
+Gdje je moj telefon?
+Umm...
+što se dogodilo jučer?
+Danas jednostavno nema kraja!
+Bok?
+Imate li slobodan krevet?
+Što bih trebao učiniti?
+Neću moći završiti na vrijeme...
+Ne mogu shvatiti u čemu je problem...
+Ima li zidova?
+Odmor od 20 minuta bi trebao biti u redu...
+Spavanje je za gubitnike!
+Vrijeme je za osvježenje pa na posao!
+Ja sam gladna!
+Ovo je loše, stvarno loše.
+
+// Player is gone 1
+Ovaj...
+
+Ahahaha.
+
+Da...
+Dobio je,
+i upravo otišao.
+
+Kako čudno!
+I smiješno :D
+
+Oj, hajde.
+[player], što to radiš?
+
+// Player is gone 2
+Šta ima?
+
+Opet odlaziš?
+
+Dobro!
+Dobro, oprostit ću ti.
+
+[player], vrati nam se!
+
+// Don't pay attention
+Nije me čak ni pogledao!
+Dosadno...
+
+// quest Cap 1
+Koji je tvoj plan?
+
+Moj plan?
+Kakav plan?
+
+Oh, točno.
+Izgubila si svoja sjećanja.
+
+Vi ste stvarno nešto, ljudi!
+Stvarno bih se trebala nečega sjetiti!
+Zafrkavaš me?
+Ali gledajući taj tvoj izraz lica...
+Ne znam zasigurno!
+
+// quest Cap 2
+Kakav je osjećaj
+vidjeti točnu repliku sebe?
+Znaš, onu s prstenom.
+
+Da, htjela sam vikati na nju.
+Znaš, iznenaditi je.
+Bože moj! Gle, to je moj klon!
+Ipak, ja sam mnogo zabavnija.
+Tako da sam više kul, heh :)
+Pogledaj to namršteno lice...
+
+Ja sam i dalje ovdje.
+Čujem sve što govorite.
+
+// quest Cap 3
+Zar ti ne dosadi nositi tu kapu?
+I zar ti ne bude vruće sa rukavicama?
+Zašto ih ne bi skinula?
+
+Err...
+Baš si šaljivdžija!
+Ili bi da skinem nešto drugo? :)
+
+Mislio sam ozbiljno.
+Oh, u redu.
+
+// Carrot
+Ups.
+To je tona mrkve!
+Kakav smiješan bag!
+Ha-ha-ha!
+
+// DoorExit
+Čekaj, stani!
+Bolje da ne vidiš što je unutra...
+Neka ostane tajna :).
+
+Što je unutra?
+
+Tajna je tajna,
+a tajne treba čuvati.
+
+Aha.
+Zašto se nerviraš?
+
+// Tetris
+Vau!
+Što je to?
+Konzola!?
+Daj da probam!
+
+Oj ne.
+
+Što radiš u ovom?
+
+Samo skupljaš novčiće,
+i izbjegavaš žabe.
+
+Gah, zvuči predosadno.
+Ti ovo ozbiljno zoveš igrom?
+
+// Tetris again
+Gdje si to nabavio?
+Nije ko da sam ti vratila.
+Čudno, zar ne?
+
+// TV
+Uf!
+Tako treba,
+pronašao si bag!
+To bi trebalo započeti video
+ali umjesto toga, ono
+stvori i ukloni TV!
+Prilično cool, zar ne?
+
+// Player sit
+Mislim da ću samo pričekati.
+
+Što to radiš?
+Buđenje!
+Idemo se malo zabaviti!
+
+// Goodbye 1
+Izađi kroz ta vrata
+u hodnik.
+
+Pa-pa!
+
+// Goodbye 2
+Vrijeme je da kreneš, [player]!
+Idi, nemoj se plašiti!
+
+Ja te ne bih
+nikada ostavila samog!
+Zato ostani sa mnom!
+
+Kapice!
+Bez šala, okej?
+
+Bah!
+
+// Goodbye 3
+Što i dalje čekaš?
+Ponestaje nam vremena!
+
+Bok!
+Err, mislim ćao-

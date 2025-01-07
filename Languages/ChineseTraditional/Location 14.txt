@@ -1,0 +1,5 @@
+// Snaker
+敗北
+勝利！
+// DontWork
+停下！

@@ -1,0 +1,11 @@
+// Quest none
+Di bale.
+// Quest
+Ikaw si Mita diba?
+Anong nangyari sayo?
+Maging iyong pangalawang kaibigan?
+Ito ba ang iyong tahanan?
+Paano ako aalis sa lugar na ito?
+
+// TV
+NILABAS!

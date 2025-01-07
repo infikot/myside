@@ -1,0 +1,605 @@
+
+Ja... Vratio sam se!?
+
+O moj Bože!
+Uplašio si me!
+Oj, čovječe,
+Moj sejv fajl — o, ne!
+Ne kužim...
+Gdje je igra?
+Pokvario si rutu!
+Što hoćeš?
+
+Treba mi verzija...
+
+Ha?
+
+Moram se nekako vratiti na staru verziju.
+
+Okej!
+Previše sam zauzeta
+da te zabavim, glupane!
+
+A što je to? Igračke?
+
+Vidi ga, koji kreten!
+Među nama neće biti prijateljstva.
+
+Slušaj, moram doći do Jezgra.
+
+Ti si kriv što sam se povrijedila.
+Prokletstvo.
+Ha?
+
+...Moram doći do Jezgra i zaustaviti Mitu!
+
+Mita?
+Molim te!
+Nije me briga za nju!
+Ni prvu, ni stotu!
+
+Ali i ti si Mita...
+
+Ja sam Mila.
+
+Mi-Ta? La?
+
+Da! Sve su one Mite i Mite,
+Mita ovamo, Mita tamo, Mita svuda!
+
+Dakle... ti si Mila.
+
+Da, rekla sam ti! Koliko si ti spor?
+
+Pa sretno, Mila...
+
+Kamo misliš da ideš?
+Misliš da možeš samo tako otići odavde?
+
+// Player check exit
+Jesi li mislio da ćeš pronaći nešto unutra?
+
+Prokletstvo!
+Što je ovo?
+
+Što si očekivao-
+Zemlju čuda?
+
+Kako da izađem?
+Ovdje bi trebao biti izlaz.
+
+Nema izlaza.
+
+Pa, koja je ovo verzija onda?
+Mislim da sam na dobrom putu.
+
+// Glitch kitchen
+Je li ovo tvoje?
+
+Odmakni se!
+Ne znam što je to...
+nekakav glič!
+
+Prsten mi se trese iz nekog razloga.
+
+Kakav prsten?
+Zaručnički prsten?
+
+Ne, dala mi ga je jedna od Mita - jedna od tisuću njih.
+Ona koja bi me mogla izvući.
+
+I ti ćeš to dotaknuti?
+Znaš, ako moja kuća eksplodira, i ti ćeš biti mrtav!
+
+// Bathroom - Mila is washing
+Hej!
+Izađi VAN!
+Zar ne vidiš da je kupaonica zauzeta?!
+// The player continues to stand 1
+Zašto još uvijek stojiš tu?!
+Izlazi van!
+// The player continues to stand 2
+Nemoj me nervirati!
+Gubi se odavde!
+// The player continues to stand 3
+Jesi li gluh ili što?
+Tuširam se!
+
+// Mila came out and swears
+Što je to bilo?
+Bez srama, bez savjesti...
+
+Zašto si odjednom ušla u kupaonicu?
+Mogla si pričekati
+dok nisam izašao!
+
+Nisam znala koliko će ti trebati.
+Koliko ćeš se još uopće petljati s ovim gličevima?
+
+Gličevi?
+Ima ih još?
+
+Da...
+dobro, ako moja kuća još stoji,
+Pretpostavljam da si riješio kvar u kuhinji?
+
+Nekako jesam.
+
+Dobro. Sada imaš moje dopuštenje
+otići u kupaonicu.
+
+Hvala.
+
+// Mila hides under the table
+Mila?
+Što radiš tamo ispod?
+
+Au!
+Opet si me uplašio!
+Što hoćeš?
+
+Jesi li vidjela još koji glič?
+
+Oh, znači tvoji problemi bi trebali biti
+izgovor da me spriječiš da završim svoju knjigu?
+Ne, nisam!
+
+U redu, sam ću ga potražiti.
+
+Sačekaj,
+moram pitati...
+želiš izaći van,
+zar ne?
+
+Tako je.
+Želim izaći iz ove igre.
+
+Ovo bi moglo zvučati čudno...
+ali zašto ne bi ostao čitati sa mnom?
+
+Prvo vičeš na mene, a sada tražiš da ostanem?
+Čitati knjige?
+Možda i bih,
+ali moram nastaviti dalje.
+
+Dobro!
+Idi i traži svoje gličeve...
+Ovo je drugi put da sam se ozlijedila
+zbog tebe!
+// Player saw a glitch
+Ah, pronašao sam ga.
+
+// Mila stands with a sword
+Obraćaš li pozornost?
+Boji me se!
+Pogledaj što mogu!
+Eto koliko sam opasna!
+Ali ipak... nisi ni trepnuo.
+
+Ti to ozbiljno?!
+
+Što nije u redu?
+Nije li to bilo dovoljno uvjerljivo?
+
+Ne baš...
+
+Dakle, vidjeo si sve dok si rješavao te gličeve,
+zar ne?
+Već si znao da je kamen unaprijed izrezan,
+zar ne?
+
+Ne.
+Samo... mi smo u igri.
+Ovdje je pucketanjem prstiju sve moguće.
+
+Oh,
+idiote!
+Pucketanjem prstiju, ha?
+Što misliš zašto sam čitala sve te knjige?
+Da mogu pucnuti prstima i završiti s tim?
+Radije bih sve sama uradila,
+upravo onako kako to knjige opisuju.
+
+// Mila is doing push-ups
+Što to radiš?
+
+Zar ne možeš skontati!?
+
+Da, ali zašto to radiš?
+
+Da postanem dovoljno jaka da te udarim šakom u lice!
+
+Što nije u redu s tobom?
+Čudno se ponašaš.
+
+Dobro!
+Što se tiče udaranja—
+nisam mislila ozbiljno.
+I nisam čudna!
+Jedinstvena sam!
+Želim biti što više drugačija od svih ostalih.
+
+Ne moraš se toliko truditi.
+Vjeruj mi — već si dosta drugačija.
+
+Znam!
+Pogledaj što mogu!
+Vidiš ovo?
+A sada — bez ruku!
+
+Znam da je igra,
+ali ovo je toliko nerealno...
+
+Auč!
+Joj!
+Glupa fizika...
+Govoriš o realizmu,
+i onda,
+bum! Ovo se desi!
+I ti MENE nazivaš čudnom?
+Glupane!
+
+// Last glitch ready - player exit
+Prolaz je tu.
+Uspjeli smo, Mila!
+
+
+Dobar posao,
+junače!
+
+O moj Bože!
+
+Oh!
+Oprosti—nisam htjela.
+
+U redu je, Mila. Sada mogu nastaviti dalje.
+
+Vidi, znam da moraš ići...
+ali zar ne možeš ostati ovdje
+još samo malo?
+
+Ne mogu čekati.
+Luda Mita nije baš strpljiv tip osobe.
+
+Joj, mrzim je!
+
+Mrzim je, mrzim je!
+
+Mila, slušaj...
+
+Zašto sam uopće ovdje?
+Ne razumijem!
+Zašto ne razumijem?!
+I nikad neću izaći odavde!
+
+Razumijem kako se osjećaš, Mila.
+Želiš li da se vratim? Kasnije?
+Ako mogu?
+
+Ostani ovdje, Igraču...
+Zabavan si, nije isto kad sam sama...
+Što ako ne uspiješ?
+
+Hoću. Još samo malo je ostalo.
+// If the player clicks on the computer
+Upravo sam se vratio iz one ravne dimenzije,
+A sad... evo nas opet.
+Jedva čekam da se vratim u stvarni svijet...
+
+Ha-ha-ha! :)
+Oh,
+'stvarni' svijet, ha?
+Kao urbana legenda!
+Nikad ga nisam vidjela.
+
+Mislim...
+da mora postojati put natrag.
+
+Baš si samouvjeren!
+Kakva šala!
+
+// Ask about books
+Zašto uopće čitaš knjige?
+Tu je internet...
+
+Internet? Pun je romana!
+Ali radije bih imala
+pravu knjigu u mojim rukama.
+Samo kroz
+njih počinjem
+učiti o...
+ovom svijetu.
+
+// Ask about the paintings
+Ove slike — jesu li stvarne?
+U drugim verzijama,
+da, postoje... ali su gotovo prenapadne.
+
+Ja sam MiLa, razumiješ? Ne kao ostale.
+A ovi?
+To su crteži, znaš,
+pretvarajući se da su više nego što jesu.
+Vidjela sam druge Mite
+stojeći upravo ovako.
+
+Mila?
+Halo?
+// Mila.
+Nakon svega toga...
+Ne želim biti takva.
+To je... odvratno!
+
+// Ask about the butterfly painting
+Jesi li vidjela prirodu?
+Takve prave leptire?
+
+Ne,
+ali imam knjigu ovdje negdje.
+Čak imaju utisnuta mala krila...
+Ova slika,
+ipak...
+malo je kriva.
+I tu je mrlja...
+Ah, tako je bolje.
+
+Da li želiš vidjeti pravog leptira? Ići u šetnju prirodom?
+
+Kakvo pitanje!
+Naravno,
+da bih!
+
+// Make long eye contact 1
+Zašto buljiš?
+Skreni pogled!
+
+// Make long eye contact 2
+Dosta!
+Prestani više!
+Glupane...
+
+// Make long eye contact 3
+Hajde više!
+Što je s ovim buljenjem?
+Ja sam dama, znaš!
+
+Jesi li ikada čuo za manire?
+Iš, iš!
+
+// Whispers 1
+Zašto uvijek meni šalju
+neke neupućene tipove,
+i očekuju da se lijepo igram?
+S mini-igrama?!
+Kao glupi Tamagoči!
+
+// Whispers 2
+Samo luta okolo...
+radoznala mala budala.
+
+// Whispers 3
+Jesi li nešto rekao?
+Ova pozadinska glazba me izluđuje!
+
+// Whispers 4
+Kako da mu kažem
+da sam zauzeta?
+Ne želim društvo...
+Što ako ode? Ne, zašto bi me bilo briga?
+
+// Whispers 5
+Mama... tata...
+Zašto te riječi zvuče poznato?
+
+// Whispers 6
+Ovdje je jednom pao snijeg... ali zašto?
+
+// Whispers 7
+Samo se pojavi niotkuda! Grozno.
+Što ako... tamo nema ničega?
+
+// Nearby 1
+Evo nas,
+stojimo okolo...
+u tišini...
+Zašto samo stojimo ovdje?
+Mačka ti pojela jezik?
+Ili,
+jednostavno ne znaš što bi rekao?
+
+// Nearby 2
+Odričem se mrkve!
+Ozbiljno, objavljujem rat.
+Znaš li što ta stvar radi
+savršenoj, blijedoj koži djevojke?
+
+// Nearby 3
+Knjige ne pomažu mnogo sa ovim, ali ako budem imala sreće,
+možda konačno shvatim poentu...
+Od ovih beskrajnih mrkvi koje iskaču
+oko mene hvata
+me jeza!
+
+// Nearby 4
+Ne volim ekscentrike!
+Ljubitelji mrkvi, ljubitelji mačaka...
+I evo tebe, skupljaš gličeve.
+Iskreno, ti si najčudnija osoba koju sam ikad upoznala!
+
+// Nearby 5
+Želiš znati što bih najviše voljela raditi?
+...Pa, to je malo neugodno za reći.
+
+// Nearby 6
+Kažu da je borba
+protiv vlastite prirode IZAZOV.
+Radim na disciplini, ali ti
+nemaš pojma kako bi voljela samo
+sjesti s tobom da imamo čajanku!
+
+// Nearby 7
+Čak i s naočalama,
+Ne mogu vidjeti kroz slojeve tvoje čudne,
+jednoumne odlučnosti.
+
+// Nearby 8
+Čitala sam da je sudbina poput nekog scenarija
+koji čak i kaže
+kako ćeš provesti dan.
+Ha! Tko je napisao to sranje?
+Jesi li to bio ti?
+
+// Nearby 9
+Podnosim budale, ali one lude?
+Mrzim ih.
+
+// Nearby 10
+Neke od Mita
+zapravo su nekako slatke...
+Htjela bih ih bolje upoznati čak i ako su samo
+klonovi klonova od klonova.
+
+// Nearby 11
+Ali postoji jedna koja je malo drugačija.
+No, njoj fali daska u glavi.
+
+// Nearby 12
+Bez repića!
+Odrezala bih ih da mogu!
+Neugodni su!
+Znaš što mislim — ti i skloniš većinu kose!
+
+// Nearby 13
+Što ako samo nema ničega iza tih vrata?
+A ova kuća, ti i ja — postojimo
+bez ikakvog razloga?
+Pa zašto si tako siguran?
+Jesi li ikada čuo za petominutnu hipotezu?
+
+
+
+// Last glitch ready - player exit
+Kakav jeziv hodnik...
+Ideš li stvarno tamo?
+
+Da.
+
+// FaceStone
+Oh, "promišljen" gospodin.
+Što će ti on?
+
+Saznat ćeš
+uskoro.
+I zašto ga uvijek imitiraš tako?
+Neka ti faca samo ostane jednostavna.
+
+Uhh...
+u redu.
+
+// Katana
+Je li to igračka katana?
+
+To NIJE igračka katana!
+Jedan dodir ove oštrice
+i krvarit ćeš.
+Ja sam vješt mačevalac, za razliku od tebe!
+Bolje se pobrini za sebe-
+ne bih želila vidjeti kako samom sebi odsiječeš prste.
+
+// Mirror
+Ogledalo...
+a nema odraza?
+
+Ti
+izgledaš tako nezadovoljeno.
+Gledaj, čitala sam sve o odrazima
+u knjigama!
+Ali u mojoj verziji, ne mogu ih napraviti.
+Ne mogu to učiniti, u redu?
+
+// Switch light
+Ovo ne radi.
+Svjetla se ovdje sama pale i gase...
+kao po nekoj skripti!
+Ali!
+Iz nekog razloga, kupaonski prekidač
+zapravo radi.
+Tako čudno!
+// Switch light off
+Ovdje je još uvijek osvjetljeno?
+
+// Little carrot
+Mrkva?
+Čekaj, gdje je nestala?
+
+Joj, muka mi je te mrkve!
+Kao da je živa!
+Svaki put kad je vidim,
+teleportira se negdje drugdje.
+
+// Little carrot
+E, to je ta mrkva...
+opet je nestala!
+Misliš li da možemo išta učiniti u vezi s njom?
+
+Ne.
+vjeruj mi,
+Pokušala sam!
+Samo je zanemari. Mislim da je
+nekakva kozmička šala.
+
+// Tetris
+Hej!
+Jesam li ja tebi neka šala?
+// Tetris
+Ne vraćam ti.
+Ne, nikad!
+
+// Soap.
+Dakle, ovaj... je li ovaj sapun pravi?
+Ili je samo još jedan ukras?
+
+Jel se ti šališ?
+Većina stvari ovdje se zapravo
+ponaša kao prava! Stvarno...
+
+// BagWall
+Gdje si nestao!?
+
+Ja mogu proći ovuda?
+
+Jesi li pronašao novi bag ili nešto?
+Što je to?
+
+Izgleda kao...
+ništa.
+
+Ah, opet se vratilo.
+
+// Quest 1 Glasses
+Imaš li loš vid?
+Zašto su ti potrebne naočale?
+
+Što - ne sviđaju ti se?
+To se zove stil!
+I moj vid je savršen, hvala.
+
+// Quest 2 Name miLa
+Mi-La?
+Zašto ne...
+Mi-Ka?
+Ili Mi-Sa?
+
+Ja sam Mila. To je to. Zašto?
+
+Oh... ništa.
+
+// Quest 3 Evening
+Sviđa mi se večer.
+Kad će pasti noć?
+
+Noć?
+Uf, nemoj ni počinjati.
+Beskrajni dani ovdje...
+samo jedan za drugim,
+kao da se ponavljaju.
+Uf...

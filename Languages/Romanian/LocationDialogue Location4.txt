@@ -16,7 +16,7 @@ cum vrem noi.
 
 Nu trebuia.
 Începusem să mă obișnuiesc cu aranjamentul.
-În orice caz, cred că te vei simți mai în largul tâu așa.
+În orice caz, cred că te vei simți mai în largul tău așa.
 // Mita card game
 Bun,
 putem începe?
@@ -27,9 +27,9 @@ Amândoi jucăm o carte,
 dacă cartea ta
 are mai multă viață 
 decât cartea mea,
-câstigi. 
-Trage-ți carțile. 
-E rându meu acum. 
+câștigi. 
+Trage-ți cărțile. 
+E rândul meu acum. 
 Uau!
 Ce mână bună am!
 Eu sunt prima!
@@ -47,19 +47,19 @@ Rândul tău!
 Aha.
 Rândul tău!
 
-Cea mai mare viață câstigă!
-Numai atacul conteaza!
+Cea mai mare viață câștigă!
+Numai atacul contează!
 Focusează-te pe defensivă!
 
 
-Ai câstigat!
-Ai câstigat!
+Ai câștigat!
+Ai câștigat!
 M-ai luat.
 Tu...
 
-Am câstigat!
-Eu sunt câstigătoarea!
-Am câstigat!
+Am câștigat!
+Eu sunt câștigătoarea!
+Am câștigat!
 Ha, te-am luat!
 
 E o remiză.
@@ -118,13 +118,13 @@ este ca tu să fi cu mine.
 
 De ce ești așa de obsedat de dulapul ăsta?!
 
-Vreau șă aflu ce naiba a fost acel ciocănit!
+Vreau să aflu ce naiba a fost acel ciocănit!
 
 E cumva din cauza că
 lumea aceasta
 are doar patru camere?
 Nu e destul pentru tine? 
-De ce nu poti rămâne cu mine?
+De ce nu poți rămâne cu mine?
 
 
 // Don't stay with Mita
@@ -132,7 +132,7 @@ De ce nu poti rămâne cu mine?
 Asta din nou...
 Dacă vrei sa verifici ce e în dulap,
 atunci fă-o,
-si află ce e înâuntru!
+și află ce e înăuntru!
 
 
 
@@ -140,7 +140,7 @@ si află ce e înâuntru!
 Ce naiba...
 
 Se mai întâmplă din când în când.
-Camera s-a blocat încărcânduse.
+Camera s-a blocat încărcându-se.
 Doar așteaptă un pic.
 
 Asta e așa de ciudat.
@@ -168,7 +168,7 @@ Tu alegi.
 
 // Mita play fight
 Vrei să ne batem?
-Trebuie să căstigi 
+Trebuie să câștigi 
 de patru ori. 
 Hai să începem.
 Nu îți face griji,
@@ -252,7 +252,7 @@ Putem avea o primăvară eternă,
 sau o după-amiază nesfârșită!
 
 Interesant...
-dar și umpic înspâimântător.
+dar și umpic înspăimântător.
 Blocat in același moment, pentru totdeauna...
 
 
@@ -268,7 +268,7 @@ Cine le-a făcut?
 Sunt și alții în lumea asta?
 
 Ai putea spune asta.
-O să faci cunoștiință și cu ele eventual.
+O să faci cunoștință și cu ele eventual.
 Dar nu acum.
 Momentan, aș vrea să fi doar cu mine.
 
@@ -291,7 +291,7 @@ Doar ne-ar încurca.
 Uitându-mă într-o oglindă 
 fără să mă pot vedea—e dubios.
 
-Putem să activăm reflecțtile, 
+Putem să activăm reflexiile, 
 dacă vrei neapărat.
 Dar, chiar avem nevoie de ele?
 
@@ -304,7 +304,7 @@ Ai văzut vreodată un desen animat în puține cadre pe secundă?
 Așa va fi pentru noi, constant.
 
 Am înțeles.
-Atunci am face bine să ținem reflecțile dezactivate...
+Atunci am face bine să ținem reflexiile dezactivate...
 
 Hei, [player], 
 chiar iți plac oglinzile, nu-i așa?
@@ -317,7 +317,7 @@ după toată munca de azi.
 
 
 // Blue sneakers
-Ăstia sunt ai tăi?
+Ăștia sunt ai tăi?
 
 Nup, sunt ai tăi.
 Nu îți amintești?
@@ -336,7 +336,7 @@ Este vreo metodă prin care pot face rost de unele noi?
 Normal că există.
 Totuși, am văzut ce tip de haine porți—
 și să fiu sinceră, gusturile tale nu sunt prea grozave.
-Oricum, te voi ajuta să îți găsesti niște haine.
+Oricum, te voi ajuta să îți găsești niște haine.
 Nu acum totuși.
 Promit.
 
@@ -386,7 +386,7 @@ Hihi! Am strâns cei mai mulți bulgări!
 Ai face bine să mă prinzi din urmă!
 Ha, 1:1!
 // The second map
-Ești un pinguin înnâscut!
+Ești un pinguin înnăscut!
 Ar trebui să te ducem pe gheață adevărată!
 Pfft, ești așa de lent.
 Încă te mai gândești la ultima rundă?
@@ -397,4 +397,4 @@ Sau te-ai săturat?
 
 // Tetris - Mita
 La ce îți trebuie aia?
-Atăt de gamer ești?
+Atât de gamer ești?

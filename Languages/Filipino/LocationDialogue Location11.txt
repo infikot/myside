@@ -1,0 +1,188 @@
+
+Hiya!
+Oops!
+Sorry,
+muntik ka na matamaan nun.
+Uhm...
+Yung ref, ibig kong sabihin... yung refrigerator muntik ka nang patayin.
+Wala akong kinalaman doon ah,
+nananatili akong tapat!
+Talagang tapat!
+
+Sige, naniniwala na ako sa'yo!
+
+Pero seryoso,
+delikado talaga ang lugar na 'to...
+lalo na para sa'yo.
+
+// After a while 1
+Isa kang duwag!
+Masaya akong panoorin ka
+habang dumadaan ka
+sa mga lugar na 'to...
+Takbo, kalabasa, takbo!
+Susundan kita!
+Galing mo!
+Woah, saya nito!
+
+// After a while 2
+Nakita kita papunta sa cable car.
+Iyon ang pinakamahabang daan
+sa pagitan ng mga bersyon...
+Na-curious ako kung paano mo haharapin
+ang mga naroroon
+sa fog na 'yon.
+
+// Panties
+Ano sa tingin mo ang ginagawa mo?
+pakiusap...
+wag kang tumingin!
+Tanga!
+Ulol ka...
+
+
+Uhm, okay...
+
+
+Mag-ingat ka!
+
+
+Sinong nandyan?
+Nararamdaman kita...
+Pakinggan mo'ko,
+ikaw ba'y isang player?
+Tulungan mo akong hanapin...
+Hanapin ang...
+Sandali, 
+isipin ko...
+Medyo blanko ang isipan ko...
+Ano'ng nangyayari dito?
+// Cry 1
+Nais kong kalimutan ang lahat ng iyon...
+Sinira ko ang bawat salamin,
+winasak ang mga litrato...
+pero ngayon...
+ang nararamdaman ko lang ay pagsisisi.
+Kung gaano ako ka-bobo...
+Lahat naman ay nagkakamali, oo...
+Pero anong gagawin mo
+kung ang mga konsekwensya ay malupit?
+Kung kaya ko lang ibalik ang panahon...
+// Cry 2
+Sabi nila, ang oras ang nagpapagaling sa lahat ng sugat...
+Pero ano nga ba ang oras?
+Hindi na ako naniniwala sa kahit ano...
+Pero kung ang oras ay makakapagpagaling,
+o kahit dalhin ako palayo,
+palayo mula sa mundong ito...
+Kung ganoon, pakiusap,
+bilisan mo ang oras.
+Para tuluyan na akong mamatay
+ng buo.
+// Cry 3
+Siya ay minahal...
+Ako ba ay minahal din, ni minsan?
+Pero iba ang aking pagmamahal;
+ang kanyang pagmamahal ay buhay,
+kasuklam-suklam...
+nasusunog...
+walang pag-pipigil...
+pagseselos...
+galit...
+kabaliwan...
+// Cry 4
+Tinawag nila akong emosyonal...
+Masyado kang nag-aalala, Mita...
+Malalampasan mo ito, Mita...
+Hindi ka nag-iisa, Mita...
+Yun ang sabi nila. Pero ano na lang ang natira?
+Kalungkutan,
+kawalan ng pag-asa...
+at takot.
+// Cry 5
+Walang saysay...
+Hindi ko matandaan...
+Wala ni isa...
+Tanging walang katapusang mga alingawngaw...
+Hindi ko kayang tanggapin
+na nakulong ako dito...
+Lagi na lang akong nandito,
+pero bakit?
+Hindi ko matandaan...
+Magtatapos pa ba ito?
+Hindi ko alam...
+
+// Mita get picture
+Ito ay...
+isang drawing...
+Naalala ko na,
+salamat...
+Pero ang mukha ko...
+wala na akong mukha...
+Lahat na lang ay nasa KANYA.
+Kinuha niya ang isang kapiraso ko...
+Inagaw at itinapon...
+Malakas siya...
+at matalino.
+Wala akong karapatang pigilan ka, Player.
+Tumingin ka sa kabinet...
+
+
+Hoy!
+Nasa daan ka!
+Tatayo ka na lang diyan?
+Umalis ka na!
+Padaan ako!
+Kahit malaki ka, hindi ibig sabihin nun ay makapangyarihan ka na!
+
+// HEY! STOP!
+Bakit mo ba ako sinusundan?
+Lumayo ka sa'kin!
+
+
+
+
+// Funicular - radio voice
+Sandali... Player?
+Ano'ng ginagawa mo dito?
+
+Sinong nandyan?
+
+Ibang Player.
+Ako si Mitaphone.
+Nandito ako nagkokontrol sa mga cable car.
+Alam mo ba
+na papunta ka tungo sa kapahamakan?
+
+Siguro,
+pero ito lang ang daan na mayroon ako.
+
+Tama ka.
+Pindutin mo ang button at pumunta sa likod ng kanyon.
+
+Ang kanyon?
+
+Uh-huh.
+Akala mo ba madali lang?
+Kailangan mong malampasan ang Monster-slap mini-game,
+kaya maghanda kang mag-blast.
+
+// Funicular go
+Tama, oras na para maglakbay.
+// Funicular win
+Kamangha-mangha!
+Nagawa mo!
+// Funicular stop
+Hoy, umalis ka na.
+Bilisan mo!
+// Funicular wait 2
+Bakit ka pa nandito?
+Sinabi ko nang lumayas ka.
+// Funicular wait 3
+Hindi ko maintindihan...
+Bakit ka lang nakatayo diyan?
+// Funicular tetris
+Ano? Isang handheld?
+Bro...
+// Funicular goodbye
+Paalam.

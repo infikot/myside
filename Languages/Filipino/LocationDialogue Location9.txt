@@ -1,0 +1,87 @@
+
+Hoy, ikaw!
+Hi!
+Gusto mong makaalis?
+Kailangan mo akong tulungang hanapin ang susi!
+// Key Search
+Hala! Wala pang susi dito!
+Wala dito—
+zero, wala, wala!
+Nakita ko na!
+
+// The usual conversation
+Huh, akala ko mas magiging pandak ka pa dyan!
+Matangkad ka—
+parang si ate!
+
+Ang ate mo? Anong tungkol sa kanya?
+
+Oo, ang ate ko.
+Huwag mong sabihin na hindi mo pa siya nakikita!
+
+Uh... nakilala ko siya... siguro?
+
+Bobo ka ba?
+
+Erm...
+
+Tanga ka talaga...
+Sige na, tulungan mo na akong hanapin ang susi!
+
+// Next work
+Halika.
+Ilagay mo ang bakal sa tubo!
+Salamat!
+Ngayon, kunin mo ang kahoy!
+Salamat!
+Kailangan ko pa ng tulong, please!
+Tapos na! Ngayon...
+Wow, ang ganda.
+Pindutin mo, tara!
+Maghanda...
+Ayan, kunin mo na!
+Sayo na yan!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+Ako si ChibiMita.fbx!
+Maraming linya,
+pinakasimpleng modelo, at—
+ang may pinaka-magandang buhok!
+
+// Quest 2 (Have we seen each other yet?)
+Bobo!
+Medyo cute ka, alam mo ba yun,
+nagtatanong ng mga kalokohang ganun.
+Pero,
+ito ang unang pagkakataon ko na makikilala ka!
+Pero pakinggan mo...
+Kung nanakawin mo ang aking kamangha-manghang itsura,
+pagsisisihan mo yan!
+
+// Quest 3 (Why are you here?)
+Hindi mo ba gets?
+Ito ay isang checkpoint—
+isang pagsubok ng iyong talino!
+Sige na!
+Nandito ako para gabayan ang mga nawawala!
+
+// Quest 4 (Why are you helping me?)
+Anong nagpa-special sayo?
+Bakit hindi kita tutulungan kahit na?
+
+Ano?
+
+Ang tanga mo...
+Bigla ka na lang dumating!
+Hindi ka dapat nandito,
+kaya tutulungan kita!
+
+Paalam, tanga!

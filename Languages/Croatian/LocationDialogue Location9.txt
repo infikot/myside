@@ -1,0 +1,87 @@
+
+Hej, ti!
+Bok!
+Želiš izaći?
+Onda mi pomozi pronaći ključ!
+// Key Search
+Kvragu! Nema ključa ovdje!
+Ništa ovdje-
+Nula, ništa, nada!
+Našla sam!
+
+// The usual conversation
+Huh, mislila sam da ćeš biti niži!
+Ti si visok-
+baš kao moja sestra!
+
+Tvoja sestra? Što s njom?
+
+Da, moja sestra.
+Nemoj mi reći da je nikad nisi upoznao!
+
+Uh... Upoznao sam je... Ja mislim?
+
+Jesi li ti budala?
+
+Ovaj...
+
+Izgleda da jesi...
+Hajde, pomozi mi više da pronađem ključ!
+
+// Next work
+Dođi.
+Stavi željezo u cijev!
+Hvala!
+Sad mi donesi to drvo!
+Hvala!
+Još malo pomoći, molim!
+Gotovo! Sada...
+vau, to je prekrasno.
+Stisni, hajde!
+Pripremi se...
+eto, uzmi!
+Ključ je tvoj!
+
+
+
+
+
+
+
+
+
+// Quest 1 (Are you Mita?)
+Ja sam ChibiMita.fbx!
+Tone linija,
+najjednostavniji modeli, i—
+najbolje od svega-prekrasna kosa!
+
+// Quest 2 (Have we seen each other yet?)
+Glupko!
+Malo si sladak, znaš,
+postavljajući takva smiješna pitanja.
+Ipak,
+ovo je moj prvi put da te upoznajem!
+Ali slušaj...
+Ako ukradeš moj divni izgled,
+natjerat ću te da to požališ!
+
+// Quest 3 (Why are you here?)
+Zar ne shvaćaš?
+Ovo je kontrolna točka—
+test tvoje pameti!
+Hajde sada!
+Ovdje sam da vodim beznadno izgubljene!
+
+// Quest 4 (Why are you helping me?)
+Što tebe čini tako posebnim?
+Zašto ti ne bi pomogla?
+
+Što?
+
+Tako glupo...
+Upravo si se pojavio niotkuda!
+Ne bi trebao biti ovdje,
+dakle, pomažem ti!
+
+Zbogom, glupko!

@@ -15,7 +15,7 @@ Pat
 Televizor
 Scaun
 
-Zi
+Ziua
 
 Înapoi
 Ai cumpărat
@@ -47,7 +47,7 @@ ZIUA [0]
 
 
 
-Tutorial: Ai vrea să te învăt lucrurile de bază?
+Tutorial: Ai vrea să te învăț lucrurile de bază?
 Uită-te în jur.
 Mișcă-te.
 Interacționează.

@@ -1,0 +1,9 @@
+// Player start
+我在哪裡？
+好熟悉的地方
+我這是在遊戲裡嗎？
+// Player try open the door
+是關著的？
+// Player in dark
+這裡好黑。
+甚麼也看不見。

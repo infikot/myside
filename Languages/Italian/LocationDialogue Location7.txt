@@ -15,7 +15,7 @@ Comunque, vieni qui...
 Congratulazioni, hai vinto!
 Ci ho giocato anch'io!
 Ho anche cercato di raccogliere tutte le monete e di ottenere il 1° posto
-per ottenere il risultato!
+per ottenere il trofeo!
 E caspita, è stato davvero difficile!
 Mi ci è voluta una vita per abituarmi ai comandi.
 
@@ -53,7 +53,7 @@ sono uscita da quella dannata gabbia,
 e sono scappata da quella pazza.
 E per tua informazione,
 posso passare facilmente da una versione all'altra,
-a differenza di te, mia caro.
+a differenza di te, mio caro.
 
 // Quest 5 (What did you do with the ring?)
 Ho cambiato il percorso
@@ -67,7 +67,7 @@ tra le versioni.
 // Quest 6 (Are the passages dangerous?)
 Ho visto ogni sorta di cose strane
 da quando sono arrivata
-nel suo gioco...
+in questo gioco...
 Qui tutto sembra tranquillo,
 ma i passaggi sembrano...
 tutt'altro che sicuri.
@@ -92,7 +92,7 @@ E forse altre Mita ostili.
 Altre pazze, non adatte?
 
 Ne conosco almeno una...
-La Mita brutta.
+La Mita Deforme.
 E tanto perché tu lo sappia, non sono stata io a darle il nome!
 È solo che...
 è una versione molto precoce di Mita.
@@ -107,11 +107,11 @@ Ma in ogni caso,
 sei riuscito ad arrivare qui, vero?
 E poi,
 che altro puoi fare
-se non affidarti a me, la gentile Mita!
-Non è vero che...
+se non affidarti a me, la Mita Gentile!
+Questo è vero...
 
 // Quest 8 (You were talking about some kind of plan...)
-Quindi, dobbiamo raggiungere il Nucleo.
+Giusto, dobbiamo raggiungere il Nucleo.
 La mia intuizione mi dice che è lì che troveremo
 la soluzione a tutti i nostri problemi.
 
@@ -128,12 +128,12 @@ Si', certo.
 Bene...
 Bene...
 È giunto il momento di presentarti
-a Cool Mita!
+a Mita Tosta!
 Visto che ha un berretto figo,
 la chiamo semplicemente
 Cappie.
-Con lei ho discusso il piano,
-il piano per fermare Crazy Mita.
+Ho discusso con lei il piano,
+per fermare Mita Folle.
 Questo è [player]!
 
 
@@ -152,17 +152,17 @@ Chi diavolo sei?
 Che sia maledetto tutto!
 [player]...
 Credo che lei sia stata qui,
-Crazy Mita...
+Mita Folle...
 Ascolta!
 Cerca di ricordare, per il bene di tutti noi!
 
 Ricordare cosa?
-Pensa. Penso che ci assomigliamo?
+E dimmi, perchè ci assomigliamo?
 
 Questo non sembra essere d'aiuto...
 Ascolta, [player],
 le cose non stanno esattamente
- andando secondo i piani...!
+andando secondo i piani...!
 Dovevamo usare il portale
 per rendere il nostro viaggio un milione di volte più facile e veloce.
 Ma non riusciremo a farlo funzionare senza l'aiuto di Cappie.
@@ -170,14 +170,14 @@ E ci mancano alcuni pezzi...
 Sarà anche puntigliosa, ma la sua mente lavora velocemente...
 Bene, allora cosa facciamo?
 Mi inventerò qualcosa.
-Cosa le ha fatto Crazy Mita?
+Cosa le ha fatto la Mita Folle?
 
 Io... credo...
 l'abbia uccisa.
 L'ha uccisa?!
 
 Ed essendo morta...
-Cool Mita si riavvia semplicemente.
+Mita Tosta si è semplicemente riavviata.
 Ripristinando le impostazioni di fabbrica
 e dimenticando tutto ciò che è importante.
 Il che significa...
@@ -214,7 +214,7 @@ Aspetta un attimo...
 Sì, credo di avere un'idea!
 Dammi l'anello!
 
-Si'...
+Sì...
 Devo cambiare il percorso.
 
 Hai in mente un percorso?
@@ -229,7 +229,7 @@ Ma non conosco la strada, e nemmeno come arrivarci
 
 Ti aiuterò per quanto possibile,
 per quanto la situazione lo consenta.
-Ti darò indicazioni e..,
+Ti darò indicazioni e,
 farò del mio meglio.
 E poi parleremo...
 Prima gioca un po' con Cappie.
@@ -253,7 +253,7 @@ e dove sono i pezzi...
 Cercherò di trovarli.
 Forse possiamo ancora mettere insieme il portale.
 Ma il tempo è fondamentale.
-Crazy Mita sa di questo posto,
+Mita Folle sa di questo posto,
 e restare qui significa rischiare tutto.
 Buona fortuna, [player]! Ci vediamo presto!
 
@@ -318,8 +318,8 @@ Sono Mita!
 Ma ovviamente non sono la stessa di quell'altra!
 Sai cosa intendo, vero?
 Perché ho questo
-QUI
-figo!
+BERRETTO FIGO
+proprio qui!
 E BOOOM!
 Guanti fantastici!
 Ma non è tutto!
@@ -329,10 +329,10 @@ Vuoi che ti suoni una canzone?
 
 // MitaCap Guitar Yes
 Hah!
-Vieni qui, mio caro...
+Vieni qui, mia cara...
 Va bene!
-Beh, sinceramente spero che suoni meglio di così.
-Oh, bene!
+Beh, sinceramente avrei potuto suonare qualcosa di più divertente.
+Pazienza!
 // MitaCap Guitar No
 Va bene.
 
@@ -356,7 +356,7 @@ Contieniti, ci arriveremo.
 Se c'è abbastanza tempo, ovviamente.
 Ora, siediti!
 // Player sit
-Giusto.
+Va bene.
 E adesso?
 Posso premere il pulsante?
 
@@ -398,7 +398,7 @@ Se sei troppo lento,
 o lo premi a sproposito,
 ti colpirò in testa con un martello!
 
-Aspetta, vuoi colpirmi?
+Aspetta, mi colpirai in testa?
 
 Comunque,
 capirai quando inizieremo a giocare!
@@ -407,13 +407,13 @@ capirai quando inizieremo a giocare!
 Ahi!
 Non riesci a trattenerti?
 Ti ha fatto male?
-No. Allora continuiamo!
+No.
 Allora continuiamo!
 
 // Kick player 2
 Ok..,
 Mi sto abituando.
-Guarda me!
+Guardami!
 Ti piacerà!
 
 // Kick player 3
@@ -426,7 +426,7 @@ E sono carina!
 // Kick MitaCap 1
 Oh, tu!
 Ok,
-ti prendo a calci in culo!
+ti prenderò a calci in culo!
 
 // Kick MitaCap 2
 Gah, ho perso di nuovo!
@@ -485,7 +485,7 @@ in pista!
 
 // MitaCap = Lose 1
 Ha-ha!
-Chi è il capo?
+Chi è il migliore?
 
 // MitaCap = Lose 2
 Pew!
@@ -493,7 +493,7 @@ Tre bottoni,
 e le mie mani veloci!
 
 // MitaCap = Lose 3
-Forse stando seduti con il culo
+Forse sederti
 su quei pulsanti
 ti farà ottenere un punteggio più alto. Ha-ha!
 
@@ -509,13 +509,13 @@ Ottimo lavoro! Bello!
 
 // MitaCap = Win 3
 Bam!
-Si sente il ritmo!
-Un ballerino nato!
+Senti il ritmo!
+Sei un ballerino nato!
 
 // MitaCap = Draw 1
 Tu!
 Io!
-Noi siamo la squadra!
+Noi siamo una squadra!
 
 // MitaCap = Draw 2
 I fili del destino ci legano!
@@ -557,7 +557,7 @@ Ce ne sono, um... così tanti.
 Per cosa?
 
 Secondo te?
-Si tratta di fare cose incredibili!
+Per fare cose incredibili!
 Come...
 Tagliare le carote,
 e come
@@ -572,7 +572,7 @@ E questo è tutto ciò che ha scritto!
 
 // Books
 Li rileggi tutti, eh?
-Perché ti annoi?
+È perché ti annoi?
 
 Non mi piacciono i libri!
 Mi piace fare le cose!
@@ -584,10 +584,10 @@ Boom: movimento, abilità motorie, tatto, capisci?
 I libri sono solo carta, a me piace vivere il momento!
 Se solo tu restassi qui con me..,
 potremmo fare tanto, tantissimo!
-Sono sicura che potremmo...
+Sono sicuro che potremmo...
 
 // Fruits
-Ma la frutta è vera?
+La frutta è vera?
 Hanno un aspetto fantastico.
 Vanno mai a male?
 
@@ -599,7 +599,7 @@ E poi riappaiono...
 // Photo and cat
 Che bel gattino.
 
-È gustosa?
+È gustosa vero?
 
 Aspetta, cosa?
 Non si mangiano i gatti.
@@ -628,7 +628,7 @@ Per me, invece, sto trasferendo dati.
 
 Ci vorrà molto?
 
-Silenzio! Non mi disturbare
+Silenzio! Non disturbarmi
 e sarà molto più veloce.
 
 Giusto,
@@ -657,7 +657,7 @@ Temo di no.
 Sono in ritardo... super in ritardo!
 E ho mangiato troppo...
 Gah, ancora lavoro?
-Qual è l'appuntamento di domani?
+Che giorno è domani?
 Dov'è il computer?
 Mi cacceranno se non finisco in tempo!
 Ho salvato tutto?
@@ -669,9 +669,9 @@ Devo lavorare di più...
 Non riesco a fare nulla!
 Dov'è il mio telefono?
 Uhm...
-cosa è successo ieri?
+Cosa è successo ieri?
 Oggi non c'è fine!
-Pronto?
+Salve?
 Hai un letto libero?
 Cosa dovrei fare?
 Non riuscirò a finire in tempo...
@@ -681,7 +681,7 @@ Un riposo di 20 minuti dovrebbe andare bene...
 Dormire è da perdenti!
 È ora di lavarsi e mettersi al lavoro!
 Ho fame!
-Questo è male, molto male.
+Non va bene, per niente.
 
 // Player is gone 1
 Ehm...
@@ -703,8 +703,8 @@ Cosa c'è?
 
 Te ne vai di nuovo?
 
-Va bene, va bene, va bene.
-Bene, ti perdono.
+Va bene.
+Ti perdono.
 
 [player], torna da noi!
 
@@ -729,7 +729,7 @@ Non riesco a capirlo!
 
 // quest Cap 2
 Che effetto fa vedere una
- copia esatta di te stessa?
+copia esatta di te stessa?
 Sai, quella con l'anello.
 
 Si, stavo per urlarle contro.
@@ -744,7 +744,7 @@ Posso sentire tutto quello che dici.
 
 // quest Cap 3
 Non ti stanca indossare quel berretto?
-E quei guanti non ti scaldano?
+E quei guanti non ti scaldano troppo?
 Perché non li togli?
 
 Ehm...
@@ -763,7 +763,7 @@ Ha-ha-ha!
 // DoorExit
 Aspetta, aspetta!
 È meglio che non vedi cosa c'è lì dentro...
-E' un segreto :).
+È un segreto :)
 
 Cosa c'è lì dentro?
 
@@ -787,7 +787,7 @@ Si raccolgono solo monete,
 ed evitare le rane.
 
 Gah, sembra davvero noioso.
-Sul serio, lo chiamate gioco?
+Sul serio, quello lo chiami un gioco?
 
 // Tetris again
 Dove l'hai preso?

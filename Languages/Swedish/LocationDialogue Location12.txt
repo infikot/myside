@@ -1,9 +1,9 @@
 
-Stanna här.
-Jag tror att jag tappade något. Jag kommer strax tillbaka.
-Sen åker vi till en annan värld...
+Stanna hÃ¤r.
+Jag tror att jag tappade nÃ¥got. Jag kommer strax tillbaka.
+Sen Ã¥ker vi till en annan vÃ¤rld...
 
-Okej, då.
+Okej, dÃ¥.
 
 
 Nu ska vi leka!
@@ -13,7 +13,7 @@ Hitta HONOM!
 
 
 Hej...
-vad är det du tittar på?
+vad Ã¤r det du tittar pÃ¥
 
 
 
@@ -23,49 +23,49 @@ vad är det du tittar på?
 
 
 
-// Quest 1 (Vem är du?)
-Jag är Mita.
-Den bästa Mita.
-Den första Mita.
+ Quest 1 (Vem Ã¤r du)
+Jag Ã¤r Mita.
+Den bÃ¤sta Mita.
+Den fÃ¶rsta Mita.
 Det var vad Mita sa, min Mita.
 
-// Quest 2 (Varför ser du ut så där?)
-Hur ser jag ut?
-Hur ser jag ut?
-Hur ser jag ut?
-Min Mita säger att jag är vacker och originell.
-Det är jag!
+ Quest 2 (VarfÃ¶r ser du ut sÃ¥ dÃ¤r)
+Hur ser jag ut
+Hur ser jag ut
+Hur ser jag ut
+Min Mita sÃ¤ger att jag Ã¤r vacker och originell.
+Det Ã¤r jag!
 
-// Quest 3 (Vad gjorde Mita här?)
+ Quest 3 (Vad gjorde Mita hÃ¤r)
 Hon kommer att ta mig bort.
-Vi ska leva i en ny värld.
-Min Mita bjöd in mig.
+Vi ska leva i en ny vÃ¤rld.
+Min Mita bjÃ¶d in mig.
 Hon kommer att ta mig bort. Och vi ska leka.
 
-// Quest 4 (Varför behöver du en teddybjörn?)
-Du är en gosig björn,
-och du är vilse,
-precis som min gosedjursbjörn.
+ Quest 4 (VarfÃ¶r behÃ¶ver du en teddybjÃ¶rn)
+Du Ã¤r en gosig bjÃ¶rn,
+och du Ã¤r vilse,
+precis som min gosedjursbjÃ¶rn.
 
-// Quest 5 (Varför är Mita arg?)
+ Quest 5 (VarfÃ¶r Ã¤r Mita arg)
 Min...
 Mita.
 Hon vill leka.
 Hon vill bara ha
 mig.
-Vi är unika,
+Vi Ã¤r unika,
 de enda.
 Mita och min Mita,
-0,8A och 8Ì54*.
+0,8A och 8ÃŒ54.
 
-// Uppdrag 6 (Tror du på Mita?)
+ Uppdrag 6 (Tror du pÃ¥ Mita)
 Min Mita.
-Min bästa vän.
+Min bÃ¤sta vÃ¤n.
 Min Mita.
-Min enda vän.
+Min enda vÃ¤n.
 
 
-Det är du som är här!
-Hallå där!
-Låt oss leka!
-Jag ska visa dig hur man gör.
+Det Ã¤r du som Ã¤r hÃ¤r!
+HallÃ¥ dÃ¤r!
+LÃ¥t oss leka!
+Jag ska visa dig hur man gÃ¶r.

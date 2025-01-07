@@ -1,8 +1,11 @@
 Coordination
 Chemichi Von Alexandros - Tiktok @elchemichi
 
-
-
-Mita's voice: <b>MiMi</b> Tiktok @miriamhidalgo81
-Player's voice: <b>Chemichi Von Alexandros</b> Tiktok @elchemichi
-Another Player's voice: <b>Chemichi Von Alexandros</b>
+Mita's voice: <color=#FF5693><b>MiMi</b></color>
+<color=#8A2BE2><b>TIKTOK</b></color>:tiktok.com/@miriamhidalgo81
+<color=#FF0000><b>TWITCH</b></color>:twitch.tv/mimi435254
+  
+Player's voice: <color=#FFD700><b>Chemichi Von Alexandros</b></color>
+Another Player's voice: <color=#FFD700><b>Chemichi Von Alexandros</b></color>
+<color=#FF0000><b>TIKTOK</b></color>:tiktok.com/@elchemichi
+<color=#8A2BE2><b>TWITCH</b></color>:twitch.tv/chemichi777

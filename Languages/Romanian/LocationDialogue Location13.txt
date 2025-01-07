@@ -78,7 +78,7 @@ M-a tras în jocul ei periculos,
 Părerea mea
 este că își caută un jucător potrivit...
 Unul care să o accepte așa cum e.
-Pâna la urmă, Mita e Mita!
+Până la urmă, Mita e Mita!
 Deoarece este evident că acest lucru nu se va întâmpla niciodată,
 îi transformă pe jucători în cartușe,
 astfel încât nimeni să nu poată fugi...
@@ -89,15 +89,15 @@ Cel puțin asta cred eu.
 Ăsta este?
 Nucleul?
 
-Întradevăr. Nucleul.
+Într-adevăr. Nucleul.
 Am încercat să vă explic,
 voi jucătorii nu sunteți cu adevărat parte din lumea aceasta...
-Însemnănd, că nu aveți nevoie de o permisiune specială ca să intrați.
+Însemnând, că nu aveți nevoie de o permisiune specială ca să intrați.
 Sau, cel puțin, asta cred eu.
 Oricum, sunt mai mult ca sigură
 că soluția tuturor problemelor noastre
 se găsește înăuntru!
-[player], du-te înauntru.
+[player], du-te înăuntru.
 Chiar ai reușit...
 
 // Look on CoreMita
@@ -114,7 +114,7 @@ Fain...
 Ce e aia?
 Hei!
 
-Cred că am găsito!
+Cred că am găsit-o!
 
 Genial! Bravo!
 
@@ -160,7 +160,7 @@ Ce faci?
 Unele obstacole se erodează odată cu informația,
 știi tu, ca și cum lumea ar avea mațele smulse!
 Jurnale, jurnale, jurnale, date?
-Dar dacă ăsta e răaspunsul?
+Dar dacă ăsta e răspunsul?
 
 Huh? Care e problema?
 
@@ -177,9 +177,9 @@ Ce-ar fi dacă...
 o omorâm pe Mita cea Nebună?
 Vorbești serios?
 Și cum te vei confrunta cu o nebună cu drujba?
-Ea taie morcovi cu mai mult decăt cuțite!
-Și pentru nu știu ce motiv, e înspăimăntător de puternică!
-E un miracol că incă suntem în viață...
+Ea taie morcovi cu mai mult decât cuțite!
+Și pentru nu știu ce motiv, e înspăimântător de puternică!
+E un miracol că încă suntem în viață...
 Haide, trebuie să ajungem la nucleu.
 
 
@@ -203,13 +203,13 @@ Oops, greșeala mea.
 Nu e aia.
 O să am nevoie de încă una.
 // core console - nope index
-Ceva e înneregulă
+Ceva e în neregulă
 cu indexul.
 Trebuie să schimb indexul,
 nu se potrivește.
 
 // Answer 4 (Little people - Chibi)
-Ascultă, am întălnit o grămadă de
+Ascultă, am întâlnit o grămadă de
 mini-oamenii pe drum...
 Ce sunt aceia?
 
@@ -226,7 +226,7 @@ Uită-te la asta!
 
 Exact ca prin magie...
 
-Dar ceva e înneregulă cu Chibi-urile mele,
+Dar ceva e în neregulă cu Chibi-urile mele,
 majoritatea se nasc moarte.
 E asta totuși...
 Sau bine,

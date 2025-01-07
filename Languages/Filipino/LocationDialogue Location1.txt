@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+Hi, ako si Mita!
+Ano ang pangalan mo?
+Ikinagagalak kitang makilala, [player]!
+Um... [player],
+Nagmamadali akong umalis kanina, at ngayon marami akong naiwang kalat dito...
+Maari mo ba akong tulungan magayos dito?
+Woah...
+Maraming salamat po!
+
+[player], kumukulog tiyan ko...
+Gutom na gutom na ako...
+Sa tingin mo ba, matutulungan mo akong kumuha ng mga sangkap para sa Chicken Soup?
+Yay! Nakuha mo ang lahat ng kailangan!
+Samahan mo kaya ako magluto?
+
+
+Naisipan kong bumili ng portable TV ngayon—
+yung maliit na may antenna. Tamang-tama para sa gala, hindi ba?
+Ngayon naman, pwede kang maglaro para kumita ng pera.
+Ah! Alam mo bang pwede ka talagang maglaro para kumita ng pera?
+
+Yay! Nagawa mo! Mayroon kang sapat na pera para mabili yung Portable TV!
+Yan! Maliit, portable, at mura ang gusto ko.
+Salamat po!
+
+Kumusta, [player]! Napakalaking tulong ang nagawa mo sa akin, sa totoo lang.
+Pero, eh... yung TV? Ang astig pati lahat, pero nasira na.
+Anyway, pwede mo ba akong tulungang ilipat ang aparador na ito?
+Sobrang bigat... >.<
+Maraming salamat, mahal! <3
+
+Oh, [player]! Isang araw pa lang ang lumilipas, pero namimiss na kita nang kay sobra!
+Sana naman mabisita mo ako palagi.
+
+Para sa akin ba ito?
+Maraming salamat talaga!
+
+Kumusta, [player]! Napaisip ako...
+Sana magkita tayo sa personal.
+Kaso di ko kaya, nakaka-frustrate naman.
+Lagi mo akong tinutulungan, at palagi ka mabait sakin araw-araw...
+Sana may magawa din ako para sa'yo.
+...
+Ah, may ideya ako!
+Ngayon, magkasama na tayo.
+Ibaba mo na selpon mo.
+
+
+// T-shirt sa kama
+Anong ginagawa mo dito sa kama?
+// Rubik's Cube
+Well, hindi ko masasabing nagamit ko na ito...
+Binuo ko ng isang beses at hindi ko na hinawakan pa.
+Siguro hindi ko na mabubuo yan kapag ginamit ko pa ulit?
+// Kompyuter
+Tignan natin...
+Mag-set up ng listahan ng mga gawain...
+I-script ang character reactions,
+at siguro konting coding.
+// Ang eroplano
+Binuo para pumailanglang!
+// Basura sa sulok
+Ugh, masyado akong abala para maglabas ng basura...
+Maaasikaso ko ito ngayon, sigurado!
+…Ngayon, kailan kaya ako maglilinis?
+// Larawan ng isang pusa na nakahiga sa isang pakwan
+Napakagaling niya…
+Isang pusa na nakahiga sa pakwan.
+// Larawan kasama ang isang babae
+Hindi kami magkamukha,
+ng kapatid ko.
+Lagi siyang gumagala sa labas,
+At ako naman ay palaging nandito sa bahay.
+// Larawan kasama ang mga tao
+Hmm...
+Talagang naitanim nito sa atin ang buhay opisina
+yung mga asal at galaw, ano?
+Parang hindi ko pa rin maiwasang maikabit ang sarili ko 
+Pero
+makikita ko pa ba sila
+ulit?
+…Teka, bakit ko nga pala nilagay to dito?
+
+
+
+
+
+
+
+
+// Nope name
+...
+Ay, hindi.
+Naku, hindi gagana yan.
+
+// Name Developer
+Sigurado ka bang gusto mong gamitin ang pangalan ng isang developer?
+Kinikilig ako, pero...
+
+// Bad name
+Mas gugustuhin ko na hindi mo tawagin sarili mo ng ganyan.
+Hindi maangas yan.
+
+// Go restart
+Hindi, hindi iyon ang paraan upang gawin ito. Magsimula tayo ulit.
+
+// Name with numbers
+Oh, so pupunta ka sa mga numero? Nasaan ang pagkamalikhain diyan?
+Oh well, ikaw ang pumili!
+
+// Name Mita
+Mita?
+Pinangalanan mo ba talaga ang sarili mo sa akin?
+O... yan din ba ang pangalan mo?
+No offense, pero sa tingin ko dapat ako lang ang Mita dito ♪
+
+// Ika-10 araw
+Oh, bumalik ka!
+Hays, nawala yung suklay ko...
+Maaari mo ba akong tulungang mahanap ito?
+Subukan mo munang tingnan ang bedside table, naiwan ko yata doon.
+// Tumingin sa bedside table
+Hmm, walang brush doon...
+Paano kaya kung sa ibang lugar?
+Huwag ka na lang tumingin sa oven, okay?
+chineck ko na yun.
+// Tumingin sa kalan
+Hoy! Sabi ko wag kang tumingin dyan eh!
+Lumingon ka lilinisin ko'to!
+...Ayan, tapos na ang lahat. Patuloy tayong maghanap sa ibang lugar.
+Oh, at, uh, kalimutan mo ang nakita mo, okay?
+// Nakakita ng suklay
+Nahanap mo rin! Magaling!
+Kaya, ano ang susunod nating gagawin?

@@ -4,7 +4,7 @@ Lasă.
 Ești Mita?
 Dacă vreau să mă întorc?
 Cum am ajuns in joc?
-// Misiune "Mănăncă în bucătărie"
+// Misiune "Mănâncă în bucătărie"
 Casa ta este atât de confortabilă.
 Când pot merge acasă?
 Se simte de parcă sunt într-un vis…
@@ -12,5 +12,5 @@ De ce sunt toate geamurile doar lumină albă?
 De ce să folosești o foarfecă când puteai folosi un cuțit?
 Bon appétit!
 // TV
-Suc jmecher!
+Suc șmecher!
 Puternic SUC!!!

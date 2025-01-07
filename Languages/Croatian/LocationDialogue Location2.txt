@@ -1,0 +1,9 @@
+// Player start
+Gdje sam?
+Ovo mjesto izgleda poznato.
+Čekaj... Ja sam u igri?
+// Player try open the door
+Zaključano?
+// Player in dark
+Ovdje je mračno.
+Ništa ne vidim.
